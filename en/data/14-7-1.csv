@@ -1,155 +1,155 @@
-Year,Units,Регионы,GeoCode,Value
-2010,процент,,,0.05
-2011,процент,,,0.05
-2012,процент,,,0.05
-2013,процент,,,0.2
-2014,процент,,,0.2
-2015,процент,,,0.2
-2016,процент,,,0.18
-2017,процент,,,0.2
-2018,процент,,,0.19
-2010,процент,Акмолинская,KZ03,0.1
-2011,процент,Акмолинская,KZ03,0.0
-2012,процент,Акмолинская,KZ03,0.0
-2013,процент,Акмолинская,KZ03,0.2
-2014,процент,Акмолинская,KZ03,0.2
-2015,процент,Акмолинская,KZ03,0.2
-2016,процент,Акмолинская,KZ03,0.1
-2017,процент,Акмолинская,KZ03,0.1
-2018,процент,Акмолинская,KZ03,0.1
-2010,процент,Актюбинская,KZ04,0.0
-2011,процент,Актюбинская,KZ04,0.0
-2012,процент,Актюбинская,KZ04,0.0
-2013,процент,Актюбинская,KZ04,0.0
-2014,процент,Актюбинская,KZ04,0.0
-2015,процент,Актюбинская,KZ04,0.0
-2016,процент,Актюбинская,KZ04,0.0
-2017,процент,Актюбинская,KZ04,0.1
-2018,процент,Актюбинская,KZ04,0.1
-2010,процент,Алматинская,KZ01,0.2
-2011,процент,Алматинская,KZ01,0.3
-2012,процент,Алматинская,KZ01,0.2
-2013,процент,Алматинская,KZ01,0.8
-2014,процент,Алматинская,KZ01,0.5
-2015,процент,Алматинская,KZ01,0.5
-2016,процент,Алматинская,KZ01,0.5
-2017,процент,Алматинская,KZ01,0.5
-2018,процент,Алматинская,KZ01,0.6
-2010,процент,Атырауская,KZ06,0.1
-2011,процент,Атырауская,KZ06,0.1
-2012,процент,Атырауская,KZ06,0.1
-2013,процент,Атырауская,KZ06,0.5
-2014,процент,Атырауская,KZ06,0.4
-2015,процент,Атырауская,KZ06,0.4
-2016,процент,Атырауская,KZ06,0.3
-2017,процент,Атырауская,KZ06,0.3
-2018,процент,Атырауская,KZ06,0.2
-2010,процент,Западно-Казахстанская,KZ07,0.0
-2011,процент,Западно-Казахстанская,KZ07,0.0
-2012,процент,Западно-Казахстанская,KZ07,0.0
-2013,процент,Западно-Казахстанская,KZ07,0.0
-2014,процент,Западно-Казахстанская,KZ07,0.0
-2015,процент,Западно-Казахстанская,KZ07,0.0
-2016,процент,Западно-Казахстанская,KZ07,0.0
-2017,процент,Западно-Казахстанская,KZ07,0.0
-2018,процент,Западно-Казахстанская,KZ07,0.0
-2010,процент,Жамбылская,KZ17,0.0
-2011,процент,Жамбылская,KZ17,0.1
-2012,процент,Жамбылская,KZ17,0.1
-2013,процент,Жамбылская,KZ17,0.2
-2014,процент,Жамбылская,KZ17,0.3
-2015,процент,Жамбылская,KZ17,0.5
-2016,процент,Жамбылская,KZ17,0.5
-2017,процент,Жамбылская,KZ17,0.3
-2018,процент,Жамбылская,KZ17,0.4
-2010,процент,Карагандинская,KZ12,0.0
-2011,процент,Карагандинская,KZ12,0.1
-2012,процент,Карагандинская,KZ12,0.0
-2013,процент,Карагандинская,KZ12,0.1
-2014,процент,Карагандинская,KZ12,0.1
-2015,процент,Карагандинская,KZ12,0.1
-2016,процент,Карагандинская,KZ12,0.1
-2017,процент,Карагандинская,KZ12,0.1
-2018,процент,Карагандинская,KZ12,0.1
-2010,процент,Костанайская,KZ13,0.0
-2011,процент,Костанайская,KZ13,0.0
-2012,процент,Костанайская,KZ13,0.0
-2013,процент,Костанайская,KZ13,0.0
-2014,процент,Костанайская,KZ13,0.1
-2015,процент,Костанайская,KZ13,0.0
-2016,процент,Костанайская,KZ13,0.0
-2017,процент,Костанайская,KZ13,0.0
-2018,процент,Костанайская,KZ13,0.0
-2010,процент,Кызылординская,KZ14,0.1
-2011,процент,Кызылординская,KZ14,0.1
-2012,процент,Кызылординская,KZ14,0.2
-2013,процент,Кызылординская,KZ14,0.3
-2014,процент,Кызылординская,KZ14,0.5
-2015,процент,Кызылординская,KZ14,0.6
-2016,процент,Кызылординская,KZ14,0.8
-2017,процент,Кызылординская,KZ14,0.8
-2018,процент,Кызылординская,KZ14,0.9
-2010,процент,Мангистауская,KZ09,0.0
-2011,процент,Мангистауская,KZ09,0.0
-2012,процент,Мангистауская,KZ09,0.0
-2013,процент,Мангистауская,KZ09,0.2
-2014,процент,Мангистауская,KZ09,0.2
-2015,процент,Мангистауская,KZ09,0.3
-2016,процент,Мангистауская,KZ09,0.2
-2017,процент,Мангистауская,KZ09,0.2
-2018,процент,Мангистауская,KZ09,0.2
-2010,процент,Южно-Казахстанская,KZ10,0.1
-2011,процент,Южно-Казахстанская,KZ10,0.1
-2012,процент,Южно-Казахстанская,KZ10,0.1
-2013,процент,Южно-Казахстанская,KZ10,0.4
-2014,процент,Южно-Казахстанская,KZ10,0.4
-2015,процент,Южно-Казахстанская,KZ10,0.5
-2016,процент,Южно-Казахстанская,KZ10,0.4
-2017,процент,Южно-Казахстанская,KZ10,0.4
-2010,процент,Павлодарская,KZ11,0.0
-2011,процент,Павлодарская,KZ11,0.0
-2012,процент,Павлодарская,KZ11,0.0
-2013,процент,Павлодарская,KZ11,0.1
-2014,процент,Павлодарская,KZ11,0.2
-2015,процент,Павлодарская,KZ11,0.1
-2016,процент,Павлодарская,KZ11,0.1
-2017,процент,Павлодарская,KZ11,0.1
-2018,процент,Павлодарская,KZ11,0.1
-2010,процент,Северо-Казахстанская,KZ16,0.1
-2011,процент,Северо-Казахстанская,KZ16,0.0
-2012,процент,Северо-Казахстанская,KZ16,0.1
-2013,процент,Северо-Казахстанская,KZ16,0.3
-2014,процент,Северо-Казахстанская,KZ16,0.3
-2015,процент,Северо-Казахстанская,KZ16,0.4
-2016,процент,Северо-Казахстанская,KZ16,0.4
-2017,процент,Северо-Казахстанская,KZ16,0.3
-2018,процент,Северо-Казахстанская,KZ16,0.3
-2018,процент,Туркестанская,KZ10,1.1
-2010,процент,Восточно-Казахстанская,KZ15,0.1
-2011,процент,Восточно-Казахстанская,KZ15,0.1
-2012,процент,Восточно-Казахстанская,KZ15,0.1
-2013,процент,Восточно-Казахстанская,KZ15,0.3
-2014,процент,Восточно-Казахстанская,KZ15,0.5
-2015,процент,Восточно-Казахстанская,KZ15,0.3
-2016,процент,Восточно-Казахстанская,KZ15,0.3
-2017,процент,Восточно-Казахстанская,KZ15,0.3
-2018,процент,Восточно-Казахстанская,KZ15,0.4
-2010,процент,г_Нур-Султан,KZ05,0.0
-2011,процент,г_Нур-Султан,KZ05,0.0
-2012,процент,г_Нур-Султан,KZ05,0.0
-2013,процент,г_Нур-Султан,KZ05,0.0
-2014,процент,г_Нур-Султан,KZ05,0.0
-2015,процент,г_Нур-Султан,KZ05,0.0
-2016,процент,г_Нур-Султан,KZ05,0.0
-2017,процент,г_Нур-Султан,KZ05,0.0
-2018,процент,г_Нур-Султан,KZ05,0.0
-2010,процент,г_Алматы,KZ02,0.0
-2011,процент,г_Алматы,KZ02,0.0
-2012,процент,г_Алматы,KZ02,0.0
-2013,процент,г_Алматы,KZ02,0.0
-2014,процент,г_Алматы,KZ02,0.0
-2015,процент,г_Алматы,KZ02,0.0
-2016,процент,г_Алматы,KZ02,0.0
-2017,процент,г_Алматы,KZ02,0.0
-2018,процент,г_Алматы,KZ02,0.0
-2018,процент,г_Шымкент,KZ18,0.0
+Year,Units,Regions,GeoCode,Value
+2010,Percent,,,0.05
+2011,Percent,,,0.05
+2012,Percent,,,0.05
+2013,Percent,,,0.2
+2014,Percent,,,0.2
+2015,Percent,,,0.2
+2016,Percent,,,0.18
+2017,Percent,,,0.2
+2018,Percent,,,0.19
+2010,Percent,Akmola,KZ03,0.1
+2011,Percent,Akmola,KZ03,0.0
+2012,Percent,Akmola,KZ03,0.0
+2013,Percent,Akmola,KZ03,0.2
+2014,Percent,Akmola,KZ03,0.2
+2015,Percent,Akmola,KZ03,0.2
+2016,Percent,Akmola,KZ03,0.1
+2017,Percent,Akmola,KZ03,0.1
+2018,Percent,Akmola,KZ03,0.1
+2010,Percent,Aktobe,KZ04,0.0
+2011,Percent,Aktobe,KZ04,0.0
+2012,Percent,Aktobe,KZ04,0.0
+2013,Percent,Aktobe,KZ04,0.0
+2014,Percent,Aktobe,KZ04,0.0
+2015,Percent,Aktobe,KZ04,0.0
+2016,Percent,Aktobe,KZ04,0.0
+2017,Percent,Aktobe,KZ04,0.1
+2018,Percent,Aktobe,KZ04,0.1
+2010,Percent,Almaty,KZ01,0.2
+2011,Percent,Almaty,KZ01,0.3
+2012,Percent,Almaty,KZ01,0.2
+2013,Percent,Almaty,KZ01,0.8
+2014,Percent,Almaty,KZ01,0.5
+2015,Percent,Almaty,KZ01,0.5
+2016,Percent,Almaty,KZ01,0.5
+2017,Percent,Almaty,KZ01,0.5
+2018,Percent,Almaty,KZ01,0.6
+2010,Percent,Atyrau,KZ06,0.1
+2011,Percent,Atyrau,KZ06,0.1
+2012,Percent,Atyrau,KZ06,0.1
+2013,Percent,Atyrau,KZ06,0.5
+2014,Percent,Atyrau,KZ06,0.4
+2015,Percent,Atyrau,KZ06,0.4
+2016,Percent,Atyrau,KZ06,0.3
+2017,Percent,Atyrau,KZ06,0.3
+2018,Percent,Atyrau,KZ06,0.2
+2010,Percent,Batys Kazakhstan,KZ07,0.0
+2011,Percent,Batys Kazakhstan,KZ07,0.0
+2012,Percent,Batys Kazakhstan,KZ07,0.0
+2013,Percent,Batys Kazakhstan,KZ07,0.0
+2014,Percent,Batys Kazakhstan,KZ07,0.0
+2015,Percent,Batys Kazakhstan,KZ07,0.0
+2016,Percent,Batys Kazakhstan,KZ07,0.0
+2017,Percent,Batys Kazakhstan,KZ07,0.0
+2018,Percent,Batys Kazakhstan,KZ07,0.0
+2010,Percent,Zhambyl,KZ17,0.0
+2011,Percent,Zhambyl,KZ17,0.1
+2012,Percent,Zhambyl,KZ17,0.1
+2013,Percent,Zhambyl,KZ17,0.2
+2014,Percent,Zhambyl,KZ17,0.3
+2015,Percent,Zhambyl,KZ17,0.5
+2016,Percent,Zhambyl,KZ17,0.5
+2017,Percent,Zhambyl,KZ17,0.3
+2018,Percent,Zhambyl,KZ17,0.4
+2010,Percent,Karagandy,KZ12,0.0
+2011,Percent,Karagandy,KZ12,0.1
+2012,Percent,Karagandy,KZ12,0.0
+2013,Percent,Karagandy,KZ12,0.1
+2014,Percent,Karagandy,KZ12,0.1
+2015,Percent,Karagandy,KZ12,0.1
+2016,Percent,Karagandy,KZ12,0.1
+2017,Percent,Karagandy,KZ12,0.1
+2018,Percent,Karagandy,KZ12,0.1
+2010,Percent,Kostanay,KZ13,0.0
+2011,Percent,Kostanay,KZ13,0.0
+2012,Percent,Kostanay,KZ13,0.0
+2013,Percent,Kostanay,KZ13,0.0
+2014,Percent,Kostanay,KZ13,0.1
+2015,Percent,Kostanay,KZ13,0.0
+2016,Percent,Kostanay,KZ13,0.0
+2017,Percent,Kostanay,KZ13,0.0
+2018,Percent,Kostanay,KZ13,0.0
+2010,Percent,Kyzylorda,KZ14,0.1
+2011,Percent,Kyzylorda,KZ14,0.1
+2012,Percent,Kyzylorda,KZ14,0.2
+2013,Percent,Kyzylorda,KZ14,0.3
+2014,Percent,Kyzylorda,KZ14,0.5
+2015,Percent,Kyzylorda,KZ14,0.6
+2016,Percent,Kyzylorda,KZ14,0.8
+2017,Percent,Kyzylorda,KZ14,0.8
+2018,Percent,Kyzylorda,KZ14,0.9
+2010,Percent,Mangistau,KZ09,0.0
+2011,Percent,Mangistau,KZ09,0.0
+2012,Percent,Mangistau,KZ09,0.0
+2013,Percent,Mangistau,KZ09,0.2
+2014,Percent,Mangistau,KZ09,0.2
+2015,Percent,Mangistau,KZ09,0.3
+2016,Percent,Mangistau,KZ09,0.2
+2017,Percent,Mangistau,KZ09,0.2
+2018,Percent,Mangistau,KZ09,0.2
+2010,Percent,Ontustik Kazakhstan,KZ10,0.1
+2011,Percent,Ontustik Kazakhstan,KZ10,0.1
+2012,Percent,Ontustik Kazakhstan,KZ10,0.1
+2013,Percent,Ontustik Kazakhstan,KZ10,0.4
+2014,Percent,Ontustik Kazakhstan,KZ10,0.4
+2015,Percent,Ontustik Kazakhstan,KZ10,0.5
+2016,Percent,Ontustik Kazakhstan,KZ10,0.4
+2017,Percent,Ontustik Kazakhstan,KZ10,0.4
+2010,Percent,Pavlodar,KZ11,0.0
+2011,Percent,Pavlodar,KZ11,0.0
+2012,Percent,Pavlodar,KZ11,0.0
+2013,Percent,Pavlodar,KZ11,0.1
+2014,Percent,Pavlodar,KZ11,0.2
+2015,Percent,Pavlodar,KZ11,0.1
+2016,Percent,Pavlodar,KZ11,0.1
+2017,Percent,Pavlodar,KZ11,0.1
+2018,Percent,Pavlodar,KZ11,0.1
+2010,Percent,Soltustik Kazakhstan,KZ16,0.1
+2011,Percent,Soltustik Kazakhstan,KZ16,0.0
+2012,Percent,Soltustik Kazakhstan,KZ16,0.1
+2013,Percent,Soltustik Kazakhstan,KZ16,0.3
+2014,Percent,Soltustik Kazakhstan,KZ16,0.3
+2015,Percent,Soltustik Kazakhstan,KZ16,0.4
+2016,Percent,Soltustik Kazakhstan,KZ16,0.4
+2017,Percent,Soltustik Kazakhstan,KZ16,0.3
+2018,Percent,Soltustik Kazakhstan,KZ16,0.3
+2018,Percent,Turkistan,KZ10,1.1
+2010,Percent,Shygys Kazakhstan,KZ15,0.1
+2011,Percent,Shygys Kazakhstan,KZ15,0.1
+2012,Percent,Shygys Kazakhstan,KZ15,0.1
+2013,Percent,Shygys Kazakhstan,KZ15,0.3
+2014,Percent,Shygys Kazakhstan,KZ15,0.5
+2015,Percent,Shygys Kazakhstan,KZ15,0.3
+2016,Percent,Shygys Kazakhstan,KZ15,0.3
+2017,Percent,Shygys Kazakhstan,KZ15,0.3
+2018,Percent,Shygys Kazakhstan,KZ15,0.4
+2010,Percent,Nur-Sultan city,KZ05,0.0
+2011,Percent,Nur-Sultan city,KZ05,0.0
+2012,Percent,Nur-Sultan city,KZ05,0.0
+2013,Percent,Nur-Sultan city,KZ05,0.0
+2014,Percent,Nur-Sultan city,KZ05,0.0
+2015,Percent,Nur-Sultan city,KZ05,0.0
+2016,Percent,Nur-Sultan city,KZ05,0.0
+2017,Percent,Nur-Sultan city,KZ05,0.0
+2018,Percent,Nur-Sultan city,KZ05,0.0
+2010,Percent,Almaty city,KZ02,0.0
+2011,Percent,Almaty city,KZ02,0.0
+2012,Percent,Almaty city,KZ02,0.0
+2013,Percent,Almaty city,KZ02,0.0
+2014,Percent,Almaty city,KZ02,0.0
+2015,Percent,Almaty city,KZ02,0.0
+2016,Percent,Almaty city,KZ02,0.0
+2017,Percent,Almaty city,KZ02,0.0
+2018,Percent,Almaty city,KZ02,0.0
+2018,Percent,Shymkent city,KZ18,0.0

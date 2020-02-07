@@ -1,13 +1,13 @@
-Year,Units,Показатель,Value
-2012,процент,Стандарт GSM  (процент охвата населения сетью сотовой связи),42.1
-2013,процент,Стандарт GSM  (процент охвата населения сетью сотовой связи),85.9
-2014,процент,Стандарт GSM  (процент охвата населения сетью сотовой связи),91.6
-2015,процент,Стандарт GSM  (процент охвата населения сетью сотовой связи),96.6
-2016,процент,Стандарт GSM  (процент охвата населения сетью сотовой связи),96.1
-2017,процент,Стандарт GSM  (процент охвата населения сетью сотовой связи),96.6
-2018,процент,Стандарт GSM  (процент охвата населения сетью сотовой связи),96.6
-2014,процент,Стандарт UMTS (процент охвата населения сетью сотовой связи 3G),85.0
-2015,процент,Стандарт UMTS (процент охвата населения сетью сотовой связи 3G),72.7
-2016,процент,Стандарт UMTS (процент охвата населения сетью сотовой связи 3G),86.8
-2017,процент,Стандарт UMTS (процент охвата населения сетью сотовой связи 3G),87.5
-2018,процент,Стандарт UMTS (процент охвата населения сетью сотовой связи 3G),87.9
+Year,Units,Indicator,Value
+2012,Percent,GSM standard (percentage of coverage by cellular network),42.1
+2013,Percent,GSM standard (percentage of coverage by cellular network),85.9
+2014,Percent,GSM standard (percentage of coverage by cellular network),91.6
+2015,Percent,GSM standard (percentage of coverage by cellular network),96.6
+2016,Percent,GSM standard (percentage of coverage by cellular network),96.1
+2017,Percent,GSM standard (percentage of coverage by cellular network),96.6
+2018,Percent,GSM standard (percentage of coverage by cellular network),96.6
+2014,Percent,UMTS standard (percentage of coverage by 3G mobile network),85.0
+2015,Percent,UMTS standard (percentage of coverage by 3G mobile network),72.7
+2016,Percent,UMTS standard (percentage of coverage by 3G mobile network),86.8
+2017,Percent,UMTS standard (percentage of coverage by 3G mobile network),87.5
+2018,Percent,UMTS standard (percentage of coverage by 3G mobile network),87.9

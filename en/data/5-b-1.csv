@@ -1,406 +1,406 @@
-Year,Units,Местность,Пол,Регионы,GeoCode,Value
-2016,процент,,,,,85.4
-2017,процент,,,,,86.8
-2018,процент,,,,,87.9
-2016,процент,город,,,,88.5
-2017,процент,город,,,,89.7
-2018,процент,город,,,,90.2
-2016,процент,село,,,,81.3
-2017,процент,село,,,,83.0
-2018,процент,село,,,,84.8
-2016,процент,,мужчины,,,86.0
-2017,процент,,мужчины,,,87.1
-2018,процент,,мужчины,,,88.8
-2016,процент,,женщины,,,84.8
-2017,процент,,женщины,,,86.5
-2018,процент,,женщины,,,87.1
-2016,процент,город,мужчины,,,89.0
-2017,процент,город,мужчины,,,89.7
-2018,процент,город,мужчины,,,91.1
-2016,процент,город,женщины,,,88.0
-2017,процент,город,женщины,,,89.6
-2018,процент,город,женщины,,,89.5
-2016,процент,село,мужчины,,,82.3
-2017,процент,село,мужчины,,,83.9
-2018,процент,село,мужчины,,,85.8
-2016,процент,село,женщины,,,80.2
-2017,процент,село,женщины,,,82.1
-2018,процент,село,женщины,,,83.7
-2016,процент,,,Акмолинская,KZ03,85.9
-2017,процент,,,Акмолинская,KZ03,84.7
-2018,процент,,,Акмолинская,KZ03,88.9
-2016,процент,,мужчины,Акмолинская,KZ03,87.6
-2017,процент,,мужчины,Акмолинская,KZ03,84.8
-2018,процент,,мужчины,Акмолинская,KZ03,90.2
-2016,процент,,женщины,Акмолинская,KZ03,84.4
-2017,процент,,женщины,Акмолинская,KZ03,84.6
-2018,процент,,женщины,Акмолинская,KZ03,87.6
-2016,процент,город,,Акмолинская,KZ03,90.2
-2017,процент,город,,Акмолинская,KZ03,87.8
-2018,процент,город,,Акмолинская,KZ03,90.6
-2016,процент,город,мужчины,Акмолинская,KZ03,91.6
-2017,процент,город,мужчины,Акмолинская,KZ03,88.3
-2018,процент,город,мужчины,Акмолинская,KZ03,91.9
-2016,процент,город,женщины,Акмолинская,KZ03,89.0
-2017,процент,город,женщины,Акмолинская,KZ03,87.3
-2018,процент,город,женщины,Акмолинская,KZ03,89.5
-2016,процент,село,,Акмолинская,KZ03,82.2
-2017,процент,село,,Акмолинская,KZ03,82.0
-2018,процент,село,,Акмолинская,KZ03,87.3
-2016,процент,село,мужчины,Акмолинская,KZ03,84.4
-2017,процент,село,мужчины,Акмолинская,KZ03,82.0
-2018,процент,село,мужчины,Акмолинская,KZ03,88.8
-2016,процент,село,женщины,Акмолинская,KZ03,80.1
-2017,процент,село,женщины,Акмолинская,KZ03,82.1
-2018,процент,село,женщины,Акмолинская,KZ03,85.8
-2016,процент,,,Актюбинская,KZ04,85.0
-2017,процент,,,Актюбинская,KZ04,89.5
-2018,процент,,,Актюбинская,KZ04,88.1
-2016,процент,,мужчины,Актюбинская,KZ04,85.3
-2017,процент,,мужчины,Актюбинская,KZ04,89.8
-2018,процент,,мужчины,Актюбинская,KZ04,87.7
-2016,процент,,женщины,Актюбинская,KZ04,84.8
-2017,процент,,женщины,Актюбинская,KZ04,89.2
-2018,процент,,женщины,Актюбинская,KZ04,88.5
-2016,процент,город,,Актюбинская,KZ04,90.2
-2017,процент,город,,Актюбинская,KZ04,91.9
-2018,процент,город,,Актюбинская,KZ04,90.4
-2016,процент,город,мужчины,Актюбинская,KZ04,91.2
-2017,процент,город,мужчины,Актюбинская,KZ04,91.8
-2018,процент,город,мужчины,Актюбинская,KZ04,89.3
-2016,процент,город,женщины,Актюбинская,KZ04,89.3
-2017,процент,город,женщины,Актюбинская,KZ04,92.0
-2018,процент,город,женщины,Актюбинская,KZ04,91.4
-2016,процент,село,,Актюбинская,KZ04,76.6
-2017,процент,село,,Актюбинская,KZ04,85.3
-2018,процент,село,,Актюбинская,KZ04,82.8
-2016,процент,село,мужчины,Актюбинская,KZ04,76.2
-2017,процент,село,мужчины,Актюбинская,KZ04,86.5
-2018,процент,село,мужчины,Актюбинская,KZ04,84.2
-2016,процент,село,женщины,Актюбинская,KZ04,77.0
-2017,процент,село,женщины,Актюбинская,KZ04,84.1
-2018,процент,село,женщины,Актюбинская,KZ04,81.4
-2016,процент,,,Алматинская,KZ01,87.9
-2017,процент,,,Алматинская,KZ01,89.3
-2018,процент,,,Алматинская,KZ01,92.0
-2016,процент,,мужчины,Алматинская,KZ01,87.6
-2017,процент,,мужчины,Алматинская,KZ01,89.8
-2018,процент,,мужчины,Алматинская,KZ01,92.9
-2016,процент,,женщины,Алматинская,KZ01,88.2
-2017,процент,,женщины,Алматинская,KZ01,88.8
-2018,процент,,женщины,Алматинская,KZ01,91.0
-2016,процент,город,,Алматинская,KZ01,88.4
-2017,процент,город,,Алматинская,KZ01,86.3
-2018,процент,город,,Алматинская,KZ01,90.1
-2016,процент,город,мужчины,Алматинская,KZ01,89.0
-2017,процент,город,мужчины,Алматинская,KZ01,85.2
-2018,процент,город,мужчины,Алматинская,KZ01,90.7
-2016,процент,город,женщины,Алматинская,KZ01,87.8
-2017,процент,город,женщины,Алматинская,KZ01,87.4
-2018,процент,город,женщины,Алматинская,KZ01,89.7
-2016,процент,село,,Алматинская,KZ01,87.8
-2017,процент,село,,Алматинская,KZ01,90.2
-2018,процент,село,,Алматинская,KZ01,92.5
-2016,процент,село,мужчины,Алматинская,KZ01,87.2
-2017,процент,село,мужчины,Алматинская,KZ01,91.1
-2018,процент,село,мужчины,Алматинская,KZ01,93.5
-2016,процент,село,женщины,Алматинская,KZ01,88.3
-2017,процент,село,женщины,Алматинская,KZ01,89.2
-2018,процент,село,женщины,Алматинская,KZ01,91.4
-2016,процент,,,Атырауская,KZ06,85.1
-2017,процент,,,Атырауская,KZ06,87.7
-2018,процент,,,Атырауская,KZ06,86.1
-2016,процент,,мужчины,Атырауская,KZ06,86.1
-2017,процент,,мужчины,Атырауская,KZ06,87.0
-2018,процент,,мужчины,Атырауская,KZ06,86.0
-2016,процент,,женщины,Атырауская,KZ06,84.2
-2017,процент,,женщины,Атырауская,KZ06,88.5
-2018,процент,,женщины,Атырауская,KZ06,86.2
-2016,процент,город,,Атырауская,KZ06,90.2
-2017,процент,город,,Атырауская,KZ06,93.6
-2018,процент,город,,Атырауская,KZ06,89.1
-2016,процент,город,мужчины,Атырауская,KZ06,92.9
-2017,процент,город,мужчины,Атырауская,KZ06,94.5
-2018,процент,город,мужчины,Атырауская,KZ06,90.4
-2016,процент,город,женщины,Атырауская,KZ06,87.7
-2017,процент,город,женщины,Атырауская,KZ06,92.7
-2018,процент,город,женщины,Атырауская,KZ06,87.9
-2016,процент,село,,Атырауская,KZ06,80.6
-2017,процент,село,,Атырауская,KZ06,82.5
-2018,процент,село,,Атырауская,KZ06,83.0
-2016,процент,село,мужчины,Атырауская,KZ06,80.3
-2017,процент,село,мужчины,Атырауская,KZ06,80.5
-2018,процент,село,мужчины,Атырауская,KZ06,81.6
-2016,процент,село,женщины,Атырауская,KZ06,80.9
-2017,процент,село,женщины,Атырауская,KZ06,84.4
-2018,процент,село,женщины,Атырауская,KZ06,84.3
-2016,процент,,,Западно-Казахстанская,KZ07,90.1
-2017,процент,,,Западно-Казахстанская,KZ07,90.7
-2018,процент,,,Западно-Казахстанская,KZ07,90.2
-2016,процент,,мужчины,Западно-Казахстанская,KZ07,90.8
-2017,процент,,мужчины,Западно-Казахстанская,KZ07,91.1
-2018,процент,,мужчины,Западно-Казахстанская,KZ07,91.2
-2016,процент,,женщины,Западно-Казахстанская,KZ07,89.4
-2017,процент,,женщины,Западно-Казахстанская,KZ07,90.4
-2018,процент,,женщины,Западно-Казахстанская,KZ07,89.2
-2016,процент,город,,Западно-Казахстанская,KZ07,95.0
-2017,процент,город,,Западно-Казахстанская,KZ07,97.3
-2018,процент,город,,Западно-Казахстанская,KZ07,95.7
-2016,процент,город,мужчины,Западно-Казахстанская,KZ07,95.7
-2017,процент,город,мужчины,Западно-Казахстанская,KZ07,97.3
-2018,процент,город,мужчины,Западно-Казахстанская,KZ07,96.7
-2016,процент,город,женщины,Западно-Казахстанская,KZ07,94.4
-2017,процент,город,женщины,Западно-Казахстанская,KZ07,97.4
-2018,процент,город,женщины,Западно-Казахстанская,KZ07,94.8
-2016,процент,село,,Западно-Казахстанская,KZ07,85.2
-2017,процент,село,,Западно-Казахстанская,KZ07,84.0
-2018,процент,село,,Западно-Казахстанская,KZ07,84.4
-2016,процент,село,мужчины,Западно-Казахстанская,KZ07,86.5
-2017,процент,село,мужчины,Западно-Казахстанская,KZ07,85.3
-2018,процент,село,мужчины,Западно-Казахстанская,KZ07,85.9
-2016,процент,село,женщины,Западно-Казахстанская,KZ07,84.0
-2017,процент,село,женщины,Западно-Казахстанская,KZ07,82.6
-2018,процент,село,женщины,Западно-Казахстанская,KZ07,82.8
-2016,процент,,,Жамбылская,KZ17,75.8
-2017,процент,,,Жамбылская,KZ17,81.9
-2018,процент,,,Жамбылская,KZ17,83.0
-2016,процент,,мужчины,Жамбылская,KZ17,77.0
-2017,процент,,мужчины,Жамбылская,KZ17,82.0
-2018,процент,,мужчины,Жамбылская,KZ17,84.2
-2016,процент,,женщины,Жамбылская,KZ17,74.7
-2017,процент,,женщины,Жамбылская,KZ17,81.7
-2018,процент,,женщины,Жамбылская,KZ17,81.9
-2016,процент,город,,Жамбылская,KZ17,81.4
-2017,процент,город,,Жамбылская,KZ17,84.2
-2018,процент,город,,Жамбылская,KZ17,78.7
-2016,процент,город,мужчины,Жамбылская,KZ17,80.7
-2017,процент,город,мужчины,Жамбылская,KZ17,83.5
-2018,процент,город,мужчины,Жамбылская,KZ17,78.5
-2016,процент,город,женщины,Жамбылская,KZ17,82.0
-2017,процент,город,женщины,Жамбылская,KZ17,84.8
-2018,процент,город,женщины,Жамбылская,KZ17,78.8
-2016,процент,село,,Жамбылская,KZ17,72.1
-2017,процент,село,,Жамбылская,KZ17,80.3
-2018,процент,село,,Жамбылская,KZ17,85.9
-2016,процент,село,мужчины,Жамбылская,KZ17,74.7
-2017,процент,село,мужчины,Жамбылская,KZ17,81.0
-2018,процент,село,мужчины,Жамбылская,KZ17,87.7
-2016,процент,село,женщины,Жамбылская,KZ17,69.4
-2017,процент,село,женщины,Жамбылская,KZ17,79.5
-2018,процент,село,женщины,Жамбылская,KZ17,84.1
-2016,процент,,,Костанайская,KZ13,89.7
-2017,процент,,,Костанайская,KZ13,93.1
-2018,процент,,,Костанайская,KZ13,91.3
-2016,процент,,мужчины,Костанайская,KZ13,91.2
-2017,процент,,мужчины,Костанайская,KZ13,93.9
-2018,процент,,мужчины,Костанайская,KZ13,91.4
-2016,процент,,женщины,Костанайская,KZ13,88.4
-2017,процент,,женщины,Костанайская,KZ13,92.4
-2018,процент,,женщины,Костанайская,KZ13,91.2
-2016,процент,город,,Костанайская,KZ13,92.3
-2017,процент,город,,Костанайская,KZ13,95.4
-2018,процент,город,,Костанайская,KZ13,93.7
-2016,процент,город,мужчины,Костанайская,KZ13,94.1
-2017,процент,город,мужчины,Костанайская,KZ13,95.9
-2018,процент,город,мужчины,Костанайская,KZ13,93.2
-2016,процент,город,женщины,Костанайская,KZ13,90.8
-2017,процент,город,женщины,Костанайская,KZ13,95.0
-2018,процент,город,женщины,Костанайская,KZ13,94.1
-2016,процент,село,,Костанайская,KZ13,86.9
-2017,процент,село,,Костанайская,KZ13,90.5
-2018,процент,село,,Костанайская,KZ13,88.6
-2016,процент,село,мужчины,Костанайская,KZ13,88.3
-2017,процент,село,мужчины,Костанайская,KZ13,91.8
-2018,процент,село,мужчины,Костанайская,KZ13,89.6
-2016,процент,село,женщины,Костанайская,KZ13,85.6
-2017,процент,село,женщины,Костанайская,KZ13,89.2
-2018,процент,село,женщины,Костанайская,KZ13,87.6
-2016,процент,,,Кызылординская,KZ14,83.9
-2017,процент,,,Кызылординская,KZ14,83.1
-2018,процент,,,Кызылординская,KZ14,85.9
-2016,процент,,мужчины,Кызылординская,KZ14,84.1
-2017,процент,,мужчины,Кызылординская,KZ14,82.8
-2018,процент,,мужчины,Кызылординская,KZ14,86.6
-2016,процент,,женщины,Кызылординская,KZ14,83.6
-2017,процент,,женщины,Кызылординская,KZ14,83.3
-2018,процент,,женщины,Кызылординская,KZ14,85.2
-2016,процент,город,,Кызылординская,KZ14,91.8
-2017,процент,город,,Кызылординская,KZ14,88.7
-2018,процент,город,,Кызылординская,KZ14,93.9
-2016,процент,город,мужчины,Кызылординская,KZ14,90.6
-2017,процент,город,мужчины,Кызылординская,KZ14,89.0
-2018,процент,город,мужчины,Кызылординская,KZ14,93.8
-2016,процент,город,женщины,Кызылординская,KZ14,93.1
-2017,процент,город,женщины,Кызылординская,KZ14,88.4
-2018,процент,город,женщины,Кызылординская,KZ14,94.0
-2016,процент,село,,Кызылординская,KZ14,77.8
-2017,процент,село,,Кызылординская,KZ14,78.7
-2018,процент,село,,Кызылординская,KZ14,79.7
-2016,процент,село,мужчины,Кызылординская,KZ14,79.4
-2017,процент,село,мужчины,Кызылординская,KZ14,78.3
-2018,процент,село,мужчины,Кызылординская,KZ14,81.2
-2016,процент,село,женщины,Кызылординская,KZ14,76.1
-2017,процент,село,женщины,Кызылординская,KZ14,79.2
-2018,процент,село,женщины,Кызылординская,KZ14,78.1
-2016,процент,,,Мангистауская,KZ09,87.0
-2017,процент,,,Мангистауская,KZ09,89.3
-2018,процент,,,Мангистауская,KZ09,88.7
-2016,процент,,мужчины,Мангистауская,KZ09,87.2
-2017,процент,,мужчины,Мангистауская,KZ09,90.9
-2018,процент,,мужчины,Мангистауская,KZ09,88.6
-2016,процент,,женщины,Мангистауская,KZ09,86.8
-2017,процент,,женщины,Мангистауская,KZ09,87.8
-2018,процент,,женщины,Мангистауская,KZ09,88.8
-2016,процент,город,,Мангистауская,KZ09,94.0
-2017,процент,город,,Мангистауская,KZ09,92.9
-2018,процент,город,,Мангистауская,KZ09,91.8
-2016,процент,город,мужчины,Мангистауская,KZ09,95.5
-2017,процент,город,мужчины,Мангистауская,KZ09,93.4
-2018,процент,город,мужчины,Мангистауская,KZ09,91.5
-2016,процент,город,женщины,Мангистауская,KZ09,92.6
-2017,процент,город,женщины,Мангистауская,KZ09,92.4
-2018,процент,город,женщины,Мангистауская,KZ09,92.0
-2016,процент,село,,Мангистауская,KZ09,80.5
-2017,процент,село,,Мангистауская,KZ09,86.7
-2018,процент,село,,Мангистауская,KZ09,86.6
-2016,процент,село,мужчины,Мангистауская,KZ09,79.8
-2017,процент,село,мужчины,Мангистауская,KZ09,89.1
-2018,процент,село,мужчины,Мангистауская,KZ09,86.5
-2016,процент,село,женщины,Мангистауская,KZ09,81.2
-2017,процент,село,женщины,Мангистауская,KZ09,84.5
-2018,процент,село,женщины,Мангистауская,KZ09,86.6
-2016,процент,,,Павлодарская,KZ11,89.6
-2017,процент,,,Павлодарская,KZ11,86.5
-2018,процент,,,Павлодарская,KZ11,88.1
-2016,процент,,мужчины,Павлодарская,KZ11,91.3
-2017,процент,,мужчины,Павлодарская,KZ11,87.0
-2018,процент,,мужчины,Павлодарская,KZ11,89.4
-2016,процент,,женщины,Павлодарская,KZ11,88.1
-2017,процент,,женщины,Павлодарская,KZ11,86.1
-2018,процент,,женщины,Павлодарская,KZ11,86.9
-2016,процент,город,,Павлодарская,KZ11,92.1
-2017,процент,город,,Павлодарская,KZ11,89.3
-2018,процент,город,,Павлодарская,KZ11,91.4
-2016,процент,город,мужчины,Павлодарская,KZ11,92.9
-2017,процент,город,мужчины,Павлодарская,KZ11,90.3
-2018,процент,город,мужчины,Павлодарская,KZ11,93.5
-2016,процент,город,женщины,Павлодарская,KZ11,91.4
-2017,процент,город,женщины,Павлодарская,KZ11,88.4
-2018,процент,город,женщины,Павлодарская,KZ11,89.6
-2016,процент,село,,Павлодарская,KZ11,83.7
-2017,процент,село,,Павлодарская,KZ11,79.9
-2018,процент,село,,Павлодарская,KZ11,80.2
-2016,процент,село,мужчины,Павлодарская,KZ11,87.6
-2017,процент,село,мужчины,Павлодарская,KZ11,79.7
-2018,процент,село,мужчины,Павлодарская,KZ11,80.6
-2016,процент,село,женщины,Павлодарская,KZ11,79.8
-2017,процент,село,женщины,Павлодарская,KZ11,80.2
-2018,процент,село,женщины,Павлодарская,KZ11,79.9
-2016,процент,,,Северо-Казахстанская,KZ16,81.5
-2017,процент,,,Северо-Казахстанская,KZ16,83.5
-2018,процент,,,Северо-Казахстанская,KZ16,84.8
-2016,процент,,мужчины,Северо-Казахстанская,KZ16,84.0
-2017,процент,,мужчины,Северо-Казахстанская,KZ16,85.5
-2018,процент,,мужчины,Северо-Казахстанская,KZ16,85.1
-2016,процент,,женщины,Северо-Казахстанская,KZ16,79.3
-2017,процент,,женщины,Северо-Казахстанская,KZ16,81.7
-2018,процент,,женщины,Северо-Казахстанская,KZ16,84.5
-2016,процент,город,,Северо-Казахстанская,KZ16,83.1
-2017,процент,город,,Северо-Казахстанская,KZ16,86.5
-2018,процент,город,,Северо-Казахстанская,KZ16,86.4
-2016,процент,город,мужчины,Северо-Казахстанская,KZ16,85.0
-2017,процент,город,мужчины,Северо-Казахстанская,KZ16,87.7
-2018,процент,город,мужчины,Северо-Казахстанская,KZ16,86.5
-2016,процент,город,женщины,Северо-Казахстанская,KZ16,81.5
-2017,процент,город,женщины,Северо-Казахстанская,KZ16,85.5
-2018,процент,город,женщины,Северо-Казахстанская,KZ16,86.3
-2016,процент,село,,Северо-Казахстанская,KZ16,80.4
-2017,процент,село,,Северо-Казахстанская,KZ16,81.2
-2018,процент,село,,Северо-Казахстанская,KZ16,83.5
-2016,процент,село,мужчины,Северо-Казахстанская,KZ16,83.3
-2017,процент,село,мужчины,Северо-Казахстанская,KZ16,83.9
-2018,процент,село,мужчины,Северо-Казахстанская,KZ16,84.1
-2016,процент,село,женщины,Северо-Казахстанская,KZ16,77.5
-2017,процент,село,женщины,Северо-Казахстанская,KZ16,78.5
-2018,процент,село,женщины,Северо-Казахстанская,KZ16,83.0
-2016,процент,,,Туркестанская,KZ10,78.1
-2017,процент,,,Туркестанская,KZ10,78.8
-2018,процент,,,Туркестанская,KZ10,80.4
-2016,процент,,мужчины,Туркестанская,KZ10,78.4
-2017,процент,,мужчины,Туркестанская,KZ10,79.7
-2018,процент,,мужчины,Туркестанская,KZ10,81.2
-2016,процент,,женщины,Туркестанская,KZ10,77.8
-2017,процент,,женщины,Туркестанская,KZ10,77.8
-2018,процент,,женщины,Туркестанская,KZ10,79.5
-2016,процент,город,,Туркестанская,KZ10,77.5
-2017,процент,город,,Туркестанская,KZ10,76.6
-2018,процент,город,,Туркестанская,KZ10,77.9
-2016,процент,город,мужчины,Туркестанская,KZ10,77.6
-2017,процент,город,мужчины,Туркестанская,KZ10,75.8
-2018,процент,город,мужчины,Туркестанская,KZ10,78.0
-2016,процент,город,женщины,Туркестанская,KZ10,77.4
-2017,процент,город,женщины,Туркестанская,KZ10,77.4
-2018,процент,город,женщины,Туркестанская,KZ10,77.8
-2016,процент,село,,Туркестанская,KZ10,78.3
-2017,процент,село,,Туркестанская,KZ10,79.3
-2018,процент,село,,Туркестанская,KZ10,80.9
-2016,процент,село,мужчины,Туркестанская,KZ10,78.6
-2017,процент,село,мужчины,Туркестанская,KZ10,80.6
-2018,процент,село,мужчины,Туркестанская,KZ10,82.0
-2016,процент,село,женщины,Туркестанская,KZ10,77.9
-2017,процент,село,женщины,Туркестанская,KZ10,77.9
-2018,процент,село,женщины,Туркестанская,KZ10,79.9
-2016,процент,,,Восточно-Казахстанская,KZ15,89.5
-2017,процент,,,Восточно-Казахстанская,KZ15,85.3
-2018,процент,,,Восточно-Казахстанская,KZ15,87.3
-2016,процент,,мужчины,Восточно-Казахстанская,KZ15,91.3
-2017,процент,,мужчины,Восточно-Казахстанская,KZ15,85.1
-2018,процент,,мужчины,Восточно-Казахстанская,KZ15,87.7
-2016,процент,,женщины,Восточно-Казахстанская,KZ15,87.9
-2017,процент,,женщины,Восточно-Казахстанская,KZ15,85.5
-2018,процент,,женщины,Восточно-Казахстанская,KZ15,87.0
-2016,процент,город,,Восточно-Казахстанская,KZ15,92.4
-2017,процент,город,,Восточно-Казахстанская,KZ15,92.2
-2018,процент,город,,Восточно-Казахстанская,KZ15,94.2
-2016,процент,город,мужчины,Восточно-Казахстанская,KZ15,92.6
-2017,процент,город,мужчины,Восточно-Казахстанская,KZ15,91.4
-2018,процент,город,мужчины,Восточно-Казахстанская,KZ15,94.3
-2016,процент,город,женщины,Восточно-Казахстанская,KZ15,92.1
-2017,процент,город,женщины,Восточно-Казахстанская,KZ15,92.9
-2018,процент,город,женщины,Восточно-Казахстанская,KZ15,94.2
-2016,процент,село,,Восточно-Казахстанская,KZ15,85.2
-2017,процент,село,,Восточно-Казахстанская,KZ15,74.8
-2018,процент,село,,Восточно-Казахстанская,KZ15,76.5
-2016,процент,село,мужчины,Восточно-Казахстанская,KZ15,89.5
-2017,процент,село,мужчины,Восточно-Казахстанская,KZ15,76.2
-2018,процент,село,мужчины,Восточно-Казахстанская,KZ15,78.2
-2016,процент,село,женщины,Восточно-Казахстанская,KZ15,81.0
-2017,процент,село,женщины,Восточно-Казахстанская,KZ15,73.3
-2018,процент,село,женщины,Восточно-Казахстанская,KZ15,74.8
-2016,процент,,,г_Нур-Султан,KZ05,99.6
-2017,процент,,,г_Нур-Султан,KZ05,96.3
-2018,процент,,,г_Нур-Султан,KZ05,94.2
-2016,процент,город,мужчины,г_Нур-Султан,KZ05,99.4
-2017,процент,город,мужчины,г_Нур-Султан,KZ05,96.1
-2018,процент,город,мужчины,г_Нур-Султан,KZ05,98.5
-2016,процент,город,женщины,г_Нур-Султан,KZ05,99.8
-2017,процент,город,женщины,г_Нур-Султан,KZ05,96.5
-2018,процент,город,женщины,г_Нур-Султан,KZ05,90.3
-2016,процент,,,г_Алматы,KZ02,85.4
-2017,процент,,,г_Алматы,KZ02,86.5
-2018,процент,,,г_Алматы,KZ02,89.8
-2016,процент,город,мужчины,г_Алматы,KZ02,84.6
-2017,процент,город,мужчины,г_Алматы,KZ02,86.3
-2018,процент,город,мужчины,г_Алматы,KZ02,90.5
-2016,процент,город,женщины,г_Алматы,KZ02,86.1
-2017,процент,город,женщины,г_Алматы,KZ02,86.6
-2018,процент,город,женщины,г_Алматы,KZ02,89.2
-2016,процент,,,г_Шымкент,KZ18,81.0
-2017,процент,,,г_Шымкент,KZ18,91.2
-2018,процент,,,г_Шымкент,KZ18,91.3
-2016,процент,город,мужчины,г_Шымкент,KZ18,81.3
-2017,процент,город,мужчины,г_Шымкент,KZ18,92.1
-2018,процент,город,мужчины,г_Шымкент,KZ18,92.4
-2016,процент,город,женщины,г_Шымкент,KZ18,80.7
-2017,процент,город,женщины,г_Шымкент,KZ18,90.3
-2018,процент,город,женщины,г_Шымкент,KZ18,90.3
+Year,Units,Area,Sex,Regions,GeoCode,Value
+2016,Percent,,,,,85.4
+2017,Percent,,,,,86.8
+2018,Percent,,,,,87.9
+2016,Percent,Urban,,,,88.5
+2017,Percent,Urban,,,,89.7
+2018,Percent,Urban,,,,90.2
+2016,Percent,Rural,,,,81.3
+2017,Percent,Rural,,,,83.0
+2018,Percent,Rural,,,,84.8
+2016,Percent,,Male,,,86.0
+2017,Percent,,Male,,,87.1
+2018,Percent,,Male,,,88.8
+2016,Percent,,Female,,,84.8
+2017,Percent,,Female,,,86.5
+2018,Percent,,Female,,,87.1
+2016,Percent,Urban,Male,,,89.0
+2017,Percent,Urban,Male,,,89.7
+2018,Percent,Urban,Male,,,91.1
+2016,Percent,Urban,Female,,,88.0
+2017,Percent,Urban,Female,,,89.6
+2018,Percent,Urban,Female,,,89.5
+2016,Percent,Rural,Male,,,82.3
+2017,Percent,Rural,Male,,,83.9
+2018,Percent,Rural,Male,,,85.8
+2016,Percent,Rural,Female,,,80.2
+2017,Percent,Rural,Female,,,82.1
+2018,Percent,Rural,Female,,,83.7
+2016,Percent,,,Akmola,KZ03,85.9
+2017,Percent,,,Akmola,KZ03,84.7
+2018,Percent,,,Akmola,KZ03,88.9
+2016,Percent,,Male,Akmola,KZ03,87.6
+2017,Percent,,Male,Akmola,KZ03,84.8
+2018,Percent,,Male,Akmola,KZ03,90.2
+2016,Percent,,Female,Akmola,KZ03,84.4
+2017,Percent,,Female,Akmola,KZ03,84.6
+2018,Percent,,Female,Akmola,KZ03,87.6
+2016,Percent,Urban,,Akmola,KZ03,90.2
+2017,Percent,Urban,,Akmola,KZ03,87.8
+2018,Percent,Urban,,Akmola,KZ03,90.6
+2016,Percent,Urban,Male,Akmola,KZ03,91.6
+2017,Percent,Urban,Male,Akmola,KZ03,88.3
+2018,Percent,Urban,Male,Akmola,KZ03,91.9
+2016,Percent,Urban,Female,Akmola,KZ03,89.0
+2017,Percent,Urban,Female,Akmola,KZ03,87.3
+2018,Percent,Urban,Female,Akmola,KZ03,89.5
+2016,Percent,Rural,,Akmola,KZ03,82.2
+2017,Percent,Rural,,Akmola,KZ03,82.0
+2018,Percent,Rural,,Akmola,KZ03,87.3
+2016,Percent,Rural,Male,Akmola,KZ03,84.4
+2017,Percent,Rural,Male,Akmola,KZ03,82.0
+2018,Percent,Rural,Male,Akmola,KZ03,88.8
+2016,Percent,Rural,Female,Akmola,KZ03,80.1
+2017,Percent,Rural,Female,Akmola,KZ03,82.1
+2018,Percent,Rural,Female,Akmola,KZ03,85.8
+2016,Percent,,,Aktobe,KZ04,85.0
+2017,Percent,,,Aktobe,KZ04,89.5
+2018,Percent,,,Aktobe,KZ04,88.1
+2016,Percent,,Male,Aktobe,KZ04,85.3
+2017,Percent,,Male,Aktobe,KZ04,89.8
+2018,Percent,,Male,Aktobe,KZ04,87.7
+2016,Percent,,Female,Aktobe,KZ04,84.8
+2017,Percent,,Female,Aktobe,KZ04,89.2
+2018,Percent,,Female,Aktobe,KZ04,88.5
+2016,Percent,Urban,,Aktobe,KZ04,90.2
+2017,Percent,Urban,,Aktobe,KZ04,91.9
+2018,Percent,Urban,,Aktobe,KZ04,90.4
+2016,Percent,Urban,Male,Aktobe,KZ04,91.2
+2017,Percent,Urban,Male,Aktobe,KZ04,91.8
+2018,Percent,Urban,Male,Aktobe,KZ04,89.3
+2016,Percent,Urban,Female,Aktobe,KZ04,89.3
+2017,Percent,Urban,Female,Aktobe,KZ04,92.0
+2018,Percent,Urban,Female,Aktobe,KZ04,91.4
+2016,Percent,Rural,,Aktobe,KZ04,76.6
+2017,Percent,Rural,,Aktobe,KZ04,85.3
+2018,Percent,Rural,,Aktobe,KZ04,82.8
+2016,Percent,Rural,Male,Aktobe,KZ04,76.2
+2017,Percent,Rural,Male,Aktobe,KZ04,86.5
+2018,Percent,Rural,Male,Aktobe,KZ04,84.2
+2016,Percent,Rural,Female,Aktobe,KZ04,77.0
+2017,Percent,Rural,Female,Aktobe,KZ04,84.1
+2018,Percent,Rural,Female,Aktobe,KZ04,81.4
+2016,Percent,,,Almaty,KZ01,87.9
+2017,Percent,,,Almaty,KZ01,89.3
+2018,Percent,,,Almaty,KZ01,92.0
+2016,Percent,,Male,Almaty,KZ01,87.6
+2017,Percent,,Male,Almaty,KZ01,89.8
+2018,Percent,,Male,Almaty,KZ01,92.9
+2016,Percent,,Female,Almaty,KZ01,88.2
+2017,Percent,,Female,Almaty,KZ01,88.8
+2018,Percent,,Female,Almaty,KZ01,91.0
+2016,Percent,Urban,,Almaty,KZ01,88.4
+2017,Percent,Urban,,Almaty,KZ01,86.3
+2018,Percent,Urban,,Almaty,KZ01,90.1
+2016,Percent,Urban,Male,Almaty,KZ01,89.0
+2017,Percent,Urban,Male,Almaty,KZ01,85.2
+2018,Percent,Urban,Male,Almaty,KZ01,90.7
+2016,Percent,Urban,Female,Almaty,KZ01,87.8
+2017,Percent,Urban,Female,Almaty,KZ01,87.4
+2018,Percent,Urban,Female,Almaty,KZ01,89.7
+2016,Percent,Rural,,Almaty,KZ01,87.8
+2017,Percent,Rural,,Almaty,KZ01,90.2
+2018,Percent,Rural,,Almaty,KZ01,92.5
+2016,Percent,Rural,Male,Almaty,KZ01,87.2
+2017,Percent,Rural,Male,Almaty,KZ01,91.1
+2018,Percent,Rural,Male,Almaty,KZ01,93.5
+2016,Percent,Rural,Female,Almaty,KZ01,88.3
+2017,Percent,Rural,Female,Almaty,KZ01,89.2
+2018,Percent,Rural,Female,Almaty,KZ01,91.4
+2016,Percent,,,Atyrau,KZ06,85.1
+2017,Percent,,,Atyrau,KZ06,87.7
+2018,Percent,,,Atyrau,KZ06,86.1
+2016,Percent,,Male,Atyrau,KZ06,86.1
+2017,Percent,,Male,Atyrau,KZ06,87.0
+2018,Percent,,Male,Atyrau,KZ06,86.0
+2016,Percent,,Female,Atyrau,KZ06,84.2
+2017,Percent,,Female,Atyrau,KZ06,88.5
+2018,Percent,,Female,Atyrau,KZ06,86.2
+2016,Percent,Urban,,Atyrau,KZ06,90.2
+2017,Percent,Urban,,Atyrau,KZ06,93.6
+2018,Percent,Urban,,Atyrau,KZ06,89.1
+2016,Percent,Urban,Male,Atyrau,KZ06,92.9
+2017,Percent,Urban,Male,Atyrau,KZ06,94.5
+2018,Percent,Urban,Male,Atyrau,KZ06,90.4
+2016,Percent,Urban,Female,Atyrau,KZ06,87.7
+2017,Percent,Urban,Female,Atyrau,KZ06,92.7
+2018,Percent,Urban,Female,Atyrau,KZ06,87.9
+2016,Percent,Rural,,Atyrau,KZ06,80.6
+2017,Percent,Rural,,Atyrau,KZ06,82.5
+2018,Percent,Rural,,Atyrau,KZ06,83.0
+2016,Percent,Rural,Male,Atyrau,KZ06,80.3
+2017,Percent,Rural,Male,Atyrau,KZ06,80.5
+2018,Percent,Rural,Male,Atyrau,KZ06,81.6
+2016,Percent,Rural,Female,Atyrau,KZ06,80.9
+2017,Percent,Rural,Female,Atyrau,KZ06,84.4
+2018,Percent,Rural,Female,Atyrau,KZ06,84.3
+2016,Percent,,,Batys Kazakhstan,KZ07,90.1
+2017,Percent,,,Batys Kazakhstan,KZ07,90.7
+2018,Percent,,,Batys Kazakhstan,KZ07,90.2
+2016,Percent,,Male,Batys Kazakhstan,KZ07,90.8
+2017,Percent,,Male,Batys Kazakhstan,KZ07,91.1
+2018,Percent,,Male,Batys Kazakhstan,KZ07,91.2
+2016,Percent,,Female,Batys Kazakhstan,KZ07,89.4
+2017,Percent,,Female,Batys Kazakhstan,KZ07,90.4
+2018,Percent,,Female,Batys Kazakhstan,KZ07,89.2
+2016,Percent,Urban,,Batys Kazakhstan,KZ07,95.0
+2017,Percent,Urban,,Batys Kazakhstan,KZ07,97.3
+2018,Percent,Urban,,Batys Kazakhstan,KZ07,95.7
+2016,Percent,Urban,Male,Batys Kazakhstan,KZ07,95.7
+2017,Percent,Urban,Male,Batys Kazakhstan,KZ07,97.3
+2018,Percent,Urban,Male,Batys Kazakhstan,KZ07,96.7
+2016,Percent,Urban,Female,Batys Kazakhstan,KZ07,94.4
+2017,Percent,Urban,Female,Batys Kazakhstan,KZ07,97.4
+2018,Percent,Urban,Female,Batys Kazakhstan,KZ07,94.8
+2016,Percent,Rural,,Batys Kazakhstan,KZ07,85.2
+2017,Percent,Rural,,Batys Kazakhstan,KZ07,84.0
+2018,Percent,Rural,,Batys Kazakhstan,KZ07,84.4
+2016,Percent,Rural,Male,Batys Kazakhstan,KZ07,86.5
+2017,Percent,Rural,Male,Batys Kazakhstan,KZ07,85.3
+2018,Percent,Rural,Male,Batys Kazakhstan,KZ07,85.9
+2016,Percent,Rural,Female,Batys Kazakhstan,KZ07,84.0
+2017,Percent,Rural,Female,Batys Kazakhstan,KZ07,82.6
+2018,Percent,Rural,Female,Batys Kazakhstan,KZ07,82.8
+2016,Percent,,,Zhambyl,KZ17,75.8
+2017,Percent,,,Zhambyl,KZ17,81.9
+2018,Percent,,,Zhambyl,KZ17,83.0
+2016,Percent,,Male,Zhambyl,KZ17,77.0
+2017,Percent,,Male,Zhambyl,KZ17,82.0
+2018,Percent,,Male,Zhambyl,KZ17,84.2
+2016,Percent,,Female,Zhambyl,KZ17,74.7
+2017,Percent,,Female,Zhambyl,KZ17,81.7
+2018,Percent,,Female,Zhambyl,KZ17,81.9
+2016,Percent,Urban,,Zhambyl,KZ17,81.4
+2017,Percent,Urban,,Zhambyl,KZ17,84.2
+2018,Percent,Urban,,Zhambyl,KZ17,78.7
+2016,Percent,Urban,Male,Zhambyl,KZ17,80.7
+2017,Percent,Urban,Male,Zhambyl,KZ17,83.5
+2018,Percent,Urban,Male,Zhambyl,KZ17,78.5
+2016,Percent,Urban,Female,Zhambyl,KZ17,82.0
+2017,Percent,Urban,Female,Zhambyl,KZ17,84.8
+2018,Percent,Urban,Female,Zhambyl,KZ17,78.8
+2016,Percent,Rural,,Zhambyl,KZ17,72.1
+2017,Percent,Rural,,Zhambyl,KZ17,80.3
+2018,Percent,Rural,,Zhambyl,KZ17,85.9
+2016,Percent,Rural,Male,Zhambyl,KZ17,74.7
+2017,Percent,Rural,Male,Zhambyl,KZ17,81.0
+2018,Percent,Rural,Male,Zhambyl,KZ17,87.7
+2016,Percent,Rural,Female,Zhambyl,KZ17,69.4
+2017,Percent,Rural,Female,Zhambyl,KZ17,79.5
+2018,Percent,Rural,Female,Zhambyl,KZ17,84.1
+2016,Percent,,,Kostanay,KZ13,89.7
+2017,Percent,,,Kostanay,KZ13,93.1
+2018,Percent,,,Kostanay,KZ13,91.3
+2016,Percent,,Male,Kostanay,KZ13,91.2
+2017,Percent,,Male,Kostanay,KZ13,93.9
+2018,Percent,,Male,Kostanay,KZ13,91.4
+2016,Percent,,Female,Kostanay,KZ13,88.4
+2017,Percent,,Female,Kostanay,KZ13,92.4
+2018,Percent,,Female,Kostanay,KZ13,91.2
+2016,Percent,Urban,,Kostanay,KZ13,92.3
+2017,Percent,Urban,,Kostanay,KZ13,95.4
+2018,Percent,Urban,,Kostanay,KZ13,93.7
+2016,Percent,Urban,Male,Kostanay,KZ13,94.1
+2017,Percent,Urban,Male,Kostanay,KZ13,95.9
+2018,Percent,Urban,Male,Kostanay,KZ13,93.2
+2016,Percent,Urban,Female,Kostanay,KZ13,90.8
+2017,Percent,Urban,Female,Kostanay,KZ13,95.0
+2018,Percent,Urban,Female,Kostanay,KZ13,94.1
+2016,Percent,Rural,,Kostanay,KZ13,86.9
+2017,Percent,Rural,,Kostanay,KZ13,90.5
+2018,Percent,Rural,,Kostanay,KZ13,88.6
+2016,Percent,Rural,Male,Kostanay,KZ13,88.3
+2017,Percent,Rural,Male,Kostanay,KZ13,91.8
+2018,Percent,Rural,Male,Kostanay,KZ13,89.6
+2016,Percent,Rural,Female,Kostanay,KZ13,85.6
+2017,Percent,Rural,Female,Kostanay,KZ13,89.2
+2018,Percent,Rural,Female,Kostanay,KZ13,87.6
+2016,Percent,,,Kyzylorda,KZ14,83.9
+2017,Percent,,,Kyzylorda,KZ14,83.1
+2018,Percent,,,Kyzylorda,KZ14,85.9
+2016,Percent,,Male,Kyzylorda,KZ14,84.1
+2017,Percent,,Male,Kyzylorda,KZ14,82.8
+2018,Percent,,Male,Kyzylorda,KZ14,86.6
+2016,Percent,,Female,Kyzylorda,KZ14,83.6
+2017,Percent,,Female,Kyzylorda,KZ14,83.3
+2018,Percent,,Female,Kyzylorda,KZ14,85.2
+2016,Percent,Urban,,Kyzylorda,KZ14,91.8
+2017,Percent,Urban,,Kyzylorda,KZ14,88.7
+2018,Percent,Urban,,Kyzylorda,KZ14,93.9
+2016,Percent,Urban,Male,Kyzylorda,KZ14,90.6
+2017,Percent,Urban,Male,Kyzylorda,KZ14,89.0
+2018,Percent,Urban,Male,Kyzylorda,KZ14,93.8
+2016,Percent,Urban,Female,Kyzylorda,KZ14,93.1
+2017,Percent,Urban,Female,Kyzylorda,KZ14,88.4
+2018,Percent,Urban,Female,Kyzylorda,KZ14,94.0
+2016,Percent,Rural,,Kyzylorda,KZ14,77.8
+2017,Percent,Rural,,Kyzylorda,KZ14,78.7
+2018,Percent,Rural,,Kyzylorda,KZ14,79.7
+2016,Percent,Rural,Male,Kyzylorda,KZ14,79.4
+2017,Percent,Rural,Male,Kyzylorda,KZ14,78.3
+2018,Percent,Rural,Male,Kyzylorda,KZ14,81.2
+2016,Percent,Rural,Female,Kyzylorda,KZ14,76.1
+2017,Percent,Rural,Female,Kyzylorda,KZ14,79.2
+2018,Percent,Rural,Female,Kyzylorda,KZ14,78.1
+2016,Percent,,,Mangistau,KZ09,87.0
+2017,Percent,,,Mangistau,KZ09,89.3
+2018,Percent,,,Mangistau,KZ09,88.7
+2016,Percent,,Male,Mangistau,KZ09,87.2
+2017,Percent,,Male,Mangistau,KZ09,90.9
+2018,Percent,,Male,Mangistau,KZ09,88.6
+2016,Percent,,Female,Mangistau,KZ09,86.8
+2017,Percent,,Female,Mangistau,KZ09,87.8
+2018,Percent,,Female,Mangistau,KZ09,88.8
+2016,Percent,Urban,,Mangistau,KZ09,94.0
+2017,Percent,Urban,,Mangistau,KZ09,92.9
+2018,Percent,Urban,,Mangistau,KZ09,91.8
+2016,Percent,Urban,Male,Mangistau,KZ09,95.5
+2017,Percent,Urban,Male,Mangistau,KZ09,93.4
+2018,Percent,Urban,Male,Mangistau,KZ09,91.5
+2016,Percent,Urban,Female,Mangistau,KZ09,92.6
+2017,Percent,Urban,Female,Mangistau,KZ09,92.4
+2018,Percent,Urban,Female,Mangistau,KZ09,92.0
+2016,Percent,Rural,,Mangistau,KZ09,80.5
+2017,Percent,Rural,,Mangistau,KZ09,86.7
+2018,Percent,Rural,,Mangistau,KZ09,86.6
+2016,Percent,Rural,Male,Mangistau,KZ09,79.8
+2017,Percent,Rural,Male,Mangistau,KZ09,89.1
+2018,Percent,Rural,Male,Mangistau,KZ09,86.5
+2016,Percent,Rural,Female,Mangistau,KZ09,81.2
+2017,Percent,Rural,Female,Mangistau,KZ09,84.5
+2018,Percent,Rural,Female,Mangistau,KZ09,86.6
+2016,Percent,,,Pavlodar,KZ11,89.6
+2017,Percent,,,Pavlodar,KZ11,86.5
+2018,Percent,,,Pavlodar,KZ11,88.1
+2016,Percent,,Male,Pavlodar,KZ11,91.3
+2017,Percent,,Male,Pavlodar,KZ11,87.0
+2018,Percent,,Male,Pavlodar,KZ11,89.4
+2016,Percent,,Female,Pavlodar,KZ11,88.1
+2017,Percent,,Female,Pavlodar,KZ11,86.1
+2018,Percent,,Female,Pavlodar,KZ11,86.9
+2016,Percent,Urban,,Pavlodar,KZ11,92.1
+2017,Percent,Urban,,Pavlodar,KZ11,89.3
+2018,Percent,Urban,,Pavlodar,KZ11,91.4
+2016,Percent,Urban,Male,Pavlodar,KZ11,92.9
+2017,Percent,Urban,Male,Pavlodar,KZ11,90.3
+2018,Percent,Urban,Male,Pavlodar,KZ11,93.5
+2016,Percent,Urban,Female,Pavlodar,KZ11,91.4
+2017,Percent,Urban,Female,Pavlodar,KZ11,88.4
+2018,Percent,Urban,Female,Pavlodar,KZ11,89.6
+2016,Percent,Rural,,Pavlodar,KZ11,83.7
+2017,Percent,Rural,,Pavlodar,KZ11,79.9
+2018,Percent,Rural,,Pavlodar,KZ11,80.2
+2016,Percent,Rural,Male,Pavlodar,KZ11,87.6
+2017,Percent,Rural,Male,Pavlodar,KZ11,79.7
+2018,Percent,Rural,Male,Pavlodar,KZ11,80.6
+2016,Percent,Rural,Female,Pavlodar,KZ11,79.8
+2017,Percent,Rural,Female,Pavlodar,KZ11,80.2
+2018,Percent,Rural,Female,Pavlodar,KZ11,79.9
+2016,Percent,,,Soltustik Kazakhstan,KZ16,81.5
+2017,Percent,,,Soltustik Kazakhstan,KZ16,83.5
+2018,Percent,,,Soltustik Kazakhstan,KZ16,84.8
+2016,Percent,,Male,Soltustik Kazakhstan,KZ16,84.0
+2017,Percent,,Male,Soltustik Kazakhstan,KZ16,85.5
+2018,Percent,,Male,Soltustik Kazakhstan,KZ16,85.1
+2016,Percent,,Female,Soltustik Kazakhstan,KZ16,79.3
+2017,Percent,,Female,Soltustik Kazakhstan,KZ16,81.7
+2018,Percent,,Female,Soltustik Kazakhstan,KZ16,84.5
+2016,Percent,Urban,,Soltustik Kazakhstan,KZ16,83.1
+2017,Percent,Urban,,Soltustik Kazakhstan,KZ16,86.5
+2018,Percent,Urban,,Soltustik Kazakhstan,KZ16,86.4
+2016,Percent,Urban,Male,Soltustik Kazakhstan,KZ16,85.0
+2017,Percent,Urban,Male,Soltustik Kazakhstan,KZ16,87.7
+2018,Percent,Urban,Male,Soltustik Kazakhstan,KZ16,86.5
+2016,Percent,Urban,Female,Soltustik Kazakhstan,KZ16,81.5
+2017,Percent,Urban,Female,Soltustik Kazakhstan,KZ16,85.5
+2018,Percent,Urban,Female,Soltustik Kazakhstan,KZ16,86.3
+2016,Percent,Rural,,Soltustik Kazakhstan,KZ16,80.4
+2017,Percent,Rural,,Soltustik Kazakhstan,KZ16,81.2
+2018,Percent,Rural,,Soltustik Kazakhstan,KZ16,83.5
+2016,Percent,Rural,Male,Soltustik Kazakhstan,KZ16,83.3
+2017,Percent,Rural,Male,Soltustik Kazakhstan,KZ16,83.9
+2018,Percent,Rural,Male,Soltustik Kazakhstan,KZ16,84.1
+2016,Percent,Rural,Female,Soltustik Kazakhstan,KZ16,77.5
+2017,Percent,Rural,Female,Soltustik Kazakhstan,KZ16,78.5
+2018,Percent,Rural,Female,Soltustik Kazakhstan,KZ16,83.0
+2016,Percent,,,Turkistan,KZ10,78.1
+2017,Percent,,,Turkistan,KZ10,78.8
+2018,Percent,,,Turkistan,KZ10,80.4
+2016,Percent,,Male,Turkistan,KZ10,78.4
+2017,Percent,,Male,Turkistan,KZ10,79.7
+2018,Percent,,Male,Turkistan,KZ10,81.2
+2016,Percent,,Female,Turkistan,KZ10,77.8
+2017,Percent,,Female,Turkistan,KZ10,77.8
+2018,Percent,,Female,Turkistan,KZ10,79.5
+2016,Percent,Urban,,Turkistan,KZ10,77.5
+2017,Percent,Urban,,Turkistan,KZ10,76.6
+2018,Percent,Urban,,Turkistan,KZ10,77.9
+2016,Percent,Urban,Male,Turkistan,KZ10,77.6
+2017,Percent,Urban,Male,Turkistan,KZ10,75.8
+2018,Percent,Urban,Male,Turkistan,KZ10,78.0
+2016,Percent,Urban,Female,Turkistan,KZ10,77.4
+2017,Percent,Urban,Female,Turkistan,KZ10,77.4
+2018,Percent,Urban,Female,Turkistan,KZ10,77.8
+2016,Percent,Rural,,Turkistan,KZ10,78.3
+2017,Percent,Rural,,Turkistan,KZ10,79.3
+2018,Percent,Rural,,Turkistan,KZ10,80.9
+2016,Percent,Rural,Male,Turkistan,KZ10,78.6
+2017,Percent,Rural,Male,Turkistan,KZ10,80.6
+2018,Percent,Rural,Male,Turkistan,KZ10,82.0
+2016,Percent,Rural,Female,Turkistan,KZ10,77.9
+2017,Percent,Rural,Female,Turkistan,KZ10,77.9
+2018,Percent,Rural,Female,Turkistan,KZ10,79.9
+2016,Percent,,,Shygys Kazakhstan,KZ15,89.5
+2017,Percent,,,Shygys Kazakhstan,KZ15,85.3
+2018,Percent,,,Shygys Kazakhstan,KZ15,87.3
+2016,Percent,,Male,Shygys Kazakhstan,KZ15,91.3
+2017,Percent,,Male,Shygys Kazakhstan,KZ15,85.1
+2018,Percent,,Male,Shygys Kazakhstan,KZ15,87.7
+2016,Percent,,Female,Shygys Kazakhstan,KZ15,87.9
+2017,Percent,,Female,Shygys Kazakhstan,KZ15,85.5
+2018,Percent,,Female,Shygys Kazakhstan,KZ15,87.0
+2016,Percent,Urban,,Shygys Kazakhstan,KZ15,92.4
+2017,Percent,Urban,,Shygys Kazakhstan,KZ15,92.2
+2018,Percent,Urban,,Shygys Kazakhstan,KZ15,94.2
+2016,Percent,Urban,Male,Shygys Kazakhstan,KZ15,92.6
+2017,Percent,Urban,Male,Shygys Kazakhstan,KZ15,91.4
+2018,Percent,Urban,Male,Shygys Kazakhstan,KZ15,94.3
+2016,Percent,Urban,Female,Shygys Kazakhstan,KZ15,92.1
+2017,Percent,Urban,Female,Shygys Kazakhstan,KZ15,92.9
+2018,Percent,Urban,Female,Shygys Kazakhstan,KZ15,94.2
+2016,Percent,Rural,,Shygys Kazakhstan,KZ15,85.2
+2017,Percent,Rural,,Shygys Kazakhstan,KZ15,74.8
+2018,Percent,Rural,,Shygys Kazakhstan,KZ15,76.5
+2016,Percent,Rural,Male,Shygys Kazakhstan,KZ15,89.5
+2017,Percent,Rural,Male,Shygys Kazakhstan,KZ15,76.2
+2018,Percent,Rural,Male,Shygys Kazakhstan,KZ15,78.2
+2016,Percent,Rural,Female,Shygys Kazakhstan,KZ15,81.0
+2017,Percent,Rural,Female,Shygys Kazakhstan,KZ15,73.3
+2018,Percent,Rural,Female,Shygys Kazakhstan,KZ15,74.8
+2016,Percent,,,Nur-Sultan city,KZ05,99.6
+2017,Percent,,,Nur-Sultan city,KZ05,96.3
+2018,Percent,,,Nur-Sultan city,KZ05,94.2
+2016,Percent,Urban,Male,Nur-Sultan city,KZ05,99.4
+2017,Percent,Urban,Male,Nur-Sultan city,KZ05,96.1
+2018,Percent,Urban,Male,Nur-Sultan city,KZ05,98.5
+2016,Percent,Urban,Female,Nur-Sultan city,KZ05,99.8
+2017,Percent,Urban,Female,Nur-Sultan city,KZ05,96.5
+2018,Percent,Urban,Female,Nur-Sultan city,KZ05,90.3
+2016,Percent,,,Almaty city,KZ02,85.4
+2017,Percent,,,Almaty city,KZ02,86.5
+2018,Percent,,,Almaty city,KZ02,89.8
+2016,Percent,Urban,Male,Almaty city,KZ02,84.6
+2017,Percent,Urban,Male,Almaty city,KZ02,86.3
+2018,Percent,Urban,Male,Almaty city,KZ02,90.5
+2016,Percent,Urban,Female,Almaty city,KZ02,86.1
+2017,Percent,Urban,Female,Almaty city,KZ02,86.6
+2018,Percent,Urban,Female,Almaty city,KZ02,89.2
+2016,Percent,,,Shymkent city,KZ18,81.0
+2017,Percent,,,Shymkent city,KZ18,91.2
+2018,Percent,,,Shymkent city,KZ18,91.3
+2016,Percent,Urban,Male,Shymkent city,KZ18,81.3
+2017,Percent,Urban,Male,Shymkent city,KZ18,92.1
+2018,Percent,Urban,Male,Shymkent city,KZ18,92.4
+2016,Percent,Urban,Female,Shymkent city,KZ18,80.7
+2017,Percent,Urban,Female,Shymkent city,KZ18,90.3
+2018,Percent,Urban,Female,Shymkent city,KZ18,90.3

@@ -1,154 +1,154 @@
-Year,Units,Образование,Местность,Регионы,Квинтиль индекса благосостояния,национальность,GeoCode,Value
-2010,процент,начальное образование,,,,,,1.0
-2015,процент,начальное образование,,,,,,1.0
-2010,процент,среднее образование,,,,,,1.0
-2015,процент,среднее образование,,,,,,1.0
-2015,процент,основное среднее образование,,,,,,1.0
-2015,процент,общее среднее образование,,,,,,1.01
-2010,процент,начальное,городская местность,,,,,96.6
-2015,процент,начальное,городская местность,,,,,0.99
-2010,процент,начальное,сельская местность,,,,,97.6
-2015,процент,начальное,сельская местность,,,,,1.0
-2010,процент,начальное,,Акмолинская,,,,0.99
-2015,процент,начальное,,Акмолинская,,,,0.99
-2010,процент,начальное,,Актюбинская,,,,1.01
-2015,процент,начальное,,Актюбинская,,,,1.01
-2010,процент,начальное,,Алматинская,,,,1.01
-2015,процент,начальное,,Алматинская,,,,1.0
-2010,процент,начальное,,Атырауская,,,,1.0
-2015,процент,начальное,,Атырауская,,,,0.94
-2010,процент,начальное,,Западно-Казахстанская,,,,0.99
-2015,процент,начальное,,Западно-Казахстанская,,,,0.99
-2010,процент,начальное,,Жамбылская,,,,0.99
-2015,процент,начальное,,Жамбылская,,,,1.0
-2010,процент,начальное,,Карагандинская,,,,1.0
-2015,процент,начальное,,Карагандинская,,,,1.01
-2010,процент,начальное,,Костанайская,,,,0.99
-2015,процент,начальное,,Костанайская,,,,1.01
-2010,процент,начальное,,Кызылординская,,,,1.01
-2015,процент,начальное,,Кызылординская,,,,0.99
-2010,процент,начальное,,Мангистауская,,,,1.0
-2015,процент,начальное,,Мангистауская,,,,1.01
-2010,процент,начальное,,Южно-Казахстанская,,,,1.0
-2015,процент,начальное,,Южно-Казахстанская,,,,1.0
-2010,процент,начальное,,Павлодарская,,,,1.0
-2015,процент,начальное,,Павлодарская,,,,1.01
-2010,процент,начальное,,Северо-Казахстанская,,,,1.01
-2015,процент,начальное,,Северо-Казахстанская,,,,1.01
-2010,процент,начальное,,Восточно-Казахстанская,,,,1.0
-2015,процент,начальное,,Восточно-Казахстанская,,,,1.0
-2010,процент,начальное,,г_Нур-Султан,,,,1.0
-2015,процент,начальное,,г_Нур-Султан,,,,1.02
-2010,процент,начальное,,г_Алматы,,,,1.0
-2015,процент,начальное,,г_Алматы,,,,0.98
-2010,процент,начальное/незаконченное среднее,,,,,,1.05
-2010,процент,основное среднее,,,,,,1.0
-2015,процент,основное среднее,,,,,,0.99
-2015,процент,общее среднее,,,,,,0.99
-2010,процент,техническое и профессиональное,,,,,,1.0
-2015,процент,техническое и профессиональное,,,,,,1.0
-2010,процент,высшее,,,,,,0.99
-2015,процент,высшее,,,,,,1.0
-2010,процент,начальное,,,беднейший,,,1.0
-2015,процент,начальное,,,беднейший,,,1.01
-2010,процент,начальное,,,второй,,,1.01
-2015,процент,начальное,,,второй,,,1.0
-2010,процент,начальное,,,средний,,,0.99
-2015,процент,начальное,,,средний,,,1.0
-2010,процент,начальное,,,четвертый,,,1.0
-2015,процент,начальное,,,четвертый,,,1.0
-2010,процент,начальное,,,богатейший,,,1.0
-2015,процент,начальное,,,богатейший,,,0.99
-2010,процент,начальное,,,,казахи,,1.0
-2015,процент,начальное,,,,казахи,,1.0
-2010,процент,начальное,,,,русские,,1.0
-2015,процент,начальное,,,,русские,,0.99
-2010,процент,начальное,,,,другие,,1.0
-2015,процент,начальное,,,,другие,,1.0
-2015,процент,основное среднее,городская местность,,,,,1.0
-2015,процент,основное среднее,сельская местность,,,,,1.0
-2015,процент,основное среднее,,Акмолинская,,,,1.0
-2015,процент,основное среднее,,Актюбинская,,,,1.0
-2015,процент,основное среднее,,Алматинская,,,,1.02
-2015,процент,основное среднее,,Атырауская,,,,1.0
-2015,процент,основное среднее,,Западно-Казахстанская,,,,1.01
-2015,процент,основное среднее,,Жамбылская,,,,0.99
-2015,процент,основное среднее,,Карагандинская,,,,1.01
-2015,процент,основное среднее,,Костанайская,,,,1.0
-2015,процент,основное среднее,,Кызылординская,,,,1.0
-2015,процент,основное среднее,,Мангистауская,,,,1.0
-2015,процент,основное среднее,,Южно-Казахстанская,,,,0.99
-2015,процент,основное среднее,,Павлодарская,,,,0.99
-2015,процент,основное среднее,,Северо-Казахстанская,,,,1.01
-2015,процент,основное среднее,,Восточно-Казахстанская,,,,1.0
-2015,процент,основное среднее,,г_Нур-Султан,,,,1.01
-2015,процент,основное среднее,,г_Алматы,,,,1.02
-2015,процент,основное среднее,,,,,,1.0
-2015,процент,общее среднее,,,,,,1.01
-2015,процент,техническое и профессиональное,,,,,,1.0
-2015,процент,высшее,,,,,,0.99
-2015,процент,основное среднее,,,беднейший,,,0.99
-2015,процент,основное среднее,,,второй,,,1.01
-2015,процент,основное среднее,,,средний,,,1.0
-2015,процент,основное среднее,,,четвертый,,,1.0
-2015,процент,основное среднее,,,богатейший,,,1.0
-2015,процент,основное среднее,,,,казахи,,1.0
-2015,процент,основное среднее,,,,русские,,1.01
-2015,процент,основное среднее,,,,другие,,1.0
-2010,процент,среднее,городская местность,,,,,0.99
-2015,процент,среднее,городская местность,,,,,1.0
-2010,процент,среднее,сельская местность,,,,,1.01
-2015,процент,среднее,сельская местность,,,,,0.0
-2010,процент,среднее,,Акмолинская,,,,1.02
-2015,процент,среднее,,Акмолинская,,,,1.0
-2010,процент,среднее,,Актюбинская,,,,1.0
-2015,процент,среднее,,Актюбинская,,,,1.0
-2010,процент,среднее,,Алматинская,,,,1.03
-2015,процент,среднее,,Алматинская,,,,1.0
-2010,процент,среднее,,Атырауская,,,,1.01
-2015,процент,среднее,,Атырауская,,,,0.0
-2010,процент,среднее,,Западно-Казахстанская,,,,1.01
-2010,процент,среднее,,Жамбылская,,,,1.0
-2015,процент,среднее,,Жамбылская,,,,0.0
-2010,процент,среднее,,Карагандинская,,,,1.0
-2010,процент,среднее,,Костанайская,,,,1.0
-2015,процент,среднее,,Костанайская,,,,1.0
-2010,процент,среднее,,Кызылординская,,,,1.01
-2015,процент,среднее,,Кызылординская,,,,0.0
-2010,процент,среднее,,Мангистауская,,,,0.99
-2015,процент,среднее,,Мангистауская,,,,1.0
-2010,процент,среднее,,Южно-Казахстанская,,,,0.99
-2015,процент,среднее,,Южно-Казахстанская,,,,0.0
-2010,процент,среднее,,Павлодарская,,,,1.0
-2010,процент,среднее,,Северо-Казахстанская,,,,0.98
-2015,процент,среднее,,Северо-Казахстанская,,,,1.0
-2010,процент,среднее,,Восточно-Казахстанская,,,,0.97
-2010,процент,среднее,,г_Нур-Султан,,,,1.01
-2015,процент,среднее,,г_Нур-Султан,,,,1.0
-2010,процент,среднее,,г_Алматы,,,,0.99
-2015,процент,среднее,,г_Алматы,,,,1.0
-2010,процент,начальное/незаконченное среднее,,,,,,1.02
-2015,процент,основное среднее,,,,,,0.0
-2010,процент,общее среднее,,,,,,1.01
-2015,процент,общее среднее,,,,,,1.0
-2010,процент,техническое и профессиональное,,,,,,1.0
-2015,процент,техническое и профессиональное,,,,,,1.0
-2010,процент,высшее,,,,,,1.02
-2015,процент,высшее,,,,,,1.0
-2015,процент,невозможно определить,,,,,,1.0
-2010,процент,среднее,,,беднейший,,,1.01
-2015,процент,среднее,,,беднейший,,,1.0
-2010,процент,среднее,,,второй,,,1.0
-2015,процент,среднее,,,второй,,,1.0
-2010,процент,среднее,,,средний,,,0.99
-2015,процент,среднее,,,средний,,,0.0
-2010,процент,среднее,,,четвертый,,,1.0
-2015,процент,среднее,,,четвертый,,,1.0
-2010,процент,среднее,,,богатейший,,,1.0
-2015,процент,среднее,,,богатейший,,,1.0
-2010,процент,среднее,,,,казахи,,1.0
-2015,процент,среднее,,,,казахи,,1.0
-2010,процент,среднее,,,,русские,,0.99
-2015,процент,среднее,,,,русские,,1.0
-2010,процент,среднее,,,,другие,,1.01
-2015,процент,среднее,,,,другие,,1.0
+Year,Units,Education,Area,Regions,Квинтиль индекса благосостояния,nationality,GeoCode,Value
+2010,Percent,Elementary education,,,,,,1.0
+2015,Percent,Elementary education,,,,,,1.0
+2010,Percent,Secondary Education (Middle School),,,,,,1.0
+2015,Percent,Secondary Education (Middle School),,,,,,1.0
+2015,Percent,High education (base),,,,,,1.0
+2015,Percent,High education (general),,,,,,1.01
+2010,Percent,elementary,городская местность,,,,,96.6
+2015,Percent,elementary,городская местность,,,,,0.99
+2010,Percent,elementary,сельская местность,,,,,97.6
+2015,Percent,elementary,сельская местность,,,,,1.0
+2010,Percent,elementary,,Akmola,,,,0.99
+2015,Percent,elementary,,Akmola,,,,0.99
+2010,Percent,elementary,,Aktobe,,,,1.01
+2015,Percent,elementary,,Aktobe,,,,1.01
+2010,Percent,elementary,,Almaty,,,,1.01
+2015,Percent,elementary,,Almaty,,,,1.0
+2010,Percent,elementary,,Atyrau,,,,1.0
+2015,Percent,elementary,,Atyrau,,,,0.94
+2010,Percent,elementary,,Batys Kazakhstan,,,,0.99
+2015,Percent,elementary,,Batys Kazakhstan,,,,0.99
+2010,Percent,elementary,,Zhambyl,,,,0.99
+2015,Percent,elementary,,Zhambyl,,,,1.0
+2010,Percent,elementary,,Karagandy,,,,1.0
+2015,Percent,elementary,,Karagandy,,,,1.01
+2010,Percent,elementary,,Kostanay,,,,0.99
+2015,Percent,elementary,,Kostanay,,,,1.01
+2010,Percent,elementary,,Kyzylorda,,,,1.01
+2015,Percent,elementary,,Kyzylorda,,,,0.99
+2010,Percent,elementary,,Mangistau,,,,1.0
+2015,Percent,elementary,,Mangistau,,,,1.01
+2010,Percent,elementary,,Ontustik Kazakhstan,,,,1.0
+2015,Percent,elementary,,Ontustik Kazakhstan,,,,1.0
+2010,Percent,elementary,,Pavlodar,,,,1.0
+2015,Percent,elementary,,Pavlodar,,,,1.01
+2010,Percent,elementary,,Soltustik Kazakhstan,,,,1.01
+2015,Percent,elementary,,Soltustik Kazakhstan,,,,1.01
+2010,Percent,elementary,,Shygys Kazakhstan,,,,1.0
+2015,Percent,elementary,,Shygys Kazakhstan,,,,1.0
+2010,Percent,elementary,,Nur-Sultan city,,,,1.0
+2015,Percent,elementary,,Nur-Sultan city,,,,1.02
+2010,Percent,elementary,,Almaty city,,,,1.0
+2015,Percent,elementary,,Almaty city,,,,0.98
+2010,Percent,начальное/незаконченное среднее,,,,,,1.05
+2010,Percent,basic secondary (middle-school),,,,,,1.0
+2015,Percent,basic secondary (middle-school),,,,,,0.99
+2015,Percent,High Education (General),,,,,,0.99
+2010,Percent,Community College and Vocational type of Education,,,,,,1.0
+2015,Percent,Community College and Vocational type of Education,,,,,,1.0
+2010,Percent,Higher education,,,,,,0.99
+2015,Percent,Higher education,,,,,,1.0
+2010,Percent,elementary,,,extreme poverty,,,1.0
+2015,Percent,elementary,,,extreme poverty,,,1.01
+2010,Percent,elementary,,,second,,,1.01
+2015,Percent,elementary,,,second,,,1.0
+2010,Percent,elementary,,,third,,,0.99
+2015,Percent,elementary,,,third,,,1.0
+2010,Percent,elementary,,,fourth,,,1.0
+2015,Percent,elementary,,,fourth,,,1.0
+2010,Percent,elementary,,,wealthy,,,1.0
+2015,Percent,elementary,,,wealthy,,,0.99
+2010,Percent,elementary,,,,Kazakh,,1.0
+2015,Percent,elementary,,,,Kazakh,,1.0
+2010,Percent,elementary,,,,Russian,,1.0
+2015,Percent,elementary,,,,Russian,,0.99
+2010,Percent,elementary,,,,Other,,1.0
+2015,Percent,elementary,,,,Other,,1.0
+2015,Percent,basic secondary (middle-school),городская местность,,,,,1.0
+2015,Percent,basic secondary (middle-school),сельская местность,,,,,1.0
+2015,Percent,basic secondary (middle-school),,Akmola,,,,1.0
+2015,Percent,basic secondary (middle-school),,Aktobe,,,,1.0
+2015,Percent,basic secondary (middle-school),,Almaty,,,,1.02
+2015,Percent,basic secondary (middle-school),,Atyrau,,,,1.0
+2015,Percent,basic secondary (middle-school),,Batys Kazakhstan,,,,1.01
+2015,Percent,basic secondary (middle-school),,Zhambyl,,,,0.99
+2015,Percent,basic secondary (middle-school),,Karagandy,,,,1.01
+2015,Percent,basic secondary (middle-school),,Kostanay,,,,1.0
+2015,Percent,basic secondary (middle-school),,Kyzylorda,,,,1.0
+2015,Percent,basic secondary (middle-school),,Mangistau,,,,1.0
+2015,Percent,basic secondary (middle-school),,Ontustik Kazakhstan,,,,0.99
+2015,Percent,basic secondary (middle-school),,Pavlodar,,,,0.99
+2015,Percent,basic secondary (middle-school),,Soltustik Kazakhstan,,,,1.01
+2015,Percent,basic secondary (middle-school),,Shygys Kazakhstan,,,,1.0
+2015,Percent,basic secondary (middle-school),,Nur-Sultan city,,,,1.01
+2015,Percent,basic secondary (middle-school),,Almaty city,,,,1.02
+2015,Percent,basic secondary (middle-school),,,,,,1.0
+2015,Percent,High Education (General),,,,,,1.01
+2015,Percent,Community College and Vocational type of Education,,,,,,1.0
+2015,Percent,Higher education,,,,,,0.99
+2015,Percent,basic secondary (middle-school),,,extreme poverty,,,0.99
+2015,Percent,basic secondary (middle-school),,,second,,,1.01
+2015,Percent,basic secondary (middle-school),,,third,,,1.0
+2015,Percent,basic secondary (middle-school),,,fourth,,,1.0
+2015,Percent,basic secondary (middle-school),,,wealthy,,,1.0
+2015,Percent,basic secondary (middle-school),,,,Kazakh,,1.0
+2015,Percent,basic secondary (middle-school),,,,Russian,,1.01
+2015,Percent,basic secondary (middle-school),,,,Other,,1.0
+2010,Percent,secondary (high school),городская местность,,,,,0.99
+2015,Percent,secondary (high school),городская местность,,,,,1.0
+2010,Percent,secondary (high school),сельская местность,,,,,1.01
+2015,Percent,secondary (high school),сельская местность,,,,,0.0
+2010,Percent,secondary (high school),,Akmola,,,,1.02
+2015,Percent,secondary (high school),,Akmola,,,,1.0
+2010,Percent,secondary (high school),,Aktobe,,,,1.0
+2015,Percent,secondary (high school),,Aktobe,,,,1.0
+2010,Percent,secondary (high school),,Almaty,,,,1.03
+2015,Percent,secondary (high school),,Almaty,,,,1.0
+2010,Percent,secondary (high school),,Atyrau,,,,1.01
+2015,Percent,secondary (high school),,Atyrau,,,,0.0
+2010,Percent,secondary (high school),,Batys Kazakhstan,,,,1.01
+2010,Percent,secondary (high school),,Zhambyl,,,,1.0
+2015,Percent,secondary (high school),,Zhambyl,,,,0.0
+2010,Percent,secondary (high school),,Karagandy,,,,1.0
+2010,Percent,secondary (high school),,Kostanay,,,,1.0
+2015,Percent,secondary (high school),,Kostanay,,,,1.0
+2010,Percent,secondary (high school),,Kyzylorda,,,,1.01
+2015,Percent,secondary (high school),,Kyzylorda,,,,0.0
+2010,Percent,secondary (high school),,Mangistau,,,,0.99
+2015,Percent,secondary (high school),,Mangistau,,,,1.0
+2010,Percent,secondary (high school),,Ontustik Kazakhstan,,,,0.99
+2015,Percent,secondary (high school),,Ontustik Kazakhstan,,,,0.0
+2010,Percent,secondary (high school),,Pavlodar,,,,1.0
+2010,Percent,secondary (high school),,Soltustik Kazakhstan,,,,0.98
+2015,Percent,secondary (high school),,Soltustik Kazakhstan,,,,1.0
+2010,Percent,secondary (high school),,Shygys Kazakhstan,,,,0.97
+2010,Percent,secondary (high school),,Nur-Sultan city,,,,1.01
+2015,Percent,secondary (high school),,Nur-Sultan city,,,,1.0
+2010,Percent,secondary (high school),,Almaty city,,,,0.99
+2015,Percent,secondary (high school),,Almaty city,,,,1.0
+2010,Percent,начальное/незаконченное среднее,,,,,,1.02
+2015,Percent,basic secondary (middle-school),,,,,,0.0
+2010,Percent,High Education (General),,,,,,1.01
+2015,Percent,High Education (General),,,,,,1.0
+2010,Percent,Community College and Vocational type of Education,,,,,,1.0
+2015,Percent,Community College and Vocational type of Education,,,,,,1.0
+2010,Percent,Higher education,,,,,,1.02
+2015,Percent,Higher education,,,,,,1.0
+2015,Percent,undetermined,,,,,,1.0
+2010,Percent,secondary (high school),,,extreme poverty,,,1.01
+2015,Percent,secondary (high school),,,extreme poverty,,,1.0
+2010,Percent,secondary (high school),,,second,,,1.0
+2015,Percent,secondary (high school),,,second,,,1.0
+2010,Percent,secondary (high school),,,third,,,0.99
+2015,Percent,secondary (high school),,,third,,,0.0
+2010,Percent,secondary (high school),,,fourth,,,1.0
+2015,Percent,secondary (high school),,,fourth,,,1.0
+2010,Percent,secondary (high school),,,wealthy,,,1.0
+2015,Percent,secondary (high school),,,wealthy,,,1.0
+2010,Percent,secondary (high school),,,,Kazakh,,1.0
+2015,Percent,secondary (high school),,,,Kazakh,,1.0
+2010,Percent,secondary (high school),,,,Russian,,0.99
+2015,Percent,secondary (high school),,,,Russian,,1.0
+2010,Percent,secondary (high school),,,,Other,,1.01
+2015,Percent,secondary (high school),,,,Other,,1.0

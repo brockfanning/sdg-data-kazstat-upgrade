@@ -1,28 +1,28 @@
-Year,Units,Доходы бюджета,Value
-2010,процент,,27.2
-2011,процент,,38.4
-2012,процент,,36.8
-2013,процент,,34.6
-2014,процент,,32.0
-2015,процент,,12.9
-2016,процент,,14.1
-2017,процент,,18.5
-2018,процент,,24.1
-2010,процент,Корпоративный подоходный налог,12.3
-2011,процент,Корпоративный подоходный налог,13.6
-2012,процент,Корпоративный подоходный налог,12.8
-2013,процент,Корпоративный подоходный налог,12.6
-2014,процент,Корпоративный подоходный налог,12.1
-2015,процент,Корпоративный подоходный налог,4.5
-2016,процент,Корпоративный подоходный налог,5.5
-2017,процент,Корпоративный подоходный налог,7.2
-2018,процент,Корпоративный подоходный налог,10.4
-2010,процент,Поступления за использование природных и других ресурсов,14.9
-2011,процент,Поступления за использование природных и других ресурсов,24.8
-2012,процент,Поступления за использование природных и других ресурсов,24.0
-2013,процент,Поступления за использование природных и других ресурсов,22.0
-2014,процент,Поступления за использование природных и других ресурсов,19.9
-2015,процент,Поступления за использование природных и других ресурсов,8.4
-2016,процент,Поступления за использование природных и других ресурсов,8.6
-2017,процент,Поступления за использование природных и других ресурсов,11.3
-2018,процент,Поступления за использование природных и других ресурсов,13.8
+Year,Units,Budget Income,Value
+2010,Percent,,27.2
+2011,Percent,,38.4
+2012,Percent,,36.8
+2013,Percent,,34.6
+2014,Percent,,32.0
+2015,Percent,,12.9
+2016,Percent,,14.1
+2017,Percent,,18.5
+2018,Percent,,24.1
+2010,Percent,Corporate Income Tax,12.3
+2011,Percent,Corporate Income Tax,13.6
+2012,Percent,Corporate Income Tax,12.8
+2013,Percent,Corporate Income Tax,12.6
+2014,Percent,Corporate Income Tax,12.1
+2015,Percent,Corporate Income Tax,4.5
+2016,Percent,Corporate Income Tax,5.5
+2017,Percent,Corporate Income Tax,7.2
+2018,Percent,Corporate Income Tax,10.4
+2010,Percent,Royalties related to use of resources,14.9
+2011,Percent,Royalties related to use of resources,24.8
+2012,Percent,Royalties related to use of resources,24.0
+2013,Percent,Royalties related to use of resources,22.0
+2014,Percent,Royalties related to use of resources,19.9
+2015,Percent,Royalties related to use of resources,8.4
+2016,Percent,Royalties related to use of resources,8.6
+2017,Percent,Royalties related to use of resources,11.3
+2018,Percent,Royalties related to use of resources,13.8

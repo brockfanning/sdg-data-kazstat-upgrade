@@ -1,13 +1,13 @@
-Year,Units,Возраст,Период времени,Вид насилия,Виды снижения зарегистированных фактов бытового насилия,Value
-2015,процент,женщины в возрасте 18-75 лет,в течение жизни,физическое насилие,,16.2
-2015,процент,женщины в возрасте 18-75 лет,в течение жизни,сексуальное насилие,,3.6
-2015,процент,женщины в возрасте 18-75 лет,в течение жизни,физическое насилие и/или сексуальное насилие,,16.5
-2015,процент,женщины в возрасте 18-75 лет,в последние 12 месяцев,физическое насилие,,4.5
-2015,процент,женщины в возрасте 18-75 лет,в последние 12 месяцев,сексуальное насилие,,1.0
-2015,процент,женщины в возрасте 18-75 лет,в последние 12 месяцев,физическое насилие и/или сексуальное насилие,,4.7
-2015,процент,,в течение жизни,физическое насилие,,16.0
-2015,процент,,в течение жизни,сексуальное насилие,,3.9
-2015,процент,,в течение жизни,физическое насилие и/или сексуальное насилие,,16.4
-2015,процент,,в последние 12 месяцев,физическое насилие,,5.3
-2015,процент,,в последние 12 месяцев,сексуальное насилие,,1.2
-2015,процент,,в последние 12 месяцев,физическое насилие и/или сексуальное насилие,,5.6
+Year,Units,Age,Period of time,Kind of violence,Виды снижения зарегистированных фактов бытового насилия,Value
+2015,Percent,Women: age 18-75 years old,During lifetime,Physical violence,,16.2
+2015,Percent,Women: age 18-75 years old,During lifetime,Sexual harassment,,3.6
+2015,Percent,Women: age 18-75 years old,During lifetime,Physical violence/sexual harassment,,16.5
+2015,Percent,Women: age 18-75 years old,In the last 12 months,Physical violence,,4.5
+2015,Percent,Women: age 18-75 years old,In the last 12 months,Sexual harassment,,1.0
+2015,Percent,Women: age 18-75 years old,In the last 12 months,Physical violence/sexual harassment,,4.7
+2015,Percent,,During lifetime,Physical violence,,16.0
+2015,Percent,,During lifetime,Sexual harassment,,3.9
+2015,Percent,,During lifetime,Physical violence/sexual harassment,,16.4
+2015,Percent,,In the last 12 months,Physical violence,,5.3
+2015,Percent,,In the last 12 months,Sexual harassment,,1.2
+2015,Percent,,In the last 12 months,Physical violence/sexual harassment,,5.6

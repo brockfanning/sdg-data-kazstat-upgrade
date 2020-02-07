@@ -1,4 +1,4 @@
 From,To
-Доход,Пол
-Доход,Местность
-Доход,Регионы
+Income,Sex
+Income,Area
+Income,Regions

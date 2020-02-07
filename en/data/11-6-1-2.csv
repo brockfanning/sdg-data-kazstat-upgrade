@@ -1,4 +1,4 @@
-Year,Units,экология,Value
-2016,процент,"Доля полигонов, соответствующих экологическим требованиям и санитарным нормам",15.0
-2017,процент,"Доля полигонов, соответствующих экологическим требованиям и санитарным нормам",16.0
-2018,процент,"Доля полигонов, соответствующих экологическим требованиям и санитарным нормам",17.5
+Year,Units,ecology,Value
+2016,Percent,The proportion of landfills that comply with environmental requirements and sanitary standards,15.0
+2017,Percent,The proportion of landfills that comply with environmental requirements and sanitary standards,16.0
+2018,Percent,The proportion of landfills that comply with environmental requirements and sanitary standards,17.5

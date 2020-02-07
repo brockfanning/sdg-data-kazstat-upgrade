@@ -1,5 +1,5 @@
 From,To
-Степень безопасности,Местность
-Степень безопасности,Пол
-Степень безопасности,национальность
-Степень безопасности,Возраст
+Safety grade,Area
+Safety grade,Sex
+Safety grade,nationality
+Safety grade,Age
