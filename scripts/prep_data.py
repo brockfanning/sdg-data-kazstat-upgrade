@@ -27,16 +27,21 @@ translations = [
 ]
 
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
-opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site', translations=translations)
+opensdg_output = sdg.outputs.OutputOpenSdg(
+    inputs,
+    schema,
+    translations=translations
+)
 
 # Create an output for GeoJSON as well.
 geometry_file = 'kazakhstan_regions.geojson'
 name_property = 'kzName'
 id_property = 'kzCode'
-id_column = 'GeoCode'
-geojson_output = sdg.outputs.OutputGeoJson(inputs, schema, output_folder='_site',
-                                           translations=translations,
-                                           geometry_file=geometry_file,
-                                           name_property=name_property,
-                                           id_property=id_property,
-                                           id_column=id_column)
+geojson_output = sdg.outputs.OutputGeoJson(
+    inputs,
+    schema,
+    translations=translations,
+    geometry_file='kazakhstan_regions.geojson',
+    name_property='kzName',
+    id_property='kzCode'
+)
