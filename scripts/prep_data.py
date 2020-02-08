@@ -38,7 +38,6 @@ geojson_output = sdg.outputs.OutputGeoJson(
     inputs,
     schema,
     translations=translations,
-    geometry_file='kazakhstan_regions.geojson',
     name_property='kzName',
     id_property='kzCode'
 )
