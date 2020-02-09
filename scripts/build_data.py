@@ -1,5 +1,3 @@
-import prep_data
+from sdg.open_sdg import open_sdg_build
 
-languages = ['ru', 'kk', 'en']
-prep_data.opensdg_output.execute_per_language(languages)
-prep_data.geojson_output.execute_per_language(languages)
+open_sdg_build(config='config_data.yml')
