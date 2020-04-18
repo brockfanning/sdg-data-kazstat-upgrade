@@ -14,11 +14,13 @@ languages:
 # Translation repositories
 # ------------------------
 # This tells sdg-build to import translations from Git repositories. Specific
-# tags or branches should be indicated after an "@" symbol. The default is the
-# two GitHub repositories 'translations-un-sdg' and 'translations-open-sdg'.
+# tags or branches should be indicated after an "@" symbol.
 translations:
-  - https://github.com/open-sdg/translations-un-sdg.git@master
-  - https://github.com/open-sdg/translations-open-sdg.git@master
+  - class: TranslationInputSdgTranslations
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: master
+  - class: TranslationInputYaml
+    source: translations
 
 # Source directory
 # ----------------
