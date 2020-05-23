@@ -100,12 +100,7 @@ prose:
                 value: 'meta.customisation-4'
                 translation_key: 'meta.customisation-4'
             scope: national
-      - name: "indicator_name_national"
-        field:
-            element: text
-            label: "National indicator name"
-            scope: national
-      - name: "national_indicator_available"
+      - name: "indicator_available"
         field:
             element: text
             label: "Indicator available"
