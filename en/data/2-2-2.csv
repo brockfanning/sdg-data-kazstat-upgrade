@@ -1,84 +1,84 @@
-Year,Units,Rate of deviation,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Sex,Area,Regions,Age,Mother's education,Wealth index quintile,Nationality of the head of household,Value
+Year,Units,Rate of deviation,Growth-age-average Z-score (SD standard deviation),Sex,Area,Regions,Age,Mother's education,Wealth index quintile,Nationality of the head of household,Value
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,,,,,,4.1
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,,,,,,3.1
 2010,Percent,Strong deviation from the norm,,,,,,,,,1.7
 2015,Percent,Strong deviation from the norm,,,,,,,,,1.1
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),всего,,,,,,,13.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),всего,,,,,,,9.3
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Male,,,,,,,14.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Male,,,,,,,8.7
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Female,,,,,,,11.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Female,,,,,,,10.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,Population of urban areas,,,,,,13.7
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,Population of urban areas,,,,,,11.2
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,Population of rural areas,,,,,,13.0
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,Population of rural areas,,,,,,7.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Akmola,,,,,13.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Akmola,,,,,4.9
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Aktobe,,,,,33.5
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Aktobe,,,,,10.3
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Almaty,,,,,7.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Almaty,,,,,6.3
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Atyrau,,,,,16.2
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Atyrau,,,,,14.7
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Batys Kazakhstan,,,,,6.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Batys Kazakhstan,,,,,8.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Zhambyl,,,,,21.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Zhambyl,,,,,6.1
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Karagandy,,,,,6.1
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Karagandy,,,,,6.4
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Kostanay,,,,,6.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Kostanay,,,,,12.5
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Kyzylorda,,,,,6.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Kyzylorda,,,,,8.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Mangistau,,,,,15.7
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Mangistau,,,,,4.9
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Ontustik Kazakhstan,,,,,11.1
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Ontustik Kazakhstan,,,,,7.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Pavlodar,,,,,13.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Pavlodar,,,,,9.7
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Soltustik Kazakhstan,,,,,11.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Soltustik Kazakhstan,,,,,5.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Shygys Kazakhstan,,,,,20.2
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Shygys Kazakhstan,,,,,9.2
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Nur-Sultan city,,,,,22.1
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Nur-Sultan city,,,,,16.2
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Almaty city,,,,,15.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Almaty city,,,,,21.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,0-5 месяцев,,,,9.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,0-5 месяцев,,,,5.8
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,6-11 месяцев,,,,19.0
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,6-11 месяцев,,,,12.5
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,12-17 месяцев,,,,15.1
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,18-23 месяцев,,,,10.1
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,12-23 месяцев,,,,17.4
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,24-35 месяцев,,,,12.9
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,24-35 месяцев,,,,10.5
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,36-47 months,,,,11.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,36-47 months,,,,8.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,48-59 months,,,,9.7
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,48-59 months,,,,6.5
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,No education/Elementary education,,,6.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,basic secondary (middle-school),,,4.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,High Education (General),,,12.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,High Education (General),,,8.9
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,Community College and Vocational type of Education,,,14.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,Community College and Vocational type of Education,,,9.1
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,Higher education,,,13.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,Higher education,,,10.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,extreme poverty,,12.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,extreme poverty,,7.7
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,second,,12.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,second,,7.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,third,,11.0
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,third,,8.9
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,fourth,,14.7
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,fourth,,11.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,wealthy,,16.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,wealthy,,12.5
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Kazakh,13.9
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Kazakh,10.2
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Russian,12.9
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Russian,9.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Other,10.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Other,6.3
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),Total,,,,,,,13.3
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),Total,,,,,,,9.3
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),Male,,,,,,,14.8
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),Male,,,,,,,8.7
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),Female,,,,,,,11.8
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),Female,,,,,,,10.0
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,Population of urban areas,,,,,,13.7
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,Population of urban areas,,,,,,11.2
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,Population of rural areas,,,,,,13.0
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,Population of rural areas,,,,,,7.6
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Akmola,,,,,13.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Akmola,,,,,4.9
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Aktobe,,,,,33.5
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Aktobe,,,,,10.3
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Almaty,,,,,7.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Almaty,,,,,6.3
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Atyrau,,,,,16.2
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Atyrau,,,,,14.7
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Batys Kazakhstan,,,,,6.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Batys Kazakhstan,,,,,8.0
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Zhambyl,,,,,21.3
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Zhambyl,,,,,6.1
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Karagandy,,,,,6.1
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Karagandy,,,,,6.4
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Kostanay,,,,,6.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Kostanay,,,,,12.5
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Kyzylorda,,,,,6.8
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Kyzylorda,,,,,8.6
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Mangistau,,,,,15.7
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Mangistau,,,,,4.9
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Ontustik Kazakhstan,,,,,11.1
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Ontustik Kazakhstan,,,,,7.6
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Pavlodar,,,,,13.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Pavlodar,,,,,9.7
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Soltustik Kazakhstan,,,,,11.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Soltustik Kazakhstan,,,,,5.6
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Shygys Kazakhstan,,,,,20.2
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Shygys Kazakhstan,,,,,9.2
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Nur-Sultan city,,,,,22.1
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Nur-Sultan city,,,,,16.2
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,Almaty city,,,,,15.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,Almaty city,,,,,21.6
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,0-5 months,,,,9.8
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,0-5 months,,,,5.8
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,6-11 months,,,,19.0
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,6-11 months,,,,12.5
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,12-17 months,,,,15.1
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,18-23 months,,,,10.1
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,12-23 months,,,,17.4
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,24-35 months,,,,12.9
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,24-35 months,,,,10.5
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,36-47 months,,,,11.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,36-47 months,,,,8.0
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,48-59 months,,,,9.7
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,48-59 months,,,,6.5
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,No education/Elementary education,,,6.3
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,basic secondary (middle-school),,,4.0
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,High Education (General),,,12.3
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,High Education (General),,,8.9
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,Community College and Vocational type of Education,,,14.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,Community College and Vocational type of Education,,,9.1
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,Higher education,,,13.8
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,Higher education,,,10.6
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,extreme poverty,,12.8
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,extreme poverty,,7.7
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,second,,12.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,second,,7.0
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,third,,11.0
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,third,,8.9
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,fourth,,14.7
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,fourth,,11.6
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,wealthy,,16.3
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,wealthy,,12.5
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,,Kazakh,13.9
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,,Kazakh,10.2
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,,Russian,12.9
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,,Russian,9.0
+2010,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,,Other,10.6
+2015,Percent,,Growth-age-average Z-score (SD standard deviation),,,,,,,Other,6.3

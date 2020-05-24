@@ -1,14 +1,14 @@
-Year,Units,Education,Area,Regions,Квинтиль индекса благосостояния,nationality,GeoCode,Value
+Year,Units,Education,Area,Regions,Welfare Index Quintile,nationality,GeoCode,Value
 2010,Percent,Elementary education,,,,,,1.0
 2015,Percent,Elementary education,,,,,,1.0
 2010,Percent,Secondary Education (Middle School),,,,,,1.0
 2015,Percent,Secondary Education (Middle School),,,,,,1.0
 2015,Percent,High education (base),,,,,,1.0
 2015,Percent,High education (general),,,,,,1.01
-2010,Percent,elementary,городская местность,,,,,96.6
-2015,Percent,elementary,городская местность,,,,,0.99
-2010,Percent,elementary,сельская местность,,,,,97.6
-2015,Percent,elementary,сельская местность,,,,,1.0
+2010,Percent,elementary,urban area,,,,,96.6
+2015,Percent,elementary,urban area,,,,,0.99
+2010,Percent,elementary,countryside,,,,,97.6
+2015,Percent,elementary,countryside,,,,,1.0
 2010,Percent,elementary,,Akmola,,,,0.99
 2015,Percent,elementary,,Akmola,,,,0.99
 2010,Percent,elementary,,Aktobe,,,,1.01
@@ -41,7 +41,7 @@ Year,Units,Education,Area,Regions,Квинтиль индекса благосо
 2015,Percent,elementary,,Nur-Sultan city,,,,1.02
 2010,Percent,elementary,,Almaty city,,,,1.0
 2015,Percent,elementary,,Almaty city,,,,0.98
-2010,Percent,начальное/незаконченное среднее,,,,,,1.05
+2010,Percent,primary / incomplete secondary,,,,,,1.05
 2010,Percent,basic secondary (middle-school),,,,,,1.0
 2015,Percent,basic secondary (middle-school),,,,,,0.99
 2015,Percent,High Education (General),,,,,,0.99
@@ -65,8 +65,8 @@ Year,Units,Education,Area,Regions,Квинтиль индекса благосо
 2015,Percent,elementary,,,,Russian,,0.99
 2010,Percent,elementary,,,,Other,,1.0
 2015,Percent,elementary,,,,Other,,1.0
-2015,Percent,basic secondary (middle-school),городская местность,,,,,1.0
-2015,Percent,basic secondary (middle-school),сельская местность,,,,,1.0
+2015,Percent,basic secondary (middle-school),urban area,,,,,1.0
+2015,Percent,basic secondary (middle-school),countryside,,,,,1.0
 2015,Percent,basic secondary (middle-school),,Akmola,,,,1.0
 2015,Percent,basic secondary (middle-school),,Aktobe,,,,1.0
 2015,Percent,basic secondary (middle-school),,Almaty,,,,1.02
@@ -95,10 +95,10 @@ Year,Units,Education,Area,Regions,Квинтиль индекса благосо
 2015,Percent,basic secondary (middle-school),,,,Kazakh,,1.0
 2015,Percent,basic secondary (middle-school),,,,Russian,,1.01
 2015,Percent,basic secondary (middle-school),,,,Other,,1.0
-2010,Percent,secondary (high school),городская местность,,,,,0.99
-2015,Percent,secondary (high school),городская местность,,,,,1.0
-2010,Percent,secondary (high school),сельская местность,,,,,1.01
-2015,Percent,secondary (high school),сельская местность,,,,,0.0
+2010,Percent,secondary (high school),urban area,,,,,0.99
+2015,Percent,secondary (high school),urban area,,,,,1.0
+2010,Percent,secondary (high school),countryside,,,,,1.01
+2015,Percent,secondary (high school),countryside,,,,,0.0
 2010,Percent,secondary (high school),,Akmola,,,,1.02
 2015,Percent,secondary (high school),,Akmola,,,,1.0
 2010,Percent,secondary (high school),,Aktobe,,,,1.0
@@ -127,7 +127,7 @@ Year,Units,Education,Area,Regions,Квинтиль индекса благосо
 2015,Percent,secondary (high school),,Nur-Sultan city,,,,1.0
 2010,Percent,secondary (high school),,Almaty city,,,,0.99
 2015,Percent,secondary (high school),,Almaty city,,,,1.0
-2010,Percent,начальное/незаконченное среднее,,,,,,1.02
+2010,Percent,primary / incomplete secondary,,,,,,1.02
 2015,Percent,basic secondary (middle-school),,,,,,0.0
 2010,Percent,High Education (General),,,,,,1.01
 2015,Percent,High Education (General),,,,,,1.0

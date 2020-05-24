@@ -1,13 +1,13 @@
 Year,Units,health care,Value
-2015,per 1000 population,Обеспеченность врачами (без зубных),3.95
-2016,per 1000 population,Обеспеченность врачами (без зубных),4.16
-2017,per 1000 population,Обеспеченность врачами (без зубных),3.97
-2015,per 1000 population,Обеспеченность средними медицинскими работниками на 1 000 населения,7.22
-2016,per 1000 population,Обеспеченность средними медицинскими работниками на 1 000 населения,7.28
-2017,per 1000 population,Обеспеченность средними медицинскими работниками на 1 000 населения,7.56
-2015,per 1000 population,Обеспеченность стоматологами на 1 000 населения (включая зубных техников),0.36
-2016,per 1000 population,Обеспеченность стоматологами на 1 000 населения (включая зубных техников),0.42
-2017,per 1000 population,Обеспеченность стоматологами на 1 000 населения (включая зубных техников),0.37
-2015,per 1000 population,Обеспеченность фармацевтическими работниками на 1 000 населения (включая провизоров),0.81
-2016,per 1000 population,Обеспеченность фармацевтическими работниками на 1 000 населения (включая провизоров),0.69
-2017,per 1000 population,Обеспеченность фармацевтическими работниками на 1 000 населения (включая провизоров),0.49
+2015,per 1000 population,Provision of doctors (without dental),3.95
+2016,per 1000 population,Provision of doctors (without dental),4.16
+2017,per 1000 population,Provision of doctors (without dental),3.97
+2015,per 1000 population,"Provision of paramedical workers per 1,000 population",7.22
+2016,per 1000 population,"Provision of paramedical workers per 1,000 population",7.28
+2017,per 1000 population,"Provision of paramedical workers per 1,000 population",7.56
+2015,per 1000 population,"Provision of dentists per 1,000 population (including dental technicians)",0.36
+2016,per 1000 population,"Provision of dentists per 1,000 population (including dental technicians)",0.42
+2017,per 1000 population,"Provision of dentists per 1,000 population (including dental technicians)",0.37
+2015,per 1000 population,"Provision of pharmaceutical workers per 1,000 population (including pharmacists)",0.81
+2016,per 1000 population,"Provision of pharmaceutical workers per 1,000 population (including pharmacists)",0.69
+2017,per 1000 population,"Provision of pharmaceutical workers per 1,000 population (including pharmacists)",0.49

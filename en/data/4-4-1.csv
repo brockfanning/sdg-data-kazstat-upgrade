@@ -7,26 +7,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,,19.8
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,,19.5
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,,22.2
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",,45.2
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",,56.1
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",,67.1
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",,74.2
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),,37.2
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),,48.4
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),,48.3
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),,70.7
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",,45.2
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",,56.1
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",,67.1
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",,74.2
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),,37.2
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),,48.4
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),,48.3
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),,70.7
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",,13.2
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",,19.1
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",,19.2
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",,22.1
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",,14.7
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",,16.7
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",,20.5
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",,24.0
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",,20.0
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",,28.5
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",,28.0
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",,29.7
+2015,Percent,Age 15-24 years old,"Search, download and install software",,14.7
+2016,Percent,Age 15-24 years old,"Search, download and install software",,16.7
+2017,Percent,Age 15-24 years old,"Search, download and install software",,20.5
+2018,Percent,Age 15-24 years old,"Search, download and install software",,24.0
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",,20.0
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",,28.5
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",,28.0
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",,29.7
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,,19.5
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,,25.1
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,,23.5
@@ -43,26 +43,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Akmola,28.8
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Akmola,36.2
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Akmola,37.0
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Akmola,46.1
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Akmola,61.3
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Akmola,67.2
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Akmola,92.6
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Akmola,50.3
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Akmola,65.9
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Akmola,50.4
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Akmola,90.0
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Akmola,46.1
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Akmola,61.3
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Akmola,67.2
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Akmola,92.6
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Akmola,50.3
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Akmola,65.9
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Akmola,50.4
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Akmola,90.0
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Akmola,30.4
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Akmola,26.3
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Akmola,32.1
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Akmola,37.6
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Akmola,22.0
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Akmola,22.0
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Akmola,20.0
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Akmola,24.4
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Akmola,32.2
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Akmola,47.9
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Akmola,48.2
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Akmola,49.0
+2015,Percent,Age 15-24 years old,"Search, download and install software",Akmola,22.0
+2016,Percent,Age 15-24 years old,"Search, download and install software",Akmola,22.0
+2017,Percent,Age 15-24 years old,"Search, download and install software",Akmola,20.0
+2018,Percent,Age 15-24 years old,"Search, download and install software",Akmola,24.4
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Akmola,32.2
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Akmola,47.9
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Akmola,48.2
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Akmola,49.0
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Akmola,34.9
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Akmola,48.0
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Akmola,49.4
@@ -79,26 +79,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Aktobe,17.2
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Aktobe,18.7
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Aktobe,21.8
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Aktobe,50.2
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Aktobe,67.8
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Aktobe,88.6
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Aktobe,90.2
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Aktobe,36.4
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Aktobe,48.7
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Aktobe,49.1
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Aktobe,92.3
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Aktobe,50.2
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Aktobe,67.8
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Aktobe,88.6
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Aktobe,90.2
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Aktobe,36.4
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Aktobe,48.7
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Aktobe,49.1
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Aktobe,92.3
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Aktobe,14.0
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Aktobe,19.8
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Aktobe,30.7
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Aktobe,37.1
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Aktobe,16.4
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Aktobe,20.1
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Aktobe,23.5
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Aktobe,27.1
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Aktobe,18.8
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Aktobe,34.5
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Aktobe,31.0
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Aktobe,47.1
+2015,Percent,Age 15-24 years old,"Search, download and install software",Aktobe,16.4
+2016,Percent,Age 15-24 years old,"Search, download and install software",Aktobe,20.1
+2017,Percent,Age 15-24 years old,"Search, download and install software",Aktobe,23.5
+2018,Percent,Age 15-24 years old,"Search, download and install software",Aktobe,27.1
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Aktobe,18.8
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Aktobe,34.5
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Aktobe,31.0
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Aktobe,47.1
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Aktobe,21.0
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Aktobe,24.3
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Aktobe,38.2
@@ -115,26 +115,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty,17.9
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty,17.7
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty,16.7
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty,40.3
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty,56.8
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty,71.9
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty,83.2
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty,31.4
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty,45.6
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty,43.9
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty,75.0
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Almaty,40.3
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Almaty,56.8
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Almaty,71.9
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Almaty,83.2
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty,31.4
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty,45.6
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty,43.9
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty,75.0
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Almaty,7.6
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Almaty,22.1
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Almaty,21.5
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Almaty,20.8
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Almaty,10.7
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Almaty,8.0
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Almaty,18.0
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Almaty,11.0
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty,9.5
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty,30.2
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty,17.6
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty,15.9
+2015,Percent,Age 15-24 years old,"Search, download and install software",Almaty,10.7
+2016,Percent,Age 15-24 years old,"Search, download and install software",Almaty,8.0
+2017,Percent,Age 15-24 years old,"Search, download and install software",Almaty,18.0
+2018,Percent,Age 15-24 years old,"Search, download and install software",Almaty,11.0
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty,9.5
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty,30.2
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty,17.6
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty,15.9
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Almaty,21.1
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Almaty,10.7
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Almaty,10.9
@@ -151,26 +151,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Atyrau,9.2
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Atyrau,14.0
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Atyrau,27.0
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Atyrau,56.2
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Atyrau,77.7
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Atyrau,79.8
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Atyrau,62.2
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Atyrau,30.4
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Atyrau,35.9
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Atyrau,37.1
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Atyrau,75.7
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Atyrau,56.2
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Atyrau,77.7
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Atyrau,79.8
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Atyrau,62.2
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Atyrau,30.4
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Atyrau,35.9
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Atyrau,37.1
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Atyrau,75.7
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Atyrau,4.6
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Atyrau,13.0
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Atyrau,11.1
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Atyrau,13.9
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Atyrau,3.8
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Atyrau,19.4
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Atyrau,17.1
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Atyrau,42.6
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Atyrau,16.2
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Atyrau,12.4
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Atyrau,23.3
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Atyrau,28.0
+2015,Percent,Age 15-24 years old,"Search, download and install software",Atyrau,3.8
+2016,Percent,Age 15-24 years old,"Search, download and install software",Atyrau,19.4
+2017,Percent,Age 15-24 years old,"Search, download and install software",Atyrau,17.1
+2018,Percent,Age 15-24 years old,"Search, download and install software",Atyrau,42.6
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Atyrau,16.2
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Atyrau,12.4
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Atyrau,23.3
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Atyrau,28.0
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Atyrau,21.7
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Atyrau,15.3
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Atyrau,27.0
@@ -187,26 +187,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Batys Kazakhstan,15.7
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Batys Kazakhstan,25.4
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Batys Kazakhstan,30.1
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Batys Kazakhstan,74.7
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Batys Kazakhstan,81.0
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Batys Kazakhstan,84.9
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Batys Kazakhstan,68.1
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Batys Kazakhstan,52.1
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Batys Kazakhstan,41.6
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Batys Kazakhstan,56.8
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Batys Kazakhstan,89.3
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Batys Kazakhstan,74.7
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Batys Kazakhstan,81.0
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Batys Kazakhstan,84.9
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Batys Kazakhstan,68.1
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Batys Kazakhstan,52.1
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Batys Kazakhstan,41.6
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Batys Kazakhstan,56.8
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Batys Kazakhstan,89.3
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Batys Kazakhstan,15.4
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Batys Kazakhstan,8.8
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Batys Kazakhstan,21.4
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Batys Kazakhstan,34.0
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Batys Kazakhstan,18.3
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Batys Kazakhstan,11.0
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Batys Kazakhstan,10.8
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Batys Kazakhstan,30.8
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Batys Kazakhstan,18.5
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Batys Kazakhstan,21.6
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Batys Kazakhstan,29.5
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Batys Kazakhstan,32.3
+2015,Percent,Age 15-24 years old,"Search, download and install software",Batys Kazakhstan,18.3
+2016,Percent,Age 15-24 years old,"Search, download and install software",Batys Kazakhstan,11.0
+2017,Percent,Age 15-24 years old,"Search, download and install software",Batys Kazakhstan,10.8
+2018,Percent,Age 15-24 years old,"Search, download and install software",Batys Kazakhstan,30.8
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Batys Kazakhstan,18.5
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Batys Kazakhstan,21.6
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Batys Kazakhstan,29.5
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Batys Kazakhstan,32.3
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Batys Kazakhstan,19.4
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Batys Kazakhstan,15.0
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Batys Kazakhstan,16.9
@@ -223,26 +223,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Zhambyl,17.0
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Zhambyl,14.1
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Zhambyl,14.8
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Zhambyl,24.6
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Zhambyl,33.8
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Zhambyl,54.0
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Zhambyl,60.0
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Zhambyl,33.0
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Zhambyl,52.3
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Zhambyl,46.6
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Zhambyl,71.3
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Zhambyl,24.6
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Zhambyl,33.8
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Zhambyl,54.0
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Zhambyl,60.0
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Zhambyl,33.0
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Zhambyl,52.3
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Zhambyl,46.6
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Zhambyl,71.3
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Zhambyl,8.0
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Zhambyl,9.3
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Zhambyl,12.5
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Zhambyl,14.4
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Zhambyl,8.7
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Zhambyl,14.7
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Zhambyl,19.5
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Zhambyl,24.3
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Zhambyl,16.8
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Zhambyl,22.8
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Zhambyl,20.6
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Zhambyl,21.4
+2015,Percent,Age 15-24 years old,"Search, download and install software",Zhambyl,8.7
+2016,Percent,Age 15-24 years old,"Search, download and install software",Zhambyl,14.7
+2017,Percent,Age 15-24 years old,"Search, download and install software",Zhambyl,19.5
+2018,Percent,Age 15-24 years old,"Search, download and install software",Zhambyl,24.3
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Zhambyl,16.8
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Zhambyl,22.8
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Zhambyl,20.6
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Zhambyl,21.4
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Zhambyl,6.1
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Zhambyl,16.7
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Zhambyl,23.0
@@ -259,26 +259,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Karagandy,29.0
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Karagandy,38.7
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Karagandy,35.3
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Karagandy,52.3
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Karagandy,70.3
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Karagandy,80.2
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Karagandy,90.2
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Karagandy,36.2
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Karagandy,55.1
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Karagandy,60.7
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Karagandy,74.9
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Karagandy,52.3
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Karagandy,70.3
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Karagandy,80.2
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Karagandy,90.2
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Karagandy,36.2
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Karagandy,55.1
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Karagandy,60.7
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Karagandy,74.9
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Karagandy,21.8
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Karagandy,22.9
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Karagandy,36.1
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Karagandy,35.7
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Karagandy,18.8
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Karagandy,22.9
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Karagandy,36.1
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Karagandy,35.7
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Karagandy,27.5
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Karagandy,35.1
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Karagandy,50.5
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Karagandy,50.5
+2015,Percent,Age 15-24 years old,"Search, download and install software",Karagandy,18.8
+2016,Percent,Age 15-24 years old,"Search, download and install software",Karagandy,22.9
+2017,Percent,Age 15-24 years old,"Search, download and install software",Karagandy,36.1
+2018,Percent,Age 15-24 years old,"Search, download and install software",Karagandy,35.7
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Karagandy,27.5
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Karagandy,35.1
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Karagandy,50.5
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Karagandy,50.5
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Karagandy,31.5
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Karagandy,36.6
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Karagandy,41.8
@@ -295,26 +295,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kostanay,29.7
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kostanay,36.0
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kostanay,26.7
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kostanay,49.8
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kostanay,72.9
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kostanay,81.9
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kostanay,72.8
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kostanay,47.2
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kostanay,51.7
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kostanay,63.3
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kostanay,61.4
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Kostanay,49.8
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Kostanay,72.9
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Kostanay,81.9
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Kostanay,72.8
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kostanay,47.2
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kostanay,51.7
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kostanay,63.3
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kostanay,61.4
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Kostanay,17.6
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Kostanay,25.2
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Kostanay,22.6
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Kostanay,26.4
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Kostanay,15.2
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Kostanay,25.3
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Kostanay,25.5
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Kostanay,24.2
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kostanay,25.5
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kostanay,41.4
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kostanay,45.2
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kostanay,37.5
+2015,Percent,Age 15-24 years old,"Search, download and install software",Kostanay,15.2
+2016,Percent,Age 15-24 years old,"Search, download and install software",Kostanay,25.3
+2017,Percent,Age 15-24 years old,"Search, download and install software",Kostanay,25.5
+2018,Percent,Age 15-24 years old,"Search, download and install software",Kostanay,24.2
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kostanay,25.5
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kostanay,41.4
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kostanay,45.2
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kostanay,37.5
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Kostanay,28.0
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Kostanay,35.7
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Kostanay,39.0
@@ -331,26 +331,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kyzylorda,20.8
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kyzylorda,16.8
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kyzylorda,22.4
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kyzylorda,24.1
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kyzylorda,29.1
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kyzylorda,18.8
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kyzylorda,37.8
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kyzylorda,33.6
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kyzylorda,54.4
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kyzylorda,51.2
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kyzylorda,52.9
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Kyzylorda,24.1
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Kyzylorda,29.1
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Kyzylorda,18.8
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Kyzylorda,37.8
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kyzylorda,33.6
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kyzylorda,54.4
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kyzylorda,51.2
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kyzylorda,52.9
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Kyzylorda,11.9
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Kyzylorda,14.4
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Kyzylorda,11.5
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Kyzylorda,15.3
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Kyzylorda,15.1
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Kyzylorda,9.0
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Kyzylorda,11.3
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Kyzylorda,20.0
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kyzylorda,13.5
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kyzylorda,13.4
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kyzylorda,24.4
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kyzylorda,19.0
+2015,Percent,Age 15-24 years old,"Search, download and install software",Kyzylorda,15.1
+2016,Percent,Age 15-24 years old,"Search, download and install software",Kyzylorda,9.0
+2017,Percent,Age 15-24 years old,"Search, download and install software",Kyzylorda,11.3
+2018,Percent,Age 15-24 years old,"Search, download and install software",Kyzylorda,20.0
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kyzylorda,13.5
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kyzylorda,13.4
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kyzylorda,24.4
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kyzylorda,19.0
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Kyzylorda,17.5
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Kyzylorda,19.2
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Kyzylorda,17.3
@@ -367,26 +367,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Mangistau,1.7
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Mangistau,5.7
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Mangistau,12.8
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Mangistau,57.1
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Mangistau,54.8
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Mangistau,68.9
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Mangistau,85.5
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Mangistau,33.1
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Mangistau,33.6
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Mangistau,32.5
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Mangistau,62.8
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Mangistau,57.1
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Mangistau,54.8
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Mangistau,68.9
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Mangistau,85.5
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Mangistau,33.1
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Mangistau,33.6
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Mangistau,32.5
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Mangistau,62.8
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Mangistau,8.7
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Mangistau,4.0
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Mangistau,16.7
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Mangistau,13.7
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Mangistau,27.9
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Mangistau,10.5
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Mangistau,14.5
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Mangistau,37.1
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Mangistau,18.1
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Mangistau,9.1
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Mangistau,30.9
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Mangistau,30.0
+2015,Percent,Age 15-24 years old,"Search, download and install software",Mangistau,27.9
+2016,Percent,Age 15-24 years old,"Search, download and install software",Mangistau,10.5
+2017,Percent,Age 15-24 years old,"Search, download and install software",Mangistau,14.5
+2018,Percent,Age 15-24 years old,"Search, download and install software",Mangistau,37.1
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Mangistau,18.1
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Mangistau,9.1
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Mangistau,30.9
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Mangistau,30.0
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Mangistau,10.0
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Mangistau,15.2
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Mangistau,5.2
@@ -403,26 +403,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Pavlodar,21.0
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Pavlodar,32.7
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Pavlodar,34.4
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Pavlodar,37.3
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Pavlodar,61.5
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Pavlodar,51.8
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Pavlodar,82.0
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Pavlodar,28.2
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Pavlodar,36.8
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Pavlodar,40.2
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Pavlodar,69.3
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Pavlodar,37.3
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Pavlodar,61.5
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Pavlodar,51.8
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Pavlodar,82.0
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Pavlodar,28.2
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Pavlodar,36.8
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Pavlodar,40.2
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Pavlodar,69.3
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Pavlodar,13.4
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Pavlodar,18.6
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Pavlodar,18.9
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Pavlodar,19.2
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Pavlodar,11.2
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Pavlodar,18.2
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Pavlodar,14.4
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Pavlodar,31.5
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Pavlodar,19.7
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Pavlodar,21.4
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Pavlodar,28.2
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Pavlodar,32.9
+2015,Percent,Age 15-24 years old,"Search, download and install software",Pavlodar,11.2
+2016,Percent,Age 15-24 years old,"Search, download and install software",Pavlodar,18.2
+2017,Percent,Age 15-24 years old,"Search, download and install software",Pavlodar,14.4
+2018,Percent,Age 15-24 years old,"Search, download and install software",Pavlodar,31.5
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Pavlodar,19.7
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Pavlodar,21.4
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Pavlodar,28.2
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Pavlodar,32.9
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Pavlodar,25.6
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Pavlodar,25.9
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Pavlodar,31.6
@@ -439,26 +439,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Soltustik Kazakhstan,29.0
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Soltustik Kazakhstan,30.7
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Soltustik Kazakhstan,46.3
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Soltustik Kazakhstan,38.7
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Soltustik Kazakhstan,72.7
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Soltustik Kazakhstan,73.8
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Soltustik Kazakhstan,77.5
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Soltustik Kazakhstan,36.6
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Soltustik Kazakhstan,55.1
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Soltustik Kazakhstan,55.3
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Soltustik Kazakhstan,89.8
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Soltustik Kazakhstan,38.7
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Soltustik Kazakhstan,72.7
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Soltustik Kazakhstan,73.8
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Soltustik Kazakhstan,77.5
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Soltustik Kazakhstan,36.6
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Soltustik Kazakhstan,55.1
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Soltustik Kazakhstan,55.3
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Soltustik Kazakhstan,89.8
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Soltustik Kazakhstan,20.5
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Soltustik Kazakhstan,24.8
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Soltustik Kazakhstan,23.4
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Soltustik Kazakhstan,21.6
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Soltustik Kazakhstan,14.2
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Soltustik Kazakhstan,11.7
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Soltustik Kazakhstan,25.9
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Soltustik Kazakhstan,26.6
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Soltustik Kazakhstan,24.5
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Soltustik Kazakhstan,31.3
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Soltustik Kazakhstan,37.4
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Soltustik Kazakhstan,36.7
+2015,Percent,Age 15-24 years old,"Search, download and install software",Soltustik Kazakhstan,14.2
+2016,Percent,Age 15-24 years old,"Search, download and install software",Soltustik Kazakhstan,11.7
+2017,Percent,Age 15-24 years old,"Search, download and install software",Soltustik Kazakhstan,25.9
+2018,Percent,Age 15-24 years old,"Search, download and install software",Soltustik Kazakhstan,26.6
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Soltustik Kazakhstan,24.5
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Soltustik Kazakhstan,31.3
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Soltustik Kazakhstan,37.4
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Soltustik Kazakhstan,36.7
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Soltustik Kazakhstan,28.9
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Soltustik Kazakhstan,42.7
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Soltustik Kazakhstan,43.5
@@ -475,26 +475,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Turkistan,12.5
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Turkistan,8.9
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Turkistan,20.3
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Turkistan,41.0
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Turkistan,45.0
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Turkistan,50.2
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Turkistan,65.5
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Turkistan,44.0
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Turkistan,45.7
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Turkistan,57.0
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Turkistan,70.0
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Turkistan,41.0
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Turkistan,45.0
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Turkistan,50.2
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Turkistan,65.5
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Turkistan,44.0
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Turkistan,45.7
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Turkistan,57.0
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Turkistan,70.0
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Turkistan,11.2
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Turkistan,13.7
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Turkistan,17.6
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Turkistan,21.2
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Turkistan,15.3
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Turkistan,9.6
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Turkistan,19.3
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Turkistan,16.1
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Turkistan,20.0
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Turkistan,25.1
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Turkistan,27.3
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Turkistan,22.2
+2015,Percent,Age 15-24 years old,"Search, download and install software",Turkistan,15.3
+2016,Percent,Age 15-24 years old,"Search, download and install software",Turkistan,9.6
+2017,Percent,Age 15-24 years old,"Search, download and install software",Turkistan,19.3
+2018,Percent,Age 15-24 years old,"Search, download and install software",Turkistan,16.1
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Turkistan,20.0
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Turkistan,25.1
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Turkistan,27.3
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Turkistan,22.2
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Turkistan,14.0
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Turkistan,22.0
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Turkistan,25.8
@@ -511,26 +511,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shygys Kazakhstan,13.8
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shygys Kazakhstan,18.4
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shygys Kazakhstan,18.6
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shygys Kazakhstan,51.5
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shygys Kazakhstan,49.0
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shygys Kazakhstan,61.7
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shygys Kazakhstan,64.3
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shygys Kazakhstan,43.0
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shygys Kazakhstan,55.2
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shygys Kazakhstan,43.6
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shygys Kazakhstan,51.7
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Shygys Kazakhstan,51.5
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Shygys Kazakhstan,49.0
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Shygys Kazakhstan,61.7
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Shygys Kazakhstan,64.3
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shygys Kazakhstan,43.0
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shygys Kazakhstan,55.2
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shygys Kazakhstan,43.6
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shygys Kazakhstan,51.7
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Shygys Kazakhstan,9.4
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Shygys Kazakhstan,10.1
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Shygys Kazakhstan,24.4
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Shygys Kazakhstan,25.8
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Shygys Kazakhstan,5.5
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Shygys Kazakhstan,12.0
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Shygys Kazakhstan,20.1
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Shygys Kazakhstan,18.8
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shygys Kazakhstan,20.2
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shygys Kazakhstan,26.1
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shygys Kazakhstan,29.1
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shygys Kazakhstan,29.6
+2015,Percent,Age 15-24 years old,"Search, download and install software",Shygys Kazakhstan,5.5
+2016,Percent,Age 15-24 years old,"Search, download and install software",Shygys Kazakhstan,12.0
+2017,Percent,Age 15-24 years old,"Search, download and install software",Shygys Kazakhstan,20.1
+2018,Percent,Age 15-24 years old,"Search, download and install software",Shygys Kazakhstan,18.8
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shygys Kazakhstan,20.2
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shygys Kazakhstan,26.1
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shygys Kazakhstan,29.1
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shygys Kazakhstan,29.6
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Shygys Kazakhstan,17.2
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Shygys Kazakhstan,25.8
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Shygys Kazakhstan,13.2
@@ -547,26 +547,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Nur-Sultan city,63.8
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Nur-Sultan city,18.5
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Nur-Sultan city,31.7
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Nur-Sultan city,81.4
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Nur-Sultan city,72.9
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Nur-Sultan city,88.4
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Nur-Sultan city,79.7
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Nur-Sultan city,66.3
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Nur-Sultan city,74.3
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Nur-Sultan city,46.7
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Nur-Sultan city,80.7
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Nur-Sultan city,81.4
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Nur-Sultan city,72.9
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Nur-Sultan city,88.4
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Nur-Sultan city,79.7
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Nur-Sultan city,66.3
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Nur-Sultan city,74.3
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Nur-Sultan city,46.7
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Nur-Sultan city,80.7
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Nur-Sultan city,42.1
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Nur-Sultan city,65.3
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Nur-Sultan city,11.5
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Nur-Sultan city,30.1
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Nur-Sultan city,47.3
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Nur-Sultan city,65.6
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Nur-Sultan city,34.7
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Nur-Sultan city,43.7
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Nur-Sultan city,51.5
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Nur-Sultan city,63.4
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Nur-Sultan city,11.3
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Nur-Sultan city,48.0
+2015,Percent,Age 15-24 years old,"Search, download and install software",Nur-Sultan city,47.3
+2016,Percent,Age 15-24 years old,"Search, download and install software",Nur-Sultan city,65.6
+2017,Percent,Age 15-24 years old,"Search, download and install software",Nur-Sultan city,34.7
+2018,Percent,Age 15-24 years old,"Search, download and install software",Nur-Sultan city,43.7
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Nur-Sultan city,51.5
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Nur-Sultan city,63.4
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Nur-Sultan city,11.3
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Nur-Sultan city,48.0
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Nur-Sultan city,50.1
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Nur-Sultan city,59.0
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Nur-Sultan city,11.8
@@ -583,26 +583,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty city,11.2
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty city,20.6
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty city,14.9
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty city,42.3
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty city,48.7
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty city,368.9
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty city,85.2
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty city,22.1
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty city,37.8
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty city,33.9
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty city,54.0
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Almaty city,42.3
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Almaty city,48.7
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Almaty city,368.9
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Almaty city,85.2
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty city,22.1
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty city,37.8
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty city,33.9
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty city,54.0
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Almaty city,4.8
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Almaty city,16.5
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Almaty city,16.6
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Almaty city,14.1
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Almaty city,6.1
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Almaty city,13.0
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Almaty city,20.2
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Almaty city,22.0
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty city,12.1
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty city,26.6
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty city,24.0
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty city,24.8
+2015,Percent,Age 15-24 years old,"Search, download and install software",Almaty city,6.1
+2016,Percent,Age 15-24 years old,"Search, download and install software",Almaty city,13.0
+2017,Percent,Age 15-24 years old,"Search, download and install software",Almaty city,20.2
+2018,Percent,Age 15-24 years old,"Search, download and install software",Almaty city,22.0
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty city,12.1
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty city,26.6
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty city,24.0
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty city,24.8
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Almaty city,5.8
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Almaty city,18.5
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Almaty city,19.2
@@ -619,26 +619,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shymkent city,19.8
 2017,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shymkent city,3.1
 2018,Percent,Age 15-24 years old,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shymkent city,3.0
-2015,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shymkent city,31.6
-2016,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shymkent city,51.1
-2017,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shymkent city,84.7
-2018,Percent,Age 15-24 years old,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shymkent city,65.3
-2015,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shymkent city,24.8
-2016,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shymkent city,39.8
-2017,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shymkent city,52.0
-2018,Percent,Age 15-24 years old,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shymkent city,71.3
+2015,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Shymkent city,31.6
+2016,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Shymkent city,51.1
+2017,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Shymkent city,84.7
+2018,Percent,Age 15-24 years old,"Sending email with attached files (document, photo, video)",Shymkent city,65.3
+2015,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shymkent city,24.8
+2016,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shymkent city,39.8
+2017,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shymkent city,52.0
+2018,Percent,Age 15-24 years old,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shymkent city,71.3
 2015,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Shymkent city,8.0
 2016,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Shymkent city,21.8
 2017,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Shymkent city,8.2
 2018,Percent,Age 15-24 years old,"Connecting and installing new devices (printer, modem, and others)",Shymkent city,6.4
-2015,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Shymkent city,15.8
-2016,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Shymkent city,16.9
-2017,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Shymkent city,12.1
-2018,Percent,Age 15-24 years old,"Поиск, загрузка и установка программного обеспечения",Shymkent city,12.8
-2015,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shymkent city,18.1
-2016,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shymkent city,23.2
-2017,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shymkent city,17.7
-2018,Percent,Age 15-24 years old,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shymkent city,18.1
+2015,Percent,Age 15-24 years old,"Search, download and install software",Shymkent city,15.8
+2016,Percent,Age 15-24 years old,"Search, download and install software",Shymkent city,16.9
+2017,Percent,Age 15-24 years old,"Search, download and install software",Shymkent city,12.1
+2018,Percent,Age 15-24 years old,"Search, download and install software",Shymkent city,12.8
+2015,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shymkent city,18.1
+2016,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shymkent city,23.2
+2017,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shymkent city,17.7
+2018,Percent,Age 15-24 years old,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shymkent city,18.1
 2015,Percent,Age 15-24 years old,Transferring files between computers and other devices,Shymkent city,10.9
 2016,Percent,Age 15-24 years old,Transferring files between computers and other devices,Shymkent city,26.3
 2017,Percent,Age 15-24 years old,Transferring files between computers and other devices,Shymkent city,10.0
@@ -655,26 +655,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,,14.4
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,,15.5
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,,17.5
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",,46.2
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",,48.4
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",,52.6
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",,52.3
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),,34.1
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),,36.0
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),,37.1
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),,42.6
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",,46.2
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",,48.4
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",,52.6
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",,52.3
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),,34.1
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),,36.0
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),,37.1
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),,42.6
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",,11.2
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",,13.2
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",,15.4
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",,16.5
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",,11.9
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",,13.3
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",,17.6
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",,18.4
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",,16.7
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",,17.5
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",,19.2
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",,20.0
+2015,Percent,Age 15 years and older,"Search, download and install software",,11.9
+2016,Percent,Age 15 years and older,"Search, download and install software",,13.3
+2017,Percent,Age 15 years and older,"Search, download and install software",,17.6
+2018,Percent,Age 15 years and older,"Search, download and install software",,18.4
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",,16.7
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",,17.5
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",,19.2
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",,20.0
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,,18.2
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,,19.2
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,,19.5
@@ -691,26 +691,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Akmola,17.7
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Akmola,20.7
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Akmola,21.8
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Akmola,36.8
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Akmola,48.0
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Akmola,48.0
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Akmola,51.2
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Akmola,44.6
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Akmola,39.8
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Akmola,37.4
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Akmola,41.3
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Akmola,36.8
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Akmola,48.0
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Akmola,48.0
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Akmola,51.2
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Akmola,44.6
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Akmola,39.8
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Akmola,37.4
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Akmola,41.3
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Akmola,20.1
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Akmola,19.1
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Akmola,18.7
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Akmola,19.8
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Akmola,12.4
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Akmola,12.8
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Akmola,12.4
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Akmola,15.0
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Akmola,21.8
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Akmola,20.2
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Akmola,20.4
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Akmola,23.6
+2015,Percent,Age 15 years and older,"Search, download and install software",Akmola,12.4
+2016,Percent,Age 15 years and older,"Search, download and install software",Akmola,12.8
+2017,Percent,Age 15 years and older,"Search, download and install software",Akmola,12.4
+2018,Percent,Age 15 years and older,"Search, download and install software",Akmola,15.0
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Akmola,21.8
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Akmola,20.2
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Akmola,20.4
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Akmola,23.6
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Akmola,20.5
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Akmola,30.1
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Akmola,30.3
@@ -727,26 +727,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Aktobe,10.5
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Aktobe,12.9
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Aktobe,17.3
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Aktobe,45.5
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Aktobe,59.2
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Aktobe,66.3
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Aktobe,61.2
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Aktobe,28.3
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Aktobe,35.5
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Aktobe,32.5
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Aktobe,53.5
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Aktobe,45.5
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Aktobe,59.2
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Aktobe,66.3
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Aktobe,61.2
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Aktobe,28.3
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Aktobe,35.5
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Aktobe,32.5
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Aktobe,53.5
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Aktobe,12.1
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Aktobe,15.9
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Aktobe,19.3
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Aktobe,24.9
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Aktobe,12.8
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Aktobe,14.6
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Aktobe,16.1
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Aktobe,20.6
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Aktobe,12.9
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Aktobe,21.1
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Aktobe,17.5
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Aktobe,30.9
+2015,Percent,Age 15 years and older,"Search, download and install software",Aktobe,12.8
+2016,Percent,Age 15 years and older,"Search, download and install software",Aktobe,14.6
+2017,Percent,Age 15 years and older,"Search, download and install software",Aktobe,16.1
+2018,Percent,Age 15 years and older,"Search, download and install software",Aktobe,20.6
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Aktobe,12.9
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Aktobe,21.1
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Aktobe,17.5
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Aktobe,30.9
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Aktobe,19.2
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Aktobe,15.9
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Aktobe,23.1
@@ -763,26 +763,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty,13.4
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty,15.4
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty,15.1
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty,48.2
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty,50.7
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty,63.3
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty,61.2
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty,30.4
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty,36.8
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty,35.8
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty,47.2
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Almaty,48.2
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Almaty,50.7
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Almaty,63.3
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Almaty,61.2
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty,30.4
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty,36.8
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty,35.8
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty,47.2
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Almaty,6.6
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Almaty,14.1
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Almaty,16.5
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Almaty,16.8
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Almaty,8.4
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Almaty,7.5
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Almaty,16.2
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Almaty,9.4
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty,8.5
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty,24.1
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty,13.6
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty,13.7
+2015,Percent,Age 15 years and older,"Search, download and install software",Almaty,8.4
+2016,Percent,Age 15 years and older,"Search, download and install software",Almaty,7.5
+2017,Percent,Age 15 years and older,"Search, download and install software",Almaty,16.2
+2018,Percent,Age 15 years and older,"Search, download and install software",Almaty,9.4
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty,8.5
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty,24.1
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty,13.6
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty,13.7
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Almaty,16.8
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Almaty,8.4
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Almaty,10.8
@@ -799,26 +799,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Atyrau,7.4
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Atyrau,8.7
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Atyrau,19.2
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Atyrau,49.5
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Atyrau,62.5
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Atyrau,62.0
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Atyrau,47.9
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Atyrau,23.5
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Atyrau,27.0
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Atyrau,25.1
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Atyrau,43.9
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Atyrau,49.5
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Atyrau,62.5
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Atyrau,62.0
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Atyrau,47.9
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Atyrau,23.5
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Atyrau,27.0
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Atyrau,25.1
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Atyrau,43.9
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Atyrau,3.8
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Atyrau,9.1
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Atyrau,8.8
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Atyrau,11.2
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Atyrau,3.4
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Atyrau,13.5
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Atyrau,13.9
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Atyrau,27.1
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Atyrau,12.2
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Atyrau,7.6
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Atyrau,18.6
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Atyrau,19.4
+2015,Percent,Age 15 years and older,"Search, download and install software",Atyrau,3.4
+2016,Percent,Age 15 years and older,"Search, download and install software",Atyrau,13.5
+2017,Percent,Age 15 years and older,"Search, download and install software",Atyrau,13.9
+2018,Percent,Age 15 years and older,"Search, download and install software",Atyrau,27.1
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Atyrau,12.2
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Atyrau,7.6
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Atyrau,18.6
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Atyrau,19.4
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Atyrau,21.0
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Atyrau,14.4
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Atyrau,22.3
@@ -835,26 +835,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Batys Kazakhstan,11.5
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Batys Kazakhstan,18.4
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Batys Kazakhstan,22.1
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Batys Kazakhstan,76.6
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Batys Kazakhstan,69.9
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Batys Kazakhstan,63.1
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Batys Kazakhstan,48.7
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Batys Kazakhstan,46.0
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Batys Kazakhstan,28.5
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Batys Kazakhstan,38.2
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Batys Kazakhstan,54.3
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Batys Kazakhstan,76.6
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Batys Kazakhstan,69.9
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Batys Kazakhstan,63.1
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Batys Kazakhstan,48.7
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Batys Kazakhstan,46.0
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Batys Kazakhstan,28.5
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Batys Kazakhstan,38.2
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Batys Kazakhstan,54.3
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Batys Kazakhstan,12.3
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Batys Kazakhstan,7.5
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Batys Kazakhstan,16.2
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Batys Kazakhstan,24.2
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Batys Kazakhstan,15.8
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Batys Kazakhstan,6.8
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Batys Kazakhstan,7.4
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Batys Kazakhstan,23.2
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Batys Kazakhstan,21.9
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Batys Kazakhstan,14.0
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Batys Kazakhstan,18.8
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Batys Kazakhstan,23.1
+2015,Percent,Age 15 years and older,"Search, download and install software",Batys Kazakhstan,15.8
+2016,Percent,Age 15 years and older,"Search, download and install software",Batys Kazakhstan,6.8
+2017,Percent,Age 15 years and older,"Search, download and install software",Batys Kazakhstan,7.4
+2018,Percent,Age 15 years and older,"Search, download and install software",Batys Kazakhstan,23.2
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Batys Kazakhstan,21.9
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Batys Kazakhstan,14.0
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Batys Kazakhstan,18.8
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Batys Kazakhstan,23.1
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Batys Kazakhstan,16.9
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Batys Kazakhstan,9.2
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Batys Kazakhstan,12.2
@@ -871,26 +871,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Zhambyl,9.6
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Zhambyl,10.9
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Zhambyl,13.4
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Zhambyl,20.9
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Zhambyl,27.3
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Zhambyl,40.6
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Zhambyl,45.5
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Zhambyl,27.0
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Zhambyl,35.9
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Zhambyl,33.2
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Zhambyl,43.1
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Zhambyl,20.9
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Zhambyl,27.3
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Zhambyl,40.6
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Zhambyl,45.5
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Zhambyl,27.0
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Zhambyl,35.9
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Zhambyl,33.2
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Zhambyl,43.1
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Zhambyl,5.9
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Zhambyl,5.8
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Zhambyl,8.1
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Zhambyl,11.7
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Zhambyl,9.3
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Zhambyl,12.5
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Zhambyl,17.9
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Zhambyl,18.6
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Zhambyl,14.1
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Zhambyl,12.5
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Zhambyl,14.5
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Zhambyl,16.2
+2015,Percent,Age 15 years and older,"Search, download and install software",Zhambyl,9.3
+2016,Percent,Age 15 years and older,"Search, download and install software",Zhambyl,12.5
+2017,Percent,Age 15 years and older,"Search, download and install software",Zhambyl,17.9
+2018,Percent,Age 15 years and older,"Search, download and install software",Zhambyl,18.6
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Zhambyl,14.1
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Zhambyl,12.5
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Zhambyl,14.5
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Zhambyl,16.2
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Zhambyl,6.6
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Zhambyl,13.0
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Zhambyl,20.5
@@ -907,26 +907,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Karagandy,19.5
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Karagandy,26.6
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Karagandy,26.3
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Karagandy,52.9
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Karagandy,54.8
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Karagandy,56.2
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Karagandy,58.6
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Karagandy,30.1
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Karagandy,37.8
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Karagandy,39.7
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Karagandy,43.9
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Karagandy,52.9
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Karagandy,54.8
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Karagandy,56.2
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Karagandy,58.6
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Karagandy,30.1
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Karagandy,37.8
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Karagandy,39.7
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Karagandy,43.9
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Karagandy,16.5
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Karagandy,18.4
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Karagandy,20.2
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Karagandy,24.8
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Karagandy,14.1
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Karagandy,13.6
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Karagandy,22.2
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Karagandy,24.1
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Karagandy,19.3
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Karagandy,20.0
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Karagandy,30.0
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Karagandy,30.5
+2015,Percent,Age 15 years and older,"Search, download and install software",Karagandy,14.1
+2016,Percent,Age 15 years and older,"Search, download and install software",Karagandy,13.6
+2017,Percent,Age 15 years and older,"Search, download and install software",Karagandy,22.2
+2018,Percent,Age 15 years and older,"Search, download and install software",Karagandy,24.1
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Karagandy,19.3
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Karagandy,20.0
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Karagandy,30.0
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Karagandy,30.5
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Karagandy,24.9
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Karagandy,25.8
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Karagandy,27.4
@@ -943,26 +943,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kostanay,17.7
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kostanay,21.4
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kostanay,19.6
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kostanay,45.6
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kostanay,56.2
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kostanay,56.9
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kostanay,49.3
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kostanay,40.4
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kostanay,36.4
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kostanay,37.3
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kostanay,30.7
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Kostanay,45.6
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Kostanay,56.2
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Kostanay,56.9
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Kostanay,49.3
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kostanay,40.4
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kostanay,36.4
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kostanay,37.3
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kostanay,30.7
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Kostanay,10.5
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Kostanay,14.0
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Kostanay,14.2
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Kostanay,14.1
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Kostanay,9.5
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Kostanay,14.2
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Kostanay,14.9
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Kostanay,10.6
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kostanay,18.0
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kostanay,20.6
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kostanay,21.2
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kostanay,16.2
+2015,Percent,Age 15 years and older,"Search, download and install software",Kostanay,9.5
+2016,Percent,Age 15 years and older,"Search, download and install software",Kostanay,14.2
+2017,Percent,Age 15 years and older,"Search, download and install software",Kostanay,14.9
+2018,Percent,Age 15 years and older,"Search, download and install software",Kostanay,10.6
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kostanay,18.0
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kostanay,20.6
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kostanay,21.2
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kostanay,16.2
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Kostanay,20.7
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Kostanay,25.0
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Kostanay,27.3
@@ -979,26 +979,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kyzylorda,17.4
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kyzylorda,16.8
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Kyzylorda,17.6
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kyzylorda,22.3
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kyzylorda,22.5
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kyzylorda,22.4
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Kyzylorda,25.3
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kyzylorda,27.3
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kyzylorda,37.3
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kyzylorda,36.7
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Kyzylorda,33.5
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Kyzylorda,22.3
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Kyzylorda,22.5
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Kyzylorda,22.4
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Kyzylorda,25.3
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kyzylorda,27.3
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kyzylorda,37.3
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kyzylorda,36.7
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Kyzylorda,33.5
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Kyzylorda,10.7
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Kyzylorda,9.1
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Kyzylorda,9.5
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Kyzylorda,11.5
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Kyzylorda,14.6
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Kyzylorda,13.8
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Kyzylorda,15.7
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Kyzylorda,19.4
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kyzylorda,10.7
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kyzylorda,11.4
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kyzylorda,14.3
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Kyzylorda,13.8
+2015,Percent,Age 15 years and older,"Search, download and install software",Kyzylorda,14.6
+2016,Percent,Age 15 years and older,"Search, download and install software",Kyzylorda,13.8
+2017,Percent,Age 15 years and older,"Search, download and install software",Kyzylorda,15.7
+2018,Percent,Age 15 years and older,"Search, download and install software",Kyzylorda,19.4
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kyzylorda,10.7
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kyzylorda,11.4
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kyzylorda,14.3
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Kyzylorda,13.8
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Kyzylorda,16.5
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Kyzylorda,17.9
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Kyzylorda,15.8
@@ -1015,26 +1015,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Mangistau,3.4
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Mangistau,3.9
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Mangistau,8.6
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Mangistau,54.7
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Mangistau,50.1
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Mangistau,51.3
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Mangistau,59.0
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Mangistau,31.9
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Mangistau,32.0
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Mangistau,25.7
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Mangistau,40.1
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Mangistau,54.7
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Mangistau,50.1
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Mangistau,51.3
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Mangistau,59.0
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Mangistau,31.9
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Mangistau,32.0
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Mangistau,25.7
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Mangistau,40.1
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Mangistau,7.1
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Mangistau,4.7
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Mangistau,11.4
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Mangistau,9.1
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Mangistau,23.4
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Mangistau,9.1
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Mangistau,12.3
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Mangistau,29.9
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Mangistau,14.6
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Mangistau,6.6
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Mangistau,22.6
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Mangistau,19.8
+2015,Percent,Age 15 years and older,"Search, download and install software",Mangistau,23.4
+2016,Percent,Age 15 years and older,"Search, download and install software",Mangistau,9.1
+2017,Percent,Age 15 years and older,"Search, download and install software",Mangistau,12.3
+2018,Percent,Age 15 years and older,"Search, download and install software",Mangistau,29.9
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Mangistau,14.6
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Mangistau,6.6
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Mangistau,22.6
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Mangistau,19.8
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Mangistau,12.0
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Mangistau,9.9
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Mangistau,5.8
@@ -1051,26 +1051,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Pavlodar,20.4
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Pavlodar,25.0
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Pavlodar,26.7
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Pavlodar,41.4
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Pavlodar,52.3
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Pavlodar,44.8
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Pavlodar,47.6
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Pavlodar,35.4
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Pavlodar,22.8
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Pavlodar,23.2
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Pavlodar,30.7
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Pavlodar,41.4
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Pavlodar,52.3
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Pavlodar,44.8
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Pavlodar,47.6
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Pavlodar,35.4
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Pavlodar,22.8
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Pavlodar,23.2
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Pavlodar,30.7
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Pavlodar,11.2
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Pavlodar,9.8
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Pavlodar,9.8
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Pavlodar,8.8
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Pavlodar,8.9
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Pavlodar,11.5
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Pavlodar,7.9
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Pavlodar,13.6
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Pavlodar,19.4
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Pavlodar,9.5
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Pavlodar,12.1
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Pavlodar,15.1
+2015,Percent,Age 15 years and older,"Search, download and install software",Pavlodar,8.9
+2016,Percent,Age 15 years and older,"Search, download and install software",Pavlodar,11.5
+2017,Percent,Age 15 years and older,"Search, download and install software",Pavlodar,7.9
+2018,Percent,Age 15 years and older,"Search, download and install software",Pavlodar,13.6
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Pavlodar,19.4
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Pavlodar,9.5
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Pavlodar,12.1
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Pavlodar,15.1
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Pavlodar,37.7
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Pavlodar,18.0
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Pavlodar,27.3
@@ -1087,26 +1087,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Soltustik Kazakhstan,19.5
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Soltustik Kazakhstan,19.2
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Soltustik Kazakhstan,31.2
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Soltustik Kazakhstan,41.2
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Soltustik Kazakhstan,53.5
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Soltustik Kazakhstan,50.2
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Soltustik Kazakhstan,51.1
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Soltustik Kazakhstan,35.2
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Soltustik Kazakhstan,36.7
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Soltustik Kazakhstan,34.8
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Soltustik Kazakhstan,48.4
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Soltustik Kazakhstan,41.2
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Soltustik Kazakhstan,53.5
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Soltustik Kazakhstan,50.2
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Soltustik Kazakhstan,51.1
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Soltustik Kazakhstan,35.2
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Soltustik Kazakhstan,36.7
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Soltustik Kazakhstan,34.8
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Soltustik Kazakhstan,48.4
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Soltustik Kazakhstan,16.8
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Soltustik Kazakhstan,16.2
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Soltustik Kazakhstan,11.8
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Soltustik Kazakhstan,12.7
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Soltustik Kazakhstan,9.0
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Soltustik Kazakhstan,6.2
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Soltustik Kazakhstan,11.8
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Soltustik Kazakhstan,12.6
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Soltustik Kazakhstan,17.1
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Soltustik Kazakhstan,14.5
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Soltustik Kazakhstan,16.8
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Soltustik Kazakhstan,21.4
+2015,Percent,Age 15 years and older,"Search, download and install software",Soltustik Kazakhstan,9.0
+2016,Percent,Age 15 years and older,"Search, download and install software",Soltustik Kazakhstan,6.2
+2017,Percent,Age 15 years and older,"Search, download and install software",Soltustik Kazakhstan,11.8
+2018,Percent,Age 15 years and older,"Search, download and install software",Soltustik Kazakhstan,12.6
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Soltustik Kazakhstan,17.1
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Soltustik Kazakhstan,14.5
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Soltustik Kazakhstan,16.8
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Soltustik Kazakhstan,21.4
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Soltustik Kazakhstan,22.8
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Soltustik Kazakhstan,31.0
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Soltustik Kazakhstan,31.3
@@ -1123,26 +1123,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Turkistan,7.8
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Turkistan,9.8
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Turkistan,19.4
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Turkistan,29.5
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Turkistan,33.6
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Turkistan,41.1
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Turkistan,47.7
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Turkistan,29.6
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Turkistan,32.1
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Turkistan,45.8
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Turkistan,43.5
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Turkistan,29.5
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Turkistan,33.6
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Turkistan,41.1
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Turkistan,47.7
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Turkistan,29.6
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Turkistan,32.1
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Turkistan,45.8
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Turkistan,43.5
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Turkistan,9.2
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Turkistan,12.8
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Turkistan,18.2
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Turkistan,17.3
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Turkistan,10.4
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Turkistan,6.5
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Turkistan,17.1
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Turkistan,17.2
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Turkistan,12.5
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Turkistan,16.2
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Turkistan,26.6
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Turkistan,20.0
+2015,Percent,Age 15 years and older,"Search, download and install software",Turkistan,10.4
+2016,Percent,Age 15 years and older,"Search, download and install software",Turkistan,6.5
+2017,Percent,Age 15 years and older,"Search, download and install software",Turkistan,17.1
+2018,Percent,Age 15 years and older,"Search, download and install software",Turkistan,17.2
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Turkistan,12.5
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Turkistan,16.2
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Turkistan,26.6
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Turkistan,20.0
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Turkistan,10.7
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Turkistan,16.9
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Turkistan,21.2
@@ -1159,26 +1159,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shygys Kazakhstan,9.0
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shygys Kazakhstan,8.2
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shygys Kazakhstan,6.8
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shygys Kazakhstan,48.5
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shygys Kazakhstan,42.6
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shygys Kazakhstan,49.3
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shygys Kazakhstan,49.0
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shygys Kazakhstan,39.4
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shygys Kazakhstan,43.2
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shygys Kazakhstan,30.8
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shygys Kazakhstan,34.4
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Shygys Kazakhstan,48.5
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Shygys Kazakhstan,42.6
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Shygys Kazakhstan,49.3
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Shygys Kazakhstan,49.0
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shygys Kazakhstan,39.4
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shygys Kazakhstan,43.2
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shygys Kazakhstan,30.8
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shygys Kazakhstan,34.4
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Shygys Kazakhstan,5.9
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Shygys Kazakhstan,6.6
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Shygys Kazakhstan,20.6
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Shygys Kazakhstan,18.2
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Shygys Kazakhstan,4.0
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Shygys Kazakhstan,7.5
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Shygys Kazakhstan,16.0
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Shygys Kazakhstan,15.0
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shygys Kazakhstan,16.7
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shygys Kazakhstan,14.8
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shygys Kazakhstan,24.1
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shygys Kazakhstan,23.1
+2015,Percent,Age 15 years and older,"Search, download and install software",Shygys Kazakhstan,4.0
+2016,Percent,Age 15 years and older,"Search, download and install software",Shygys Kazakhstan,7.5
+2017,Percent,Age 15 years and older,"Search, download and install software",Shygys Kazakhstan,16.0
+2018,Percent,Age 15 years and older,"Search, download and install software",Shygys Kazakhstan,15.0
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shygys Kazakhstan,16.7
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shygys Kazakhstan,14.8
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shygys Kazakhstan,24.1
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shygys Kazakhstan,23.1
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Shygys Kazakhstan,13.1
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Shygys Kazakhstan,16.6
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Shygys Kazakhstan,7.3
@@ -1195,26 +1195,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Nur-Sultan city,28.9
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Nur-Sultan city,23.9
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Nur-Sultan city,24.5
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Nur-Sultan city,77.0
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Nur-Sultan city,75.2
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Nur-Sultan city,58.6
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Nur-Sultan city,63.5
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Nur-Sultan city,58.3
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Nur-Sultan city,58.5
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Nur-Sultan city,64.3
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Nur-Sultan city,55.0
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Nur-Sultan city,77.0
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Nur-Sultan city,75.2
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Nur-Sultan city,58.6
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Nur-Sultan city,63.5
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Nur-Sultan city,58.3
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Nur-Sultan city,58.5
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Nur-Sultan city,64.3
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Nur-Sultan city,55.0
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Nur-Sultan city,33.5
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Nur-Sultan city,24.1
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Nur-Sultan city,23.2
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Nur-Sultan city,24.5
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Nur-Sultan city,38.1
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Nur-Sultan city,48.3
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Nur-Sultan city,55.1
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Nur-Sultan city,41.6
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Nur-Sultan city,39.2
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Nur-Sultan city,30.5
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Nur-Sultan city,26.5
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Nur-Sultan city,28.7
+2015,Percent,Age 15 years and older,"Search, download and install software",Nur-Sultan city,38.1
+2016,Percent,Age 15 years and older,"Search, download and install software",Nur-Sultan city,48.3
+2017,Percent,Age 15 years and older,"Search, download and install software",Nur-Sultan city,55.1
+2018,Percent,Age 15 years and older,"Search, download and install software",Nur-Sultan city,41.6
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Nur-Sultan city,39.2
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Nur-Sultan city,30.5
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Nur-Sultan city,26.5
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Nur-Sultan city,28.7
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Nur-Sultan city,45.8
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Nur-Sultan city,34.4
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Nur-Sultan city,28.4
@@ -1231,26 +1231,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty city,58.8
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty city,65.3
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Almaty city,14.9
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty city,60.1
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty city,203.9
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty city,236.5
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Almaty city,57.4
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty city,33.8
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty city,164.9
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty city,161.3
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Almaty city,38.3
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Almaty city,60.1
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Almaty city,203.9
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Almaty city,236.5
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Almaty city,57.4
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty city,33.8
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty city,164.9
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty city,161.3
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Almaty city,38.3
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Almaty city,8.5
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Almaty city,15.6
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Almaty city,60.5
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Almaty city,14.4
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Almaty city,9.7
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Almaty city,51.2
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Almaty city,65.6
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Almaty city,18.6
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty city,18.4
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty city,78.5
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty city,78.7
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Almaty city,17.3
+2015,Percent,Age 15 years and older,"Search, download and install software",Almaty city,9.7
+2016,Percent,Age 15 years and older,"Search, download and install software",Almaty city,51.2
+2017,Percent,Age 15 years and older,"Search, download and install software",Almaty city,65.6
+2018,Percent,Age 15 years and older,"Search, download and install software",Almaty city,18.6
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty city,18.4
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty city,78.5
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty city,78.7
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Almaty city,17.3
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Almaty city,11.4
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Almaty city,75.5
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Almaty city,85.6
@@ -1267,26 +1267,26 @@ Year,Units,Age,Types of skills,Regions,Value
 2016,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shymkent city,19.4
 2017,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shymkent city,8.8
 2018,Percent,Age 15 years and older,Using the copy and paste tools for information or part of information to get copies or move information in a document,Shymkent city,2.6
-2015,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shymkent city,34.3
-2016,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shymkent city,58.4
-2017,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shymkent city,65.8
-2018,Percent,Age 15 years and older,"Отправка электронной почты с вложенными файлами (документ, фотография,видео)",Shymkent city,43.5
-2015,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shymkent city,25.2
-2016,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shymkent city,45.7
-2017,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shymkent city,68.6
-2018,Percent,Age 15 years and older,Работа в редакторе электронных таблицах Excel (использование базовых арифметических формул в таблицах),Shymkent city,47.5
+2015,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Shymkent city,34.3
+2016,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Shymkent city,58.4
+2017,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Shymkent city,65.8
+2018,Percent,Age 15 years and older,"Sending email with attached files (document, photo, video)",Shymkent city,43.5
+2015,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shymkent city,25.2
+2016,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shymkent city,45.7
+2017,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shymkent city,68.6
+2018,Percent,Age 15 years and older,Work in the Excel spreadsheet editor (using basic arithmetic formulas in tables),Shymkent city,47.5
 2015,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Shymkent city,8.8
 2016,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Shymkent city,14.5
 2017,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Shymkent city,13.8
 2018,Percent,Age 15 years and older,"Connecting and installing new devices (printer, modem, and others)",Shymkent city,6.5
-2015,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Shymkent city,13.7
-2016,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Shymkent city,17.3
-2017,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Shymkent city,14.8
-2018,Percent,Age 15 years and older,"Поиск, загрузка и установка программного обеспечения",Shymkent city,9.8
-2015,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shymkent city,15.6
-2016,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shymkent city,23.6
-2017,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shymkent city,17.1
-2018,Percent,Age 15 years and older,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",Shymkent city,9.5
+2015,Percent,Age 15 years and older,"Search, download and install software",Shymkent city,13.7
+2016,Percent,Age 15 years and older,"Search, download and install software",Shymkent city,17.3
+2017,Percent,Age 15 years and older,"Search, download and install software",Shymkent city,14.8
+2018,Percent,Age 15 years and older,"Search, download and install software",Shymkent city,9.8
+2015,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shymkent city,15.6
+2016,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shymkent city,23.6
+2017,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shymkent city,17.1
+2018,Percent,Age 15 years and older,"Work in a graphical editor (including presentations, text, images, sound, video or diagrams)",Shymkent city,9.5
 2015,Percent,Age 15 years and older,Transferring files between computers and other devices,Shymkent city,9.4
 2016,Percent,Age 15 years and older,Transferring files between computers and other devices,Shymkent city,31.1
 2017,Percent,Age 15 years and older,Transferring files between computers and other devices,Shymkent city,20.2
