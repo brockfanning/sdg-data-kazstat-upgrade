@@ -59,3 +59,8 @@ map_layers:
   # The above layer will produce GeoJSON files such as this:
   #     _site/en/geojson/regions/indicator_1-2-1.geojson
   # Add any number of additional layers, such as one for counties.
+
+docs_title: Kazstat SDG data repository
+docs_intro: This is a summary of the resources available on this data service.
+  This data is used by <a href="http://brock.tips/sdg-site-kazstat-upgrade">the
+  Kazakhstan SDG national reporting platform</a>.
