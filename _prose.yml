@@ -76,16 +76,17 @@ prose:
         field:
             element: text
             label: "Availability"
-            scope: national
+            scope: data
       - name: classification
         field:
             element: text
             label: "Classification"
-            scope: national
+            scope: data
       - name: "customisation"
         field:
             element: select
             label: "Customisation"
+            translation_key: "metadata_fields.customisation"
             options:
               - name: '1'
                 value: 'meta.customisation-1'
