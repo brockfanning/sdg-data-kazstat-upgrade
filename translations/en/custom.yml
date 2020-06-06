@@ -2,7 +2,7 @@ frontpage_heading: Kazakhstan data for Sustainable Development Goal indicators
 frontpage_instructions: Click on each goal to view statistics for Sustainable Development Goal global indicators.
 frontpage_intro_title: 17 goals will transform our world
 frontpage_intro_description: >-
-  <p>The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">
+  <p class="lead-copy">The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">
   Sustainable Development Goals (SDGs)</a> are a universal call to action to
   end poverty, protect the planet and improve the lives and prospects of
   everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015,
