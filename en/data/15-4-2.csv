@@ -1,82 +1,82 @@
 Year,Units,Regions,GeoCode,Value
-2010,thousand ha,,,5640.9
-2011,thousand ha,,,5646.8
-2012,thousand ha,,,5663.6
-2013,thousand ha,,,5669.2
-2014,thousand ha,,,5674.5
-2015,thousand ha,,,5675.0
-2016,thousand ha,,,5675.2
-2017,thousand ha,,,5699.2
-2018,thousand ha,,,5940.0
-2010,thousand ha,Akmola,KZ03,86.6
-2011,thousand ha,Akmola,KZ03,86.6
-2012,thousand ha,Akmola,KZ03,74.5
-2013,thousand ha,Akmola,KZ03,74.5
-2014,thousand ha,Akmola,KZ03,74.5
-2015,thousand ha,Akmola,KZ03,74.5
-2016,thousand ha,Akmola,KZ03,74.5
-2017,thousand ha,Akmola,KZ03,99.8
-2018,thousand ha,Akmola,KZ03,99.8
-2010,thousand ha,Almaty,KZ01,1701.6
-2011,thousand ha,Almaty,KZ01,1707.4
-2012,thousand ha,Almaty,KZ01,1707.5
-2013,thousand ha,Almaty,KZ01,1707.5
-2014,thousand ha,Almaty,KZ01,1706.5
-2015,thousand ha,Almaty,KZ01,1707.1
-2016,thousand ha,Almaty,KZ01,1707.3
-2017,thousand ha,Almaty,KZ01,1707.3
-2018,thousand ha,Almaty,KZ01,1706.1
-2010,thousand ha,Zhambyl,KZ17,182.6
-2011,thousand ha,Zhambyl,KZ17,182.6
-2012,thousand ha,Zhambyl,KZ17,182.6
-2013,thousand ha,Zhambyl,KZ17,182.6
-2014,thousand ha,Zhambyl,KZ17,182.6
-2015,thousand ha,Zhambyl,KZ17,182.6
-2016,thousand ha,Zhambyl,KZ17,182.6
-2017,thousand ha,Zhambyl,KZ17,215.8
-2018,thousand ha,Zhambyl,KZ17,215.8
-2010,thousand ha,Karagandy,KZ12,175.7
-2011,thousand ha,Karagandy,KZ12,175.7
-2012,thousand ha,Karagandy,KZ12,153.8
-2013,thousand ha,Karagandy,KZ12,153.8
-2014,thousand ha,Karagandy,KZ12,153.8
-2015,thousand ha,Karagandy,KZ12,153.8
-2016,thousand ha,Karagandy,KZ12,153.8
-2017,thousand ha,Karagandy,KZ12,179.2
-2018,thousand ha,Karagandy,KZ12,179.2
-2010,thousand ha,Pavlodar,KZ11,68.5
-2011,thousand ha,Pavlodar,KZ11,68.5
-2012,thousand ha,Pavlodar,KZ11,68.5
-2013,thousand ha,Pavlodar,KZ11,68.5
-2014,thousand ha,Pavlodar,KZ11,68.5
-2015,thousand ha,Pavlodar,KZ11,68.5
-2016,thousand ha,Pavlodar,KZ11,68.5
-2017,thousand ha,Pavlodar,KZ11,68.5
-2018,thousand ha,Pavlodar,KZ11,68.5
-2010,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2011,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2012,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2013,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2014,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2015,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2016,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2017,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2018,thousand ha,Soltustik Kazakhstan,KZ16,11.1
-2010,thousand ha,Turkistan,KZ10,379.6
-2011,thousand ha,Turkistan,KZ10,379.6
-2012,thousand ha,Turkistan,KZ10,431.8
-2013,thousand ha,Turkistan,KZ10,431.8
-2014,thousand ha,Turkistan,KZ10,431.8
-2015,thousand ha,Turkistan,KZ10,431.8
-2016,thousand ha,Turkistan,KZ10,431.8
-2017,thousand ha,Turkistan,KZ10,431.8
-2018,thousand ha,Turkistan,KZ10,431.8
-2010,thousand ha,Shygys Kazakhstan,KZ15,3035.2
-2011,thousand ha,Shygys Kazakhstan,KZ15,3034.9
-2012,thousand ha,Shygys Kazakhstan,KZ15,3033.7
-2013,thousand ha,Shygys Kazakhstan,KZ15,3039.4
-2014,thousand ha,Shygys Kazakhstan,KZ15,3045.6
-2015,thousand ha,Shygys Kazakhstan,KZ15,3045.6
-2016,thousand ha,Shygys Kazakhstan,KZ15,3045.6
-2017,thousand ha,Shygys Kazakhstan,KZ15,2985.8
-2018,thousand ha,Shygys Kazakhstan,KZ15,3129.3
+2010,тыс.га,,,5640.9
+2011,тыс.га,,,5646.8
+2012,тыс.га,,,5663.6
+2013,тыс.га,,,5669.2
+2014,тыс.га,,,5674.5
+2015,тыс.га,,,5675.0
+2016,тыс.га,,,5675.2
+2017,тыс.га,,,5699.2
+2018,тыс.га,,,5940.0
+2010,тыс.га,Akmola,KZ03,86.6
+2011,тыс.га,Akmola,KZ03,86.6
+2012,тыс.га,Akmola,KZ03,74.5
+2013,тыс.га,Akmola,KZ03,74.5
+2014,тыс.га,Akmola,KZ03,74.5
+2015,тыс.га,Akmola,KZ03,74.5
+2016,тыс.га,Akmola,KZ03,74.5
+2017,тыс.га,Akmola,KZ03,99.8
+2018,тыс.га,Akmola,KZ03,99.8
+2010,тыс.га,Almaty,KZ01,1701.6
+2011,тыс.га,Almaty,KZ01,1707.4
+2012,тыс.га,Almaty,KZ01,1707.5
+2013,тыс.га,Almaty,KZ01,1707.5
+2014,тыс.га,Almaty,KZ01,1706.5
+2015,тыс.га,Almaty,KZ01,1707.1
+2016,тыс.га,Almaty,KZ01,1707.3
+2017,тыс.га,Almaty,KZ01,1707.3
+2018,тыс.га,Almaty,KZ01,1706.1
+2010,тыс.га,Zhambyl,KZ17,182.6
+2011,тыс.га,Zhambyl,KZ17,182.6
+2012,тыс.га,Zhambyl,KZ17,182.6
+2013,тыс.га,Zhambyl,KZ17,182.6
+2014,тыс.га,Zhambyl,KZ17,182.6
+2015,тыс.га,Zhambyl,KZ17,182.6
+2016,тыс.га,Zhambyl,KZ17,182.6
+2017,тыс.га,Zhambyl,KZ17,215.8
+2018,тыс.га,Zhambyl,KZ17,215.8
+2010,тыс.га,Karagandy,KZ12,175.7
+2011,тыс.га,Karagandy,KZ12,175.7
+2012,тыс.га,Karagandy,KZ12,153.8
+2013,тыс.га,Karagandy,KZ12,153.8
+2014,тыс.га,Karagandy,KZ12,153.8
+2015,тыс.га,Karagandy,KZ12,153.8
+2016,тыс.га,Karagandy,KZ12,153.8
+2017,тыс.га,Karagandy,KZ12,179.2
+2018,тыс.га,Karagandy,KZ12,179.2
+2010,тыс.га,Pavlodar,KZ11,68.5
+2011,тыс.га,Pavlodar,KZ11,68.5
+2012,тыс.га,Pavlodar,KZ11,68.5
+2013,тыс.га,Pavlodar,KZ11,68.5
+2014,тыс.га,Pavlodar,KZ11,68.5
+2015,тыс.га,Pavlodar,KZ11,68.5
+2016,тыс.га,Pavlodar,KZ11,68.5
+2017,тыс.га,Pavlodar,KZ11,68.5
+2018,тыс.га,Pavlodar,KZ11,68.5
+2010,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2011,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2012,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2013,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2014,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2015,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2016,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2017,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2018,тыс.га,Soltustik Kazakhstan,KZ16,11.1
+2010,тыс.га,Turkistan,KZ10,379.6
+2011,тыс.га,Turkistan,KZ10,379.6
+2012,тыс.га,Turkistan,KZ10,431.8
+2013,тыс.га,Turkistan,KZ10,431.8
+2014,тыс.га,Turkistan,KZ10,431.8
+2015,тыс.га,Turkistan,KZ10,431.8
+2016,тыс.га,Turkistan,KZ10,431.8
+2017,тыс.га,Turkistan,KZ10,431.8
+2018,тыс.га,Turkistan,KZ10,431.8
+2010,тыс.га,Shygys Kazakhstan,KZ15,3035.2
+2011,тыс.га,Shygys Kazakhstan,KZ15,3034.9
+2012,тыс.га,Shygys Kazakhstan,KZ15,3033.7
+2013,тыс.га,Shygys Kazakhstan,KZ15,3039.4
+2014,тыс.га,Shygys Kazakhstan,KZ15,3045.6
+2015,тыс.га,Shygys Kazakhstan,KZ15,3045.6
+2016,тыс.га,Shygys Kazakhstan,KZ15,3045.6
+2017,тыс.га,Shygys Kazakhstan,KZ15,2985.8
+2018,тыс.га,Shygys Kazakhstan,KZ15,3129.3

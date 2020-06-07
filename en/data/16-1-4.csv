@@ -2,12 +2,12 @@ Year,Units,Safety grade,Area,Sex,nationality,Age,Value
 2016,Percent,Total security,,,,,42.4
 2016,Percent,Relatively safe,,,,,48.7
 2016,Percent,Not safe,,,,,8.9
-2016,Percent,Total security,urban area,,,,38.0
-2016,Percent,Relatively safe,urban area,,,,52.8
-2016,Percent,Not safe,urban area,,,,9.2
-2016,Percent,Total security,countryside,,,,48.5
-2016,Percent,Relatively safe,countryside,,,,42.9
-2016,Percent,Not safe,countryside,,,,8.6
+2016,Percent,Total security,городская местность,,,,38.0
+2016,Percent,Relatively safe,городская местность,,,,52.8
+2016,Percent,Not safe,городская местность,,,,9.2
+2016,Percent,Total security,сельская местность,,,,48.5
+2016,Percent,Relatively safe,сельская местность,,,,42.9
+2016,Percent,Not safe,сельская местность,,,,8.6
 2016,Percent,Total security,,Male,,,48.2
 2016,Percent,Relatively safe,,Male,,,45.4
 2016,Percent,Not safe,,Male,,,6.4

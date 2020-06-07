@@ -1,10 +1,10 @@
-Year,Units,Area,Sex,Regions,Age,Education,Welfare Index Quintile,nationality,GeoCode,Value
+Year,Units,Area,Sex,Regions,Age,Education,Квинтиль индекса благосостояния,nationality,GeoCode,Value
 2010,Percent,,,,,,,,,81.6
 2015,Percent,,,,,,,,,90.8
-2010,Percent,urban area,,,,,,,,85.0
-2015,Percent,urban area,,,,,,,,90.6
-2010,Percent,countryside,,,,,,,,78.0
-2015,Percent,countryside,,,,,,,,90.9
+2010,Percent,городская местность,,,,,,,,85.0
+2015,Percent,городская местность,,,,,,,,90.6
+2010,Percent,сельская местность,,,,,,,,78.0
+2015,Percent,сельская местность,,,,,,,,90.9
 2010,Percent,,Male,,,,,,,80.0
 2015,Percent,,Male,,,,,,,91.1
 2010,Percent,,Female,,,,,,,82.0

@@ -104,213 +104,213 @@ Year,Units,Regions,Area,GeoCode,Value
 2016,Percent,Shygys Kazakhstan,,KZ15,4.88
 2017,Percent,Shygys Kazakhstan,,KZ15,4.88
 2018,Percent,Shygys Kazakhstan,,KZ15,4.93
-2012,Percent,,urban area,,4.14
-2013,Percent,,urban area,,4.45
-2014,Percent,,urban area,,3.87
-2015,Percent,,urban area,,3.8
-2016,Percent,,urban area,,3.31
-2017,Percent,,urban area,,2.92
-2018,Percent,,urban area,,3.06
-2012,Percent,Akmola,urban area,KZ03,8.47
-2013,Percent,Akmola,urban area,KZ03,8.45
-2014,Percent,Akmola,urban area,KZ03,8.44
-2015,Percent,Akmola,urban area,KZ03,8.44
-2016,Percent,Akmola,urban area,KZ03,8.47
-2017,Percent,Akmola,urban area,KZ03,0.01
-2018,Percent,Akmola,urban area,KZ03,5.4
-2012,Percent,Aktobe,urban area,KZ04,2.87
-2013,Percent,Aktobe,urban area,KZ04,8.69
-2014,Percent,Aktobe,urban area,KZ04,8.61
-2015,Percent,Aktobe,urban area,KZ04,8.52
-2016,Percent,Aktobe,urban area,KZ04,8.45
-2017,Percent,Aktobe,urban area,KZ04,7.96
-2018,Percent,Aktobe,urban area,KZ04,7.52
-2012,Percent,Almaty,urban area,KZ01,5.69
-2013,Percent,Almaty,urban area,KZ01,5.52
-2014,Percent,Almaty,urban area,KZ01,5.45
-2015,Percent,Almaty,urban area,KZ01,5.44
-2016,Percent,Almaty,urban area,KZ01,3.42
-2017,Percent,Almaty,urban area,KZ01,0.04
-2018,Percent,Almaty,urban area,KZ01,0.19
-2012,Percent,Atyrau,urban area,KZ06,1.72
-2013,Percent,Atyrau,urban area,KZ06,1.79
-2014,Percent,Atyrau,urban area,KZ06,1.79
-2015,Percent,Atyrau,urban area,KZ06,0.31
-2016,Percent,Atyrau,urban area,KZ06,0.93
-2017,Percent,Atyrau,urban area,KZ06,0.88
-2018,Percent,Atyrau,urban area,KZ06,0.84
-2012,Percent,Batys Kazakhstan,urban area,KZ07,9.82
-2013,Percent,Batys Kazakhstan,urban area,KZ07,10.13
-2014,Percent,Batys Kazakhstan,urban area,KZ07,10.07
-2015,Percent,Batys Kazakhstan,urban area,KZ07,9.98
-2016,Percent,Batys Kazakhstan,urban area,KZ07,9.9
-2017,Percent,Batys Kazakhstan,urban area,KZ07,8.19
-2018,Percent,Batys Kazakhstan,urban area,KZ07,9.71
-2012,Percent,Zhambyl,urban area,KZ17,2.08
-2013,Percent,Zhambyl,urban area,KZ17,1.79
-2014,Percent,Zhambyl,urban area,KZ17,1.13
-2015,Percent,Zhambyl,urban area,KZ17,1.77
-2016,Percent,Zhambyl,urban area,KZ17,1.38
-2017,Percent,Zhambyl,urban area,KZ17,0.47
-2018,Percent,Zhambyl,urban area,KZ17,0.07
-2012,Percent,Karagandy,urban area,KZ12,4.63
-2013,Percent,Karagandy,urban area,KZ12,4.61
-2014,Percent,Karagandy,urban area,KZ12,4.4
-2015,Percent,Karagandy,urban area,KZ12,4.39
-2016,Percent,Karagandy,urban area,KZ12,4.27
-2017,Percent,Karagandy,urban area,KZ12,4.29
-2018,Percent,Karagandy,urban area,KZ12,4.32
-2012,Percent,Kostanay,urban area,KZ13,17.41
-2013,Percent,Kostanay,urban area,KZ13,17.31
-2014,Percent,Kostanay,urban area,KZ13,17.21
-2015,Percent,Kostanay,urban area,KZ13,17.07
-2016,Percent,Kostanay,urban area,KZ13,17.03
-2017,Percent,Kostanay,urban area,KZ13,17.03
-2018,Percent,Kostanay,urban area,KZ13,16.58
-2012,Percent,Kyzylorda,urban area,KZ14,0.2
-2013,Percent,Kyzylorda,urban area,KZ14,0.2
-2014,Percent,Kyzylorda,urban area,KZ14,0.2
-2015,Percent,Kyzylorda,urban area,KZ14,0.19
-2016,Percent,Kyzylorda,urban area,KZ14,0.19
-2017,Percent,Kyzylorda,urban area,KZ14,0.19
-2018,Percent,Kyzylorda,urban area,KZ14,0.19
-2012,Percent,Mangistau,urban area,KZ09,0.0
-2013,Percent,Mangistau,urban area,KZ09,0.0
-2014,Percent,Mangistau,urban area,KZ09,0.0
-2015,Percent,Mangistau,urban area,KZ09,0.0
-2016,Percent,Mangistau,urban area,KZ09,0.0
-2017,Percent,Mangistau,urban area,KZ09,0.0
-2018,Percent,Mangistau,urban area,KZ09,0.0
-2012,Percent,Turkistan,urban area,KZ10,0.26
-2013,Percent,Turkistan,urban area,KZ10,0.23
-2014,Percent,Turkistan,urban area,KZ10,0.25
-2015,Percent,Turkistan,urban area,KZ10,0.16
-2016,Percent,Turkistan,urban area,KZ10,0.24
-2017,Percent,Turkistan,urban area,KZ10,0.7
-2018,Percent,Turkistan,urban area,KZ10,0.87
-2012,Percent,Pavlodar,urban area,KZ11,7.41
-2013,Percent,Pavlodar,urban area,KZ11,7.77
-2014,Percent,Pavlodar,urban area,KZ11,0.05
-2015,Percent,Pavlodar,urban area,KZ11,0.08
-2016,Percent,Pavlodar,urban area,KZ11,0.0
-2017,Percent,Pavlodar,urban area,KZ11,0.0
-2018,Percent,Pavlodar,urban area,KZ11,0.01
-2012,Percent,Soltustik Kazakhstan,urban area,KZ16,11.5
-2013,Percent,Soltustik Kazakhstan,urban area,KZ16,11.53
-2014,Percent,Soltustik Kazakhstan,urban area,KZ16,11.49
-2015,Percent,Soltustik Kazakhstan,urban area,KZ16,11.93
-2016,Percent,Soltustik Kazakhstan,urban area,KZ16,0.19
-2017,Percent,Soltustik Kazakhstan,urban area,KZ16,5.05
-2018,Percent,Soltustik Kazakhstan,urban area,KZ16,5.4
-2012,Percent,Shygys Kazakhstan,urban area,KZ15,6.72
-2013,Percent,Shygys Kazakhstan,urban area,KZ15,6.94
-2014,Percent,Shygys Kazakhstan,urban area,KZ15,7.1
-2015,Percent,Shygys Kazakhstan,urban area,KZ15,7.2
-2016,Percent,Shygys Kazakhstan,urban area,KZ15,6.93
-2017,Percent,Shygys Kazakhstan,urban area,KZ15,6.98
-2018,Percent,Shygys Kazakhstan,urban area,KZ15,6.89
-2012,Percent,,countryside,,2.59
-2013,Percent,,countryside,,2.59
-2014,Percent,,countryside,,2.78
-2015,Percent,,countryside,,4.75
-2016,Percent,,countryside,,2.63
-2017,Percent,,countryside,,2.17
-2018,Percent,,countryside,,1.9
-2012,Percent,Akmola,countryside,KZ03,1.5
-2013,Percent,Akmola,countryside,KZ03,1.49
-2014,Percent,Akmola,countryside,KZ03,1.49
-2015,Percent,Akmola,countryside,KZ03,1.48
-2016,Percent,Akmola,countryside,KZ03,1.48
-2017,Percent,Akmola,countryside,KZ03,6.46
-2018,Percent,Akmola,countryside,KZ03,0.46
-2012,Percent,Aktobe,countryside,KZ04,0.0
-2013,Percent,Aktobe,countryside,KZ04,0.89
-2014,Percent,Aktobe,countryside,KZ04,0.88
-2015,Percent,Aktobe,countryside,KZ04,15.68
-2016,Percent,Aktobe,countryside,KZ04,0.88
-2017,Percent,Aktobe,countryside,KZ04,0.98
-2018,Percent,Aktobe,countryside,KZ04,1.1
-2012,Percent,Almaty,countryside,KZ01,6.35
-2013,Percent,Almaty,countryside,KZ01,6.39
-2014,Percent,Almaty,countryside,KZ01,6.68
-2015,Percent,Almaty,countryside,KZ01,1.16
-2016,Percent,Almaty,countryside,KZ01,6.18
-2017,Percent,Almaty,countryside,KZ01,2.47
-2018,Percent,Almaty,countryside,KZ01,2.67
-2012,Percent,Atyrau,countryside,KZ06,1.35
-2013,Percent,Atyrau,countryside,KZ06,1.48
-2014,Percent,Atyrau,countryside,KZ06,1.43
-2015,Percent,Atyrau,countryside,KZ06,0.93
-2016,Percent,Atyrau,countryside,KZ06,2.62
-2017,Percent,Atyrau,countryside,KZ06,2.75
-2018,Percent,Atyrau,countryside,KZ06,2.82
-2012,Percent,Batys Kazakhstan,countryside,KZ07,2.52
-2013,Percent,Batys Kazakhstan,countryside,KZ07,1.72
-2014,Percent,Batys Kazakhstan,countryside,KZ07,1.74
-2015,Percent,Batys Kazakhstan,countryside,KZ07,11.42
-2016,Percent,Batys Kazakhstan,countryside,KZ07,1.84
-2017,Percent,Batys Kazakhstan,countryside,KZ07,1.89
-2018,Percent,Batys Kazakhstan,countryside,KZ07,1.93
-2012,Percent,Zhambyl,countryside,KZ17,1.8
-2013,Percent,Zhambyl,countryside,KZ17,1.5
-2014,Percent,Zhambyl,countryside,KZ17,1.78
-2015,Percent,Zhambyl,countryside,KZ17,1.06
-2016,Percent,Zhambyl,countryside,KZ17,1.77
-2017,Percent,Zhambyl,countryside,KZ17,2.33
-2018,Percent,Zhambyl,countryside,KZ17,2.24
-2012,Percent,Karagandy,countryside,KZ12,2.97
-2013,Percent,Karagandy,countryside,KZ12,2.98
-2014,Percent,Karagandy,countryside,KZ12,3.02
-2015,Percent,Karagandy,countryside,KZ12,18.8
-2016,Percent,Karagandy,countryside,KZ12,3.71
-2017,Percent,Karagandy,countryside,KZ12,3.14
-2018,Percent,Karagandy,countryside,KZ12,3.23
-2012,Percent,Kostanay,countryside,KZ13,5.8
-2013,Percent,Kostanay,countryside,KZ13,5.83
-2014,Percent,Kostanay,countryside,KZ13,5.88
-2015,Percent,Kostanay,countryside,KZ13,21.16
-2016,Percent,Kostanay,countryside,KZ13,6.02
-2017,Percent,Kostanay,countryside,KZ13,6.12
-2018,Percent,Kostanay,countryside,KZ13,6.1
-2012,Percent,Kyzylorda,countryside,KZ14,0.2
-2013,Percent,Kyzylorda,countryside,KZ14,0.2
-2014,Percent,Kyzylorda,countryside,KZ14,0.19
-2015,Percent,Kyzylorda,countryside,KZ14,0.16
-2016,Percent,Kyzylorda,countryside,KZ14,0.19
-2017,Percent,Kyzylorda,countryside,KZ14,0.19
-2018,Percent,Kyzylorda,countryside,KZ14,0.19
-2012,Percent,Mangistau,countryside,KZ09,0.07
-2013,Percent,Mangistau,countryside,KZ09,0.06
-2014,Percent,Mangistau,countryside,KZ09,0.03
-2015,Percent,Mangistau,countryside,KZ09,0.0
-2016,Percent,Mangistau,countryside,KZ09,0.02
-2017,Percent,Mangistau,countryside,KZ09,0.03
-2018,Percent,Mangistau,countryside,KZ09,0.02
-2012,Percent,Turkistan,countryside,KZ10,1.29
-2013,Percent,Turkistan,countryside,KZ10,1.33
-2014,Percent,Turkistan,countryside,KZ10,1.91
-2015,Percent,Turkistan,countryside,KZ10,0.22
-2016,Percent,Turkistan,countryside,KZ10,1.63
-2017,Percent,Turkistan,countryside,KZ10,1.34
-2018,Percent,Turkistan,countryside,KZ10,7.75
-2012,Percent,Pavlodar,countryside,KZ11,1.14
-2013,Percent,Pavlodar,countryside,KZ11,1.16
-2014,Percent,Pavlodar,countryside,KZ11,0.71
-2015,Percent,Pavlodar,countryside,KZ11,0.69
-2016,Percent,Pavlodar,countryside,KZ11,0.17
-2017,Percent,Pavlodar,countryside,KZ11,0.61
-2018,Percent,Pavlodar,countryside,KZ11,0.61
-2012,Percent,Soltustik Kazakhstan,countryside,KZ16,0.62
-2013,Percent,Soltustik Kazakhstan,countryside,KZ16,0.65
-2014,Percent,Soltustik Kazakhstan,countryside,KZ16,0.66
-2015,Percent,Soltustik Kazakhstan,countryside,KZ16,0.17
-2016,Percent,Soltustik Kazakhstan,countryside,KZ16,0.21
-2017,Percent,Soltustik Kazakhstan,countryside,KZ16,0.43
-2018,Percent,Soltustik Kazakhstan,countryside,KZ16,0.11
-2012,Percent,Shygys Kazakhstan,countryside,KZ15,1.16
-2013,Percent,Shygys Kazakhstan,countryside,KZ15,1.1
-2014,Percent,Shygys Kazakhstan,countryside,KZ15,1.64
-2015,Percent,Shygys Kazakhstan,countryside,KZ15,11.83
-2016,Percent,Shygys Kazakhstan,countryside,KZ15,1.31
-2017,Percent,Shygys Kazakhstan,countryside,KZ15,1.13
-2018,Percent,Shygys Kazakhstan,countryside,KZ15,1.34
+2012,Percent,,городская местность,,4.14
+2013,Percent,,городская местность,,4.45
+2014,Percent,,городская местность,,3.87
+2015,Percent,,городская местность,,3.8
+2016,Percent,,городская местность,,3.31
+2017,Percent,,городская местность,,2.92
+2018,Percent,,городская местность,,3.06
+2012,Percent,Akmola,городская местность,KZ03,8.47
+2013,Percent,Akmola,городская местность,KZ03,8.45
+2014,Percent,Akmola,городская местность,KZ03,8.44
+2015,Percent,Akmola,городская местность,KZ03,8.44
+2016,Percent,Akmola,городская местность,KZ03,8.47
+2017,Percent,Akmola,городская местность,KZ03,0.01
+2018,Percent,Akmola,городская местность,KZ03,5.4
+2012,Percent,Aktobe,городская местность,KZ04,2.87
+2013,Percent,Aktobe,городская местность,KZ04,8.69
+2014,Percent,Aktobe,городская местность,KZ04,8.61
+2015,Percent,Aktobe,городская местность,KZ04,8.52
+2016,Percent,Aktobe,городская местность,KZ04,8.45
+2017,Percent,Aktobe,городская местность,KZ04,7.96
+2018,Percent,Aktobe,городская местность,KZ04,7.52
+2012,Percent,Almaty,городская местность,KZ01,5.69
+2013,Percent,Almaty,городская местность,KZ01,5.52
+2014,Percent,Almaty,городская местность,KZ01,5.45
+2015,Percent,Almaty,городская местность,KZ01,5.44
+2016,Percent,Almaty,городская местность,KZ01,3.42
+2017,Percent,Almaty,городская местность,KZ01,0.04
+2018,Percent,Almaty,городская местность,KZ01,0.19
+2012,Percent,Atyrau,городская местность,KZ06,1.72
+2013,Percent,Atyrau,городская местность,KZ06,1.79
+2014,Percent,Atyrau,городская местность,KZ06,1.79
+2015,Percent,Atyrau,городская местность,KZ06,0.31
+2016,Percent,Atyrau,городская местность,KZ06,0.93
+2017,Percent,Atyrau,городская местность,KZ06,0.88
+2018,Percent,Atyrau,городская местность,KZ06,0.84
+2012,Percent,Batys Kazakhstan,городская местность,KZ07,9.82
+2013,Percent,Batys Kazakhstan,городская местность,KZ07,10.13
+2014,Percent,Batys Kazakhstan,городская местность,KZ07,10.07
+2015,Percent,Batys Kazakhstan,городская местность,KZ07,9.98
+2016,Percent,Batys Kazakhstan,городская местность,KZ07,9.9
+2017,Percent,Batys Kazakhstan,городская местность,KZ07,8.19
+2018,Percent,Batys Kazakhstan,городская местность,KZ07,9.71
+2012,Percent,Zhambyl,городская местность,KZ17,2.08
+2013,Percent,Zhambyl,городская местность,KZ17,1.79
+2014,Percent,Zhambyl,городская местность,KZ17,1.13
+2015,Percent,Zhambyl,городская местность,KZ17,1.77
+2016,Percent,Zhambyl,городская местность,KZ17,1.38
+2017,Percent,Zhambyl,городская местность,KZ17,0.47
+2018,Percent,Zhambyl,городская местность,KZ17,0.07
+2012,Percent,Karagandy,городская местность,KZ12,4.63
+2013,Percent,Karagandy,городская местность,KZ12,4.61
+2014,Percent,Karagandy,городская местность,KZ12,4.4
+2015,Percent,Karagandy,городская местность,KZ12,4.39
+2016,Percent,Karagandy,городская местность,KZ12,4.27
+2017,Percent,Karagandy,городская местность,KZ12,4.29
+2018,Percent,Karagandy,городская местность,KZ12,4.32
+2012,Percent,Kostanay,городская местность,KZ13,17.41
+2013,Percent,Kostanay,городская местность,KZ13,17.31
+2014,Percent,Kostanay,городская местность,KZ13,17.21
+2015,Percent,Kostanay,городская местность,KZ13,17.07
+2016,Percent,Kostanay,городская местность,KZ13,17.03
+2017,Percent,Kostanay,городская местность,KZ13,17.03
+2018,Percent,Kostanay,городская местность,KZ13,16.58
+2012,Percent,Kyzylorda,городская местность,KZ14,0.2
+2013,Percent,Kyzylorda,городская местность,KZ14,0.2
+2014,Percent,Kyzylorda,городская местность,KZ14,0.2
+2015,Percent,Kyzylorda,городская местность,KZ14,0.19
+2016,Percent,Kyzylorda,городская местность,KZ14,0.19
+2017,Percent,Kyzylorda,городская местность,KZ14,0.19
+2018,Percent,Kyzylorda,городская местность,KZ14,0.19
+2012,Percent,Mangistau,городская местность,KZ09,0.0
+2013,Percent,Mangistau,городская местность,KZ09,0.0
+2014,Percent,Mangistau,городская местность,KZ09,0.0
+2015,Percent,Mangistau,городская местность,KZ09,0.0
+2016,Percent,Mangistau,городская местность,KZ09,0.0
+2017,Percent,Mangistau,городская местность,KZ09,0.0
+2018,Percent,Mangistau,городская местность,KZ09,0.0
+2012,Percent,Turkistan,городская местность,KZ10,0.26
+2013,Percent,Turkistan,городская местность,KZ10,0.23
+2014,Percent,Turkistan,городская местность,KZ10,0.25
+2015,Percent,Turkistan,городская местность,KZ10,0.16
+2016,Percent,Turkistan,городская местность,KZ10,0.24
+2017,Percent,Turkistan,городская местность,KZ10,0.7
+2018,Percent,Turkistan,городская местность,KZ10,0.87
+2012,Percent,Pavlodar,городская местность,KZ11,7.41
+2013,Percent,Pavlodar,городская местность,KZ11,7.77
+2014,Percent,Pavlodar,городская местность,KZ11,0.05
+2015,Percent,Pavlodar,городская местность,KZ11,0.08
+2016,Percent,Pavlodar,городская местность,KZ11,0.0
+2017,Percent,Pavlodar,городская местность,KZ11,0.0
+2018,Percent,Pavlodar,городская местность,KZ11,0.01
+2012,Percent,Soltustik Kazakhstan,городская местность,KZ16,11.5
+2013,Percent,Soltustik Kazakhstan,городская местность,KZ16,11.53
+2014,Percent,Soltustik Kazakhstan,городская местность,KZ16,11.49
+2015,Percent,Soltustik Kazakhstan,городская местность,KZ16,11.93
+2016,Percent,Soltustik Kazakhstan,городская местность,KZ16,0.19
+2017,Percent,Soltustik Kazakhstan,городская местность,KZ16,5.05
+2018,Percent,Soltustik Kazakhstan,городская местность,KZ16,5.4
+2012,Percent,Shygys Kazakhstan,городская местность,KZ15,6.72
+2013,Percent,Shygys Kazakhstan,городская местность,KZ15,6.94
+2014,Percent,Shygys Kazakhstan,городская местность,KZ15,7.1
+2015,Percent,Shygys Kazakhstan,городская местность,KZ15,7.2
+2016,Percent,Shygys Kazakhstan,городская местность,KZ15,6.93
+2017,Percent,Shygys Kazakhstan,городская местность,KZ15,6.98
+2018,Percent,Shygys Kazakhstan,городская местность,KZ15,6.89
+2012,Percent,,сельская местность,,2.59
+2013,Percent,,сельская местность,,2.59
+2014,Percent,,сельская местность,,2.78
+2015,Percent,,сельская местность,,4.75
+2016,Percent,,сельская местность,,2.63
+2017,Percent,,сельская местность,,2.17
+2018,Percent,,сельская местность,,1.9
+2012,Percent,Akmola,сельская местность,KZ03,1.5
+2013,Percent,Akmola,сельская местность,KZ03,1.49
+2014,Percent,Akmola,сельская местность,KZ03,1.49
+2015,Percent,Akmola,сельская местность,KZ03,1.48
+2016,Percent,Akmola,сельская местность,KZ03,1.48
+2017,Percent,Akmola,сельская местность,KZ03,6.46
+2018,Percent,Akmola,сельская местность,KZ03,0.46
+2012,Percent,Aktobe,сельская местность,KZ04,0.0
+2013,Percent,Aktobe,сельская местность,KZ04,0.89
+2014,Percent,Aktobe,сельская местность,KZ04,0.88
+2015,Percent,Aktobe,сельская местность,KZ04,15.68
+2016,Percent,Aktobe,сельская местность,KZ04,0.88
+2017,Percent,Aktobe,сельская местность,KZ04,0.98
+2018,Percent,Aktobe,сельская местность,KZ04,1.1
+2012,Percent,Almaty,сельская местность,KZ01,6.35
+2013,Percent,Almaty,сельская местность,KZ01,6.39
+2014,Percent,Almaty,сельская местность,KZ01,6.68
+2015,Percent,Almaty,сельская местность,KZ01,1.16
+2016,Percent,Almaty,сельская местность,KZ01,6.18
+2017,Percent,Almaty,сельская местность,KZ01,2.47
+2018,Percent,Almaty,сельская местность,KZ01,2.67
+2012,Percent,Atyrau,сельская местность,KZ06,1.35
+2013,Percent,Atyrau,сельская местность,KZ06,1.48
+2014,Percent,Atyrau,сельская местность,KZ06,1.43
+2015,Percent,Atyrau,сельская местность,KZ06,0.93
+2016,Percent,Atyrau,сельская местность,KZ06,2.62
+2017,Percent,Atyrau,сельская местность,KZ06,2.75
+2018,Percent,Atyrau,сельская местность,KZ06,2.82
+2012,Percent,Batys Kazakhstan,сельская местность,KZ07,2.52
+2013,Percent,Batys Kazakhstan,сельская местность,KZ07,1.72
+2014,Percent,Batys Kazakhstan,сельская местность,KZ07,1.74
+2015,Percent,Batys Kazakhstan,сельская местность,KZ07,11.42
+2016,Percent,Batys Kazakhstan,сельская местность,KZ07,1.84
+2017,Percent,Batys Kazakhstan,сельская местность,KZ07,1.89
+2018,Percent,Batys Kazakhstan,сельская местность,KZ07,1.93
+2012,Percent,Zhambyl,сельская местность,KZ17,1.8
+2013,Percent,Zhambyl,сельская местность,KZ17,1.5
+2014,Percent,Zhambyl,сельская местность,KZ17,1.78
+2015,Percent,Zhambyl,сельская местность,KZ17,1.06
+2016,Percent,Zhambyl,сельская местность,KZ17,1.77
+2017,Percent,Zhambyl,сельская местность,KZ17,2.33
+2018,Percent,Zhambyl,сельская местность,KZ17,2.24
+2012,Percent,Karagandy,сельская местность,KZ12,2.97
+2013,Percent,Karagandy,сельская местность,KZ12,2.98
+2014,Percent,Karagandy,сельская местность,KZ12,3.02
+2015,Percent,Karagandy,сельская местность,KZ12,18.8
+2016,Percent,Karagandy,сельская местность,KZ12,3.71
+2017,Percent,Karagandy,сельская местность,KZ12,3.14
+2018,Percent,Karagandy,сельская местность,KZ12,3.23
+2012,Percent,Kostanay,сельская местность,KZ13,5.8
+2013,Percent,Kostanay,сельская местность,KZ13,5.83
+2014,Percent,Kostanay,сельская местность,KZ13,5.88
+2015,Percent,Kostanay,сельская местность,KZ13,21.16
+2016,Percent,Kostanay,сельская местность,KZ13,6.02
+2017,Percent,Kostanay,сельская местность,KZ13,6.12
+2018,Percent,Kostanay,сельская местность,KZ13,6.1
+2012,Percent,Kyzylorda,сельская местность,KZ14,0.2
+2013,Percent,Kyzylorda,сельская местность,KZ14,0.2
+2014,Percent,Kyzylorda,сельская местность,KZ14,0.19
+2015,Percent,Kyzylorda,сельская местность,KZ14,0.16
+2016,Percent,Kyzylorda,сельская местность,KZ14,0.19
+2017,Percent,Kyzylorda,сельская местность,KZ14,0.19
+2018,Percent,Kyzylorda,сельская местность,KZ14,0.19
+2012,Percent,Mangistau,сельская местность,KZ09,0.07
+2013,Percent,Mangistau,сельская местность,KZ09,0.06
+2014,Percent,Mangistau,сельская местность,KZ09,0.03
+2015,Percent,Mangistau,сельская местность,KZ09,0.0
+2016,Percent,Mangistau,сельская местность,KZ09,0.02
+2017,Percent,Mangistau,сельская местность,KZ09,0.03
+2018,Percent,Mangistau,сельская местность,KZ09,0.02
+2012,Percent,Turkistan,сельская местность,KZ10,1.29
+2013,Percent,Turkistan,сельская местность,KZ10,1.33
+2014,Percent,Turkistan,сельская местность,KZ10,1.91
+2015,Percent,Turkistan,сельская местность,KZ10,0.22
+2016,Percent,Turkistan,сельская местность,KZ10,1.63
+2017,Percent,Turkistan,сельская местность,KZ10,1.34
+2018,Percent,Turkistan,сельская местность,KZ10,7.75
+2012,Percent,Pavlodar,сельская местность,KZ11,1.14
+2013,Percent,Pavlodar,сельская местность,KZ11,1.16
+2014,Percent,Pavlodar,сельская местность,KZ11,0.71
+2015,Percent,Pavlodar,сельская местность,KZ11,0.69
+2016,Percent,Pavlodar,сельская местность,KZ11,0.17
+2017,Percent,Pavlodar,сельская местность,KZ11,0.61
+2018,Percent,Pavlodar,сельская местность,KZ11,0.61
+2012,Percent,Soltustik Kazakhstan,сельская местность,KZ16,0.62
+2013,Percent,Soltustik Kazakhstan,сельская местность,KZ16,0.65
+2014,Percent,Soltustik Kazakhstan,сельская местность,KZ16,0.66
+2015,Percent,Soltustik Kazakhstan,сельская местность,KZ16,0.17
+2016,Percent,Soltustik Kazakhstan,сельская местность,KZ16,0.21
+2017,Percent,Soltustik Kazakhstan,сельская местность,KZ16,0.43
+2018,Percent,Soltustik Kazakhstan,сельская местность,KZ16,0.11
+2012,Percent,Shygys Kazakhstan,сельская местность,KZ15,1.16
+2013,Percent,Shygys Kazakhstan,сельская местность,KZ15,1.1
+2014,Percent,Shygys Kazakhstan,сельская местность,KZ15,1.64
+2015,Percent,Shygys Kazakhstan,сельская местность,KZ15,11.83
+2016,Percent,Shygys Kazakhstan,сельская местность,KZ15,1.31
+2017,Percent,Shygys Kazakhstan,сельская местность,KZ15,1.13
+2018,Percent,Shygys Kazakhstan,сельская местность,KZ15,1.34

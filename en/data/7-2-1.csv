@@ -63,12 +63,12 @@ Year,Units,Type of economic activity,Regions,GeoCode,Value
 2016,Percent,,Almaty city,KZ02,6.6
 2017,Percent,,Almaty city,KZ02,6.2
 2018,Percent,,Almaty city,KZ02,6.0
-2010,Percent,excluding large hydropower plants,,,0.0
-2011,Percent,excluding large hydropower plants,,,0.0
-2012,Percent,excluding large hydropower plants,,,0.0
-2013,Percent,excluding large hydropower plants,,,0.0
-2014,Percent,excluding large hydropower plants,,,0.62
-2015,Percent,excluding large hydropower plants,,,0.77
-2016,Percent,excluding large hydropower plants,,,0.98
-2017,Percent,excluding large hydropower plants,,,1.3
-2018,Percent,excluding large hydropower plants,,,1.3
+2010,Percent,excluding large water-power-plant,,,0.0
+2011,Percent,excluding large water-power-plant,,,0.0
+2012,Percent,excluding large water-power-plant,,,0.0
+2013,Percent,excluding large water-power-plant,,,0.0
+2014,Percent,excluding large water-power-plant,,,0.62
+2015,Percent,excluding large water-power-plant,,,0.77
+2016,Percent,excluding large water-power-plant,,,0.98
+2017,Percent,excluding large water-power-plant,,,1.3
+2018,Percent,excluding large water-power-plant,,,1.3
