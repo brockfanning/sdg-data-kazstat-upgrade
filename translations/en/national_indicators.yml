@@ -19,9 +19,9 @@
   programmes (as a percentage of GDP)
 1-b-1-title: The proportion of current and capital public expenditures directed to
   sectors that benefit women, poor and vulnerable
-2-4-1-1-title: Area of irrigated land on which water-saving technologies are used (drip irrigation,sprinkling) 
 10-1-1-title: Proportion of incomes  the bottom 40 per cent of the population
-10-2-1-title: Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
+10-2-1-title: Proportion of people living below 50 per cent of median income, by sex,
+  age and persons with disabilities
 10-3-1-title: Treatment of people with disabilities that raise issues of social security,
   health care, education, housing, labor rights, as well as non-execution of court
   decisions, obtaining qualified legal assistance
@@ -47,6 +47,7 @@
   of waste
 11-6-2-title: Annual mean levels of fine particulate matter PM2.5 and PM10 in the
   atmosphere (mg/m3) in cities where observations are held
+12-4-2-1-title: Hazardous waste generation ("red" and "amber" hazard levels) per capita
 12-4-2-title: Hazardous waste generation
 12-5-1-1-title: Solid waste recycling and disposal to their generation ratio
 12-5-1-title: Industrial waste recycling and disposal to their generation ratio
@@ -54,7 +55,16 @@
 13-1-3-title: The proportion of local administrative units which adopted and implemented
   regional strategies designed to mitigate risks associated with disasters (these
   strategies were designed in accordance with national strategies)
-13-3-1-title: Proportion of children covered by updated educational content
+13-2-1-title: Number of countries with nationally defined contributions, long-term
+  strategies, national adaptation plans, strategies in accordance with the information
+  provided in national communications and reports on adaptation and mitigation to
+  climate change
+13-3-1-1-title: Percentage of students in TVE organizations involved in community
+  service activities, percentage
+13-3-1-2-title: Percentage of children covered by updated educational content, percentage
+13-3-1-3-title: The proportion of students who have demonstrated a high level of citizenship
+  and patriotism
+13-3-1-title: The share of university students involved in community service
 14-3-1-title: Average marine acidity (pH) measured at agreed suite of representative
   sampling stations (the Caspian Sea)
 14-4-1-title: Preservation of fish resources and other aquatic animals
@@ -70,48 +80,75 @@
   percentage of the total land area
 15-4-2-title: Mountain Forest Area
 15-5-1-title: list of rare and endangered
+15-6-1-title: Plant genetic resources for biodiversity conservation, including genetic
+  resources for agriculture and food production
 15-7-1-title: The number of rare and wild hoofed animals
 15-b-1-title: Maintenance of specially protected natural territories
 15-c-1-title: Increase in the number of saigas
 16-1-1-title: Number of victims of intentional homicide per 100 000 people
-16-2-2-title: Number of victims of trafficking per 100 000 people
 16-1-4-1-title: Specific gravity of crimes committed on the street
 16-1-4-title: Proportion of people feeling safe or insecure when they walk alone down
   the street in their area
 16-2-1-title: Proportion of children aged 1-14 years who experienced any physical
   punishment and/or psychological aggression by caregivers in the past month
+16-2-2-title: Number of victims of trafficking per 100 000 people
 16-3-2-1-title: The number of people who received free legal assistance guaranteed
   by the state
 16-3-2-title: The number of suspects and accused persons in custody out of the total
   number of chosen preventive measures
-16-4-2-1-title: Percentage of crimes committed as part of an organized criminal group
-  (OCG) of the total number of criminal offenses
+16-3-3- -title: The proportion of court cases resolved through conciliation proceedings
+  to the total number of cases
+16-3-3-1-title: The number of disputes resolved through conciliation proceedings in
+  pretrial order
+16-3-3-2-title: Level of trust in law enforcement, by authority
+16-4-2-1-title: The number of crimes committed as part of an organized criminal group
+  (OCG)
 16-5-2-1-title: Public perceptions of corruption
 16-6-1-title: Expenditures of the republican budget as a percentage of the approved
   budget by functional groups
 16-6-2-1-title: The proportion of restated rights for service recipients (on the basis
   of violations found during inspections on appeals from these recipients)
+16-6-2-2-title: The proportion of applications and messages or other information on
+  offenses left without consideration to the total number of registered applications
+  by type (adm. and criminal), percentage
+16-6-2-3-title: Number of citizens held administratively liable per 100,000
+16-7-1-title: Distribution of persons holding positions in state institutions (Parliament,
+  Maslikhats, public service, judicial authorities) by gender, age and disability
 16-8-1-title: Number of international organizations of which Kazakhstan is a member
-17-4-1-title: The ratio of payments for the repayment and maintenance of external public and publicly guaranteed debt to the export of goods and services
 17-10-1-title: The weighted average level of tariffs in Kazakhstan
-17-11-1-title: Proportion of developing countries and least developed countries in the import of Kazakhstan
-17-12-1-title: Average tariffs applied to developing countries and least developed countries
+17-11-1-title: Proportion of developing countries and least developed countries in
+  the import of Kazakhstan
+17-12-1-title: Average tariffs applied to developing countries and least developed
+  countries
 17-17-1-title: Total amount of grants, government contracts to buy social services
   from Non-government Organizations (NGOs), based on service areas (in millions of
   tenge)
-17-3-1-1-title: 'Ratio of the gross outflow of direct investment abroad from Kazakh direct investors to GDP'
-17-3-1-2-title: Ratio of the gross inflow of direct investment in Kazakhstan from foreign direct investors
-17-6-2-title: The number of fixed (wired) broadband Internet subscribers is broken down by speed
-17-9-1-title: Technical and financial support provided by Kazakhstan to other countries, including within the framework of ODA, million US dollars
+17-3-1-1-title: Ratio of the gross outflow of direct investment abroad from Kazakh
+  direct investors to GDP
+17-3-1-2-title: Ratio of the gross inflow of direct investment in Kazakhstan from
+  foreign direct investors
+17-3-1-3-title: Ratio of gross inflow of direct investment to Kazakhstan from foreign
+  direct investors
+17-4-1-title: The ratio of payments for the repayment and maintenance of external
+  public and publicly guaranteed debt to the export of goods and services
+17-6-2-title: The number of fixed (wired) broadband Internet subscribers is broken
+  down by speed
+17-9-1-title: Technical and financial support provided by Kazakhstan to other countries,
+  including within the framework of ODA, million US dollars
+2-1-2-1-title: Share of domestic market supply with food products of domestic production
+2-2-3-title: 'Incidence of anemia among pregnant women aged 15-49 years, '
 2-3-1-title: Productivity in the agricultural sector
+2-4-1-1-title: Area of irrigated land on which water-saving technologies are used
+  (drip irrigation,sprinkling)
 2-4-1-title: Areas which introduced site-specific management technologies (as a percentage
   of the total sowing area)
 2-5-2-title: Increase in the number of rare and endangered species
 3-2-2-1-title: Coefficient of infant mortality
-3-3-1-1-title: Number of newly diagnosed HIV among injecting drug users 
+3-3-1-1-title: Number of newly diagnosed HIV among injecting drug users
 3-5-1-title: Incidence of mental and behavioral disorders, as a result of substance
   use
-3-7-1-title: Percentage of women aged 15-49 years satisfied need for contraception 
+3-7-1-title: Percentage of women aged 15-49 years satisfied need for contraception
+3-7-2-1-title: Number of abortions among adolescents (under 14 years, 15-18 years)
 3-b-3-title: The proportion of health facilities which have a permanent stock of essential
   and affordable drugs and medicines
 4-2-2-1-title: Readiness for school (percentage of children attending the first grade
@@ -124,7 +161,6 @@
   active population of the same age
 4-3-1-title: The proportion of young people (age 14-24) enrolled and/or graduated
   colleges which offer technical and vocational training
-4-5-1-title: Gender Equality Index by Level of Education 
 4-5-1-1-title: The proportion of pre-school organizations that created conditions
   for the education and training of children with special educational needs
 4-5-1-2-title: The proportion of schools that created conditions for inclusive education
@@ -133,6 +169,7 @@
   educational needs
 4-5-1-4-title: The proportion of universities that created equal conditions and barrier-free
   access for students with special educational needs
+4-5-1-title: Gender Equality Index by Level of Education
 4-7-1-1-title: The proportion of university students who participate in socially-beneficial
   activities
 4-7-1-2-title: The proportion of college students (enrolled in technical and vocational
@@ -141,8 +178,16 @@
   renovated training curriculum '
 4-7-1-title: The proportion of university students who participate in socially-beneficial
   activities
-4-c-1-title: Proportion of teachers in pre-school institutions with pedagogical education
+4-a-1-1-title: Share of modified classrooms with modern equipment in secondary education
+  organizations, from their total number
+4-a-1-2-title: Percentage of 3-shift schools
+4-a-1-3-title: Percentage of emergency schools
 4-a-1-title: Proportion of schools provided with electricity
+4-c-1-1-title: Share of teaching staff of secondary education organizations who have
+  passed advanced training on the updated content of their total number
+4-c-1-2-title: Share of teachers with the qualification level of master researcher,
+  expert teacher and moderator of the total number of secondary education teachers
+4-c-1-title: Proportion of teachers in pre-school institutions with pedagogical education
 5-2-1-1-title: Reductions in reported incidents of domestic violence against women
 5-2-1-2-title: Reductions in reported incidents of domestic violence against children
 5-2-1-title: The prevalence of physical and sexual violence by an intimate partner
@@ -175,9 +220,9 @@
 7-1-2-title: The level of gasification of the population
 7-2-1-title: Renewable energy share in the total energy generation
 7-3-1-title: Energy intensity of GDP
-7-b-1-1-title: The ratio of payments for the repayment and maintenance of external public and publicly guaranteed debt to the export of goods and services 
 7-b-1-1-title: Proportion of enterprises implementing energy efficiency system
 7-b-1-title: Investments in fixed capital by ownership
+8-3-1-1-title: Share of unproductively employed in the total number of employed
 8-3-1-title: Average hourly earnings of women and men in total, by foreign economic
   activity, region and age
 8-5-1-title: Average hourly earnings of women and men in total, by foreign economic
@@ -188,8 +233,8 @@
 8-8-1-title: Occupational injury rate
 8-8-2-title: Proportion of enterprises covered by the system of collective bargaining
   relations among large and medium-sized enterprises
-8-9-1-title: The direct contribution of tourism to GDP
 8-9-1-1-title: Growth rate of GVA direct tourism
+8-9-1-title: The direct contribution of tourism to GDP
 8-9-2-title: Proportion of employed in tourism in the total number of employed
 8-b-1-title: Percentage of young people employed in permanent jobs from among those
   who applied to employment centers
@@ -198,7 +243,8 @@
 9-2-1-title: Manufacturing GVA as a proportion of GDP
 9-2-2-title: Proportion of employed in the manufacturing industry in the total number
   of employed
-9-3-2-title: Proportion of small-scale industries with a loan or line of credit  
+9-3-2-title: Proportion of small-scale industries with a loan or line of credit
+9-4-1-1-title: CO2 emissions per capita
 9-5-1-1-title: Proportion of business expenses in the total amount of R & D expenses
 9-5-1-title: Domestic research and development expenditure as a proportion of GDP
 9-5-2-title: Number of research specialists performing R & D per million inhabitants
