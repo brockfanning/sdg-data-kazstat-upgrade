@@ -53,9 +53,19 @@ for index,row in source.iterrows():
       'goal_number': parts[0],
       'target_number': parts[0] + '.' + parts[1],
       'reporting_status': 'notstarted',
-      'indicator_name': 'global_indicators.' + translation_key,
-      'indicator_available': 'national_indicators.' + translation_key,
     }
+    has_global_name = not pd.isna(row[os.path.join('translations', 'ru', 'global_indicators.yml')])
+    has_national_name = not pd.isna(row[os.path.join('translations', 'ru', 'national_indicators.yml')])
+    global_only = has_global_name and not has_national_name
+    national_only = has_national_name and not has_global_name
+    if global_only:
+      meta['indicator_name'] = 'global_indicators.' + translation_key
+    elif national_only:
+      meta['indicator_name'] = 'national_indicators.' + translation_key
+    else:
+      meta['indicator_name'] = 'global_indicators.' + translation_key
+      meta['indicator_available'] = 'national_indicators.' + translation_key
+
     with open(meta_path, 'w') as file:
       yaml_str = yaml.dump(meta)
       file.write('---' + os.linesep + yaml_str + '---')
