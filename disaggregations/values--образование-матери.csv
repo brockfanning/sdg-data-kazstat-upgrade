@@ -1,6 +1,6 @@
-Value,Number of instances
-высшее,2
-нет образования/Начальное,2
-общее среднее,2
-основное среднее,2
-техническое и профессиональное,2
+Value,kk,en,Number of instances
+высшее,жоғары,Higher education,2
+нет образования/Начальное,білім жоқ/бастауыш,No education/Elementary education,2
+общее среднее,жалпы орта,High Education (General),2
+основное среднее,негізгі орта,basic secondary (middle-school),2
+техническое и профессиональное,техникалық және кәсіби,Community College and Vocational type of Education,2
