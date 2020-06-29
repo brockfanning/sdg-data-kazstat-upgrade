@@ -44,6 +44,7 @@ frontpage_intro_sidebar: >-
   </p>
   <p>
     <a href='https://datatopics.worldbank.org/sdgs/index.html' class='btn btn-primary btn-download'>
-      World Development Indicators Sustainable Development Goals
+      World Development Indicators<br>
+      Sustainable Development Goals
     </a>
   </p>
