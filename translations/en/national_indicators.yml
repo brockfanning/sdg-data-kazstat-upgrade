@@ -89,6 +89,8 @@
 16-1-4-1-title: Specific gravity of crimes committed on the street
 16-1-4-title: Proportion of people feeling safe or insecure when they walk alone down
   the street in their area
+16-10-1-1-title: Number of cases registered under articles 78, 456-1 of the administrative
+  Code of the Republic of Kazakhstan, cases
 16-2-1-title: Proportion of children aged 1-14 years who experienced any physical
   punishment and/or psychological aggression by caregivers in the past month
 16-2-2-title: Number of victims of trafficking per 100 000 people
@@ -96,11 +98,11 @@
   by the state
 16-3-2-title: The number of suspects and accused persons in custody out of the total
   number of chosen preventive measures
-16-3-3-title: The proportion of court cases resolved through conciliation proceedings
-  to the total number of cases
 16-3-3-1-title: The number of disputes resolved through conciliation proceedings in
   pretrial order
 16-3-3-2-title: Level of trust in law enforcement, by authority
+16-3-3-title: The proportion of court cases resolved through conciliation proceedings
+  to the total number of cases
 16-4-2-1-title: The number of crimes committed as part of an organized criminal group
   (OCG)
 16-5-2-1-title: Public perceptions of corruption
@@ -202,12 +204,10 @@
   its members
 5-a-1-title: Proportion of women who have been granted agricultural land by ownership
 5-b-1-title: The proportion of mobile phone users (age 6 and above)
-6-1-1-title: Provision the population with centralized water supply in the Republic
-  of Kazakhstan
-6-2-1-title: Proportion of population covered by wastewater treatment in the Republic
-  of Kazakhstan
-6-3-1-title: Proportion of regulatory wastewater in the total volume of wastewater
-  discharged through treatment plants in urban areas
+6-1-1-title: Access of the population to water supply services
+6-2-1-title: Percentage of population covered by wastewater treatment
+6-3-1-title: The proportion of normally treated wastewater (including after-treatment)
+  in the total volume of wastewater
 6-3-2-title: Proportion of water bodies with good water quality is
 6-4-1-title: Dynamics of changes in water use efficiency by economic activity
 6-b-1-title: The proportion of local administrative units which adopted rules and
