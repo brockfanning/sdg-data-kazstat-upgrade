@@ -1,1 +1,8 @@
 From,To
+Units,Регионы
+Units,Местность
+Units,Пол
+Units,Образование
+Units,Брачное состояние
+Units,гражданство
+Регионы,GeoCode

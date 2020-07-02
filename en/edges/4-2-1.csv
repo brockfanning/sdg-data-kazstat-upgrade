@@ -1,1 +1,9 @@
 From,To
+Units,Area
+Units,Sex
+Units,Regions
+Units,Age
+Units,Education
+Units,Квинтиль индекса благосостояния
+Units,nationality
+Regions,GeoCode

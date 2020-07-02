@@ -1,1 +1,6 @@
 From,To
+Units,Регионы
+Units,Пол
+Units,Местность
+Units,Возраст
+Регионы,GeoCode

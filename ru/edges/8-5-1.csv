@@ -1,1 +1,6 @@
 From,To
+Units,Регионы
+Units,Пол
+Units,Возраст
+Units,Вид экономической деятельности
+Регионы,GeoCode

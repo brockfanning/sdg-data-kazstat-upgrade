@@ -1,1 +1,6 @@
 From,To
+Units,Regions
+Units,Sex
+Units,Age
+Units,Type of economic activity
+Regions,GeoCode
