@@ -1,1 +1,19 @@
-Year,Value
+Year,Value,Units
+2010,0.00145,injured per 100 000 people
+2011,0.00011999999999999999,injured per 100 000 people
+2012,0.0002,injured per 100 000 people
+2013,0.00011999999999999999,injured per 100 000 people
+2014,0.00018999999999999998,injured per 100 000 people
+2015,8e-05,injured per 100 000 people
+2016,8e-05,injured per 100 000 people
+2017,0.00035,injured per 100 000 people
+2018,8e-05,injured per 100 000 people
+2010,0.00053,killed per 100 000 people
+2011,5e-05,killed per 100 000 people
+2012,0.00015,killed per 100 000 people
+2013,2.9999999999999997e-05,killed per 100 000 people
+2014,9e-05,killed per 100 000 people
+2015,0.0,killed per 100 000 people
+2016,1e-05,killed per 100 000 people
+2017,0.00011,killed per 100 000 people
+2018,1e-05,killed per 100 000 people
