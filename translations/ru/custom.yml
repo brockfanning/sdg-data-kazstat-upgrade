@@ -25,27 +25,27 @@ frontpage_intro_description: >-
 frontpage_intro_sidebar: >-
   <p>
     <a href='http://sdgs.kz/' class='btn btn-primary btn-download'>
-      National situation on SDGs (ERI)
+      Национальная ситуация в области ЦУР (ИЭИ)
     </a>
   </p>
   <p>
     <a href='https://sustainabledevelopment.un.org/' class='btn btn-primary btn-download'>
-      UN SDG Knowledge platform
+      Платформа знаний ЦУР ООН
     </a>
   </p>
   <p>
     <a href='https://unstats.un.org/home/' class='btn btn-primary btn-download'>
-      UN Statistics Division
+      Статистический отдел ООН
     </a>
   </p>
   <p>
     <a href='https://www.unece.org/unece-and-the-sdgs/unece-and-the-sdgs.html' class='btn btn-primary btn-download'>
-      UNECE and the SDGs
+      ЕЭК ООН и ЦУР
     </a>
   </p>
   <p>
     <a href='https://datatopics.worldbank.org/sdgs/index.html' class='btn btn-primary btn-download'>
-      World Development Indicators<br>
-      Sustainable Development Goals
+      Показатели Всемирного Развития<br>
+      Цели Устойчивого Развития
     </a>
   </p>

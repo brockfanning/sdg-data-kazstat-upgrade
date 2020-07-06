@@ -25,27 +25,27 @@ frontpage_intro_description: >-
 frontpage_intro_sidebar: >-
   <p>
     <a href='http://sdgs.kz/' class='btn btn-primary btn-download'>
-      National situation on SDGs (ERI)
+      ТДМ саласындағы ұлттық ахуал (ЭЗИ)
     </a>
   </p>
   <p>
     <a href='https://sustainabledevelopment.un.org/' class='btn btn-primary btn-download'>
-      UN SDG Knowledge platform
+      БҰҰ ТДМ Білім платформасы
     </a>
   </p>
   <p>
     <a href='https://unstats.un.org/home/' class='btn btn-primary btn-download'>
-      UN Statistics Division
+      БҰҰ Статистикалық бөлімі
     </a>
   </p>
   <p>
     <a href='https://www.unece.org/unece-and-the-sdgs/unece-and-the-sdgs.html' class='btn btn-primary btn-download'>
-      UNECE and the SDGs
+      БҰҰ ЕЭК және ТДМ
     </a>
   </p>
   <p>
     <a href='https://datatopics.worldbank.org/sdgs/index.html' class='btn btn-primary btn-download'>
-      World Development Indicators<br>
-      Sustainable Development Goals
+      Дүниежүзілік Даму Көрсеткіштері<br>
+      Тұрақты Даму Мақсаттары
     </a>
   </p>
