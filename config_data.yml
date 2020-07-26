@@ -67,3 +67,5 @@ docs_intro: This is a summary of the resources available on this data service.
   This data is used by <a href="http://brock.tips/sdg-site-kazstat-upgrade">the
   Kazakhstan SDG national reporting platform</a>.
 docs_indicator_url: http://brock.tips/sdg-site-kazstat-upgrade/[id]/
+
+create_sdmx_mapping_tool: true
