@@ -25,8 +25,7 @@ frontpage_intro_description: >-
 frontpage_intro_sidebar: >-
   <p>
     <a href='http://sdgs.kz/' class='btn btn-primary btn-download'>
-      ТДМ саласындағы ұлттық<br>
-      ахуал (ЭЗИ)
+      Қазақстанда Тұрақты даму мақсаттарын іске асыру туралы
     </a>
   </p>
   <p>
@@ -46,7 +45,6 @@ frontpage_intro_sidebar: >-
   </p>
   <p>
     <a href='https://datatopics.worldbank.org/sdgs/index.html' class='btn btn-primary btn-download'>
-      Дүниежүзілік Даму Көрсеткіштері<br>
-      Тұрақты Даму Мақсаттары
+      Дүниежүзілік Даму Көрсеткіштері Тұрақты Даму Мақсаттары
     </a>
   </p>

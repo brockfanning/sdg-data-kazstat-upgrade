@@ -24,7 +24,7 @@ frontpage_intro_description: >-
 frontpage_intro_sidebar: >-
   <p>
     <a href='http://sdgs.kz/' class='btn btn-primary btn-download'>
-      National situation on SDGs (ERI)
+      About implementation of the Sustainable Development Goals in Kazakhstan
     </a>
   </p>
   <p>
@@ -44,7 +44,6 @@ frontpage_intro_sidebar: >-
   </p>
   <p>
     <a href='https://datatopics.worldbank.org/sdgs/index.html' class='btn btn-primary btn-download'>
-      World Development Indicators<br>
-      Sustainable Development Goals
+      World Development Indicators Sustainable Development Goals
     </a>
   </p>
