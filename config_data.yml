@@ -69,3 +69,9 @@ docs_intro: This is a summary of the resources available on this data service.
 docs_indicator_url: http://brock.tips/sdg-site-kazstat-upgrade/[id]/
 
 create_sdmx_mapping_tool: true
+
+indicator_downloads:
+  - button_label: csv
+    source_pattern: data/indicator_*.csv
+    indicator_id_pattern: indicator_(.*)
+    output_folder: data-csv
