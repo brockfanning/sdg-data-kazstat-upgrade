@@ -3,6 +3,16 @@ import yaml
 import os
 import yamlmd
 
+def translation_is_global(translation_key):
+    if 'global_indicators.' not in translation_key:
+        return False
+    indicator_id = translation_key.replace('global_indicators.', '')
+    indicator_id = translation_key.replace('-title', '')
+    parts = indicator_id.split('-')
+    if len(parts) > 3:
+        return False
+    return True
+
 # Load the Russian translations to decide whether each indicator has global/national names.
 with open(os.path.join('translations', 'ru', 'global_indicators.yml'), 'r', encoding='utf-8') as stream:
     global_indicators = yaml.load(stream, Loader=yaml.FullLoader)
@@ -21,7 +31,7 @@ for filename in os.listdir('meta'):
     has_national_title = translation_key in national_indicators
 
     if has_national_title and not has_global_title:
-        if meta[0]['indicator_name'] != translation_key_national:
+        if translation_is_global(meta[0]['indicator_name']):
             # In some cases the national indicators use a global indicator name.
             has_global_title = True
 
