@@ -17,15 +17,16 @@
   in total public expenditures
 1-a-3-title: Total subsidies and non-debt inflows directed toward poverty reduction
   programmes (as a percentage of GDP)
-1-b-1-title: The proportion of current and capital public expenditures directed to
-  sectors that benefit women, poor and vulnerable
+1-b-1-title: Share of public expenditure on social protection as a percentage of the
+  total budget
 10-1-1-title: Proportion of incomes  the bottom 40 per cent of the population
-10-2-1-title: Proportion of people living below 50 per cent of median income, by sex,
-  age and persons with disabilities
+10-2-1-title: Percentage of people with income below 50% of the median income in the
+  Republic of Kazakhstan
 10-3-1-title: Treatment of people with disabilities that raise issues of social security,
   health care, education, housing, labor rights, as well as non-execution of court
   decisions, obtaining qualified legal assistance
 10-4-1-title: Labour share of GDP
+10-5-1-1-title: State budget deficit
 10-5-1-title: The ratio of state debt to GDP
 10-6-1-title: Number of international organizations of which Kazakhstan is a member
 10-a-1-title: The share of commodity items granted to least developed countries and
@@ -38,11 +39,14 @@
 11-2-1-2-title: The proportion of public transport vehicles adapted to the needs of
   people with disabilities
 11-3-1-title: Housing per person
-11-4-1-title: The number of monuments of history and culture of republican significance,
-  on which research and restoration works have been completed, of the total number
-  of monuments of history and culture of republican significance
+11-4-1-title: The percentage of historical and cultural monuments of national significance
+  that have undergone scientific and restoration work, as a percentage of the total
+  number of historical and cultural monuments of national significance
 11-5-1-title: The number of suffered and perished as a result of natural emergencies
 11-5-2-title: Amount of damage from natural and man-made emergencies
+11-6-1-1-title: Proportion of solid waste recycling and disposal to their formation
+11-6-1-2-title: Proportion of landfills that comply with environmental requirements
+  and sanitary standards
 11-6-1-title: Providing the population with services for the collection and disposal
   of waste
 11-6-2-title: Annual mean levels of fine particulate matter PM2.5 and PM10 in the
@@ -117,22 +121,25 @@
 16-7-1-title: Distribution of persons holding positions in state institutions (Parliament,
   Maslikhats, public service, judicial authorities) by gender, age and disability
 16-8-1-title: Number of international organizations of which Kazakhstan is a member
-17-10-1-title: The weighted average level of tariffs in Kazakhstan
-17-11-1-title: Proportion of developing countries and least developed countries in
-  the import of Kazakhstan
-17-12-1-title: Average tariffs applied to developing countries and least developed
+17-10-1-title: National weighted tariff-average
+17-11-1-title: Developing countries’ and least developed countries’ share of national
+  exports
+17-12-1-title: Average level of tariffs faced by developing countries and least developed
   countries
-17-17-1-title: Total amount of grants, government contracts to buy social services
-  from Non-government Organizations (NGOs), based on service areas (in millions of
-  tenge)
-17-3-1-1-title: Ratio of the gross outflow of direct investment abroad from Kazakh
-  direct investors to GDP
-17-3-1-2-title: Ratio of the gross inflow of direct investment in Kazakhstan from
-  foreign direct investors
+17-17-1-title: Total amount of public investment projects approved through the PPP
+  mechanism
+17-18-2-title: Availability of national statistical legislation that conforms to the
+  Fundamental principles of official statistics
+17-3-1-1-title: Ratio of official development assistance and South-South cooperation
+  to gross national income
+17-3-1-2-title: Ratio of gross outflow of direct investment abroad from Kazakh direct
+  investors to GDP
 17-3-1-3-title: Ratio of gross inflow of direct investment to Kazakhstan from foreign
   direct investors
 17-4-1-title: The ratio of payments for the repayment and maintenance of external
   public and publicly guaranteed debt to the export of goods and services
+17-5-1-title: The presence of the adopted and existing regimes to promote investment
+  in the interests of developing countries, including least developed countries
 17-6-2-title: The number of fixed (wired) broadband Internet subscribers is broken
   down by speed
 17-9-1-title: Technical and financial support provided by Kazakhstan to other countries,
@@ -153,8 +160,10 @@
 3-7-2-1-title: Number of abortions among adolescents (under 14 years, 15-18 years)
 3-b-3-title: The proportion of health facilities which have a permanent stock of essential
   and affordable drugs and medicines
+4-2-1-title: The indicator "Index of child development in early childhood"
 4-2-2-1-title: Readiness for school (percentage of children attending the first grade
   of primary school who attended a pre-school in the previous year)
+4-2-2-title: Percentage of children enrolled in pre-school education
 4-3-1-1-title: Young people (age 14-24) who received technical and professional (vocational)
   training
 4-3-1-2-title: Citizens (age 18-28) who received technical and professional (vocational)
@@ -213,7 +222,7 @@
 6-b-1-title: The proportion of local administrative units which adopted rules and
   procedures regulating citizens' participation in management of water resources and
   sanitation facilities
-7-1-1-title: 'Proportion of the total area equipped with: electricity'
+7-1-1-title: Ensuring the regions needs for uninterrupted power supply
 7-1-2-1-title: Proportion of population using solid fuels for cooking
 7-1-2-2-title: 'The proportion of households using renewable energy sources: 1) solar,
   2) wind energy, 3) fuel from organic waste'
@@ -221,28 +230,28 @@
 7-2-1-title: Renewable energy share in the total energy generation
 7-3-1-title: Energy intensity of GDP
 7-b-1-1-title: Proportion of enterprises implementing energy efficiency system
-7-b-1-title: Investments in fixed capital by ownership
+7-b-1-title: Installed capacity of Renewable energy facilities
 8-3-1-1-title: Share of unproductively employed in the total number of employed
-8-3-1-title: Average hourly earnings of women and men in total, by foreign economic
-  activity, region and age
-8-5-1-title: Average hourly earnings of women and men in total, by foreign economic
-  activity, region and age
+8-3-1-title: Proportion of informally employed in total employment, disaggregated
+  by sex
+8-5-1-title: Average hourly earnings by gender, age, foreign economic activity and
+  regions
 8-5-2-title: Unemployment rate by sex, age
 8-7-1-title: Proportion of employed at the age of 15-17 in the total number of employed,
   by sex and age
-8-8-1-title: Occupational injury rate
+8-8-1-title: Rate of fatal and non-fatal occupational injuries among workers
 8-8-2-title: Proportion of enterprises covered by the system of collective bargaining
   relations among large and medium-sized enterprises
-8-9-1-1-title: Growth rate of GVA direct tourism
-8-9-1-title: The direct contribution of tourism to GDP
+8-9-1-1-title: IPV of GVA created directly in tourism
+8-9-1-title: Gross value added created directly in tourism
 8-9-2-title: Proportion of employed in tourism in the total number of employed
 8-b-1-title: Percentage of young people employed in permanent jobs from among those
   who applied to employment centers
 9-2-1-1-title: Productivity growth in manufacturing
-9-2-1-2-title: Growth in the value of exports of manufacturing enterprises
+9-2-1-2-title: Volume growth of exports of manufacturing products
 9-2-1-title: Manufacturing GVA as a proportion of GDP
-9-2-2-title: Proportion of employed in the manufacturing industry in the total number
-  of employed
+9-2-2-title: Creating new jobs in the manufacturing industry
+9-3-1-title: Volume of production of small-scale industries in manufacturing industry
 9-3-2-title: Proportion of small-scale industries with a loan or line of credit
 9-4-1-1-title: CO2 emissions per capita
 9-5-1-1-title: Proportion of business expenses in the total amount of R & D expenses
