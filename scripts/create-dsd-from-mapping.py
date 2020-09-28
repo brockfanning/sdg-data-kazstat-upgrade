@@ -5,6 +5,9 @@ from urllib.request import urlretrieve
 from xml.etree import ElementTree as ET
 from io import StringIO
 
+custom_code_regex = '^(_L_|KZ.)'
+custom_agency = 'Kazstat'
+
 def register_all_namespaces(filename):
     namespaces = dict([node for _, node in ET.iterparse(filename, events=['start-ns'])])
     for ns in namespaces:
@@ -73,6 +76,7 @@ dimensions = [
 ]
 
 codelist_mappings = parse_code_sheet()
+made_edits = False
 
 for dimension in dimensions:
     dimension_node = root.find('.//str:Dimension[@id="' + dimension + '"]', namespaces)
@@ -80,8 +84,25 @@ for dimension in dimensions:
     codelist_node = root.find('.//str:Codelist[@id="' + codelist_id + '"]', namespaces)
     codelist_urn = codelist_node.attrib['urn']
     custom_codes = codelist_mappings[[dimension, dimension + ' Name']].dropna()
-    custom_codes = custom_codes[custom_codes[dimension].str.match('^_L_')]
-    if not custom_codes.empty:
-        print(dimension)
+    custom_codes = custom_codes[custom_codes[dimension].str.match(custom_code_regex)]
+    if custom_codes.empty:
+        continue
+    made_edits = True
+    codelist_node.attrib['agencyID'] = custom_agency
+    for index, row in custom_codes.iterrows():
+        custom_code = row[dimension]
+        custom_name = row[dimension + ' Name']
+        code_node = ET.SubElement(codelist_node, 'str:Code')
+        code_node.attrib['id'] = custom_code
+        code_node.attrib['urn'] = codelist_urn + '.' + custom_code
+        code_name_node = ET.SubElement(code_node, 'com:Name')
+        code_desc_node = ET.SubElement(code_node, 'com:Description')
+        code_name_node.text = custom_name
+        code_desc_node.text = custom_name
+        code_name_node.attrib['xml:lang'] = 'en'
+        code_desc_node.attrib['xml:lang'] = 'en'
 
-#ET.dump(tree)
+if made_edits:
+    header_node = root.find('.//mes:Header')
+
+tree.write(filename)
