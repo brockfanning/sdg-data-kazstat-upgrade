@@ -29,6 +29,12 @@ def parse_code_sheet(df):
     df = df[2:]
     return df
 
+def parse_unit_sheet(df):
+    df = df[[3, 4]]
+    df.columns = ['from', 'to']
+    df = df.iloc[2:]
+    return df.dropna()
+
 def stop_at_first_blank_row(df):
     first_empty_row = 0
     for index, row in df.iterrows():
@@ -62,7 +68,10 @@ sheets = pd.read_excel(os.path.join('scripts', 'sdmx-mapping.xlsx'),
 )
 
 codes = parse_code_sheet(sheets['CODES'])
+units = parse_unit_sheet(sheets['UNITS'])
+print(units)
 del sheets['CODES']
+del sheets['UNITS']
 
 debug = False
 
@@ -122,4 +131,4 @@ for filename in os.listdir('data'):
 
     #df.to_csv(os.path.join('data', filename), index=False)
 
-print(composite_breakdown_collisions)
+#print(composite_breakdown_collisions)
