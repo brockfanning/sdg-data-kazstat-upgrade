@@ -7,6 +7,7 @@ from io import StringIO
 
 custom_code_regex = '^(_L_|KZ.)'
 custom_agency = 'Kazstat'
+custom_version = '1.0.0'
 
 def register_all_namespaces(filename):
     namespaces = dict([node for _, node in ET.iterparse(filename, events=['start-ns'])])
@@ -103,6 +104,6 @@ for dimension in dimensions:
         code_desc_node.attrib['xml:lang'] = 'en'
 
 if made_edits:
-    header_node = root.find('.//mes:Header')
+    header_node = root.find('.//mes:Header', namespaces)
 
 tree.write(filename)
