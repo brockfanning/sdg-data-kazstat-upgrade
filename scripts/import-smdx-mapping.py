@@ -15,6 +15,8 @@ for language in languages:
     with open(data_translation_file, 'r', encoding='utf-8') as stream:
         data_translations[language] = yaml.load(stream, Loader=yaml.FullLoader)
 
+russian_inverted = {v: k for k, v in data_translations['ru'].items()}
+
 def parse_code_sheet(df):
     renamed_columns = []
     columns = df.iloc[1]
@@ -104,6 +106,11 @@ for sheet_name in sheets:
     composite_breakdowns[disaggregation] = False
     for idx, row in df.iterrows():
         original_value = row['Value']
+
+        # Because we mistakenly put Russian translations in this spreadsheet, we have to
+        # un-translate it here.
+        original_value = russian_inverted[original_value]
+
         dimension = row['Dimension 1']
         value_label = row['Code 1']
         if dimension == 'COMPOSITE_BREAKDOWN':
@@ -151,7 +158,6 @@ for disaggregation in columns_renamed:
     if disaggregation and columns_renamed[disaggregation]:
         translation_key = 'codelist.' + columns_renamed[disaggregation]
         columns_renamed_translation_keys[disaggregation] = translation_key
-print(columns_renamed_translation_keys)
 
 composite_breakdown_collisions = {}
 for filename in os.listdir('data'):
@@ -175,6 +181,32 @@ for filename in os.listdir('data'):
             update_translations(units, 'Units')
 
     # Rename the columns.
+    new_column_occurences = {}
+    old_columns = list(df.columns)
+    for old_column in old_columns:
+        if old_column in columns_renamed_translation_keys:
+            new_column = columns_renamed_translation_keys[old_column]
+            if new_column not in new_column_occurences:
+                new_column_occurences[new_column] = [old_column]
+            else:
+                if old_column not in new_column_occurences[new_column]:
+                    new_column_occurences[new_column].append(old_column)
+    for new_column in new_column_occurences:
+        if len(new_column_occurences[new_column]) > 1:
+            #print('uhoh - ' + filename)
+            #print('new column: ' + new_column)
+            #print('old_columns:')
+            #print(new_column_occurences[new_column])
+            merge_to = None
+            for column in new_column_occurences[new_column]:
+                if merge_to is None:
+                    merge_to = column
+                    continue
+                df[merge_to] = df[merge_to].combine_first(df[column])
+                df.drop(column, axis=1, inplace=True)
+            #print('merged columns')
+            #print(list(df.columns))
+    #print(new_column_occurences)
     df = df.rename(columns=columns_renamed_translation_keys)
     update_translations(columns_renamed, 'codelist')
 
