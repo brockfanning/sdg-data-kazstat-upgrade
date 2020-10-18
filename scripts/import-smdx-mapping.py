@@ -33,11 +33,20 @@ def parse_code_sheet(df):
     return df
 
 def parse_unit_sheet(df):
+    label_to_code_df = df[[0, 1]]
+    label_to_code_df.columns = ['from', 'to']
+    label_to_code_df = label_to_code_df[2:]
+    label_to_code_df = label_to_code_df.dropna()
+    label_to_code = dict(label_to_code_df.values.tolist())
+    label_to_code = {v: k for k, v in label_to_code.items()}
+
     df = df[[3, 4]]
     df.columns = ['from', 'to']
     df = df.iloc[2:]
     df = df.dropna()
-    return dict(df.values.tolist())
+    unit_mappings = dict(df.values.tolist())
+    unit_mappings = { key: label_to_code[value] if value in label_to_code else value for (key, value) in unit_mappings.items() }
+    return unit_mappings
 
 def stop_at_first_blank_row(df):
     first_empty_row = 0
@@ -124,7 +133,8 @@ for sheet_name in sheets:
             disaggregations[disaggregation]['dimensions'][dimension] += 1
             try:
                 value_code = get_value_by_label(dimension, value_label)
-                disaggregations[disaggregation]['rename'][original_value] = dimension + '.' + value_code
+                #disaggregations[disaggregation]['rename'][original_value] = dimension + '.' + value_code
+                disaggregations[disaggregation]['rename'][original_value] = value_code
                 disaggregations[disaggregation]['translation'][original_value] = value_code
             except Exception as e:
                 if debug:
@@ -157,7 +167,8 @@ for sheet_name in sheets:
 columns_renamed_translation_keys = {}
 for disaggregation in columns_renamed:
     if disaggregation and columns_renamed[disaggregation]:
-        translation_key = 'codelist.' + columns_renamed[disaggregation]
+        #translation_key = 'codelist.' + columns_renamed[disaggregation]
+        translation_key = columns_renamed[disaggregation]
         columns_renamed_translation_keys[disaggregation] = translation_key
 
 composite_breakdown_collisions = {}
@@ -179,23 +190,11 @@ for filename in os.listdir('data'):
                     duplicates_without_cells = df_without_cells[df_without_cells.duplicated(subset=search_columns_for_duplicates)]
                     num_duplicates_without_cells = len(duplicates_without_cells)
                     if num_duplicates_without_cells > num_duplicates:
-                        print('Removing ' + removed_value + ' from cells was a bad idea. Caused new dupliates:')
-                        print(num_duplicates_without_cells - num_duplicates)
+                        #print('Removing ' + removed_value + ' from cells was a bad idea. Caused new dupliates:')
+                        #print(num_duplicates_without_cells - num_duplicates)
                         df = df[df[column] != removed_value]
                     else:
                         df = df_without_cells
-                #print(num_duplicates)
-                #indicator = sdg.Indicator(filename, data=df)
-                #serieses = indicator.get_all_series()
-                #for series in serieses:
-                #    print(series.get_disaggregations())
-                # Ideally here, we have a conditional.
-                # We only remove the cell, UNLESS doing so would produce a series duplicate.
-                # In that case, we remove the entire row.
-                # Clear any row that contains a "removed" value.
-                #df = df[~df[column].isin(disaggregations[column]['remove'])]
-                # Clear any cell that contains a "removed" value.
-                #df[column].mask(df[column].isin(disaggregations[column]['remove']), np.NaN, inplace=True)
             if disaggregations[column]['rename'] and column in df.columns:
                 df[column] = df[column].map(disaggregations[column]['rename'])
                 if column in composite_breakdowns and composite_breakdowns[column]:
@@ -204,7 +203,7 @@ for filename in os.listdir('data'):
                 update_translations(disaggregations[column]['translation'], columns_renamed[column])
         elif column == 'Units':
             df[column] = df[column].map(units)
-            update_translations(units, 'Units')
+            update_translations(units, 'UNIT_MEASURE')
 
     # Rename the columns.
     new_column_occurences = {}
@@ -233,6 +232,7 @@ for filename in os.listdir('data'):
             #print('merged columns')
             #print(list(df.columns))
     #print(new_column_occurences)
+    columns_renamed_translation_keys['Units'] = 'UNIT_MEASURE'
     df = df.rename(columns=columns_renamed_translation_keys)
     update_translations(columns_renamed, 'codelist')
 

@@ -7,5 +7,11 @@ def alter_meta(metadata):
     metadata['is_global_indicator'] = is_global_indicator
     return metadata
 
+def alter_data(data):
+    rename_columns = {
+        'UNIT_MEASURE': 'Units',
+        'SERIES': 'Series',
+    }
+    return data.rename(columns=rename_columns)
 
-open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
+open_sdg_build(config='config_data.yml', alter_meta=alter_meta, alter_data=alter_data)
