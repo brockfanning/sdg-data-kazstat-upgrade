@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 import yaml
+import sdg
 
 disaggregations = {}
 codes = None
@@ -73,7 +74,7 @@ def update_translations(change_map, group):
             if original in data_translations[language]:
                 new_translations[language][group][changed] = data_translations[language][original]
 
-sheets = pd.read_excel(os.path.join('scripts', 'sdmx-mapping.xlsx'),
+sheets = pd.read_excel(os.path.join('scripts', 'sdmx-mapping2.xlsx'),
     sheet_name=None,
     index_col=None,
     header=None,
@@ -168,8 +169,33 @@ for filename in os.listdir('data'):
     for column in df.columns:
         if column in disaggregations:
             if disaggregations[column]['remove']:
+                search_columns_for_duplicates = list(df.columns)
+                search_columns_for_duplicates.remove('Value')
+                duplicates = df[df.duplicated(subset=search_columns_for_duplicates)]
+                num_duplicates = len(duplicates)
+                for removed_value in disaggregations[column]['remove']:
+                    df_without_cells = df.copy()
+                    df_without_cells[column].mask(df_without_cells[column] == removed_value, np.NaN, inplace=True)
+                    duplicates_without_cells = df_without_cells[df_without_cells.duplicated(subset=search_columns_for_duplicates)]
+                    num_duplicates_without_cells = len(duplicates_without_cells)
+                    if num_duplicates_without_cells > num_duplicates:
+                        print('Removing ' + removed_value + ' from cells was a bad idea. Caused new dupliates:')
+                        print(num_duplicates_without_cells - num_duplicates)
+                        df = df[df[column] != removed_value]
+                    else:
+                        df = df_without_cells
+                #print(num_duplicates)
+                #indicator = sdg.Indicator(filename, data=df)
+                #serieses = indicator.get_all_series()
+                #for series in serieses:
+                #    print(series.get_disaggregations())
+                # Ideally here, we have a conditional.
+                # We only remove the cell, UNLESS doing so would produce a series duplicate.
+                # In that case, we remove the entire row.
+                # Clear any row that contains a "removed" value.
+                #df = df[~df[column].isin(disaggregations[column]['remove'])]
                 # Clear any cell that contains a "removed" value.
-                df[column].mask(df[column].isin(disaggregations[column]['remove']), np.NaN, inplace=True)
+                #df[column].mask(df[column].isin(disaggregations[column]['remove']), np.NaN, inplace=True)
             if disaggregations[column]['rename'] and column in df.columns:
                 df[column] = df[column].map(disaggregations[column]['rename'])
                 if column in composite_breakdowns and composite_breakdowns[column]:
