@@ -1,16 +1,19 @@
 import pandas as pd
 import numpy as np
 import os
+import yaml
 
 disaggregations = {}
 codes = None
 composite_breakdowns = {}
 
-"""
-TODO:
-    - Change the column headers as well
-"""
-
+languages = ['ru', 'kk', 'en']
+data_translations = {}
+new_translations = {}
+for language in languages:
+    data_translation_file = os.path.join('translations', language, 'data.yml')
+    with open(data_translation_file, 'r', encoding='utf-8') as stream:
+        data_translations[language] = yaml.load(stream, Loader=yaml.FullLoader)
 
 def parse_code_sheet(df):
     renamed_columns = []
@@ -57,6 +60,17 @@ def get_value_by_label(dimension, label):
 
     raise Exception('Could not find ' + str(dimension) + '/' + str(label) + ' in codes list.')
 
+def update_translations(change_map, group):
+    for language in languages:
+        if language not in new_translations:
+            new_translations[language] = {}
+        if group not in new_translations[language]:
+            new_translations[language][group] = {}
+        for original in change_map:
+            changed = change_map[original]
+            if original in data_translations[language]:
+                new_translations[language][group][changed] = data_translations[language][original]
+
 sheets = pd.read_excel(os.path.join('scripts', 'sdmx-mapping.xlsx'),
     sheet_name=None,
     index_col=None,
@@ -84,24 +98,26 @@ for sheet_name in sheets:
     disaggregations[disaggregation] = {
         'rename': {},
         'remove': [],
-        'dimensions': {}
+        'dimensions': {},
+        'translation': {},
     }
     composite_breakdowns[disaggregation] = False
     for idx, row in df.iterrows():
         original_value = row['Value']
         dimension = row['Dimension 1']
         value_label = row['Code 1']
-        if dimension not in disaggregations[disaggregation]['dimensions']:
-            disaggregations[disaggregation]['dimensions'][dimension] = 0
-        disaggregations[disaggregation]['dimensions'][dimension] += 1
         if dimension == 'COMPOSITE_BREAKDOWN':
             composite_breakdowns[disaggregation] = True
         if dimension == '[REMOVE]':
             disaggregations[disaggregation]['remove'].append(original_value)
         else:
+            if dimension not in disaggregations[disaggregation]['dimensions']:
+                disaggregations[disaggregation]['dimensions'][dimension] = 0
+            disaggregations[disaggregation]['dimensions'][dimension] += 1
             try:
                 value_code = get_value_by_label(dimension, value_label)
-                disaggregations[disaggregation]['rename'][original_value] = value_code
+                disaggregations[disaggregation]['rename'][original_value] = dimension + '.' + value_code
+                disaggregations[disaggregation]['translation'][original_value] = value_code
             except Exception as e:
                 if debug:
                     print('A problem happened while trying to get the code for this row:')
@@ -123,11 +139,25 @@ for sheet_name in sheets:
             if this_score > most_common_dimension_score:
                 most_common_dimension_name = dimension
                 most_common_dimension_score = this_score
-    columns_renamed[disaggregation] = most_common_dimension_name
+    if most_common_dimension_name is None:
+        print('Probable dimension appeared to be None: ' + disaggregation)
+    if pd.isna(most_common_dimension_name):
+        print('Probable dimension appeared to be NaN: ' + disaggregation)
+    else:
+        columns_renamed[disaggregation] = most_common_dimension_name
+
+columns_renamed_translation_keys = {}
+for disaggregation in columns_renamed:
+    if disaggregation and columns_renamed[disaggregation]:
+        translation_key = 'codelist.' + columns_renamed[disaggregation]
+        columns_renamed_translation_keys[disaggregation] = translation_key
+print(columns_renamed_translation_keys)
 
 composite_breakdown_collisions = {}
 for filename in os.listdir('data'):
     df = pd.read_csv(os.path.join('data', filename), dtype='str')
+    if df.empty:
+        continue
     composite_breakdowns_used = []
     for column in df.columns:
         if column in disaggregations:
@@ -138,11 +168,15 @@ for filename in os.listdir('data'):
                 df[column] = df[column].map(disaggregations[column]['rename'])
                 if column in composite_breakdowns and composite_breakdowns[column]:
                     composite_breakdowns_used.append(column)
+                # Update translations too.
+                update_translations(disaggregations[column]['translation'], columns_renamed[column])
         elif column == 'Units':
             df[column] = df[column].map(units)
+            update_translations(units, 'Units')
 
     # Rename the columns.
-    df = df.rename(columns=columns_renamed)
+    df = df.rename(columns=columns_renamed_translation_keys)
+    update_translations(columns_renamed, 'codelist')
 
     if len(composite_breakdowns_used) > 1:
         for composite_breakdown_used in composite_breakdowns_used:
@@ -159,3 +193,8 @@ for filename in os.listdir('data'):
     df.to_csv(os.path.join('data', filename), index=False)
 
 #print(composite_breakdown_collisions)
+for language in languages:
+    for group in new_translations[language]:
+        new_translation_file = os.path.join('translations', language, group + '.yml')
+        with open(new_translation_file, 'w') as file:
+            yaml.dump(new_translations[language][group], file, sort_keys=True, encoding='utf-8', allow_unicode=True)
