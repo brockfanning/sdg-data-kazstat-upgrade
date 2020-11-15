@@ -30,6 +30,10 @@ def fix_region_spelling(value):
     value = value.replace('г.', 'г_')
     return value
 
+disagg_mappings = pd.read_csv(os.path.join('data-updates', 'disagg-mappings.csv'), names=['foo', 'bar'])
+disagg_mappings = disagg_mappings[disagg_mappings['bar'] != 'NEW DISAGGREGATION']
+disagg_mappings = dict(zip(disagg_mappings['foo'], disagg_mappings['bar']))
+
 for path in paths:
     # Read Excel file.
     df = pd.read_excel(path,
@@ -66,6 +70,8 @@ for path in paths:
         df['Регионы'] = df['Регионы'].apply(fix_region_spelling)
     if 'Город' in list(df.columns):
         df['Город'] = df['Город'].apply(fix_region_spelling)
+
+    df = df.applymap(lambda x: disagg_mappings[x] if x in disagg_mappings else x)
 
     df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x)
 
