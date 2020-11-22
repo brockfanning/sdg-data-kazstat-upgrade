@@ -1,6 +1,7 @@
 import os
 import glob
 import pandas as pd
+import yaml
 
 path_pattern = 'data-updates/*.xlsx'
 paths = glob.glob(path_pattern)
@@ -33,6 +34,17 @@ def fix_region_spelling(value):
 disagg_mappings = pd.read_csv(os.path.join('data-updates', 'disagg-mappings.csv'), names=['foo', 'bar'])
 disagg_mappings = disagg_mappings[disagg_mappings['bar'] != 'NEW DISAGGREGATION']
 disagg_mappings = dict(zip(disagg_mappings['foo'], disagg_mappings['bar']))
+
+def clean_value(value):
+    if '\n' in value:
+        print('Value had a new line in it: ***' + value + '***')
+    return value.replace('\n', ' ')
+
+def map_value(value):
+    if value in disagg_mappings:
+        return disagg_mappings[value]
+    else:
+        return value
 
 for path in paths:
     # Read Excel file.
@@ -71,9 +83,13 @@ for path in paths:
     if 'Город' in list(df.columns):
         df['Город'] = df['Город'].apply(fix_region_spelling)
 
-    df = df.applymap(lambda x: disagg_mappings[x] if x in disagg_mappings else x)
+    df = df.applymap(lambda x: clean_value(x) if isinstance(x, str) else x)
+
+    df = df.applymap(lambda x: map_value(x) if isinstance(x, str) else x)
 
     df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x)
+
+    df = df.applymap(lambda x: map_value(x) if isinstance(x, str) else x)
 
     # Write CSV file.
     existing_file = convert_path(path)
