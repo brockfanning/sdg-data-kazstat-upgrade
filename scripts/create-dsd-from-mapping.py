@@ -16,7 +16,7 @@ def register_all_namespaces(filename):
     return namespaces
 
 def read_mapping():
-    return pd.read_excel(os.path.join('scripts', 'sdmx-mapping.xlsx'),
+    return pd.read_excel('sdmx-mapping-tool.xlsx',
         sheet_name=None,
         index_col=None,
         header=None,
