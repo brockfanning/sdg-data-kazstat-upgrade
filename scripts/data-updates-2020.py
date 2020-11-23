@@ -1,6 +1,7 @@
 import os
 import glob
 import pandas as pd
+import numpy as np
 import yaml
 
 path_pattern = 'data-updates/*.xlsx'
@@ -50,7 +51,7 @@ for path in paths:
     # Read Excel file.
     df = pd.read_excel(path,
         index_col=None,
-        na_values=['…', '-'],
+        na_values=['…', '-', '...', 'х', 'x', '..', '….'],
     )
 
     # Transform to long format.
@@ -68,7 +69,12 @@ for path in paths:
     df = df[df['Value'].notna()]
     df = df[df['Year'].notna()]
 
-    df['Value'] = df['Value'].replace(', ', '.')
+    df['Value'] = df['Value'].replace(',', '', regex=True)
+    df['Value'] = df['Value'].replace(' ', '', regex=True)
+    df['Value'] = df['Value'].replace('\s', '', regex=True)
+
+    # Change remaining "nan" to ''.
+    df = df.replace(np.nan, '', regex=True)
 
     df = df.rename(columns=lambda x: x.strip())
     column_fixes = {
