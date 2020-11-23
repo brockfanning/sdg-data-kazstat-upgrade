@@ -1,148 +1,166 @@
-Year,Units,Regions,GeoCode,Value
-2010,per 100000 live births,,,22.7
-2011,per 100000 live births,,,17.4
-2012,per 100000 live births,,,13.5
-2013,per 100000 live births,,,13.1
-2014,per 100000 live births,,,15.2
-2015,per 100000 live births,,,16.5
-2016,per 100000 live births,,,15.4
-2017,per 100000 live births,,,14.8
-2018,per 100000 live births,,,14.0
-2011,per 100000 live births,Akmola,KZ03,23.3
-2012,per 100000 live births,Akmola,KZ03,8.2
-2013,per 100000 live births,Akmola,KZ03,25.4
-2014,per 100000 live births,Akmola,KZ03,16.9
-2015,per 100000 live births,Akmola,KZ03,25.9
-2016,per 100000 live births,Akmola,KZ03,0.0
-2017,per 100000 live births,Akmola,KZ03,17.8
-2018,per 100000 live births,Akmola,KZ03,35.9
-2010,per 100000 live births,Aktobe,KZ04,34.5
-2011,per 100000 live births,Aktobe,KZ04,16.9
-2013,per 100000 live births,Aktobe,KZ04,21.3
-2014,per 100000 live births,Aktobe,KZ04,10.1
-2015,per 100000 live births,Aktobe,KZ04,15.0
-2016,per 100000 live births,Aktobe,KZ04,20.2
-2017,per 100000 live births,Aktobe,KZ04,5.3
-2018,per 100000 live births,Aktobe,KZ04,5.1
-2010,per 100000 live births,Almaty,KZ01,16.1
-2011,per 100000 live births,Almaty,KZ01,18.9
-2012,per 100000 live births,Almaty,KZ01,7.9
-2013,per 100000 live births,Almaty,KZ01,5.1
-2014,per 100000 live births,Almaty,KZ01,14.5
-2015,per 100000 live births,Almaty,KZ01,17.2
-2016,per 100000 live births,Almaty,KZ01,14.5
-2017,per 100000 live births,Almaty,KZ01,25.1
-2018,per 100000 live births,Almaty,KZ01,14.8
-2010,per 100000 live births,Atyrau,KZ06,20.4
-2011,per 100000 live births,Atyrau,KZ06,6.6
-2012,per 100000 live births,Atyrau,KZ06,6.4
-2013,per 100000 live births,Atyrau,KZ06,25.3
-2014,per 100000 live births,Atyrau,KZ06,12.3
-2015,per 100000 live births,Atyrau,KZ06,36.8
-2016,per 100000 live births,Atyrau,KZ06,30.1
-2017,per 100000 live births,Atyrau,KZ06,18.4
-2018,per 100000 live births,Atyrau,KZ06,5.9
-2010,per 100000 live births,Batys Kazakhstan,KZ07,8.3
-2013,per 100000 live births,Batys Kazakhstan,KZ07,7.9
-2014,per 100000 live births,Batys Kazakhstan,KZ07,23.1
-2015,per 100000 live births,Batys Kazakhstan,KZ07,38.6
-2016,per 100000 live births,Batys Kazakhstan,KZ07,22.8
-2017,per 100000 live births,Batys Kazakhstan,KZ07,7.8
-2018,per 100000 live births,Batys Kazakhstan,KZ07,7.6
-2010,per 100000 live births,Zhambyl,KZ17,29.4
-2011,per 100000 live births,Zhambyl,KZ17,22.5
-2012,per 100000 live births,Zhambyl,KZ17,18.7
-2013,per 100000 live births,Zhambyl,KZ17,14.8
-2014,per 100000 live births,Zhambyl,KZ17,18.1
-2015,per 100000 live births,Zhambyl,KZ17,3.8
-2016,per 100000 live births,Zhambyl,KZ17,11.5
-2017,per 100000 live births,Zhambyl,KZ17,12.2
-2018,per 100000 live births,Zhambyl,KZ17,8.0
-2010,per 100000 live births,Karagandy,KZ12,4.2
-2011,per 100000 live births,Karagandy,KZ12,8.2
-2012,per 100000 live births,Karagandy,KZ12,16.2
-2013,per 100000 live births,Karagandy,KZ12,4.1
-2014,per 100000 live births,Karagandy,KZ12,16.1
-2015,per 100000 live births,Karagandy,KZ12,32.7
-2016,per 100000 live births,Karagandy,KZ12,29.4
-2017,per 100000 live births,Karagandy,KZ12,13.2
-2018,per 100000 live births,Karagandy,KZ12,26.2
-2010,per 100000 live births,Kostanay,KZ13,15.4
-2011,per 100000 live births,Kostanay,KZ13,15.7
-2013,per 100000 live births,Kostanay,KZ13,15.3
-2014,per 100000 live births,Kostanay,KZ13,15.7
-2015,per 100000 live births,Kostanay,KZ13,0.0
-2016,per 100000 live births,Kostanay,KZ13,32.7
-2017,per 100000 live births,Kostanay,KZ13,17.1
-2018,per 100000 live births,Kostanay,KZ13,8.7
-2010,per 100000 live births,Kyzylorda,KZ14,35.0
-2011,per 100000 live births,Kyzylorda,KZ14,10.4
-2012,per 100000 live births,Kyzylorda,KZ14,15.0
-2013,per 100000 live births,Kyzylorda,KZ14,10.6
-2014,per 100000 live births,Kyzylorda,KZ14,10.0
-2015,per 100000 live births,Kyzylorda,KZ14,48.8
-2016,per 100000 live births,Kyzylorda,KZ14,5.3
-2017,per 100000 live births,Kyzylorda,KZ14,0.0
-2018,per 100000 live births,Kyzylorda,KZ14,10.7
-2010,per 100000 live births,Mangistau,KZ09,6.5
-2011,per 100000 live births,Mangistau,KZ09,24.7
-2012,per 100000 live births,Mangistau,KZ09,5.9
-2013,per 100000 live births,Mangistau,KZ09,11.0
-2014,per 100000 live births,Mangistau,KZ09,26.6
-2015,per 100000 live births,Mangistau,KZ09,5.2
-2016,per 100000 live births,Mangistau,KZ09,5.1
-2017,per 100000 live births,Mangistau,KZ09,10.3
-2018,per 100000 live births,Mangistau,KZ09,25.1
-2010,per 100000 live births,Ontustik Kazakhstan,KZ10,26.7
-2011,per 100000 live births,Ontustik Kazakhstan,KZ10,16.8
-2012,per 100000 live births,Ontustik Kazakhstan,KZ10,20.6
-2013,per 100000 live births,Ontustik Kazakhstan,KZ10,10.2
-2014,per 100000 live births,Ontustik Kazakhstan,KZ10,15.5
-2015,per 100000 live births,Ontustik Kazakhstan,KZ10,15.6
-2016,per 100000 live births,Ontustik Kazakhstan,KZ10,16.0
-2017,per 100000 live births,Ontustik Kazakhstan,KZ10,16.8
-2010,per 100000 live births,Pavlodar,KZ11,16.3
-2011,per 100000 live births,Pavlodar,KZ11,7.8
-2012,per 100000 live births,Pavlodar,KZ11,15.5
-2013,per 100000 live births,Pavlodar,KZ11,15.4
-2014,per 100000 live births,Pavlodar,KZ11,0.0
-2015,per 100000 live births,Pavlodar,KZ11,13.1
-2016,per 100000 live births,Pavlodar,KZ11,0.0
-2017,per 100000 live births,Pavlodar,KZ11,28.5
-2018,per 100000 live births,Pavlodar,KZ11,8.5
-2010,per 100000 live births,Soltustik Kazakhstan,KZ16,24.0
-2012,per 100000 live births,Soltustik Kazakhstan,KZ16,12.2
-2013,per 100000 live births,Soltustik Kazakhstan,KZ16,12.5
-2014,per 100000 live births,Soltustik Kazakhstan,KZ16,17.7
-2015,per 100000 live births,Soltustik Kazakhstan,KZ16,15.2
-2016,per 100000 live births,Soltustik Kazakhstan,KZ16,18.9
-2017,per 100000 live births,Soltustik Kazakhstan,KZ16,18.3
-2018,per 100000 live births,Soltustik Kazakhstan,KZ16,14.8
-2018,per 100000 live births,Turkistan,KZ10,10.3
-2010,per 100000 live births,Shygys Kazakhstan,KZ15,21.5
-2011,per 100000 live births,Shygys Kazakhstan,KZ15,22.4
-2012,per 100000 live births,Shygys Kazakhstan,KZ15,13.2
-2013,per 100000 live births,Shygys Kazakhstan,KZ15,8.9
-2014,per 100000 live births,Shygys Kazakhstan,KZ15,25.8
-2015,per 100000 live births,Shygys Kazakhstan,KZ15,22.3
-2016,per 100000 live births,Shygys Kazakhstan,KZ15,17.8
-2017,per 100000 live births,Shygys Kazakhstan,KZ15,18.4
-2018,per 100000 live births,Shygys Kazakhstan,KZ15,14.0
-2010,per 100000 live births,Nur-Sultan city,KZ05,27.6
-2011,per 100000 live births,Nur-Sultan city,KZ05,10.4
-2013,per 100000 live births,Nur-Sultan city,KZ05,17.7
-2014,per 100000 live births,Nur-Sultan city,KZ05,16.3
-2015,per 100000 live births,Nur-Sultan city,KZ05,7.7
-2016,per 100000 live births,Nur-Sultan city,KZ05,11.0
-2017,per 100000 live births,Nur-Sultan city,KZ05,6.5
-2018,per 100000 live births,Nur-Sultan city,KZ05,29.0
-2010,per 100000 live births,Almaty city,KZ02,6.0
-2011,per 100000 live births,Almaty city,KZ02,15.5
-2012,per 100000 live births,Almaty city,KZ02,13.0
-2013,per 100000 live births,Almaty city,KZ02,10.2
-2014,per 100000 live births,Almaty city,KZ02,4.8
-2015,per 100000 live births,Almaty city,KZ02,2.4
-2016,per 100000 live births,Almaty city,KZ02,7.9
-2017,per 100000 live births,Almaty city,KZ02,14.7
-2018,per 100000 live births,Almaty city,KZ02,8.9
-2018,per 100000 live births,Shymkent city,KZ18,19.6
+Year,Units,Regions,Value
+2010,на 100 000 родившихся живыми,,22.7
+2010,на 100 000 родившихся живыми,Aktobe,34.5
+2010,на 100 000 родившихся живыми,Almaty,16.1
+2010,на 100 000 родившихся живыми,Atyrau,20.4
+2010,на 100 000 родившихся живыми,Batys Kazakhstan,8.3
+2010,на 100 000 родившихся живыми,Zhambyl,29.4
+2010,на 100 000 родившихся живыми,Karagandy,4.2
+2010,на 100 000 родившихся живыми,Kostanay,15.4
+2010,на 100 000 родившихся живыми,Kyzylorda,35.0
+2010,на 100 000 родившихся живыми,Mangistau,6.5
+2010,на 100 000 родившихся живыми,Ontustik Kazakhstan,26.7
+2010,на 100 000 родившихся живыми,Pavlodar,16.3
+2010,на 100 000 родившихся живыми,Soltustik Kazakhstan,24.0
+2010,на 100 000 родившихся живыми,Shygys Kazakhstan,21.5
+2010,на 100 000 родившихся живыми,Nur-Sultan city,27.6
+2010,на 100 000 родившихся живыми,Almaty city,6.0
+2011,на 100 000 родившихся живыми,,17.4
+2011,на 100 000 родившихся живыми,Akmola,23.3
+2011,на 100 000 родившихся живыми,Aktobe,16.9
+2011,на 100 000 родившихся живыми,Almaty,18.9
+2011,на 100 000 родившихся живыми,Atyrau,6.6
+2011,на 100 000 родившихся живыми,Zhambyl,22.5
+2011,на 100 000 родившихся живыми,Karagandy,8.2
+2011,на 100 000 родившихся живыми,Kostanay,15.7
+2011,на 100 000 родившихся живыми,Kyzylorda,10.4
+2011,на 100 000 родившихся живыми,Mangistau,24.7
+2011,на 100 000 родившихся живыми,Ontustik Kazakhstan,16.8
+2011,на 100 000 родившихся живыми,Pavlodar,7.8
+2011,на 100 000 родившихся живыми,Shygys Kazakhstan,22.4
+2011,на 100 000 родившихся живыми,Nur-Sultan city,10.4
+2011,на 100 000 родившихся живыми,Almaty city,15.5
+2012,на 100 000 родившихся живыми,,13.5
+2012,на 100 000 родившихся живыми,Akmola,8.2
+2012,на 100 000 родившихся живыми,Almaty,7.9
+2012,на 100 000 родившихся живыми,Atyrau,6.4
+2012,на 100 000 родившихся живыми,Zhambyl,18.7
+2012,на 100 000 родившихся живыми,Karagandy,16.2
+2012,на 100 000 родившихся живыми,Kyzylorda,15.0
+2012,на 100 000 родившихся живыми,Mangistau,5.9
+2012,на 100 000 родившихся живыми,Ontustik Kazakhstan,20.6
+2012,на 100 000 родившихся живыми,Pavlodar,15.5
+2012,на 100 000 родившихся живыми,Soltustik Kazakhstan,12.2
+2012,на 100 000 родившихся живыми,Shygys Kazakhstan,13.2
+2012,на 100 000 родившихся живыми,Almaty city,13.0
+2013,на 100 000 родившихся живыми,,13.1
+2013,на 100 000 родившихся живыми,Akmola,25.4
+2013,на 100 000 родившихся живыми,Aktobe,21.3
+2013,на 100 000 родившихся живыми,Almaty,5.1
+2013,на 100 000 родившихся живыми,Atyrau,25.3
+2013,на 100 000 родившихся живыми,Batys Kazakhstan,7.9
+2013,на 100 000 родившихся живыми,Zhambyl,14.8
+2013,на 100 000 родившихся живыми,Karagandy,4.1
+2013,на 100 000 родившихся живыми,Kostanay,15.3
+2013,на 100 000 родившихся живыми,Kyzylorda,10.6
+2013,на 100 000 родившихся живыми,Mangistau,11.0
+2013,на 100 000 родившихся живыми,Ontustik Kazakhstan,10.2
+2013,на 100 000 родившихся живыми,Pavlodar,15.4
+2013,на 100 000 родившихся живыми,Soltustik Kazakhstan,12.5
+2013,на 100 000 родившихся живыми,Shygys Kazakhstan,8.9
+2013,на 100 000 родившихся живыми,Nur-Sultan city,17.7
+2013,на 100 000 родившихся живыми,Almaty city,10.2
+2014,на 100 000 родившихся живыми,,15.209315082155198
+2014,на 100 000 родившихся живыми,Akmola,16.939103921402562
+2014,на 100 000 родившихся живыми,Aktobe,10.105603557172454
+2014,на 100 000 родившихся живыми,Almaty,14.492753623188404
+2014,на 100 000 родившихся живыми,Atyrau,12.295585884667403
+2014,на 100 000 родившихся живыми,Batys Kazakhstan,23.09646624066518
+2014,на 100 000 родившихся живыми,Zhambyl,18.113316910592673
+2014,на 100 000 родившихся живыми,Karagandy,16.0655474335288
+2014,на 100 000 родившихся живыми,Kostanay,15.730690577316347
+2014,на 100 000 родившихся живыми,Kyzylorda,10.012014417300762
+2014,на 100 000 родившихся живыми,Mangistau,26.55478251633119
+2014,на 100 000 родившихся живыми,Ontustik Kazakhstan,15.487068297971193
+2014,на 100 000 родившихся живыми,Pavlodar,0.0
+2014,на 100 000 родившихся живыми,Soltustik Kazakhstan,17.691734169057156
+2014,на 100 000 родившихся живыми,Shygys Kazakhstan,25.83200585525466
+2014,на 100 000 родившихся живыми,Nur-Sultan city,16.335198268468982
+2014,на 100 000 родившихся живыми,Almaty city,4.8050356773899034
+2015,на 100 000 родившихся живыми,,16.549690445562803
+2015,на 100 000 родившихся живыми,Akmola,25.893319523562923
+2015,на 100 000 родившихся живыми,Aktobe,15.021781583295779
+2015,на 100 000 родившихся живыми,Almaty,17.17749257686928
+2015,на 100 000 родившихся живыми,Atyrau,36.76245328104896
+2015,на 100 000 родившихся живыми,Batys Kazakhstan,38.580246913580254
+2015,на 100 000 родившихся живыми,Zhambyl,3.781147200060498
+2015,на 100 000 родившихся живыми,Karagandy,32.725190215168126
+2015,на 100 000 родившихся живыми,Kostanay,0.0
+2015,на 100 000 родившихся живыми,Kyzylorda,48.761987321883296
+2015,на 100 000 родившихся живыми,Mangistau,5.236424569304079
+2015,на 100 000 родившихся живыми,Ontustik Kazakhstan,15.648227838197323
+2015,на 100 000 родившихся живыми,Pavlodar,13.059945148230376
+2015,на 100 000 родившихся живыми,Soltustik Kazakhstan,15.165876777251187
+2015,на 100 000 родившихся живыми,Shygys Kazakhstan,22.251891410769915
+2015,на 100 000 родившихся живыми,Nur-Sultan city,7.659900421294522
+2015,на 100 000 родившихся живыми,Almaty city,2.3766517729822225
+2016,на 100 000 родившихся живыми,,15.416634548678026
+2016,на 100 000 родившихся живыми,Akmola,0.0
+2016,на 100 000 родившихся живыми,Aktobe,20.193861066235865
+2016,на 100 000 родившихся живыми,Almaty,14.472129091391494
+2016,на 100 000 родившихся живыми,Atyrau,30.140454518054128
+2016,на 100 000 родившихся живыми,Batys Kazakhstan,22.779043280182233
+2016,на 100 000 родившихся живыми,Zhambyl,11.533138551437798
+2016,на 100 000 родившихся живыми,Karagandy,29.373505098401235
+2016,на 100 000 родившихся живыми,Kostanay,32.725190215168126
+2016,на 100 000 родившихся живыми,Kyzylorda,5.335325188070213
+2016,на 100 000 родившихся живыми,Mangistau,5.052801778586227
+2016,на 100 000 родившихся живыми,Ontustik Kazakhstan,15.989766549408376
+2016,на 100 000 родившихся живыми,Pavlodar,0.0
+2016,на 100 000 родившихся живыми,Soltustik Kazakhstan,18.940589683692156
+2016,на 100 000 родившихся живыми,Shygys Kazakhstan,17.755681818181817
+2016,на 100 000 родившихся живыми,Nur-Sultan city,11.020093303456639
+2016,на 100 000 родившихся живыми,Almaty city,7.939343416299473
+2017,на 100 000 родившихся живыми,,14.812204234758115
+2017,на 100 000 родившихся живыми,Akmola,17.809439002671414
+2017,на 100 000 родившихся живыми,Aktobe,5.2521008403361344
+2017,на 100 000 родившихся живыми,Almaty,25.085919273511774
+2017,на 100 000 родившихся живыми,Atyrau,18.404907975460123
+2017,на 100 000 родившихся живыми,Batys Kazakhstan,7.76457799518596
+2017,на 100 000 родившихся живыми,Zhambyl,12.22593528404923
+2017,на 100 000 родившихся живыми,Karagandy,13.226346882990914
+2017,на 100 000 родившихся живыми,Kostanay,17.08233686368295
+2017,на 100 000 родившихся живыми,Kyzylorda,0.0
+2017,на 100 000 родившихся живыми,Mangistau,10.298130889243602
+2017,на 100 000 родившихся живыми,Ontustik Kazakhstan,16.798252981689902
+2017,на 100 000 родившихся живыми,Pavlodar,28.498147620404676
+2017,на 100 000 родившихся живыми,Soltustik Kazakhstan,18.335887260487468
+2017,на 100 000 родившихся живыми,Shygys Kazakhstan,18.368846436443796
+2017,на 100 000 родившихся живыми,Nur-Sultan city,6.503219093451259
+2017,на 100 000 родившихся живыми,Almaty city,14.729709824716453
+2018,на 100 000 родившихся живыми,,14.0
+2018,на 100 000 родившихся живыми,Akmola,35.9
+2018,на 100 000 родившихся живыми,Aktobe,5.1
+2018,на 100 000 родившихся живыми,Almaty,14.8
+2018,на 100 000 родившихся живыми,Atyrau,5.9
+2018,на 100 000 родившихся живыми,Batys Kazakhstan,7.6
+2018,на 100 000 родившихся живыми,Zhambyl,8.0
+2018,на 100 000 родившихся живыми,Karagandy,26.2
+2018,на 100 000 родившихся живыми,Kostanay,8.7
+2018,на 100 000 родившихся живыми,Kyzylorda,10.7
+2018,на 100 000 родившихся живыми,Mangistau,25.1
+2018,на 100 000 родившихся живыми,Pavlodar,8.5
+2018,на 100 000 родившихся живыми,Soltustik Kazakhstan,14.8
+2018,на 100 000 родившихся живыми,Turkistan,10.3
+2018,на 100 000 родившихся живыми,Shygys Kazakhstan,14.0
+2018,на 100 000 родившихся живыми,Nur-Sultan city,29.0
+2018,на 100 000 родившихся живыми,Almaty city,8.9
+2018,на 100 000 родившихся живыми,Shymkent city,19.6
+2019,на 100 000 родившихся живыми,,13.7
+2019,на 100 000 родившихся живыми,Akmola,17.2
+2019,на 100 000 родившихся живыми,Aktobe,4.9
+2019,на 100 000 родившихся живыми,Almaty,25.4
+2019,на 100 000 родившихся живыми,Atyrau,17.8
+2019,на 100 000 родившихся живыми,Batys Kazakhstan,7.6
+2019,на 100 000 родившихся живыми,Zhambyl,11.8
+2019,на 100 000 родившихся живыми,Karagandy,39.5
+2019,на 100 000 родившихся живыми,Kostanay,26.6
+2019,на 100 000 родившихся живыми,Kyzylorda,5.3
+2019,на 100 000 родившихся живыми,Mangistau,4.9
+2019,на 100 000 родившихся живыми,Pavlodar,0.0
+2019,на 100 000 родившихся живыми,Soltustik Kazakhstan,0.0
+2019,на 100 000 родившихся живыми,Turkistan,9.3
+2019,на 100 000 родившихся живыми,Shygys Kazakhstan,23.4
+2019,на 100 000 родившихся живыми,Nur-Sultan city,3.3
+2019,на 100 000 родившихся живыми,Almaty city,15.4
+2019,на 100 000 родившихся живыми,Shymkent city,7.1

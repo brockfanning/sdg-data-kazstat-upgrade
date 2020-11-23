@@ -1,181 +1,41 @@
-Year,Units,Vistims of emergency situations,Regions,Sex,Value
-2010,injured per 100 000 people,,,,0.00145
-2011,injured per 100 000 people,,,,0.00011999999999999999
-2012,injured per 100 000 people,,,,0.0002
-2013,injured per 100 000 people,,,,0.00011999999999999999
-2014,injured per 100 000 people,,,,0.00018999999999999998
-2015,injured per 100 000 people,,,,8e-05
-2016,injured per 100 000 people,,,,8e-05
-2017,injured per 100 000 people,,,,0.00035
-2018,injured per 100 000 people,,,,8e-05
-2010,killed per 100 000 people,,,,0.00053
-2011,killed per 100 000 people,,,,5e-05
-2012,killed per 100 000 people,,,,0.00015
-2013,killed per 100 000 people,,,,2.9999999999999997e-05
-2014,killed per 100 000 people,,,,9e-05
-2015,killed per 100 000 people,,,,0.0
-2016,killed per 100 000 people,,,,1e-05
-2017,killed per 100 000 people,,,,0.00011
-2018,killed per 100 000 people,,,,1e-05
-2010,Number of individuals,suffered,,,145.0
-2011,Number of individuals,suffered,,,12.0
-2012,Number of individuals,suffered,,,20.0
-2013,Number of individuals,suffered,,,12.0
-2014,Number of individuals,suffered,,,19.0
-2015,Number of individuals,suffered,,,8.0
-2016,Number of individuals,suffered,,,8.0
-2017,Number of individuals,suffered,,,35.0
-2018,Number of individuals,suffered,,,8.0
-2010,Number of individuals,including died,,,53.0
-2011,Number of individuals,including died,,,5.0
-2012,Number of individuals,including died,,,15.0
-2013,Number of individuals,including died,,,3.0
-2014,Number of individuals,including died,,,9.0
-2015,Number of individuals,including died,,,0.0
-2016,Number of individuals,including died,,,1.0
-2017,Number of individuals,including died,,,11.0
-2018,Number of individuals,including died,,,1.0
-2017,Number of individuals,suffered,Akmola,,2.0
-2017,Number of individuals,suffered,Akmola,Male,1.0
-2017,Number of individuals,suffered,Akmola,Female,1.0
-2010,Number of individuals,suffered,Aktobe,,3.0
-2011,Number of individuals,suffered,Aktobe,,1.0
-2012,Number of individuals,suffered,Aktobe,,1.0
-2014,Number of individuals,suffered,Aktobe,,3.0
-2010,Number of individuals,suffered,Aktobe,Male,2.0
-2011,Number of individuals,suffered,Aktobe,Male,1.0
-2012,Number of individuals,suffered,Aktobe,Male,1.0
-2014,Number of individuals,suffered,Aktobe,Male,3.0
-2010,Number of individuals,suffered,Aktobe,Female,1.0
-2010,Number of individuals,including died,Aktobe,,3.0
-2011,Number of individuals,including died,Aktobe,,1.0
-2012,Number of individuals,including died,Aktobe,,1.0
-2014,Number of individuals,including died,Aktobe,,2.0
-2010,Number of individuals,including died,Aktobe,Male,2.0
-2011,Number of individuals,including died,Aktobe,Male,1.0
-2012,Number of individuals,including died,Aktobe,Male,1.0
-2014,Number of individuals,including died,Aktobe,Male,2.0
-2010,Number of individuals,including died,Aktobe,Female,1.0
-2010,Number of individuals,suffered,Almaty,,138.0
-2011,Number of individuals,suffered,Almaty,,1.0
-2012,Number of individuals,suffered,Almaty,,1.0
-2013,Number of individuals,suffered,Almaty,,1.0
-2014,Number of individuals,suffered,Almaty,,2.0
-2015,Number of individuals,suffered,Almaty,,1.0
-2010,Number of individuals,suffered,Almaty,Male,1.0
-2011,Number of individuals,suffered,Almaty,Male,1.0
-2012,Number of individuals,suffered,Almaty,Male,1.0
-2013,Number of individuals,suffered,Almaty,Male,1.0
-2014,Number of individuals,suffered,Almaty,Male,2.0
-2010,Number of individuals,suffered,Almaty,Female,1.0
-2010,Number of individuals,hurt (no way to set the floor),Almaty,,136.0
-2010,Number of individuals,including died,Almaty,,46.0
-2011,Number of individuals,including died,Almaty,,1.0
-2012,Number of individuals,including died,Almaty,,1.0
-2014,Number of individuals,including died,Almaty,,1.0
-2011,Number of individuals,including died,Almaty,Male,1.0
-2012,Number of individuals,including died,Almaty,Male,1.0
-2014,Number of individuals,including died,Almaty,Male,1.0
-2012,Number of individuals,suffered,Atyrau,,3.0
-2013,Number of individuals,suffered,Atyrau,,1.0
-2012,Number of individuals,suffered,Atyrau,Male,2.0
-2013,Number of individuals,suffered,Atyrau,Male,1.0
-2012,Number of individuals,suffered,Atyrau,Female,1.0
-2012,Number of individuals,including died,Atyrau,,3.0
-2013,Number of individuals,including died,Atyrau,,1.0
-2010,Number of individuals,suffered,Zhambyl,,1.0
-2012,Number of individuals,suffered,Zhambyl,,10.0
-2013,Number of individuals,suffered,Zhambyl,,8.0
-2016,Number of individuals,suffered,Zhambyl,,5.0
-2017,Number of individuals,suffered,Zhambyl,,27.0
-2012,Number of individuals,suffered,Zhambyl,Male,6.0
-2013,Number of individuals,suffered,Zhambyl,Male,8.0
-2016,Number of individuals,suffered,Zhambyl,Male,4.0
-2017,Number of individuals,suffered,Zhambyl,Male,26.0
-2010,Number of individuals,suffered,Zhambyl,Female,1.0
-2012,Number of individuals,suffered,Zhambyl,Female,1.0
-2016,Number of individuals,suffered,Zhambyl,Female,1.0
-2017,Number of individuals,suffered,Zhambyl,Female,1.0
-2012,Number of individuals,hurt (no way to set the floor),Zhambyl,,3.0
-2012,Number of individuals,including died,Zhambyl,,7.0
-2017,Number of individuals,including died,Zhambyl,,9.0
-2012,Number of individuals,including died,Zhambyl,Male,3.0
-2017,Number of individuals,including died,Zhambyl,Male,9.0
-2012,Number of individuals,including died,Zhambyl,Female,1.0
-2012,Number of individuals,including dead (there is no way to install the floor),Zhambyl,,3.0
-2014,Number of individuals,suffered,Karagandy,,12.0
-2014,Number of individuals,suffered,Karagandy,Male,1.0
-2014,Number of individuals,suffered,Karagandy,Female,1.0
-2014,Number of individuals,hurt (no way to set the floor),Karagandy,,10.0
-2014,Number of individuals,including died,Karagandy,,5.0
-2014,Number of individuals,including died,Karagandy,Male,1.0
-2014,Number of individuals,including died,Karagandy,Female,1.0
-2014,Number of individuals,including dead (there is no way to install the floor),Karagandy,,3.0
-2013,Number of individuals,suffered,Kostanay,,1.0
-2013,Number of individuals,suffered,Kostanay,Male,1.0
-2013,Number of individuals,including died,Kostanay,,1.0
-2013,Number of individuals,including died,Kostanay,Male,1.0
-2011,Number of individuals,suffered,Kyzylorda,,3.0
-2012,Number of individuals,suffered,Kyzylorda,,1.0
-2011,Number of individuals,suffered,Kyzylorda,Male,3.0
-2012,Number of individuals,suffered,Kyzylorda,Male,1.0
-2011,Number of individuals,including died,Kyzylorda,,1.0
-2011,Number of individuals,including died,Kyzylorda,Male,1.0
-2010,Number of individuals,suffered,Mangistau,,1.0
-2012,Number of individuals,suffered,Mangistau,,1.0
-2010,Number of individuals,suffered,Mangistau,Male,1.0
-2012,Number of individuals,suffered,Mangistau,Male,1.0
-2014,Number of individuals,suffered,Ontustik Kazakhstan,,1.0
-2014,Number of individuals,suffered,Ontustik Kazakhstan,Male,1.0
-2014,Number of individuals,including died,Ontustik Kazakhstan,,1.0
-2014,Number of individuals,including died,Ontustik Kazakhstan,Male,1.0
-2018,Number of individuals,suffered,Pavlodar,,1.0
-2018,Number of individuals,including died,Pavlodar,,1.0
-2010,Number of individuals,suffered,Soltustik Kazakhstan,,5.0
-2011,Number of individuals,suffered,Soltustik Kazakhstan,,1.0
-2012,Number of individuals,suffered,Soltustik Kazakhstan,,2.0
-2013,Number of individuals,suffered,Soltustik Kazakhstan,,1.0
-2016,Number of individuals,suffered,Soltustik Kazakhstan,,1.0
-2010,Number of individuals,suffered,Soltustik Kazakhstan,Male,5.0
-2011,Number of individuals,suffered,Soltustik Kazakhstan,Male,1.0
-2012,Number of individuals,suffered,Soltustik Kazakhstan,Male,2.0
-2013,Number of individuals,suffered,Soltustik Kazakhstan,Male,1.0
-2016,Number of individuals,suffered,Soltustik Kazakhstan,Female,1.0
-2010,Number of individuals,including died,Soltustik Kazakhstan,,5.0
-2011,Number of individuals,including died,Soltustik Kazakhstan,,1.0
-2012,Number of individuals,including died,Soltustik Kazakhstan,,2.0
-2013,Number of individuals,including died,Soltustik Kazakhstan,,1.0
-2016,Number of individuals,including died,Soltustik Kazakhstan,,1.0
-2010,Number of individuals,including died,Soltustik Kazakhstan,Male,5.0
-2011,Number of individuals,including died,Soltustik Kazakhstan,Male,1.0
-2012,Number of individuals,including died,Soltustik Kazakhstan,Male,2.0
-2013,Number of individuals,including died,Soltustik Kazakhstan,Male,1.0
-2016,Number of individuals,including died,Soltustik Kazakhstan,Female,1.0
-2012,Number of individuals,suffered,Shygys Kazakhstan,,1.0
-2015,Number of individuals,suffered,Shygys Kazakhstan,,2.0
-2016,Number of individuals,suffered,Shygys Kazakhstan,,2.0
-2017,Number of individuals,suffered,Shygys Kazakhstan,,5.0
-2018,Number of individuals,suffered,Shygys Kazakhstan,,1.0
-2017,Number of individuals,suffered,Shygys Kazakhstan,Male,2.0
-2018,Number of individuals,suffered,Shygys Kazakhstan,Male,1.0
-2015,Number of individuals,suffered,Shygys Kazakhstan,Female,2.0
-2017,Number of individuals,suffered,Shygys Kazakhstan,Female,3.0
-2016,Number of individuals,hurt (no way to set the floor),Shygys Kazakhstan,,2.0
-2012,Number of individuals,including died,Shygys Kazakhstan,,1.0
-2017,Number of individuals,including died,Shygys Kazakhstan,,1.0
-2018,Number of individuals,including died,Shygys Kazakhstan,,1.0
-2017,Number of individuals,including died,Shygys Kazakhstan,Male,1.0
-2018,Number of individuals,including died,Shygys Kazakhstan,Male,1.0
-2014,Number of individuals,suffered,г. Нур-Султан,,1.0
-2018,Number of individuals,suffered,г. Нур-Султан,,6.0
-2018,Number of individuals,suffered,г. Нур-Султан,Male,4.0
-2014,Number of individuals,suffered,г. Нур-Султан,Female,1.0
-2018,Number of individuals,suffered,г. Нур-Султан,Female,2.0
-2011,Number of individuals,suffered,г. Алматы,,6.0
-2015,Number of individuals,suffered,г. Алматы,,6.0
-2017,Number of individuals,suffered,г. Алматы,,1.0
-2011,Number of individuals,suffered,г. Алматы,Male,5.0
-2017,Number of individuals,suffered,г. Алматы,Male,1.0
-2011,Number of individuals,suffered,г. Алматы,Female,1.0
-2015,Number of individuals,hurt (no way to set the floor),г. Алматы,,6.0
-2011,Number of individuals,including died,г. Алматы,,1.0
+Year,Units,Виды жертв,Value
+2010,Number of individuals,suffered,148.0
+2010,Number of individuals,injured per 100 000 people,0.9059999999999999
+2010,Number of individuals,в т.ч. погибло,54.0
+2010,Number of individuals,killed per 100 000 people,0.33
+2011,Number of individuals,suffered,12.0
+2011,Number of individuals,injured per 100 000 people,0.07
+2011,Number of individuals,в т.ч. погибло,5.0
+2011,Number of individuals,killed per 100 000 people,0.03
+2012,Number of individuals,suffered,20.0
+2012,Number of individuals,injured per 100 000 people,0.11900000000000001
+2012,Number of individuals,в т.ч. погибло,15.0
+2012,Number of individuals,killed per 100 000 people,0.08900000000000001
+2013,Number of individuals,suffered,12.0
+2013,Number of individuals,injured per 100 000 people,0.07
+2013,Number of individuals,в т.ч. погибло,3.0
+2013,Number of individuals,killed per 100 000 people,0.0176
+2014,Number of individuals,suffered,19.0
+2014,Number of individuals,injured per 100 000 people,0.109
+2014,Number of individuals,в т.ч. погибло,9.0
+2014,Number of individuals,killed per 100 000 people,0.52
+2015,Number of individuals,suffered,8.0
+2015,Number of individuals,injured per 100 000 people,0.045
+2015,Number of individuals,в т.ч. погибло,0.0
+2015,Number of individuals,killed per 100 000 people,0.0
+2016,Number of individuals,suffered,8.0
+2016,Number of individuals,injured per 100 000 people,0.045
+2016,Number of individuals,в т.ч. погибло,1.0
+2016,Number of individuals,killed per 100 000 people,0.005
+2017,Number of individuals,suffered,35.0
+2017,Number of individuals,injured per 100 000 people,0.19399999999999998
+2017,Number of individuals,в т.ч. погибло,11.0
+2017,Number of individuals,killed per 100 000 people,0.061
+2018,Number of individuals,suffered,8.0
+2018,Number of individuals,injured per 100 000 people,0.044000000000000004
+2018,Number of individuals,в т.ч. погибло,1.0
+2018,Number of individuals,killed per 100 000 people,0.005
+2019,Number of individuals,suffered,9.0
+2019,Number of individuals,injured per 100 000 people,0.048
+2019,Number of individuals,в т.ч. погибло,2.0
+2019,Number of individuals,killed per 100 000 people,0.011000000000000001

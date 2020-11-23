@@ -1,121 +1,501 @@
-Year,Units,Regions,GeoCode,Value
-2012,Percent,,,98.4
-2013,Percent,,,100.0
-2014,Percent,,,100.0
-2015,Percent,,,100.0
-2016,Percent,,,100.0
-2017,Percent,,,100.0
-2018,Percent,,,100.0
-2012,Percent,Akmola,KZ03,99.0
-2013,Percent,Akmola,KZ03,100.0
-2014,Percent,Akmola,KZ03,100.0
-2015,Percent,Akmola,KZ03,100.0
-2016,Percent,Akmola,KZ03,100.0
-2017,Percent,Akmola,KZ03,100.0
-2018,Percent,Akmola,KZ03,100.0
-2012,Percent,Aktobe,KZ04,96.7
-2013,Percent,Aktobe,KZ04,100.0
-2014,Percent,Aktobe,KZ04,100.0
-2015,Percent,Aktobe,KZ04,100.0
-2016,Percent,Aktobe,KZ04,100.0
-2017,Percent,Aktobe,KZ04,100.0
-2018,Percent,Aktobe,KZ04,100.0
-2012,Percent,Almaty,KZ01,99.7
-2013,Percent,Almaty,KZ01,100.0
-2014,Percent,Almaty,KZ01,100.0
-2015,Percent,Almaty,KZ01,100.0
-2016,Percent,Almaty,KZ01,100.0
-2017,Percent,Almaty,KZ01,100.0
-2018,Percent,Almaty,KZ01,100.0
-2012,Percent,Atyrau,KZ06,90.7
-2013,Percent,Atyrau,KZ06,100.0
-2014,Percent,Atyrau,KZ06,100.0
-2015,Percent,Atyrau,KZ06,100.0
-2016,Percent,Atyrau,KZ06,100.0
-2017,Percent,Atyrau,KZ06,100.0
-2018,Percent,Atyrau,KZ06,100.0
-2012,Percent,Batys Kazakhstan,KZ07,99.5
-2013,Percent,Batys Kazakhstan,KZ07,100.0
-2014,Percent,Batys Kazakhstan,KZ07,100.0
-2015,Percent,Batys Kazakhstan,KZ07,100.0
-2016,Percent,Batys Kazakhstan,KZ07,100.0
-2017,Percent,Batys Kazakhstan,KZ07,100.0
-2018,Percent,Batys Kazakhstan,KZ07,100.0
-2012,Percent,Zhambyl,KZ17,99.5
-2013,Percent,Zhambyl,KZ17,100.0
-2014,Percent,Zhambyl,KZ17,100.0
-2015,Percent,Zhambyl,KZ17,100.0
-2016,Percent,Zhambyl,KZ17,100.0
-2017,Percent,Zhambyl,KZ17,100.0
-2018,Percent,Zhambyl,KZ17,100.0
-2012,Percent,Karagandy,KZ12,99.7
-2013,Percent,Karagandy,KZ12,100.0
-2014,Percent,Karagandy,KZ12,100.0
-2015,Percent,Karagandy,KZ12,100.0
-2016,Percent,Karagandy,KZ12,100.0
-2017,Percent,Karagandy,KZ12,100.0
-2018,Percent,Karagandy,KZ12,100.0
-2012,Percent,Kostanay,KZ13,99.1
-2013,Percent,Kostanay,KZ13,99.8
-2014,Percent,Kostanay,KZ13,100.0
-2015,Percent,Kostanay,KZ13,100.0
-2016,Percent,Kostanay,KZ13,100.0
-2017,Percent,Kostanay,KZ13,100.0
-2018,Percent,Kostanay,KZ13,100.0
-2012,Percent,Kyzylorda,KZ14,99.4
-2013,Percent,Kyzylorda,KZ14,100.0
-2014,Percent,Kyzylorda,KZ14,100.0
-2015,Percent,Kyzylorda,KZ14,100.0
-2016,Percent,Kyzylorda,KZ14,100.0
-2017,Percent,Kyzylorda,KZ14,100.0
-2018,Percent,Kyzylorda,KZ14,100.0
-2012,Percent,Mangistau,KZ09,99.1
-2013,Percent,Mangistau,KZ09,100.0
-2014,Percent,Mangistau,KZ09,100.0
-2015,Percent,Mangistau,KZ09,100.0
-2016,Percent,Mangistau,KZ09,100.0
-2017,Percent,Mangistau,KZ09,100.0
-2018,Percent,Mangistau,KZ09,100.0
-2012,Percent,Ontustik Kazakhstan,KZ10,97.1
-2013,Percent,Ontustik Kazakhstan,KZ10,100.0
-2014,Percent,Ontustik Kazakhstan,KZ10,100.0
-2015,Percent,Ontustik Kazakhstan,KZ10,100.0
-2016,Percent,Ontustik Kazakhstan,KZ10,100.0
-2017,Percent,Ontustik Kazakhstan,KZ10,100.0
-2012,Percent,Pavlodar,KZ11,100.0
-2013,Percent,Pavlodar,KZ11,100.0
-2014,Percent,Pavlodar,KZ11,100.0
-2015,Percent,Pavlodar,KZ11,100.0
-2016,Percent,Pavlodar,KZ11,100.0
-2017,Percent,Pavlodar,KZ11,100.0
-2018,Percent,Pavlodar,KZ11,100.0
-2012,Percent,Soltustik Kazakhstan,KZ16,98.9
-2013,Percent,Soltustik Kazakhstan,KZ16,100.0
-2014,Percent,Soltustik Kazakhstan,KZ16,100.0
-2015,Percent,Soltustik Kazakhstan,KZ16,100.0
-2016,Percent,Soltustik Kazakhstan,KZ16,100.0
-2017,Percent,Soltustik Kazakhstan,KZ16,100.0
-2018,Percent,Soltustik Kazakhstan,KZ16,100.0
-2018,Percent,Turkistan,KZ10,100.0
-2012,Percent,Shygys Kazakhstan,KZ15,99.3
-2013,Percent,Shygys Kazakhstan,KZ15,100.0
-2014,Percent,Shygys Kazakhstan,KZ15,100.0
-2015,Percent,Shygys Kazakhstan,KZ15,100.0
-2016,Percent,Shygys Kazakhstan,KZ15,100.0
-2017,Percent,Shygys Kazakhstan,KZ15,100.0
-2018,Percent,Shygys Kazakhstan,KZ15,100.0
-2012,Percent,Nur-Sultan city,KZ05,96.5
-2013,Percent,Nur-Sultan city,KZ05,100.0
-2014,Percent,Nur-Sultan city,KZ05,100.0
-2015,Percent,Nur-Sultan city,KZ05,100.0
-2016,Percent,Nur-Sultan city,KZ05,100.0
-2017,Percent,Nur-Sultan city,KZ05,100.0
-2018,Percent,Nur-Sultan city,KZ05,100.0
-2012,Percent,Almaty city,KZ02,98.2
-2013,Percent,Almaty city,KZ02,100.0
-2014,Percent,Almaty city,KZ02,100.0
-2015,Percent,Almaty city,KZ02,100.0
-2016,Percent,Almaty city,KZ02,100.0
-2017,Percent,Almaty city,KZ02,100.0
-2018,Percent,Almaty city,KZ02,100.0
-2018,Percent,Shymkent city,KZ18,100.0
+Year,Units,Area,Regions,Value
+2010,Percent,,,100
+2010,Percent,,Akmola,100
+2010,Percent,,Aktobe,100
+2010,Percent,,Almaty,100
+2010,Percent,,Atyrau,100
+2010,Percent,,Batys Kazakhstan,100
+2010,Percent,,Zhambyl,100
+2010,Percent,,Karagandy,100
+2010,Percent,,Kostanay,100
+2010,Percent,,Kyzylorda,100
+2010,Percent,,Mangistau,100
+2010,Percent,,Pavlodar,100
+2010,Percent,,Soltustik Kazakhstan,100
+2010,Percent,,Turkistan,100
+2010,Percent,,Shygys Kazakhstan,100
+2010,Percent,,Nur-Sultan city,100
+2010,Percent,,Almaty city,100
+2010,Percent,,Shymkent city,100
+2010,Percent,Urban,,100
+2010,Percent,Urban,Akmola,100
+2010,Percent,Urban,Aktobe,100
+2010,Percent,Urban,Almaty,100
+2010,Percent,Urban,Atyrau,100
+2010,Percent,Urban,Batys Kazakhstan,100
+2010,Percent,Urban,Zhambyl,100
+2010,Percent,Urban,Karagandy,100
+2010,Percent,Urban,Kostanay,100
+2010,Percent,Urban,Kyzylorda,100
+2010,Percent,Urban,Mangistau,100
+2010,Percent,Urban,Pavlodar,100
+2010,Percent,Urban,Soltustik Kazakhstan,100
+2010,Percent,Urban,Turkistan,100
+2010,Percent,Urban,Shygys Kazakhstan,100
+2010,Percent,Urban,Nur-Sultan city,100
+2010,Percent,Urban,Almaty city,100
+2010,Percent,Urban,Shymkent city,100
+2010,Percent,Rural,,100
+2010,Percent,Rural,Akmola,100
+2010,Percent,Rural,Aktobe,100
+2010,Percent,Rural,Almaty,100
+2010,Percent,Rural,Atyrau,100
+2010,Percent,Rural,Batys Kazakhstan,100
+2010,Percent,Rural,Zhambyl,100
+2010,Percent,Rural,Karagandy,100
+2010,Percent,Rural,Kostanay,100
+2010,Percent,Rural,Kyzylorda,100
+2010,Percent,Rural,Mangistau,100
+2010,Percent,Rural,Pavlodar,100
+2010,Percent,Rural,Soltustik Kazakhstan,100
+2010,Percent,Rural,Turkistan,100
+2011,Percent,,,100
+2011,Percent,,Akmola,100
+2011,Percent,,Aktobe,100
+2011,Percent,,Almaty,100
+2011,Percent,,Atyrau,100
+2011,Percent,,Batys Kazakhstan,100
+2011,Percent,,Zhambyl,100
+2011,Percent,,Karagandy,100
+2011,Percent,,Kostanay,100
+2011,Percent,,Kyzylorda,100
+2011,Percent,,Mangistau,100
+2011,Percent,,Pavlodar,100
+2011,Percent,,Soltustik Kazakhstan,100
+2011,Percent,,Turkistan,100
+2011,Percent,,Shygys Kazakhstan,100
+2011,Percent,,Nur-Sultan city,100
+2011,Percent,,Almaty city,100
+2011,Percent,,Shymkent city,100
+2011,Percent,Urban,,100
+2011,Percent,Urban,Akmola,100
+2011,Percent,Urban,Aktobe,100
+2011,Percent,Urban,Almaty,100
+2011,Percent,Urban,Atyrau,100
+2011,Percent,Urban,Batys Kazakhstan,100
+2011,Percent,Urban,Zhambyl,100
+2011,Percent,Urban,Karagandy,100
+2011,Percent,Urban,Kostanay,100
+2011,Percent,Urban,Kyzylorda,100
+2011,Percent,Urban,Mangistau,100
+2011,Percent,Urban,Pavlodar,100
+2011,Percent,Urban,Soltustik Kazakhstan,100
+2011,Percent,Urban,Turkistan,100
+2011,Percent,Urban,Shygys Kazakhstan,100
+2011,Percent,Urban,Nur-Sultan city,100
+2011,Percent,Urban,Almaty city,100
+2011,Percent,Urban,Shymkent city,100
+2011,Percent,Rural,,100
+2011,Percent,Rural,Akmola,100
+2011,Percent,Rural,Aktobe,100
+2011,Percent,Rural,Almaty,100
+2011,Percent,Rural,Atyrau,100
+2011,Percent,Rural,Batys Kazakhstan,100
+2011,Percent,Rural,Zhambyl,100
+2011,Percent,Rural,Karagandy,100
+2011,Percent,Rural,Kostanay,100
+2011,Percent,Rural,Kyzylorda,100
+2011,Percent,Rural,Mangistau,100
+2011,Percent,Rural,Pavlodar,100
+2011,Percent,Rural,Soltustik Kazakhstan,100
+2011,Percent,Rural,Turkistan,100
+2012,Percent,,,100
+2012,Percent,,Akmola,100
+2012,Percent,,Aktobe,100
+2012,Percent,,Almaty,100
+2012,Percent,,Atyrau,100
+2012,Percent,,Batys Kazakhstan,100
+2012,Percent,,Zhambyl,100
+2012,Percent,,Karagandy,100
+2012,Percent,,Kostanay,100
+2012,Percent,,Kyzylorda,100
+2012,Percent,,Mangistau,100
+2012,Percent,,Pavlodar,100
+2012,Percent,,Soltustik Kazakhstan,100
+2012,Percent,,Turkistan,100
+2012,Percent,,Shygys Kazakhstan,100
+2012,Percent,,Nur-Sultan city,100
+2012,Percent,,Almaty city,100
+2012,Percent,,Shymkent city,100
+2012,Percent,Urban,,100
+2012,Percent,Urban,Akmola,100
+2012,Percent,Urban,Aktobe,100
+2012,Percent,Urban,Almaty,100
+2012,Percent,Urban,Atyrau,100
+2012,Percent,Urban,Batys Kazakhstan,100
+2012,Percent,Urban,Zhambyl,100
+2012,Percent,Urban,Karagandy,100
+2012,Percent,Urban,Kostanay,100
+2012,Percent,Urban,Kyzylorda,100
+2012,Percent,Urban,Mangistau,100
+2012,Percent,Urban,Pavlodar,100
+2012,Percent,Urban,Soltustik Kazakhstan,100
+2012,Percent,Urban,Turkistan,100
+2012,Percent,Urban,Shygys Kazakhstan,100
+2012,Percent,Urban,Nur-Sultan city,100
+2012,Percent,Urban,Almaty city,100
+2012,Percent,Urban,Shymkent city,100
+2012,Percent,Rural,,100
+2012,Percent,Rural,Akmola,100
+2012,Percent,Rural,Aktobe,100
+2012,Percent,Rural,Almaty,100
+2012,Percent,Rural,Atyrau,100
+2012,Percent,Rural,Batys Kazakhstan,100
+2012,Percent,Rural,Zhambyl,100
+2012,Percent,Rural,Karagandy,100
+2012,Percent,Rural,Kostanay,100
+2012,Percent,Rural,Kyzylorda,100
+2012,Percent,Rural,Mangistau,100
+2012,Percent,Rural,Pavlodar,100
+2012,Percent,Rural,Soltustik Kazakhstan,100
+2012,Percent,Rural,Turkistan,100
+2013,Percent,,,100
+2013,Percent,,Akmola,100
+2013,Percent,,Aktobe,100
+2013,Percent,,Almaty,100
+2013,Percent,,Atyrau,100
+2013,Percent,,Batys Kazakhstan,100
+2013,Percent,,Zhambyl,100
+2013,Percent,,Karagandy,100
+2013,Percent,,Kostanay,100
+2013,Percent,,Kyzylorda,100
+2013,Percent,,Mangistau,100
+2013,Percent,,Pavlodar,100
+2013,Percent,,Soltustik Kazakhstan,100
+2013,Percent,,Turkistan,100
+2013,Percent,,Shygys Kazakhstan,100
+2013,Percent,,Nur-Sultan city,100
+2013,Percent,,Almaty city,100
+2013,Percent,,Shymkent city,100
+2013,Percent,Urban,,100
+2013,Percent,Urban,Akmola,100
+2013,Percent,Urban,Aktobe,100
+2013,Percent,Urban,Almaty,100
+2013,Percent,Urban,Atyrau,100
+2013,Percent,Urban,Batys Kazakhstan,100
+2013,Percent,Urban,Zhambyl,100
+2013,Percent,Urban,Karagandy,100
+2013,Percent,Urban,Kostanay,100
+2013,Percent,Urban,Kyzylorda,100
+2013,Percent,Urban,Mangistau,100
+2013,Percent,Urban,Pavlodar,100
+2013,Percent,Urban,Soltustik Kazakhstan,100
+2013,Percent,Urban,Turkistan,100
+2013,Percent,Urban,Shygys Kazakhstan,100
+2013,Percent,Urban,Nur-Sultan city,100
+2013,Percent,Urban,Almaty city,100
+2013,Percent,Urban,Shymkent city,100
+2013,Percent,Rural,,100
+2013,Percent,Rural,Akmola,100
+2013,Percent,Rural,Aktobe,100
+2013,Percent,Rural,Almaty,100
+2013,Percent,Rural,Atyrau,100
+2013,Percent,Rural,Batys Kazakhstan,100
+2013,Percent,Rural,Zhambyl,100
+2013,Percent,Rural,Karagandy,100
+2013,Percent,Rural,Kostanay,100
+2013,Percent,Rural,Kyzylorda,100
+2013,Percent,Rural,Mangistau,100
+2013,Percent,Rural,Pavlodar,100
+2013,Percent,Rural,Soltustik Kazakhstan,100
+2013,Percent,Rural,Turkistan,100
+2014,Percent,,,100
+2014,Percent,,Akmola,100
+2014,Percent,,Aktobe,100
+2014,Percent,,Almaty,100
+2014,Percent,,Atyrau,100
+2014,Percent,,Batys Kazakhstan,100
+2014,Percent,,Zhambyl,100
+2014,Percent,,Karagandy,100
+2014,Percent,,Kostanay,100
+2014,Percent,,Kyzylorda,100
+2014,Percent,,Mangistau,100
+2014,Percent,,Pavlodar,100
+2014,Percent,,Soltustik Kazakhstan,100
+2014,Percent,,Turkistan,100
+2014,Percent,,Shygys Kazakhstan,100
+2014,Percent,,Nur-Sultan city,100
+2014,Percent,,Almaty city,100
+2014,Percent,,Shymkent city,100
+2014,Percent,Urban,,100
+2014,Percent,Urban,Akmola,100
+2014,Percent,Urban,Aktobe,100
+2014,Percent,Urban,Almaty,100
+2014,Percent,Urban,Atyrau,100
+2014,Percent,Urban,Batys Kazakhstan,100
+2014,Percent,Urban,Zhambyl,100
+2014,Percent,Urban,Karagandy,100
+2014,Percent,Urban,Kostanay,100
+2014,Percent,Urban,Kyzylorda,100
+2014,Percent,Urban,Mangistau,100
+2014,Percent,Urban,Pavlodar,100
+2014,Percent,Urban,Soltustik Kazakhstan,100
+2014,Percent,Urban,Turkistan,100
+2014,Percent,Urban,Shygys Kazakhstan,100
+2014,Percent,Urban,Nur-Sultan city,100
+2014,Percent,Urban,Almaty city,100
+2014,Percent,Urban,Shymkent city,100
+2014,Percent,Rural,,100
+2014,Percent,Rural,Akmola,100
+2014,Percent,Rural,Aktobe,100
+2014,Percent,Rural,Almaty,100
+2014,Percent,Rural,Atyrau,100
+2014,Percent,Rural,Batys Kazakhstan,100
+2014,Percent,Rural,Zhambyl,100
+2014,Percent,Rural,Karagandy,100
+2014,Percent,Rural,Kostanay,100
+2014,Percent,Rural,Kyzylorda,100
+2014,Percent,Rural,Mangistau,100
+2014,Percent,Rural,Pavlodar,100
+2014,Percent,Rural,Soltustik Kazakhstan,100
+2014,Percent,Rural,Turkistan,100
+2015,Percent,,,100
+2015,Percent,,Akmola,100
+2015,Percent,,Aktobe,100
+2015,Percent,,Almaty,100
+2015,Percent,,Atyrau,100
+2015,Percent,,Batys Kazakhstan,100
+2015,Percent,,Zhambyl,100
+2015,Percent,,Karagandy,100
+2015,Percent,,Kostanay,100
+2015,Percent,,Kyzylorda,100
+2015,Percent,,Mangistau,100
+2015,Percent,,Pavlodar,100
+2015,Percent,,Soltustik Kazakhstan,100
+2015,Percent,,Turkistan,100
+2015,Percent,,Shygys Kazakhstan,100
+2015,Percent,,Nur-Sultan city,100
+2015,Percent,,Almaty city,100
+2015,Percent,,Shymkent city,100
+2015,Percent,Urban,,100
+2015,Percent,Urban,Akmola,100
+2015,Percent,Urban,Aktobe,100
+2015,Percent,Urban,Almaty,100
+2015,Percent,Urban,Atyrau,100
+2015,Percent,Urban,Batys Kazakhstan,100
+2015,Percent,Urban,Zhambyl,100
+2015,Percent,Urban,Karagandy,100
+2015,Percent,Urban,Kostanay,100
+2015,Percent,Urban,Kyzylorda,100
+2015,Percent,Urban,Mangistau,100
+2015,Percent,Urban,Pavlodar,100
+2015,Percent,Urban,Soltustik Kazakhstan,100
+2015,Percent,Urban,Turkistan,100
+2015,Percent,Urban,Shygys Kazakhstan,100
+2015,Percent,Urban,Nur-Sultan city,100
+2015,Percent,Urban,Almaty city,100
+2015,Percent,Urban,Shymkent city,100
+2015,Percent,Rural,,100
+2015,Percent,Rural,Akmola,100
+2015,Percent,Rural,Aktobe,100
+2015,Percent,Rural,Almaty,100
+2015,Percent,Rural,Atyrau,100
+2015,Percent,Rural,Batys Kazakhstan,100
+2015,Percent,Rural,Zhambyl,100
+2015,Percent,Rural,Karagandy,100
+2015,Percent,Rural,Kostanay,100
+2015,Percent,Rural,Kyzylorda,100
+2015,Percent,Rural,Mangistau,100
+2015,Percent,Rural,Pavlodar,100
+2015,Percent,Rural,Soltustik Kazakhstan,100
+2015,Percent,Rural,Turkistan,100
+2016,Percent,,,100
+2016,Percent,,Akmola,100
+2016,Percent,,Aktobe,100
+2016,Percent,,Almaty,100
+2016,Percent,,Atyrau,100
+2016,Percent,,Batys Kazakhstan,100
+2016,Percent,,Zhambyl,100
+2016,Percent,,Karagandy,100
+2016,Percent,,Kostanay,100
+2016,Percent,,Kyzylorda,100
+2016,Percent,,Mangistau,100
+2016,Percent,,Pavlodar,100
+2016,Percent,,Soltustik Kazakhstan,100
+2016,Percent,,Turkistan,100
+2016,Percent,,Shygys Kazakhstan,100
+2016,Percent,,Nur-Sultan city,100
+2016,Percent,,Almaty city,100
+2016,Percent,,Shymkent city,100
+2016,Percent,Urban,,100
+2016,Percent,Urban,Akmola,100
+2016,Percent,Urban,Aktobe,100
+2016,Percent,Urban,Almaty,100
+2016,Percent,Urban,Atyrau,100
+2016,Percent,Urban,Batys Kazakhstan,100
+2016,Percent,Urban,Zhambyl,100
+2016,Percent,Urban,Karagandy,100
+2016,Percent,Urban,Kostanay,100
+2016,Percent,Urban,Kyzylorda,100
+2016,Percent,Urban,Mangistau,100
+2016,Percent,Urban,Pavlodar,100
+2016,Percent,Urban,Soltustik Kazakhstan,100
+2016,Percent,Urban,Turkistan,100
+2016,Percent,Urban,Shygys Kazakhstan,100
+2016,Percent,Urban,Nur-Sultan city,100
+2016,Percent,Urban,Almaty city,100
+2016,Percent,Urban,Shymkent city,100
+2016,Percent,Rural,,100
+2016,Percent,Rural,Akmola,100
+2016,Percent,Rural,Aktobe,100
+2016,Percent,Rural,Almaty,100
+2016,Percent,Rural,Atyrau,100
+2016,Percent,Rural,Batys Kazakhstan,100
+2016,Percent,Rural,Zhambyl,100
+2016,Percent,Rural,Karagandy,100
+2016,Percent,Rural,Kostanay,100
+2016,Percent,Rural,Kyzylorda,100
+2016,Percent,Rural,Mangistau,100
+2016,Percent,Rural,Pavlodar,100
+2016,Percent,Rural,Soltustik Kazakhstan,100
+2016,Percent,Rural,Turkistan,100
+2017,Percent,,,100
+2017,Percent,,Akmola,100
+2017,Percent,,Aktobe,100
+2017,Percent,,Almaty,100
+2017,Percent,,Atyrau,100
+2017,Percent,,Batys Kazakhstan,100
+2017,Percent,,Zhambyl,100
+2017,Percent,,Karagandy,100
+2017,Percent,,Kostanay,100
+2017,Percent,,Kyzylorda,100
+2017,Percent,,Mangistau,100
+2017,Percent,,Pavlodar,100
+2017,Percent,,Soltustik Kazakhstan,100
+2017,Percent,,Turkistan,100
+2017,Percent,,Shygys Kazakhstan,100
+2017,Percent,,Nur-Sultan city,100
+2017,Percent,,Almaty city,100
+2017,Percent,,Shymkent city,100
+2017,Percent,Urban,,100
+2017,Percent,Urban,Akmola,100
+2017,Percent,Urban,Aktobe,100
+2017,Percent,Urban,Almaty,100
+2017,Percent,Urban,Atyrau,100
+2017,Percent,Urban,Batys Kazakhstan,100
+2017,Percent,Urban,Zhambyl,100
+2017,Percent,Urban,Karagandy,100
+2017,Percent,Urban,Kostanay,100
+2017,Percent,Urban,Kyzylorda,100
+2017,Percent,Urban,Mangistau,100
+2017,Percent,Urban,Pavlodar,100
+2017,Percent,Urban,Soltustik Kazakhstan,100
+2017,Percent,Urban,Turkistan,100
+2017,Percent,Urban,Shygys Kazakhstan,100
+2017,Percent,Urban,Nur-Sultan city,100
+2017,Percent,Urban,Almaty city,100
+2017,Percent,Urban,Shymkent city,100
+2017,Percent,Rural,,100
+2017,Percent,Rural,Akmola,100
+2017,Percent,Rural,Aktobe,100
+2017,Percent,Rural,Almaty,100
+2017,Percent,Rural,Atyrau,100
+2017,Percent,Rural,Batys Kazakhstan,100
+2017,Percent,Rural,Zhambyl,100
+2017,Percent,Rural,Karagandy,100
+2017,Percent,Rural,Kostanay,100
+2017,Percent,Rural,Kyzylorda,100
+2017,Percent,Rural,Mangistau,100
+2017,Percent,Rural,Pavlodar,100
+2017,Percent,Rural,Soltustik Kazakhstan,100
+2017,Percent,Rural,Turkistan,100
+2018,Percent,,,100
+2018,Percent,,Akmola,100
+2018,Percent,,Aktobe,100
+2018,Percent,,Almaty,100
+2018,Percent,,Atyrau,100
+2018,Percent,,Batys Kazakhstan,100
+2018,Percent,,Zhambyl,100
+2018,Percent,,Karagandy,100
+2018,Percent,,Kostanay,100
+2018,Percent,,Kyzylorda,100
+2018,Percent,,Mangistau,100
+2018,Percent,,Pavlodar,100
+2018,Percent,,Soltustik Kazakhstan,100
+2018,Percent,,Turkistan,100
+2018,Percent,,Shygys Kazakhstan,100
+2018,Percent,,Nur-Sultan city,100
+2018,Percent,,Almaty city,100
+2018,Percent,,Shymkent city,100
+2018,Percent,Urban,,100
+2018,Percent,Urban,Akmola,100
+2018,Percent,Urban,Aktobe,100
+2018,Percent,Urban,Almaty,100
+2018,Percent,Urban,Atyrau,100
+2018,Percent,Urban,Batys Kazakhstan,100
+2018,Percent,Urban,Zhambyl,100
+2018,Percent,Urban,Karagandy,100
+2018,Percent,Urban,Kostanay,100
+2018,Percent,Urban,Kyzylorda,100
+2018,Percent,Urban,Mangistau,100
+2018,Percent,Urban,Pavlodar,100
+2018,Percent,Urban,Soltustik Kazakhstan,100
+2018,Percent,Urban,Turkistan,100
+2018,Percent,Urban,Shygys Kazakhstan,100
+2018,Percent,Urban,Nur-Sultan city,100
+2018,Percent,Urban,Almaty city,100
+2018,Percent,Urban,Shymkent city,100
+2018,Percent,Rural,,100
+2018,Percent,Rural,Akmola,100
+2018,Percent,Rural,Aktobe,100
+2018,Percent,Rural,Almaty,100
+2018,Percent,Rural,Atyrau,100
+2018,Percent,Rural,Batys Kazakhstan,100
+2018,Percent,Rural,Zhambyl,100
+2018,Percent,Rural,Karagandy,100
+2018,Percent,Rural,Kostanay,100
+2018,Percent,Rural,Kyzylorda,100
+2018,Percent,Rural,Mangistau,100
+2018,Percent,Rural,Pavlodar,100
+2018,Percent,Rural,Soltustik Kazakhstan,100
+2018,Percent,Rural,Turkistan,100
+2019,Percent,,,100
+2019,Percent,,Akmola,100
+2019,Percent,,Aktobe,100
+2019,Percent,,Almaty,100
+2019,Percent,,Atyrau,100
+2019,Percent,,Batys Kazakhstan,100
+2019,Percent,,Zhambyl,100
+2019,Percent,,Karagandy,100
+2019,Percent,,Kostanay,100
+2019,Percent,,Kyzylorda,100
+2019,Percent,,Mangistau,100
+2019,Percent,,Pavlodar,100
+2019,Percent,,Soltustik Kazakhstan,100
+2019,Percent,,Turkistan,100
+2019,Percent,,Shygys Kazakhstan,100
+2019,Percent,,Nur-Sultan city,100
+2019,Percent,,Almaty city,100
+2019,Percent,,Shymkent city,100
+2019,Percent,Urban,,100
+2019,Percent,Urban,Akmola,100
+2019,Percent,Urban,Aktobe,100
+2019,Percent,Urban,Almaty,100
+2019,Percent,Urban,Atyrau,100
+2019,Percent,Urban,Batys Kazakhstan,100
+2019,Percent,Urban,Zhambyl,100
+2019,Percent,Urban,Karagandy,100
+2019,Percent,Urban,Kostanay,100
+2019,Percent,Urban,Kyzylorda,100
+2019,Percent,Urban,Mangistau,100
+2019,Percent,Urban,Pavlodar,100
+2019,Percent,Urban,Soltustik Kazakhstan,100
+2019,Percent,Urban,Turkistan,100
+2019,Percent,Urban,Shygys Kazakhstan,100
+2019,Percent,Urban,Nur-Sultan city,100
+2019,Percent,Urban,Almaty city,100
+2019,Percent,Urban,Shymkent city,100
+2019,Percent,Rural,,100
+2019,Percent,Rural,Akmola,100
+2019,Percent,Rural,Aktobe,100
+2019,Percent,Rural,Almaty,100
+2019,Percent,Rural,Atyrau,100
+2019,Percent,Rural,Batys Kazakhstan,100
+2019,Percent,Rural,Zhambyl,100
+2019,Percent,Rural,Karagandy,100
+2019,Percent,Rural,Kostanay,100
+2019,Percent,Rural,Kyzylorda,100
+2019,Percent,Rural,Mangistau,100
+2019,Percent,Rural,Pavlodar,100
+2019,Percent,Rural,Soltustik Kazakhstan,100
+2019,Percent,Rural,Turkistan,100

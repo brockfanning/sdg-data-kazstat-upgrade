@@ -1,8 +1,9 @@
 Value,kk,en,Disaggregation combinations using this value,Number of indicators
 г.Аксай,Ақсай,city Aksay,1,1
-г.Аксу,Ақсу,city Aksu,2,1
+г.Аксу,Ақсу,city Aksu,1,1
 г.Актау,Ақтау,city Aktau,2,1
 г.Актобе,Ақтөбе,city Aktobe,2,1
+г.Алматы,Алматы қаласы,Almaty city,2,1
 г.Аркалык,Арқалық,city Arkalık,1,1
 г.Атырау,Атырау,city Atyrau,2,1
 г.Балхаш,Балқаш,city Balkhash,2,1
@@ -15,9 +16,11 @@ Value,kk,en,Disaggregation combinations using this value,Number of indicators
 г.Каратау,Қаратау,city Karatau,2,1
 г.Кентау,Кентау,city Kentau,2,1
 г.Кокшетау,Көкшетау,City Kokshetau,2,1
-г.Костанай,Қостанай,city Kostanay,1,1
+г.Костанай,Қостанай,city Kostanay,2,1
 г.Кульсары,Көлсары кенті,Kulsary,1,1
 г.Кызылорда,Қызылорда,city Kyzylorda,2,1
+г.Лисаковск,Лисаковск,city Lisakovsk,1,1
+г.Нур-Султан,Нұр-Сұлтан қаласы,Nur-Sultan city,2,1
 г.Павлодар,Павлодар,city Pavlodar,2,1
 г.Петропавловск,Петропавл,city Petropavl,2,1
 г.Риддер,Риддер,city Ridder,1,1
@@ -27,11 +30,12 @@ Value,kk,en,Disaggregation combinations using this value,Number of indicators
 г.Степногорск,Степногорск,City Stepnogorsk,2,1
 г.Талдыкорган,Талдықорған,city Taldıkorgan,1,1
 г.Тараз,Тараз,city Taraz,1,1
-г.Темиртау,Теміртау,city Temirtau,1,1
-г.Туркестан,Түркістан,city Turkistan,1,1
+г.Темиртау,Теміртау,city Temirtau,2,1
+г.Туркестан,Түркістан,city Turkistan,2,1
 г.Уральск,Орал,city Uralsk,2,1
 г.Усть-Каменогорск,Өскемен,city Ust-Kamenogorsk,1,1
 г.Чу,Шу,city Shu,2,1
+г.Шымкент,Шымкент қаласы,Shymkent city,2,1
 г.Экибастуз,Екібастұз,city Ekibastuz,2,1
 п.Акай,Ақай кенті,village Akay,1,1
 п.Бейнеу,Бейнеу кенті,village Beineu,2,1

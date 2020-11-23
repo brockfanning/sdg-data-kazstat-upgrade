@@ -1,68 +1,62 @@
-Year,Units,Area,Sex,Regions,Age,Education,Квинтиль индекса благосостояния,nationality,GeoCode,Value
-2010,Percent,,,,,,,,,81.6
-2015,Percent,,,,,,,,,90.8
-2010,Percent,городская местность,,,,,,,,85.0
-2015,Percent,городская местность,,,,,,,,90.6
-2010,Percent,сельская местность,,,,,,,,78.0
-2015,Percent,сельская местность,,,,,,,,90.9
-2010,Percent,,Male,,,,,,,80.0
-2015,Percent,,Male,,,,,,,91.1
-2010,Percent,,Female,,,,,,,82.0
-2015,Percent,,Female,,,,,,,90.4
-2010,Percent,,,Akmola,,,,,KZ03,90.0
-2015,Percent,,,Akmola,,,,,KZ03,98.8
-2010,Percent,,,Aktobe,,,,,KZ04,96.0
-2015,Percent,,,Aktobe,,,,,KZ04,100.0
-2010,Percent,,,Almaty,,,,,KZ01,81.0
-2015,Percent,,,Almaty,,,,,KZ01,82.4
-2010,Percent,,,Atyrau,,,,,KZ06,83.0
-2015,Percent,,,Atyrau,,,,,KZ06,98.5
-2010,Percent,,,Batys Kazakhstan,,,,,KZ07,98.0
-2015,Percent,,,Batys Kazakhstan,,,,,KZ07,100.0
-2010,Percent,,,Zhambyl,,,,,KZ17,83.0
-2015,Percent,,,Zhambyl,,,,,KZ17,92.0
-2010,Percent,,,Karagandy,,,,,KZ12,75.0
-2015,Percent,,,Karagandy,,,,,KZ12,94.0
-2010,Percent,,,Kostanay,,,,,KZ13,83.0
-2015,Percent,,,Kostanay,,,,,KZ13,100.0
-2010,Percent,,,Kyzylorda,,,,,KZ14,67.0
-2015,Percent,,,Kyzylorda,,,,,KZ14,69.6
-2010,Percent,,,Mangistau,,,,,KZ09,66.0
-2015,Percent,,,Mangistau,,,,,KZ09,100.0
-2010,Percent,,,Ontustik Kazakhstan,,,,,KZ10,70.0
-2015,Percent,,,Ontustik Kazakhstan,,,,,KZ10,87.4
-2010,Percent,,,Pavlodar,,,,,KZ11,95.0
-2015,Percent,,,Pavlodar,,,,,KZ11,95.0
-2010,Percent,,,Soltustik Kazakhstan,,,,,KZ16,84.0
-2015,Percent,,,Soltustik Kazakhstan,,,,,KZ16,94.9
-2010,Percent,,,Shygys Kazakhstan,,,,,KZ15,80.0
-2015,Percent,,,Shygys Kazakhstan,,,,,KZ15,96.6
-2010,Percent,,,Nur-Sultan city,,,,,KZ05,93.0
-2015,Percent,,,Nur-Sultan city,,,,,KZ05,100.0
-2010,Percent,,,Almaty city,,,,,KZ02,97.0
-2015,Percent,,,Almaty city,,,,,KZ02,58.4
-2015,Percent,,,,6 years old,,,,,89.8
-2015,Percent,,,,7 years old and above,,,,,92.1
-2010,Percent,,,,,basic secondary (middle-school),,,,77.1
-2015,Percent,,,,,basic secondary (middle-school),,,,95.5
-2015,Percent,,,,,High Education (General),,,,83.2
-2010,Percent,,,,,Community College and Vocational type of Education,,,,83.0
-2015,Percent,,,,,Community College and Vocational type of Education,,,,92.0
-2010,Percent,,,,,Higher education,,,,85.0
-2015,Percent,,,,,Higher education,,,,94.6
-2010,Percent,,,,,don’t answered,extreme poverty,,,71.0
-2015,Percent,,,,,don’t answered,extreme poverty,,,88.3
-2010,Percent,,,,,don’t answered,second,,,78.0
-2015,Percent,,,,,don’t answered,second,,,87.2
-2010,Percent,,,,,don’t answered,third,,,83.0
-2015,Percent,,,,,don’t answered,third,,,89.4
-2010,Percent,,,,,don’t answered,fourth,,,86.0
-2015,Percent,,,,,don’t answered,fourth,,,93.5
-2010,Percent,,,,,don’t answered,wealthy,,,91.0
-2015,Percent,,,,,don’t answered,wealthy,,,96.7
-2010,Percent,,,,,,,Kazakh,,79.0
-2015,Percent,,,,,,,Kazakh,,92.3
-2010,Percent,,,,,,,Russian,,86.0
-2015,Percent,,,,,,,Russian,,95.6
-2010,Percent,,,,,,,Other,,87.0
-2015,Percent,,,,,,,Other,,79.9
+Year,Units,Area,Sex,Regions,Age,Education,Квинтиль индекса благосостояния,Value
+2010,Percent,,,,,,,81.6
+2010,Percent,Urban,,,,,,856.0
+2010,Percent,Rural,,,,,,780.0
+2010,Percent,,Boys,,,,,804.0
+2010,Percent,,Girls,,,,,827.0
+2010,Percent,,,Akmola,,,,90.5
+2010,Percent,,,Aktobe,,,,96.1
+2010,Percent,,,Almaty,,,,81.4
+2010,Percent,,,Atyrau,,,,83.2
+2010,Percent,,,Batys Kazakhstan,,,,98.6
+2010,Percent,,,Zhambyl,,,,83.9
+2010,Percent,,,Karagandy,,,,75.9
+2010,Percent,,,Kostanay,,,,83.3
+2010,Percent,,,Kyzylorda,,,,67.2
+2010,Percent,,,Mangistau,,,,66.9
+2010,Percent,,,Ontustik Kazakhstan,,,,70.1
+2010,Percent,,,Pavlodar,,,,95.7
+2010,Percent,,,Soltustik Kazakhstan,,,,84.3
+2010,Percent,,,Shygys Kazakhstan,,,,80.6
+2010,Percent,,,Nur-Sultan city,,,,93.3
+2010,Percent,,,Almaty city,,,,97.4
+2010,Percent,,,,,basic secondary (middle-school),,77.1
+2010,Percent,,,,,Community College and Vocational type of Education,,833.0
+2010,Percent,,,,,Higher education,,853.0
+2010,Percent,,,,,,extreme poverty,711.0
+2010,Percent,,,,,,second,788.0
+2010,Percent,,,,,,third,832.0
+2010,Percent,,,,,,fourth,865.0
+2010,Percent,,,,,,wealthy,916.0
+2015,Percent,,,,,,,90.8
+2015,Percent,Urban,,,,,,90.6
+2015,Percent,Rural,,,,,,90.9
+2015,Percent,,Boys,,,,,91.1
+2015,Percent,,Girls,,,,,90.4
+2015,Percent,,,Akmola,,,,98.8
+2015,Percent,,,Aktobe,,,,100.0
+2015,Percent,,,Almaty,,,,82.4
+2015,Percent,,,Atyrau,,,,98.5
+2015,Percent,,,Batys Kazakhstan,,,,100.0
+2015,Percent,,,Zhambyl,,,,92.0
+2015,Percent,,,Karagandy,,,,94.0
+2015,Percent,,,Kostanay,,,,100.0
+2015,Percent,,,Kyzylorda,,,,69.6
+2015,Percent,,,Mangistau,,,,100.0
+2015,Percent,,,Ontustik Kazakhstan,,,,87.4
+2015,Percent,,,Pavlodar,,,,95.4
+2015,Percent,,,Soltustik Kazakhstan,,,,94.9
+2015,Percent,,,Shygys Kazakhstan,,,,96.6
+2015,Percent,,,Nur-Sultan city,,,,100.0
+2015,Percent,,,Almaty city,,,,58.4
+2015,,,,,6 years old,,,89.8
+2015,Percent,,,,7 years old and above,,,92.1
+2015,Percent,,,,,basic secondary (middle-school),,95.5
+2015,Percent,,,,,High Education (General),,83.2
+2015,Percent,,,,,Community College and Vocational type of Education,,92.0
+2015,Percent,,,,,Higher education,,94.6
+2015,Percent,,,,,,extreme poverty,88.3
+2015,Percent,,,,,,second,87.2
+2015,Percent,,,,,,third,89.4
+2015,Percent,,,,,,fourth,93.5
+2015,Percent,,,,,,wealthy,96.7

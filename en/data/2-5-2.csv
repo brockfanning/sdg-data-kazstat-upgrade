@@ -1,46 +1,51 @@
-Year,Units,Protected species,Value
+Year,Units,Охроняемые виды,Value
 2010,Percent,сайгак,4.7
-2011,Percent,сайгак,19.3
-2012,Percent,сайгак,34.8
-2013,Percent,сайгак,36.0
-2014,Percent,сайгак,37.3
-2015,Percent,сайгак,15.1
-2016,Percent,сайгак,-63.3
-2017,Percent,сайгак,40.9
-2018,Percent,сайгак,41.0
 2010,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),0.7
-2011,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),7.1
-2012,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),3.1
-2013,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),3.4
-2014,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),4.5
-2015,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),4.5
-2016,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),42.3
-2017,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),15.2
-2018,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),3.7
 2010,Percent,Onager (latin Equus hemionus),0.9
-2011,Percent,Onager (latin Equus hemionus),16.8
-2012,Percent,Onager (latin Equus hemionus),10.3
-2013,Percent,Onager (latin Equus hemionus),6.1
-2014,Percent,Onager (latin Equus hemionus),5.1
-2015,Percent,Onager (latin Equus hemionus),5.1
-2016,Percent,Onager (latin Equus hemionus),5.9
-2017,Percent,Onager (latin Equus hemionus),4.6
-2018,Percent,Onager (latin Equus hemionus),2.9
 2010,Percent,Goitered gazelle (latin: Gazella subgutturosa),-25.1
-2011,Percent,Goitered gazelle (latin: Gazella subgutturosa),4.3
-2012,Percent,Goitered gazelle (latin: Gazella subgutturosa),2.0
-2013,Percent,Goitered gazelle (latin: Gazella subgutturosa),0.8
-2014,Percent,Goitered gazelle (latin: Gazella subgutturosa),1.5
-2015,Percent,Goitered gazelle (latin: Gazella subgutturosa),1.5
-2016,Percent,Goitered gazelle (latin: Gazella subgutturosa),0.2
-2017,Percent,Goitered gazelle (latin: Gazella subgutturosa),3.8
-2018,Percent,Goitered gazelle (latin: Gazella subgutturosa),2.3
 2010,Percent,Argali (latin: Ovis ammon),2.6
+2011,Percent,сайгак,19.3
+2011,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),7.1
+2011,Percent,Onager (latin Equus hemionus),16.8
+2011,Percent,Goitered gazelle (latin: Gazella subgutturosa),4.3
 2011,Percent,Argali (latin: Ovis ammon),2.0
+2012,Percent,сайгак,34.8
+2012,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),3.1
+2012,Percent,Onager (latin Equus hemionus),10.3
+2012,Percent,Goitered gazelle (latin: Gazella subgutturosa),2.0
 2012,Percent,Argali (latin: Ovis ammon),4.7
+2013,Percent,сайгак,36.0
+2013,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),3.4
+2013,Percent,Onager (latin Equus hemionus),6.1
+2013,Percent,Goitered gazelle (latin: Gazella subgutturosa),0.8
 2013,Percent,Argali (latin: Ovis ammon),1.4
+2014,Percent,сайгак,37.3
+2014,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),4.5
+2014,Percent,Onager (latin Equus hemionus),5.1
+2014,Percent,Goitered gazelle (latin: Gazella subgutturosa),1.5
 2014,Percent,Argali (latin: Ovis ammon),6.6
+2015,Percent,сайгак,15.1
+2015,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),4.5
+2015,Percent,Onager (latin Equus hemionus),5.1
+2015,Percent,Goitered gazelle (latin: Gazella subgutturosa),1.5
 2015,Percent,Argali (latin: Ovis ammon),6.6
+2016,Percent,сайгак,-63.3
+2016,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),42.3
+2016,Percent,Onager (latin Equus hemionus),5.89
+2016,Percent,Goitered gazelle (latin: Gazella subgutturosa),0.16
 2016,Percent,Argali (latin: Ovis ammon),1.7
+2017,Percent,сайгак,40.9
+2017,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),15.2
+2017,Percent,Onager (latin Equus hemionus),4.6
+2017,Percent,Goitered gazelle (latin: Gazella subgutturosa),3.8
 2017,Percent,Argali (latin: Ovis ammon),5.1
+2018,Percent,сайгак,41.0
+2018,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),3.7
+2018,Percent,Onager (latin Equus hemionus),2.9
+2018,Percent,Goitered gazelle (latin: Gazella subgutturosa),2.3
 2018,Percent,Argali (latin: Ovis ammon),1.5
+2019,Percent,сайгак,55.5
+2019,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),2.5
+2019,Percent,Onager (latin Equus hemionus),2.3
+2019,Percent,Goitered gazelle (latin: Gazella subgutturosa),2.3
+2019,Percent,Argali (latin: Ovis ammon),5.2

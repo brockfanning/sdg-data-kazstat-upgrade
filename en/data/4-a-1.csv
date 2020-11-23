@@ -1,358 +1,128 @@
 Year,Units,Schools which has access to,Area,Regions,Value
-2015,Percent,electricity,,,100.0
-2016,Percent,electricity,,,100.0
-2017,Percent,electricity,,,100.0
-2016,Percent,access to the internet for education purposes,,,79.1
-2017,Percent,access to the internet for education purposes,,,85.8
-2018,Percent,access to the internet for education purposes,,,89.9
-2016,Percent,access to the internet for education purposes,,Akmola,82.5
-2017,Percent,access to the internet for education purposes,,Akmola,85.6
-2018,Percent,access to the internet for education purposes,,Akmola,92.9
-2016,Percent,access to the internet for education purposes,,Aktobe,69.0
-2017,Percent,access to the internet for education purposes,,Aktobe,76.7
-2018,Percent,access to the internet for education purposes,,Aktobe,91.3
-2016,Percent,access to the internet for education purposes,,Almaty,86.1
-2017,Percent,access to the internet for education purposes,,Almaty,91.8
-2018,Percent,access to the internet for education purposes,,Almaty,91.8
-2016,Percent,access to the internet for education purposes,,Atyrau,74.9
-2017,Percent,access to the internet for education purposes,,Atyrau,81.2
-2018,Percent,access to the internet for education purposes,,Atyrau,88.2
-2016,Percent,access to the internet for education purposes,,Batys Kazakhstan,77.8
-2017,Percent,access to the internet for education purposes,,Batys Kazakhstan,88.0
-2018,Percent,access to the internet for education purposes,,Batys Kazakhstan,87.2
-2016,Percent,access to the internet for education purposes,,Zhambyl,94.8
-2017,Percent,access to the internet for education purposes,,Zhambyl,95.5
-2018,Percent,access to the internet for education purposes,,Zhambyl,99.3
-2016,Percent,access to the internet for education purposes,,Karagandy,76.7
-2017,Percent,access to the internet for education purposes,,Karagandy,85.5
-2018,Percent,access to the internet for education purposes,,Karagandy,86.9
-2016,Percent,access to the internet for education purposes,,Kostanay,73.9
-2017,Percent,access to the internet for education purposes,,Kostanay,79.7
-2018,Percent,access to the internet for education purposes,,Kostanay,88.9
-2016,Percent,access to the internet for education purposes,,Kyzylorda,77.9
-2017,Percent,access to the internet for education purposes,,Kyzylorda,82.3
-2018,Percent,access to the internet for education purposes,,Kyzylorda,88.7
-2016,Percent,access to the internet for education purposes,,Mangistau,88.2
-2017,Percent,access to the internet for education purposes,,Mangistau,89.6
-2018,Percent,access to the internet for education purposes,,Mangistau,96.3
-2016,Percent,access to the internet for education purposes,,Ontustik Kazakhstan,71.7
-2017,Percent,access to the internet for education purposes,,Ontustik Kazakhstan,79.7
-2016,Percent,access to the internet for education purposes,,Pavlodar,96.7
-2017,Percent,access to the internet for education purposes,,Pavlodar,99.0
-2018,Percent,access to the internet for education purposes,,Pavlodar,98.9
-2016,Percent,access to the internet for education purposes,,Soltustik Kazakhstan,80.3
-2017,Percent,access to the internet for education purposes,,Soltustik Kazakhstan,87.4
-2018,Percent,access to the internet for education purposes,,Soltustik Kazakhstan,88.9
-2018,Percent,access to the internet for education purposes,,Turkistan,80.4
-2016,Percent,access to the internet for education purposes,,Shygys Kazakhstan,67.4
-2017,Percent,access to the internet for education purposes,,Shygys Kazakhstan,80.7
-2018,Percent,access to the internet for education purposes,,Shygys Kazakhstan,85.3
-2016,Percent,access to the internet for education purposes,,Nur-Sultan city,78.1
-2017,Percent,access to the internet for education purposes,,Nur-Sultan city,87.6
-2018,Percent,access to the internet for education purposes,,Nur-Sultan city,97.3
-2016,Percent,access to the internet for education purposes,,Almaty city,88.4
-2017,Percent,access to the internet for education purposes,,Almaty city,94.5
-2018,Percent,access to the internet for education purposes,,Almaty city,97.5
-2016,Percent,access to the internet for education purposes,городская местность,,87.4
-2017,Percent,access to the internet for education purposes,городская местность,,92.5
-2018,Percent,access to the internet for education purposes,городская местность,,95.2
-2016,Percent,access to the internet for education purposes,городская местность,Akmola,82.2
-2017,Percent,access to the internet for education purposes,городская местность,Akmola,91.8
-2018,Percent,access to the internet for education purposes,городская местность,Akmola,90.9
-2016,Percent,access to the internet for education purposes,городская местность,Aktobe,88.2
-2017,Percent,access to the internet for education purposes,городская местность,Aktobe,89.6
-2018,Percent,access to the internet for education purposes,городская местность,Aktobe,96.8
-2016,Percent,access to the internet for education purposes,городская местность,Almaty,93.4
-2017,Percent,access to the internet for education purposes,городская местность,Almaty,96.2
-2018,Percent,access to the internet for education purposes,городская местность,Almaty,96.3
-2016,Percent,access to the internet for education purposes,городская местность,Atyrau,80.0
-2017,Percent,access to the internet for education purposes,городская местность,Atyrau,85.5
-2018,Percent,access to the internet for education purposes,городская местность,Atyrau,91.8
-2016,Percent,access to the internet for education purposes,городская местность,Batys Kazakhstan,90.0
-2017,Percent,access to the internet for education purposes,городская местность,Batys Kazakhstan,91.7
-2018,Percent,access to the internet for education purposes,городская местность,Batys Kazakhstan,95.9
-2016,Percent,access to the internet for education purposes,городская местность,Zhambyl,94.8
-2017,Percent,access to the internet for education purposes,городская местность,Zhambyl,98.0
-2018,Percent,access to the internet for education purposes,городская местность,Zhambyl,98.0
-2016,Percent,access to the internet for education purposes,городская местность,Karagandy,86.8
-2017,Percent,access to the internet for education purposes,городская местность,Karagandy,94.5
-2018,Percent,access to the internet for education purposes,городская местность,Karagandy,95.3
-2016,Percent,access to the internet for education purposes,городская местность,Kostanay,88.8
-2017,Percent,access to the internet for education purposes,городская местность,Kostanay,94.9
-2018,Percent,access to the internet for education purposes,городская местность,Kostanay,95.9
-2016,Percent,access to the internet for education purposes,городская местность,Kyzylorda,86.3
-2017,Percent,access to the internet for education purposes,городская местность,Kyzylorda,86.7
-2018,Percent,access to the internet for education purposes,городская местность,Kyzylorda,92.0
-2016,Percent,access to the internet for education purposes,городская местность,Mangistau,94.6
-2017,Percent,access to the internet for education purposes,городская местность,Mangistau,94.7
-2018,Percent,access to the internet for education purposes,городская местность,Mangistau,94.7
-2016,Percent,access to the internet for education purposes,городская местность,Ontustik Kazakhstan,78.6
-2017,Percent,access to the internet for education purposes,городская местность,Ontustik Kazakhstan,87.4
-2018,Percent,access to the internet for education purposes,городская местность,Ontustik Kazakhstan,97.8
-2016,Percent,access to the internet for education purposes,городская местность,Pavlodar,95.8
-2017,Percent,access to the internet for education purposes,городская местность,Pavlodar,96.8
-2016,Percent,access to the internet for education purposes,городская местность,Soltustik Kazakhstan,96.8
-2017,Percent,access to the internet for education purposes,городская местность,Soltustik Kazakhstan,98.4
-2018,Percent,access to the internet for education purposes,городская местность,Soltustik Kazakhstan,98.4
-2018,Percent,access to the internet for education purposes,городская местность,Turkistan,86.6
-2016,Percent,access to the internet for education purposes,городская местность,Shygys Kazakhstan,91.0
-2017,Percent,access to the internet for education purposes,городская местность,Shygys Kazakhstan,93.9
-2018,Percent,access to the internet for education purposes,городская местность,Shygys Kazakhstan,94.0
-2016,Percent,access to the internet for education purposes,городская местность,Nur-Sultan city,78.1
-2017,Percent,access to the internet for education purposes,городская местность,Nur-Sultan city,87.6
-2018,Percent,access to the internet for education purposes,городская местность,Nur-Sultan city,97.3
-2016,Percent,access to the internet for education purposes,городская местность,Almaty city,88.4
-2017,Percent,access to the internet for education purposes,городская местность,Almaty city,94.5
-2018,Percent,access to the internet for education purposes,городская местность,Almaty city,97.5
-2018,Percent,access to the internet for education purposes,городская местность,Shymkent city,95.5
-2016,Percent,access to the internet for education purposes,сельская местность,,76.1
-2017,Percent,access to the internet for education purposes,сельская местность,,83.2
-2018,Percent,access to the internet for education purposes,сельская местность,,87.9
-2016,Percent,access to the internet for education purposes,сельская местность,Akmola,82.4
-2017,Percent,access to the internet for education purposes,сельская местность,Akmola,84.4
-2018,Percent,access to the internet for education purposes,сельская местность,Akmola,93.3
-2016,Percent,access to the internet for education purposes,сельская местность,Aktobe,63.0
-2017,Percent,access to the internet for education purposes,сельская местность,Aktobe,72.3
-2018,Percent,access to the internet for education purposes,сельская местность,Aktobe,88.9
-2016,Percent,access to the internet for education purposes,сельская местность,Almaty,84.9
-2017,Percent,access to the internet for education purposes,сельская местность,Almaty,91.1
-2018,Percent,access to the internet for education purposes,сельская местность,Almaty,91.1
-2016,Percent,access to the internet for education purposes,сельская местность,Atyrau,72.4
-2017,Percent,access to the internet for education purposes,сельская местность,Atyrau,78.9
-2018,Percent,access to the internet for education purposes,сельская местность,Atyrau,86.2
-2016,Percent,access to the internet for education purposes,сельская местность,Batys Kazakhstan,75.2
-2017,Percent,access to the internet for education purposes,сельская местность,Batys Kazakhstan,87.2
-2018,Percent,access to the internet for education purposes,сельская местность,Batys Kazakhstan,85.2
-2016,Percent,access to the internet for education purposes,сельская местность,Zhambyl,94.8
-2017,Percent,access to the internet for education purposes,сельская местность,Zhambyl,94.8
-2018,Percent,access to the internet for education purposes,сельская местность,Zhambyl,99.7
-2016,Percent,access to the internet for education purposes,сельская местность,Karagandy,69.3
-2017,Percent,access to the internet for education purposes,сельская местность,Karagandy,78.6
-2018,Percent,access to the internet for education purposes,сельская местность,Karagandy,80.4
-2016,Percent,access to the internet for education purposes,сельская местность,Kostanay,70.6
-2017,Percent,access to the internet for education purposes,сельская местность,Kostanay,76.3
-2018,Percent,access to the internet for education purposes,сельская местность,Kostanay,87.3
-2016,Percent,access to the internet for education purposes,сельская местность,Kyzylorda,75.3
-2017,Percent,access to the internet for education purposes,сельская местность,Kyzylorda,80.9
-2018,Percent,access to the internet for education purposes,сельская местность,Kyzylorda,87.7
-2016,Percent,access to the internet for education purposes,сельская местность,Mangistau,84.5
-2017,Percent,access to the internet for education purposes,сельская местность,Mangistau,86.6
-2018,Percent,access to the internet for education purposes,сельская местность,Mangistau,97.1
-2016,Percent,access to the internet for education purposes,сельская местность,Ontustik Kazakhstan,69.3
-2017,Percent,access to the internet for education purposes,сельская местность,Ontustik Kazakhstan,77.1
-2018,Percent,access to the internet for education purposes,сельская местность,Ontustik Kazakhstan,99.3
-2016,Percent,access to the internet for education purposes,сельская местность,Pavlodar,97.0
-2017,Percent,access to the internet for education purposes,сельская местность,Pavlodar,99.7
-2016,Percent,access to the internet for education purposes,сельская местность,Soltustik Kazakhstan,78.1
-2017,Percent,access to the internet for education purposes,сельская местность,Soltustik Kazakhstan,85.8
-2018,Percent,access to the internet for education purposes,сельская местность,Soltustik Kazakhstan,87.5
-2018,Percent,access to the internet for education purposes,сельская местность,Turkistan,79.5
-2016,Percent,access to the internet for education purposes,сельская местность,Shygys Kazakhstan,59.3
-2017,Percent,access to the internet for education purposes,сельская местность,Shygys Kazakhstan,76.0
-2018,Percent,access to the internet for education purposes,сельская местность,Shygys Kazakhstan,82.2
-2016,Percent,PC's for education purposes,,,98.1
-2017,Percent,PC's for education purposes,,,98.5
-2018,Percent,PC's for education purposes,,,99.1
-2016,Percent,PC's for education purposes,,Akmola,98.1
-2017,Percent,PC's for education purposes,,Akmola,99.0
-2018,Percent,PC's for education purposes,,Akmola,99.3
-2016,Percent,PC's for education purposes,,Aktobe,97.2
-2017,Percent,PC's for education purposes,,Aktobe,97.9
-2018,Percent,PC's for education purposes,,Aktobe,99.3
-2016,Percent,PC's for education purposes,,Almaty,99.1
-2017,Percent,PC's for education purposes,,Almaty,99.5
-2018,Percent,PC's for education purposes,,Almaty,99.9
-2016,Percent,PC's for education purposes,,Atyrau,99.0
-2017,Percent,PC's for education purposes,,Atyrau,99.0
-2018,Percent,PC's for education purposes,,Atyrau,99.0
-2016,Percent,PC's for education purposes,,Batys Kazakhstan,99.2
-2017,Percent,PC's for education purposes,,Batys Kazakhstan,99.5
-2018,Percent,PC's for education purposes,,Batys Kazakhstan,99.7
-2016,Percent,PC's for education purposes,,Zhambyl,100.0
-2017,Percent,PC's for education purposes,,Zhambyl,99.8
-2018,Percent,PC's for education purposes,,Zhambyl,99.6
-2016,Percent,PC's for education purposes,,Karagandy,99.1
-2017,Percent,PC's for education purposes,,Karagandy,99.3
-2018,Percent,PC's for education purposes,,Karagandy,99.4
-2016,Percent,PC's for education purposes,,Kostanay,92.1
-2017,Percent,PC's for education purposes,,Kostanay,94.0
-2018,Percent,PC's for education purposes,,Kostanay,98.5
-2016,Percent,PC's for education purposes,,Kyzylorda,98.4
-2017,Percent,PC's for education purposes,,Kyzylorda,98.4
-2018,Percent,PC's for education purposes,,Kyzylorda,98.1
-2016,Percent,PC's for education purposes,,Mangistau,98.7
-2017,Percent,PC's for education purposes,,Mangistau,98.1
-2018,Percent,PC's for education purposes,,Mangistau,99.4
-2016,Percent,PC's for education purposes,,Ontustik Kazakhstan,97.1
-2017,Percent,PC's for education purposes,,Ontustik Kazakhstan,97.1
-2016,Percent,PC's for education purposes,,Pavlodar,100.0
-2017,Percent,PC's for education purposes,,Pavlodar,100.0
-2018,Percent,PC's for education purposes,,Pavlodar,100.0
-2016,Percent,PC's for education purposes,,Soltustik Kazakhstan,98.5
-2017,Percent,PC's for education purposes,,Soltustik Kazakhstan,99.4
-2018,Percent,PC's for education purposes,,Soltustik Kazakhstan,99.6
-2018,Percent,PC's for education purposes,,Turkistan,97.2
-2016,Percent,PC's for education purposes,,Shygys Kazakhstan,98.8
-2017,Percent,PC's for education purposes,,Shygys Kazakhstan,99.1
-2018,Percent,PC's for education purposes,,Shygys Kazakhstan,99.4
-2016,Percent,PC's for education purposes,,Nur-Sultan city,100.0
-2017,Percent,PC's for education purposes,,Nur-Sultan city,100.0
-2018,Percent,PC's for education purposes,,Nur-Sultan city,100.0
-2016,Percent,PC's for education purposes,,Almaty city,99.6
-2017,Percent,PC's for education purposes,,Almaty city,99.6
-2018,Percent,PC's for education purposes,,Almaty city,100.0
-2018,Percent,PC's for education purposes,,Shymkent city,98.7
-2016,Percent,PC's for education purposes,городская местность,,98.6
-2017,Percent,PC's for education purposes,городская местность,,98.6
-2018,Percent,PC's for education purposes,городская местность,,99.0
-2016,Percent,PC's for education purposes,городская местность,Akmola,94.9
-2017,Percent,PC's for education purposes,городская местность,Akmola,96.9
-2018,Percent,PC's for education purposes,городская местность,Akmola,97.0
-2016,Percent,PC's for education purposes,городская местность,Aktobe,99.0
-2017,Percent,PC's for education purposes,городская местность,Aktobe,98.1
-2018,Percent,PC's for education purposes,городская местность,Aktobe,98.4
-2016,Percent,PC's for education purposes,городская местность,Almaty,100.0
-2017,Percent,PC's for education purposes,городская местность,Almaty,100.0
-2018,Percent,PC's for education purposes,городская местность,Almaty,100.0
-2016,Percent,PC's for education purposes,городская местность,Atyrau,98.5
-2017,Percent,PC's for education purposes,городская местность,Atyrau,98.6
-2018,Percent,PC's for education purposes,городская местность,Atyrau,98.6
-2016,Percent,PC's for education purposes,городская местность,Batys Kazakhstan,97.1
-2017,Percent,PC's for education purposes,городская местность,Batys Kazakhstan,97.2
-2018,Percent,PC's for education purposes,городская местность,Batys Kazakhstan,100.0
-2016,Percent,PC's for education purposes,городская местность,Zhambyl,100.0
-2017,Percent,PC's for education purposes,городская местность,Zhambyl,100.0
-2018,Percent,PC's for education purposes,городская местность,Zhambyl,99.0
-2016,Percent,PC's for education purposes,городская местность,Karagandy,99.6
-2017,Percent,PC's for education purposes,городская местность,Karagandy,98.7
-2018,Percent,PC's for education purposes,городская местность,Karagandy,99.6
-2016,Percent,PC's for education purposes,городская местность,Kostanay,99.0
-2017,Percent,PC's for education purposes,городская местность,Kostanay,99.0
-2018,Percent,PC's for education purposes,городская местность,Kostanay,99.0
-2016,Percent,PC's for education purposes,городская местность,Kyzylorda,100.0
-2017,Percent,PC's for education purposes,городская местность,Kyzylorda,97.3
-2018,Percent,PC's for education purposes,городская местность,Kyzylorda,98.7
-2016,Percent,PC's for education purposes,городская местность,Mangistau,100.0
-2017,Percent,PC's for education purposes,городская местность,Mangistau,98.2
-2018,Percent,PC's for education purposes,городская местность,Mangistau,100.0
-2016,Percent,PC's for education purposes,городская местность,Ontustik Kazakhstan,95.6
-2017,Percent,PC's for education purposes,городская местность,Ontustik Kazakhstan,96.8
-2016,Percent,PC's for education purposes,городская местность,Pavlodar,100.0
-2017,Percent,PC's for education purposes,городская местность,Pavlodar,100.0
-2018,Percent,PC's for education purposes,городская местность,Pavlodar,100.0
-2016,Percent,PC's for education purposes,городская местность,Soltustik Kazakhstan,100.0
-2017,Percent,PC's for education purposes,городская местность,Soltustik Kazakhstan,100.0
-2018,Percent,PC's for education purposes,городская местность,Soltustik Kazakhstan,100.0
-2018,Percent,PC's for education purposes,городская местность,Turkistan,94.1
-2016,Percent,PC's for education purposes,городская местность,Shygys Kazakhstan,97.7
-2017,Percent,PC's for education purposes,городская местность,Shygys Kazakhstan,98.3
-2018,Percent,PC's for education purposes,городская местность,Shygys Kazakhstan,98.9
-2016,Percent,PC's for education purposes,городская местность,Nur-Sultan city,100.0
-2017,Percent,PC's for education purposes,городская местность,Nur-Sultan city,100.0
-2018,Percent,PC's for education purposes,городская местность,Nur-Sultan city,100.0
-2016,Percent,PC's for education purposes,городская местность,Almaty city,99.6
-2017,Percent,PC's for education purposes,городская местность,Almaty city,99.6
-2018,Percent,PC's for education purposes,городская местность,Almaty city,100.0
-2018,Percent,PC's for education purposes,городская местность,Shymkent city,98.7
-2016,Percent,PC's for education purposes,сельская местность,,98.0
-2017,Percent,PC's for education purposes,сельская местность,,98.5
-2018,Percent,PC's for education purposes,сельская местность,,99.2
-2016,Percent,PC's for education purposes,сельская местность,Akmola,98.8
-2017,Percent,PC's for education purposes,сельская местность,Akmola,99.4
-2018,Percent,PC's for education purposes,сельская местность,Akmola,99.8
-2016,Percent,PC's for education purposes,сельская местность,Aktobe,96.7
-2017,Percent,PC's for education purposes,сельская местность,Aktobe,97.8
-2018,Percent,PC's for education purposes,сельская местность,Aktobe,99.7
-2016,Percent,PC's for education purposes,сельская местность,Almaty,98.9
-2017,Percent,PC's for education purposes,сельская местность,Almaty,99.4
-2018,Percent,PC's for education purposes,сельская местность,Almaty,99.9
-2016,Percent,PC's for education purposes,сельская местность,Atyrau,99.3
-2017,Percent,PC's for education purposes,сельская местность,Atyrau,99.2
-2018,Percent,PC's for education purposes,сельская местность,Atyrau,99.2
-2016,Percent,PC's for education purposes,сельская местность,Batys Kazakhstan,99.7
-2017,Percent,PC's for education purposes,сельская местность,Batys Kazakhstan,100.0
-2018,Percent,PC's for education purposes,сельская местность,Batys Kazakhstan,99.7
-2016,Percent,PC's for education purposes,сельская местность,Zhambyl,100.0
-2017,Percent,PC's for education purposes,сельская местность,Zhambyl,99.7
-2018,Percent,PC's for education purposes,сельская местность,Zhambyl,99.7
-2016,Percent,PC's for education purposes,сельская местность,Karagandy,98.7
-2017,Percent,PC's for education purposes,сельская местность,Karagandy,99.7
-2018,Percent,PC's for education purposes,сельская местность,Karagandy,99.3
-2016,Percent,PC's for education purposes,сельская местность,Kostanay,90.6
-2017,Percent,PC's for education purposes,сельская местность,Kostanay,92.9
-2018,Percent,PC's for education purposes,сельская местность,Kostanay,98.4
-2016,Percent,PC's for education purposes,сельская местность,Kyzylorda,97.9
-2017,Percent,PC's for education purposes,сельская местность,Kyzylorda,98.7
-2018,Percent,PC's for education purposes,сельская местность,Kyzylorda,97.9
-2016,Percent,PC's for education purposes,сельская местность,Mangistau,97.9
-2017,Percent,PC's for education purposes,сельская местность,Mangistau,97.9
-2018,Percent,PC's for education purposes,сельская местность,Mangistau,99.0
-2016,Percent,PC's for education purposes,сельская местность,Ontustik Kazakhstan,97.6
-2017,Percent,PC's for education purposes,сельская местность,Ontustik Kazakhstan,97.2
-2016,Percent,PC's for education purposes,сельская местность,Pavlodar,100.0
-2017,Percent,PC's for education purposes,сельская местность,Pavlodar,100.0
-2018,Percent,PC's for education purposes,сельская местность,Pavlodar,100.0
-2016,Percent,PC's for education purposes,сельская местность,Soltustik Kazakhstan,98.3
-2017,Percent,PC's for education purposes,сельская местность,Soltustik Kazakhstan,99.3
-2018,Percent,PC's for education purposes,сельская местность,Soltustik Kazakhstan,99.5
-2018,Percent,PC's for education purposes,сельская местность,Turkistan,97.6
-2016,Percent,PC's for education purposes,сельская местность,Shygys Kazakhstan,99.2
-2017,Percent,PC's for education purposes,сельская местность,Shygys Kazakhstan,99.4
-2018,Percent,PC's for education purposes,сельская местность,Shygys Kazakhstan,99.6
 2015,Percent,sources of drinking water,,,100.0
 2016,Percent,sources of drinking water,,,100.0
 2017,Percent,sources of drinking water,,,100.0
 2018,Percent,sources of drinking water,,,100.0
-2015,Percent,separate restrooms which meet minimum standards,,,100.0
-2016,Percent,separate restrooms which meet minimum standards,,,100.0
-2017,Percent,separate restrooms which meet minimum standards,,,100.0
-2018,Percent,separate restrooms which meet minimum standards,,,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Akmola,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Akmola,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Akmola,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Aktobe,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Aktobe,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Aktobe,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Almaty,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Almaty,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Almaty,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Atyrau,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Atyrau,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Atyrau,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Batys Kazakhstan,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Batys Kazakhstan,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Batys Kazakhstan,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Zhambyl,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Zhambyl,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Zhambyl,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Karagandy,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Karagandy,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Karagandy,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Kostanay,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Kostanay,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Kostanay,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Kyzylorda,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Kyzylorda,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Kyzylorda,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Mangistau,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Mangistau,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Mangistau,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Ontustik Kazakhstan,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Ontustik Kazakhstan,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Pavlodar,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Pavlodar,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Pavlodar,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Soltustik Kazakhstan,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Soltustik Kazakhstan,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Soltustik Kazakhstan,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Turkistan,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Shygys Kazakhstan,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Shygys Kazakhstan,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Shygys Kazakhstan,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Nur-Sultan city,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Nur-Sultan city,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Nur-Sultan city,100.0
-2016,Percent,separate restrooms which meet minimum standards,,Almaty city,100.0
-2017,Percent,separate restrooms which meet minimum standards,,Almaty city,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Almaty city,100.0
-2018,Percent,separate restrooms which meet minimum standards,,Shymkent city,100.0
+2019,Percent,access to the internet for education purposes,,,94.06596377399296
+2019,Percent,access to the internet for education purposes,,Akmola,100.0
+2019,Percent,access to the internet for education purposes,,Aktobe,97.12918660287079
+2019,Percent,access to the internet for education purposes,,Almaty,91.78255372945637
+2019,Percent,access to the internet for education purposes,,Atyrau,93.71980676328505
+2019,Percent,access to the internet for education purposes,,Batys Kazakhstan,86.92307692307692
+2019,Percent,access to the internet for education purposes,,Zhambyl,99.78308026030369
+2019,Percent,access to the internet for education purposes,,Karagandy,97.39292364990688
+2019,Percent,access to the internet for education purposes,,Kostanay,91.47286821705427
+2019,Percent,access to the internet for education purposes,,Kyzylorda,98.08917197452229
+2019,Percent,access to the internet for education purposes,,Mangistau,100.0
+2019,Percent,access to the internet for education purposes,,Pavlodar,99.45652173913044
+2019,Percent,access to the internet for education purposes,,Soltustik Kazakhstan,90.74074074074076
+2019,Percent,access to the internet for education purposes,,Turkistan,83.04347826086956
+2019,Percent,access to the internet for education purposes,,Shygys Kazakhstan,99.1163475699558
+2019,Percent,access to the internet for education purposes,,Nur-Sultan city,94.91525423728814
+2019,Percent,access to the internet for education purposes,,Almaty city,98.6206896551724
+2019,Percent,access to the internet for education purposes,,Shymkent city,91.90751445086704
+2019,Percent,access to the internet for education purposes,Urban,,96.68717463322292
+2019,Percent,access to the internet for education purposes,Urban,Akmola,100.0
+2019,Percent,access to the internet for education purposes,Urban,Aktobe,97.77777777777777
+2019,Percent,access to the internet for education purposes,Urban,Almaty,96.39639639639641
+2019,Percent,access to the internet for education purposes,Urban,Atyrau,96.05263157894736
+2019,Percent,access to the internet for education purposes,Urban,Batys Kazakhstan,93.24324324324324
+2019,Percent,access to the internet for education purposes,Urban,Zhambyl,99.05660377358492
+2019,Percent,access to the internet for education purposes,Urban,Karagandy,97.8813559322034
+2019,Percent,access to the internet for education purposes,Urban,Kostanay,97.979797979798
+2019,Percent,access to the internet for education purposes,Urban,Kyzylorda,93.67088607594937
+2019,Percent,access to the internet for education purposes,Urban,Mangistau,100.0
+2019,Percent,access to the internet for education purposes,Urban,Pavlodar,97.87234042553192
+2019,Percent,access to the internet for education purposes,Urban,Soltustik Kazakhstan,98.4375
+2019,Percent,access to the internet for education purposes,Urban,Turkistan,90.24390243902441
+2019,Percent,access to the internet for education purposes,Urban,Shygys Kazakhstan,98.34254143646407
+2019,Percent,access to the internet for education purposes,Urban,Nur-Sultan city,94.91525423728814
+2019,Percent,access to the internet for education purposes,Urban,Almaty city,98.6206896551724
+2019,Percent,access to the internet for education purposes,Urban,Shymkent city,91.90751445086704
+2019,Percent,access to the internet for education purposes,Rural,,93.01797540208136
+2019,Percent,access to the internet for education purposes,Rural,Akmola,100.0
+2019,Percent,access to the internet for education purposes,Rural,Aktobe,96.81978798586573
+2019,Percent,access to the internet for education purposes,Rural,Almaty,91.02941176470587
+2019,Percent,access to the internet for education purposes,Rural,Atyrau,92.36641221374045
+2019,Percent,access to the internet for education purposes,Rural,Batys Kazakhstan,85.44303797468355
+2019,Percent,access to the internet for education purposes,Rural,Zhambyl,100.0
+2019,Percent,access to the internet for education purposes,Rural,Karagandy,97.00996677740864
+2019,Percent,access to the internet for education purposes,Rural,Kostanay,89.92805755395683
+2019,Percent,access to the internet for education purposes,Rural,Kyzylorda,99.57446808510642
+2019,Percent,access to the internet for education purposes,Rural,Mangistau,100.0
+2019,Percent,access to the internet for education purposes,Rural,Pavlodar,100.0
+2019,Percent,access to the internet for education purposes,Rural,Soltustik Kazakhstan,89.57345971563981
+2019,Percent,access to the internet for education purposes,Rural,Turkistan,81.93224592220828
+2019,Percent,access to the internet for education purposes,Rural,Shygys Kazakhstan,99.3975903614458
+2019,Percent,sources of drinking water,,,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Akmola,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Aktobe,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Almaty,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Atyrau,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Batys Kazakhstan,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Zhambyl,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Karagandy,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Kostanay,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Kyzylorda,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Mangistau,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Pavlodar,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Soltustik Kazakhstan,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Turkistan,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Shygys Kazakhstan,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Nur-Sultan city,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Almaty city,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Shymkent city,100.0
+2019,Percent,наличие теплых и надворных туалетов,,,41.57880508245472
+2019,Percent,наличие теплых и надворных туалетов,,Akmola,75.13043478260869
+2019,Percent,наличие теплых и надворных туалетов,,Aktobe,39.71291866028708
+2019,Percent,наличие теплых и надворных туалетов,,Almaty,37.67383059418458
+2019,Percent,наличие теплых и надворных туалетов,,Atyrau,46.859903381642525
+2019,Percent,наличие теплых и надворных туалетов,,Batys Kazakhstan,30.76923076923077
+2019,Percent,наличие теплых и надворных туалетов,,Zhambyl,28.416485900216923
+2019,Percent,наличие теплых и надворных туалетов,,Karagandy,19.36685288640596
+2019,Percent,наличие теплых и надворных туалетов,,Kostanay,66.08527131782945
+2019,Percent,наличие теплых и надворных туалетов,,Kyzylorda,44.90445859872612
+2019,Percent,наличие теплых и надворных туалетов,,Mangistau,28.387096774193548
+2019,Percent,наличие теплых и надворных туалетов,,Pavlodar,72.01086956521739
+2019,Percent,наличие теплых и надворных туалетов,,Soltustik Kazakhstan,62.96296296296296
+2019,Percent,наличие теплых и надворных туалетов,,Turkistan,34.89130434782609
+2019,Percent,наличие теплых и надворных туалетов,,Shygys Kazakhstan,32.40058910162003
+2019,Percent,наличие теплых и надворных туалетов,,Nur-Sultan city,0.8474576271186439
+2019,Percent,наличие теплых и надворных туалетов,,Almaty city,3.103448275862069
+2019,Percent,наличие теплых и надворных туалетов,,Shymkent city,46.24277456647399
+2019,Percent,наличие только надворных туалетов,,,31.34630981346309
+2019,Percent,наличие только надворных туалетов,,Akmola,0.0
+2019,Percent,наличие только надворных туалетов,,Aktobe,33.01435406698565
+2019,Percent,наличие только надворных туалетов,,Almaty,52.59165613147914
+2019,Percent,наличие только надворных туалетов,,Atyrau,18.357487922705317
+2019,Percent,наличие только надворных туалетов,,Batys Kazakhstan,51.02564102564102
+2019,Percent,наличие только надворных туалетов,,Zhambyl,58.134490238611704
+2019,Percent,наличие только надворных туалетов,,Karagandy,22.90502793296089
+2019,Percent,наличие только надворных туалетов,,Kostanay,9.30232558139535
+2019,Percent,наличие только надворных туалетов,,Kyzylorda,40.764331210191095
+2019,Percent,наличие только надворных туалетов,,Mangistau,25.161290322580644
+2019,Percent,наличие только надворных туалетов,,Pavlodar,0.5434782608695652
+2019,Percent,наличие только надворных туалетов,,Soltustik Kazakhstan,13.580246913580249
+2019,Percent,наличие только надворных туалетов,,Turkistan,59.1304347826087
+2019,Percent,наличие только надворных туалетов,,Shygys Kazakhstan,40.500736377025035
+2019,Percent,наличие только надворных туалетов,,Nur-Sultan city,0.0
+2019,Percent,наличие только надворных туалетов,,Almaty city,1.0344827586206895
+2019,Percent,наличие только надворных туалетов,,Shymkent city,18.497109826589593
+2019,Percent,наличие только теплых туалетов,,,27.074885104082185
+2019,Percent,наличие только теплых туалетов,,Akmola,24.869565217391305
+2019,Percent,наличие только теплых туалетов,,Aktobe,27.27272727272727
+2019,Percent,наличие только теплых туалетов,,Almaty,9.734513274336283
+2019,Percent,наличие только теплых туалетов,,Atyrau,34.78260869565217
+2019,Percent,наличие только теплых туалетов,,Batys Kazakhstan,18.2051282051282
+2019,Percent,наличие только теплых туалетов,,Zhambyl,13.449023861171364
+2019,Percent,наличие только теплых туалетов,,Karagandy,57.72811918063314
+2019,Percent,наличие только теплых туалетов,,Kostanay,24.612403100775193
+2019,Percent,наличие только теплых туалетов,,Kyzylorda,14.331210191082802
+2019,Percent,наличие только теплых туалетов,,Mangistau,46.451612903225815
+2019,Percent,наличие только теплых туалетов,,Pavlodar,27.445652173913047
+2019,Percent,наличие только теплых туалетов,,Soltustik Kazakhstan,23.456790123456788
+2019,Percent,наличие только теплых туалетов,,Turkistan,5.978260869565218
+2019,Percent,наличие только теплых туалетов,,Shygys Kazakhstan,27.098674521354926
+2019,Percent,наличие только теплых туалетов,,Nur-Sultan city,99.15254237288136
+2019,Percent,наличие только теплых туалетов,,Almaty city,95.86206896551724
+2019,Percent,наличие только теплых туалетов,,Shymkent city,35.260115606936424

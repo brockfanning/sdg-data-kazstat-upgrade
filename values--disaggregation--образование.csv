@@ -1,21 +1,6 @@
 Value,kk,en,Disaggregation combinations using this value,Number of indicators
-высшее,жоғары,Higher education,27,10
-начальное и ниже,бастапқы және төменгі,"Elementary, K and Pre-K education",23,6
-начальное образование,бастапқы білім,Elementary education,1,1
-начальное,бастауыш,elementary,26,1
-начальное/не законченное среднее,бастауыш/толық емес орта,Elementary education/ High education (incomplete),2,2
-начальное/незаконченное среднее,начальное/незаконченное среднее,начальное/незаконченное среднее,1,1
-не указавшие,көрсетілмеген,not reported,23,6
-невозможно определить,анықтау мүмкін емес,undetermined,1,1
-незаконченное высшее,толық емес жоғары,Incomplete higher education,23,6
-неполное среднее,толық емес орта,High Education (Incomplete),23,6
-общее среднее образование,жалпы орта білім,High education (general),1,1
-общее среднее,жалпы орта,High Education (General),4,4
-основное среднее образование,негізгі орта білім,High education (base),1,1
-основное среднее,негізгі орта,basic secondary (middle-school),30,4
-пропуск/НЗ,жауап бермеген,don’t answered,5,1
-среднее образование,орта білім,Secondary Education (Middle School),1,1
-среднее общее,орташа жалпы,High Education (General),23,6
-среднее специальное,орта кәсіби,High Education (Community College type),23,6
-среднее,орта,secondary (high school),26,1
-техническое и профессиональное,техникалық және кәсіби,Community College and Vocational type of Education,4,4
+высшее,жоғары,Higher education,3,3
+начальное/незаконченное среднее,начальное/незаконченное среднее,начальное/незаконченное среднее,2,2
+общее среднее,жалпы орта,High Education (General),3,3
+основное среднее,негізгі орта,basic secondary (middle-school),3,3
+техническое и профессиональное,техникалық және кәсіби,Community College and Vocational type of Education,3,3

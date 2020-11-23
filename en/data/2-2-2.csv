@@ -1,84 +1,166 @@
-Year,Units,Rate of deviation,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Sex,Area,Regions,Age,Mother's education,Wealth index quintile,Nationality of the head of household,Value
-2010,Percent,Rate of deviation from the norm (moderate and strong),,,,,,,,,4.1
-2015,Percent,Rate of deviation from the norm (moderate and strong),,,,,,,,,3.1
-2010,Percent,Strong deviation from the norm,,,,,,,,,1.7
-2015,Percent,Strong deviation from the norm,,,,,,,,,1.1
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),всего,,,,,,,13.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),всего,,,,,,,9.3
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Male,,,,,,,14.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Male,,,,,,,8.7
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Female,,,,,,,11.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),Female,,,,,,,10.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,Population of urban areas,,,,,,13.7
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,Population of urban areas,,,,,,11.2
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,Population of rural areas,,,,,,13.0
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,Population of rural areas,,,,,,7.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Akmola,,,,,13.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Akmola,,,,,4.9
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Aktobe,,,,,33.5
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Aktobe,,,,,10.3
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Almaty,,,,,7.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Almaty,,,,,6.3
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Atyrau,,,,,16.2
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Atyrau,,,,,14.7
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Batys Kazakhstan,,,,,6.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Batys Kazakhstan,,,,,8.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Zhambyl,,,,,21.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Zhambyl,,,,,6.1
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Karagandy,,,,,6.1
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Karagandy,,,,,6.4
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Kostanay,,,,,6.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Kostanay,,,,,12.5
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Kyzylorda,,,,,6.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Kyzylorda,,,,,8.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Mangistau,,,,,15.7
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Mangistau,,,,,4.9
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Ontustik Kazakhstan,,,,,11.1
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Ontustik Kazakhstan,,,,,7.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Pavlodar,,,,,13.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Pavlodar,,,,,9.7
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Soltustik Kazakhstan,,,,,11.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Soltustik Kazakhstan,,,,,5.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Shygys Kazakhstan,,,,,20.2
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Shygys Kazakhstan,,,,,9.2
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Nur-Sultan city,,,,,22.1
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Nur-Sultan city,,,,,16.2
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Almaty city,,,,,15.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,Almaty city,,,,,21.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,0-5 месяцев,,,,9.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,0-5 месяцев,,,,5.8
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,6-11 месяцев,,,,19.0
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,6-11 месяцев,,,,12.5
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,12-17 месяцев,,,,15.1
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,18-23 месяцев,,,,10.1
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,12-23 месяцев,,,,17.4
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,24-35 месяцев,,,,12.9
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,24-35 месяцев,,,,10.5
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,36-47 months,,,,11.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,36-47 months,,,,8.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,48-59 months,,,,9.7
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,48-59 months,,,,6.5
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,No education/Elementary education,,,6.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,basic secondary (middle-school),,,4.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,High Education (General),,,12.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,High Education (General),,,8.9
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,Community College and Vocational type of Education,,,14.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,Community College and Vocational type of Education,,,9.1
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,Higher education,,,13.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,Higher education,,,10.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,extreme poverty,,12.8
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,extreme poverty,,7.7
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,second,,12.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,second,,7.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,third,,11.0
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,third,,8.9
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,fourth,,14.7
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,fourth,,11.6
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,wealthy,,16.3
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,wealthy,,12.5
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Kazakh,13.9
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Kazakh,10.2
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Russian,12.9
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Russian,9.0
-2010,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Other,10.6
-2015,Percent,,Отношение роста к возрасту-средний Z-показатель (SD-стандартное отклонение),,,,,,,Other,6.3
+Year,Units,Rate of deviation,Age,Area,Sex,Regions,Value
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,,4.05
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,Male,,4.4
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,Female,,3.7
+2010,Percent,Rate of deviation from the norm (moderate and strong),,Urban,,,4.9
+2010,Percent,Rate of deviation from the norm (moderate and strong),,Rural,,,3.3
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Akmola,2.6
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Aktobe,8.6
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty,3.7
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Atyrau,3.2
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Batys Kazakhstan,1.8
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Zhambyl,2.8
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Karagandy,0.4
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Kostanay,0.4
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Kyzylorda,1.3
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Mangistau,4.5
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Ontustik Kazakhstan,5.8
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Pavlodar,2.7
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Soltustik Kazakhstan,1.7
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Shygys Kazakhstan,8.1
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Nur-Sultan city,4.5
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty city,7.8
+2010,Percent,Rate of deviation from the norm (moderate and strong),0-5 месяцев,,,,13.4
+2010,Percent,Rate of deviation from the norm (moderate and strong),6-11 месяцев,,,,4.4
+2010,Percent,Rate of deviation from the norm (moderate and strong),12-23 месяцев,,,,2.1
+2010,Percent,Rate of deviation from the norm (moderate and strong),24-35 месяцев,,,,2.5
+2010,Percent,Rate of deviation from the norm (moderate and strong),36-47 months,,,,2.4
+2010,Percent,Rate of deviation from the norm (moderate and strong),48-59 months,,,,4.5
+2010,Percent,Strong deviation from the norm,,,,,1.6
+2010,Percent,Strong deviation from the norm,,,Male,,1.9
+2010,Percent,Strong deviation from the norm,,,Female,,1.4
+2010,Percent,Strong deviation from the norm,,Urban,,,2.1
+2010,Percent,Strong deviation from the norm,,Rural,,,1.3
+2010,Percent,Strong deviation from the norm,,,,Akmola,0.9
+2010,Percent,Strong deviation from the norm,,,,Aktobe,3.9
+2010,Percent,Strong deviation from the norm,,,,Almaty,2.0
+2010,Percent,Strong deviation from the norm,,,,Atyrau,1.9
+2010,Percent,Strong deviation from the norm,,,,Batys Kazakhstan,1.1
+2010,Percent,Strong deviation from the norm,,,,Zhambyl,1.4
+2010,Percent,Strong deviation from the norm,,,,Karagandy,0.4
+2010,Percent,Strong deviation from the norm,,,,Kostanay,0.0
+2010,Percent,Strong deviation from the norm,,,,Kyzylorda,0.2
+2010,Percent,Strong deviation from the norm,,,,Mangistau,1.7
+2010,Percent,Strong deviation from the norm,,,,Ontustik Kazakhstan,2.0
+2010,Percent,Strong deviation from the norm,,,,Pavlodar,1.5
+2010,Percent,Strong deviation from the norm,,,,Soltustik Kazakhstan,0.4
+2010,Percent,Strong deviation from the norm,,,,Shygys Kazakhstan,2.7
+2010,Percent,Strong deviation from the norm,,,,Nur-Sultan city,2.8
+2010,Percent,Strong deviation from the norm,,,,Almaty city,3.0
+2010,Percent,Strong deviation from the norm,0-5 месяцев,,,,7.4
+2010,Percent,Strong deviation from the norm,6-11 месяцев,,,,1.0
+2010,Percent,Strong deviation from the norm,12-23 месяцев,,,,0.6
+2010,Percent,Strong deviation from the norm,24-35 месяцев,,,,1.2
+2010,Percent,Strong deviation from the norm,36-47 months,,,,0.7
+2010,Percent,Strong deviation from the norm,48-59 months,,,,1.8
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,,13.3
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,Male,,14.8
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,Female,,11.8
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,Urban,,,13.7
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,Rural,,,13.0
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Akmola,13.6
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Aktobe,33.5
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Almaty,7.6
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Atyrau,16.2
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Batys Kazakhstan,6.6
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Zhambyl,21.3
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Karagandy,6.1
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Kostanay,6.6
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Kyzylorda,6.8
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Mangistau,15.7
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Ontustik Kazakhstan,11.1
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Pavlodar,13.6
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Soltustik Kazakhstan,11.6
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Shygys Kazakhstan,20.2
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Nur-Sultan city,22.1
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Almaty city,15.6
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,0-5 месяцев,,,,9.8
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,6-11 месяцев,,,,19.0
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,12-23 месяцев,,,,17.4
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,24-35 месяцев,,,,12.9
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,36-47 months,,,,11.6
+2010,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,48-59 months,,,,9.7
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,,3.1
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,Male,,2.9
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,Female,,3.3
+2015,Percent,Rate of deviation from the norm (moderate and strong),,Urban,,,3.1
+2015,Percent,Rate of deviation from the norm (moderate and strong),,Rural,,,3.1
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Akmola,1.4
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Aktobe,6.3
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty,4.4
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Atyrau,5.9
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Batys Kazakhstan,1.5
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Zhambyl,3.2
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Karagandy,1.6
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Kostanay,4.2
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Kyzylorda,2.1
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Mangistau,3.4
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Ontustik Kazakhstan,2.9
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Pavlodar,5.5
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Soltustik Kazakhstan,1.6
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Shygys Kazakhstan,1.9
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Nur-Sultan city,1.3
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty city,3.5
+2015,Percent,Rate of deviation from the norm (moderate and strong),0-5 месяцев,,,,13.7
+2015,Percent,Rate of deviation from the norm (moderate and strong),6-11 месяцев,,,,2.8
+2015,Percent,Rate of deviation from the norm (moderate and strong),12-17 месяцев,,,,1.7
+2015,Percent,Rate of deviation from the norm (moderate and strong),18-23 месяцев,,,,3.5
+2015,Percent,Rate of deviation from the norm (moderate and strong),24-35 месяцев,,,,1.8
+2015,Percent,Rate of deviation from the norm (moderate and strong),36-47 months,,,,1.7
+2015,Percent,Rate of deviation from the norm (moderate and strong),48-59 months,,,,1.9
+2015,Percent,Strong deviation from the norm,,,,,1.1
+2015,Percent,Strong deviation from the norm,,,Male,,1.1
+2015,Percent,Strong deviation from the norm,,,Female,,1.0
+2015,Percent,Strong deviation from the norm,,Urban,,,1.3
+2015,Percent,Strong deviation from the norm,,Rural,,,0.8
+2015,Percent,Strong deviation from the norm,,,,Akmola,0.2
+2015,Percent,Strong deviation from the norm,,,,Aktobe,2.5
+2015,Percent,Strong deviation from the norm,,,,Almaty,1.2
+2015,Percent,Strong deviation from the norm,,,,Atyrau,3.6
+2015,Percent,Strong deviation from the norm,,,,Batys Kazakhstan,1.2
+2015,Percent,Strong deviation from the norm,,,,Zhambyl,0.9
+2015,Percent,Strong deviation from the norm,,,,Karagandy,0.0
+2015,Percent,Strong deviation from the norm,,,,Kostanay,1.1
+2015,Percent,Strong deviation from the norm,,,,Kyzylorda,0.7
+2015,Percent,Strong deviation from the norm,,,,Mangistau,1.0
+2015,Percent,Strong deviation from the norm,,,,Ontustik Kazakhstan,0.9
+2015,Percent,Strong deviation from the norm,,,,Pavlodar,2.4
+2015,Percent,Strong deviation from the norm,,,,Soltustik Kazakhstan,0.0
+2015,Percent,Strong deviation from the norm,,,,Shygys Kazakhstan,0.9
+2015,Percent,Strong deviation from the norm,,,,Nur-Sultan city,0.3
+2015,Percent,Strong deviation from the norm,,,,Almaty city,1.4
+2015,Percent,Strong deviation from the norm,0-5 месяцев,,,,4.9
+2015,Percent,Strong deviation from the norm,6-11 месяцев,,,,1.0
+2015,Percent,Strong deviation from the norm,12-17 месяцев,,,,0.8
+2015,Percent,Strong deviation from the norm,18-23 месяцев,,,,0.9
+2015,Percent,Strong deviation from the norm,24-35 месяцев,,,,0.9
+2015,Percent,Strong deviation from the norm,36-47 months,,,,0.2
+2015,Percent,Strong deviation from the norm,48-59 months,,,,0.7
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,,9.3
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,Male,,8.7
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,Female,,10.0
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,Urban,,,11.2
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,Rural,,,7.6
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Akmola,4.9
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Aktobe,10.3
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Almaty,6.3
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Atyrau,14.7
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Batys Kazakhstan,8.0
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Zhambyl,6.1
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Karagandy,6.4
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Kostanay,12.5
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Kyzylorda,8.6
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Mangistau,4.9
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Ontustik Kazakhstan,7.6
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Pavlodar,9.7
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Soltustik Kazakhstan,5.6
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Shygys Kazakhstan,9.2
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Nur-Sultan city,16.2
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,,,,Almaty city,21.6
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,0-5 месяцев,,,,5.8
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,6-11 месяцев,,,,12.5
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,12-17 месяцев,,,,15.1
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,18-23 месяцев,,,,10.1
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,24-35 месяцев,,,,10.5
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,36-47 months,,,,8.0
+2015,Percent,Избыточный вес: Умеренная и сильная степень отклонения от нормы,48-59 months,,,,6.5

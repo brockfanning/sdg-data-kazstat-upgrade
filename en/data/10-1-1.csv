@@ -1,22 +1,25 @@
-Year,Units,growth rate of income and expenses,Value
-2014,Percent,Household expenditures per capita,106.7
-2015,Percent,Household expenditures per capita,103.7
-2016,Percent,Household expenditures per capita,108.7
-2017,Percent,Household expenditures per capita,110.7
-2018,Percent,Household expenditures per capita,110.5
-2014,Percent,Household income per capita,108.1
-2015,Percent,Household income per capita,105.5
-2016,Percent,Household income per capita,108.2
-2017,Percent,Household income per capita,107.0
-2018,Percent,Household income per capita,110.2
-2017,Percent,Household income per capita,111.1
-2014,Percent,Household spending per capita among the poorest 40 percent of the population,106.7
-2015,Percent,Household spending per capita among the poorest 40 percent of the population,103.1
-2016,Percent,Household spending per capita among the poorest 40 percent of the population,109.3
-2017,Percent,Household spending per capita among the poorest 40 percent of the population,109.2
-2018,Percent,Household spending per capita among the poorest 40 percent of the population,111.1
-2014,Percent,Per capita household income among the poorest 40 percent of the population,108.3
-2015,Percent,Per capita household income among the poorest 40 percent of the population,103.6
-2016,Percent,Per capita household income among the poorest 40 percent of the population,109.5
-2017,Percent,Per capita household income among the poorest 40 percent of the population,106.0
-2018,Percent,Per capita household income among the poorest 40 percent of the population,111.8
+Year,Units,Темп роста доходов и расходов,Value
+2014,в процентах к предыдущему году,Household expenditures per capita,106.7
+2014,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,108.1
+2014,в процентах к предыдущему году,Household spending per capita among the poorest 40 percent of the population,106.7
+2014,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,108.3
+2015,в процентах к предыдущему году,Household expenditures per capita,103.7
+2015,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,105.5
+2015,в процентах к предыдущему году,Household spending per capita among the poorest 40 percent of the population,103.1
+2015,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,103.6
+2016,в процентах к предыдущему году,Household expenditures per capita,108.7
+2016,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,108.2
+2016,в процентах к предыдущему году,Household spending per capita among the poorest 40 percent of the population,109.3
+2016,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,109.5
+2017,в процентах к предыдущему году,Household expenditures per capita,110.7
+2017,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,107.0
+2017,в процентах к предыдущему году,Household spending per capita among the poorest 40 percent of the population,109.2
+2017,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,106.0
+2018,в процентах к предыдущему году,Household expenditures per capita,110.5
+2018,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,110.2
+2018,в процентах к предыдущему году,Household spending per capita among the poorest 40 percent of the population,111.1
+2018,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,111.8
+2019,в процентах к предыдущему году,Household expenditures per capita,109.0
+2019,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,110.1
+2019,в процентах к предыдущему году,Household spending per capita among the poorest 40 percent of the population,108.9
+2019,в процентах к предыдущему году,Per capita household income among the poorest 40 percent of the population,109.7

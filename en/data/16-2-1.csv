@@ -1,4 +1,28 @@
-Year,Units,Area,Sex,Age,Regions,Value
+Year,Units,Area,Sex,age,Regions,Value
+2010,Percent,,,,,49.4
+2010,Percent,Urban,,,,48.9
+2010,Percent,Rural,,,,49.9
+2010,Percent,,Boys,,,53.7
+2010,Percent,,Girls,,,45.1
+2010,Percent,,,2-4,,47.6
+2010,Percent,,,5-9,,52.7
+2010,Percent,,,10-14,,47.4
+2010,Percent,,,,Akmola,59.7
+2010,Percent,,,,Aktobe,58.3
+2010,Percent,,,,Almaty,49.8
+2010,Percent,,,,Atyrau,44.7
+2010,Percent,,,,Batys Kazakhstan,54.7
+2010,Percent,,,,Zhambyl,56.1
+2010,Percent,,,,Karagandy,51.8
+2010,Percent,,,,Kostanay,72.6
+2010,Percent,,,,Kyzylorda,56.4
+2010,Percent,,,,Mangistau,65.3
+2010,Percent,,,,Ontustik Kazakhstan,38.9
+2010,Percent,,,,Pavlodar,54.3
+2010,Percent,,,,Soltustik Kazakhstan,59.9
+2010,Percent,,,,Shygys Kazakhstan,42.7
+2010,Percent,,,,Nur-Sultan city,38.6
+2010,Percent,,,,Almaty city,27.3
 2015,Percent,,,,,52.7
 2015,Percent,Urban,,,,51.7
 2015,Percent,Rural,,,,53.5

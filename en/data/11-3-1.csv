@@ -1,453 +1,495 @@
-Year,Units,Area,Regions,GeoCode,Value
-2010,square meters,,,,18.4
-2011,square meters,,,,18.7
-2012,square meters,,,,19.6
-2013,square meters,,,,20.9
-2014,square meters,,,,21.0
-2015,square meters,,,,21.0
-2016,square meters,,,,21.4
-2017,square meters,,,,21.6
-2018,square meters,,,,21.8
-2010,square meters,Urban,,,20.2
-2011,square meters,Urban,,,20.6
-2012,square meters,Urban,,,22.1
-2013,square meters,Urban,,,23.7
-2014,square meters,Urban,,,23.8
-2015,square meters,Urban,,,23.5
-2016,square meters,Urban,,,24.0
-2017,square meters,Urban,,,24.1
-2018,square meters,Urban,,,24.4
-2010,square meters,Rural,,,16.5
-2011,square meters,Rural,,,16.6
-2012,square meters,Rural,,,16.8
-2013,square meters,Rural,,,17.4
-2014,square meters,Rural,,,17.6
-2015,square meters,Rural,,,17.8
-2016,square meters,Rural,,,18.0
-2017,square meters,Rural,,,18.2
-2018,square meters,Rural,,,18.4
-2010,square meters,,Akmola,KZ03,19.5
-2011,square meters,,Akmola,KZ03,19.6
-2012,square meters,,Akmola,KZ03,20.2
-2013,square meters,,Akmola,KZ03,21.4
-2014,square meters,,Akmola,KZ03,21.6
-2015,square meters,,Akmola,KZ03,21.6
-2016,square meters,,Akmola,KZ03,21.8
-2017,square meters,,Akmola,KZ03,22.0
-2018,square meters,,Akmola,KZ03,22.2
-2010,square meters,,Aktobe,KZ04,17.3
-2011,square meters,,Aktobe,KZ04,18.2
-2012,square meters,,Aktobe,KZ04,18.7
-2013,square meters,,Aktobe,KZ04,20.1
-2014,square meters,,Aktobe,KZ04,20.8
-2015,square meters,,Aktobe,KZ04,21.3
-2016,square meters,,Aktobe,KZ04,21.7
-2017,square meters,,Aktobe,KZ04,22.0
-2018,square meters,,Aktobe,KZ04,22.4
-2010,square meters,,Almaty,KZ01,15.7
-2011,square meters,,Almaty,KZ01,15.9
-2012,square meters,,Almaty,KZ01,16.1
-2013,square meters,,Almaty,KZ01,17.1
-2014,square meters,,Almaty,KZ01,17.6
-2015,square meters,,Almaty,KZ01,18.1
-2016,square meters,,Almaty,KZ01,18.5
-2017,square meters,,Almaty,KZ01,18.9
-2018,square meters,,Almaty,KZ01,19.0
-2010,square meters,,Atyrau,KZ06,16.5
-2011,square meters,,Atyrau,KZ06,16.2
-2012,square meters,,Atyrau,KZ06,19.6
-2013,square meters,,Atyrau,KZ06,19.9
-2014,square meters,,Atyrau,KZ06,20.0
-2015,square meters,,Atyrau,KZ06,20.1
-2016,square meters,,Atyrau,KZ06,20.6
-2017,square meters,,Atyrau,KZ06,21.4
-2018,square meters,,Atyrau,KZ06,21.8
-2010,square meters,,Batys Kazakhstan,KZ07,17.0
-2011,square meters,,Batys Kazakhstan,KZ07,17.4
-2012,square meters,,Batys Kazakhstan,KZ07,18.4
-2013,square meters,,Batys Kazakhstan,KZ07,19.1
-2014,square meters,,Batys Kazakhstan,KZ07,19.5
-2015,square meters,,Batys Kazakhstan,KZ07,19.8
-2016,square meters,,Batys Kazakhstan,KZ07,20.2
-2017,square meters,,Batys Kazakhstan,KZ07,20.6
-2018,square meters,,Batys Kazakhstan,KZ07,20.8
-2010,square meters,,Zhambyl,KZ17,15.7
-2011,square meters,,Zhambyl,KZ17,16.0
-2012,square meters,,Zhambyl,KZ17,15.7
-2013,square meters,,Zhambyl,KZ17,15.6
-2014,square meters,,Zhambyl,KZ17,15.9
-2015,square meters,,Zhambyl,KZ17,16.1
-2016,square meters,,Zhambyl,KZ17,16.3
-2017,square meters,,Zhambyl,KZ17,16.6
-2018,square meters,,Zhambyl,KZ17,16.8
-2010,square meters,,Karagandy,KZ12,21.3
-2011,square meters,,Karagandy,KZ12,21.3
-2012,square meters,,Karagandy,KZ12,21.9
-2013,square meters,,Karagandy,KZ12,22.4
-2014,square meters,,Karagandy,KZ12,22.6
-2015,square meters,,Karagandy,KZ12,22.7
-2016,square meters,,Karagandy,KZ12,22.9
-2017,square meters,,Karagandy,KZ12,23.0
-2018,square meters,,Karagandy,KZ12,23.1
-2010,square meters,,Kostanay,KZ13,19.8
-2011,square meters,,Kostanay,KZ13,20.3
-2012,square meters,,Kostanay,KZ13,20.9
-2013,square meters,,Kostanay,KZ13,21.5
-2014,square meters,,Kostanay,KZ13,21.9
-2015,square meters,,Kostanay,KZ13,21.8
-2016,square meters,,Kostanay,KZ13,21.8
-2017,square meters,,Kostanay,KZ13,21.7
-2018,square meters,,Kostanay,KZ13,21.7
-2010,square meters,,Kyzylorda,KZ14,17.2
-2011,square meters,,Kyzylorda,KZ14,17.9
-2012,square meters,,Kyzylorda,KZ14,19.1
-2013,square meters,,Kyzylorda,KZ14,19.5
-2014,square meters,,Kyzylorda,KZ14,19.1
-2015,square meters,,Kyzylorda,KZ14,19.3
-2016,square meters,,Kyzylorda,KZ14,19.6
-2017,square meters,,Kyzylorda,KZ14,19.9
-2018,square meters,,Kyzylorda,KZ14,20.2
-2010,square meters,,Mangistau,KZ09,16.0
-2011,square meters,,Mangistau,KZ09,16.5
-2012,square meters,,Mangistau,KZ09,17.5
-2013,square meters,,Mangistau,KZ09,20.1
-2014,square meters,,Mangistau,KZ09,20.9
-2015,square meters,,Mangistau,KZ09,21.8
-2016,square meters,,Mangistau,KZ09,22.4
-2017,square meters,,Mangistau,KZ09,23.3
-2018,square meters,,Mangistau,KZ09,23.9
-2010,square meters,,Ontustik Kazakhstan,KZ10,17.7
-2011,square meters,,Ontustik Kazakhstan,KZ10,17.6
-2012,square meters,,Ontustik Kazakhstan,KZ10,19.1
-2013,square meters,,Ontustik Kazakhstan,KZ10,20.7
-2014,square meters,,Ontustik Kazakhstan,KZ10,20.3
-2015,square meters,,Ontustik Kazakhstan,KZ10,18.9
-2016,square meters,,Ontustik Kazakhstan,KZ10,19.4
-2017,square meters,,Ontustik Kazakhstan,KZ10,19.7
-2010,square meters,,Pavlodar,KZ11,20.9
-2011,square meters,,Pavlodar,KZ11,21.4
-2012,square meters,,Pavlodar,KZ11,21.6
-2013,square meters,,Pavlodar,KZ11,22.6
-2014,square meters,,Pavlodar,KZ11,22.8
-2015,square meters,,Pavlodar,KZ11,21.9
-2016,square meters,,Pavlodar,KZ11,21.9
-2017,square meters,,Pavlodar,KZ11,22.0
-2018,square meters,,Pavlodar,KZ11,22.1
-2010,square meters,,Soltustik Kazakhstan,KZ16,19.8
-2011,square meters,,Soltustik Kazakhstan,KZ16,19.9
-2012,square meters,,Soltustik Kazakhstan,KZ16,20.2
-2013,square meters,,Soltustik Kazakhstan,KZ16,20.7
-2014,square meters,,Soltustik Kazakhstan,KZ16,20.9
-2015,square meters,,Soltustik Kazakhstan,KZ16,20.8
-2016,square meters,,Soltustik Kazakhstan,KZ16,21.0
-2017,square meters,,Soltustik Kazakhstan,KZ16,21.0
-2018,square meters,,Soltustik Kazakhstan,KZ16,21.2
-2018,square meters,,Turkistan,KZ10,18.0
-2010,square meters,,Shygys Kazakhstan,KZ15,19.0
-2011,square meters,,Shygys Kazakhstan,KZ15,19.0
-2012,square meters,,Shygys Kazakhstan,KZ15,19.0
-2013,square meters,,Shygys Kazakhstan,KZ15,19.4
-2014,square meters,,Shygys Kazakhstan,KZ15,19.5
-2015,square meters,,Shygys Kazakhstan,KZ15,19.7
-2016,square meters,,Shygys Kazakhstan,KZ15,20.0
-2017,square meters,,Shygys Kazakhstan,KZ15,20.2
-2018,square meters,,Shygys Kazakhstan,KZ15,20.3
-2010,square meters,,Nur-Sultan city,KZ05,22.5
-2011,square meters,,Nur-Sultan city,KZ05,24.4
-2012,square meters,,Nur-Sultan city,KZ05,25.4
-2013,square meters,,Nur-Sultan city,KZ05,27.7
-2014,square meters,,Nur-Sultan city,KZ05,28.5
-2015,square meters,,Nur-Sultan city,KZ05,29.0
-2016,square meters,,Nur-Sultan city,KZ05,29.6
-2017,square meters,,Nur-Sultan city,KZ05,29.8
-2018,square meters,,Nur-Sultan city,KZ05,30.3
-2010,square meters,,Almaty city,KZ02,20.3
-2011,square meters,,Almaty city,KZ02,20.7
-2012,square meters,,Almaty city,KZ02,24.4
-2013,square meters,,Almaty city,KZ02,27.6
-2014,square meters,,Almaty city,KZ02,26.7
-2015,square meters,,Almaty city,KZ02,27.0
-2016,square meters,,Almaty city,KZ02,27.6
-2017,square meters,,Almaty city,KZ02,27.1
-2018,square meters,,Almaty city,KZ02,27.3
-2018,square meters,,Shymkent city,KZ18,24.7
-2010,square meters,Urban,Akmola,,21.1
-2011,square meters,Urban,Akmola,,21.1
-2012,square meters,Urban,Akmola,,22.0
-2013,square meters,Urban,Akmola,,22.4
-2014,square meters,Urban,Akmola,,22.7
-2015,square meters,Urban,Akmola,,22.9
-2016,square meters,Urban,Akmola,,23.5
-2017,square meters,Urban,Akmola,,23.8
-2018,square meters,Urban,Akmola,,24.0
-2010,square meters,Urban,Aktobe,,18.9
-2011,square meters,Urban,Aktobe,,20.2
-2012,square meters,Urban,Aktobe,,21.2
-2013,square meters,Urban,Aktobe,,22.9
-2014,square meters,Urban,Aktobe,,23.7
-2015,square meters,Urban,Aktobe,,24.3
-2016,square meters,Urban,Aktobe,,24.6
-2017,square meters,Urban,Aktobe,,24.6
-2018,square meters,Urban,Aktobe,,25.1
-2010,square meters,Urban,Almaty,,18.0
-2011,square meters,Urban,Almaty,,18.5
-2012,square meters,Urban,Almaty,,18.8
-2013,square meters,Urban,Almaty,,19.8
-2014,square meters,Urban,Almaty,,20.6
-2015,square meters,Urban,Almaty,,21.1
-2016,square meters,Urban,Almaty,,21.5
-2017,square meters,Urban,Almaty,,21.8
-2018,square meters,Urban,Almaty,,21.9
-2010,square meters,Urban,Atyrau,,17.8
-2011,square meters,Urban,Atyrau,,16.8
-2012,square meters,Urban,Atyrau,,22.1
-2013,square meters,Urban,Atyrau,,22.3
-2014,square meters,Urban,Atyrau,,22.4
-2015,square meters,Urban,Atyrau,,22.3
-2016,square meters,Urban,Atyrau,,23.2
-2017,square meters,Urban,Atyrau,,23.7
-2018,square meters,Urban,Atyrau,,24.0
-2010,square meters,Urban,Batys Kazakhstan,,19.7
-2011,square meters,Urban,Batys Kazakhstan,,20.1
-2012,square meters,Urban,Batys Kazakhstan,,21.9
-2013,square meters,Urban,Batys Kazakhstan,,23.1
-2014,square meters,Urban,Batys Kazakhstan,,23.6
-2015,square meters,Urban,Batys Kazakhstan,,23.7
-2016,square meters,Urban,Batys Kazakhstan,,24.2
-2017,square meters,Urban,Batys Kazakhstan,,24.8
-2018,square meters,Urban,Batys Kazakhstan,,25.1
-2010,square meters,Urban,Zhambyl,,17.5
-2011,square meters,Urban,Zhambyl,,18.3
-2012,square meters,Urban,Zhambyl,,18.0
-2013,square meters,Urban,Zhambyl,,18.5
-2014,square meters,Urban,Zhambyl,,18.6
-2015,square meters,Urban,Zhambyl,,18.8
-2016,square meters,Urban,Zhambyl,,19.0
-2017,square meters,Urban,Zhambyl,,19.4
-2018,square meters,Urban,Zhambyl,,19.6
-2010,square meters,Urban,Karagandy,,22.1
-2011,square meters,Urban,Karagandy,,22.0
-2012,square meters,Urban,Karagandy,,22.6
-2013,square meters,Urban,Karagandy,,23.2
-2014,square meters,Urban,Karagandy,,23.4
-2015,square meters,Urban,Karagandy,,23.5
-2016,square meters,Urban,Karagandy,,23.6
-2017,square meters,Urban,Karagandy,,23.8
-2018,square meters,Urban,Karagandy,,23.8
-2010,square meters,Urban,Kostanay,,20.4
-2011,square meters,Urban,Kostanay,,21.1
-2012,square meters,Urban,Kostanay,,21.7
-2013,square meters,Urban,Kostanay,,22.3
-2014,square meters,Urban,Kostanay,,22.7
-2015,square meters,Urban,Kostanay,,22.4
-2016,square meters,Urban,Kostanay,,22.3
-2017,square meters,Urban,Kostanay,,22.3
-2018,square meters,Urban,Kostanay,,22.4
-2010,square meters,Urban,Kyzylorda,,18.0
-2011,square meters,Urban,Kyzylorda,,19.3
-2012,square meters,Urban,Kyzylorda,,21.0
-2013,square meters,Urban,Kyzylorda,,21.7
-2014,square meters,Urban,Kyzylorda,,20.4
-2015,square meters,Urban,Kyzylorda,,20.8
-2016,square meters,Urban,Kyzylorda,,21.1
-2017,square meters,Urban,Kyzylorda,,21.7
-2018,square meters,Urban,Kyzylorda,,22.0
-2010,square meters,Urban,Mangistau,,17.1
-2011,square meters,Urban,Mangistau,,17.2
-2012,square meters,Urban,Mangistau,,18.0
-2013,square meters,Urban,Mangistau,,19.9
-2014,square meters,Urban,Mangistau,,20.4
-2015,square meters,Urban,Mangistau,,21.4
-2016,square meters,Urban,Mangistau,,22.1
-2017,square meters,Urban,Mangistau,,23.2
-2018,square meters,Urban,Mangistau,,23.9
-2010,square meters,Urban,Ontustik Kazakhstan,,19.6
-2011,square meters,Urban,Ontustik Kazakhstan,,19.7
-2012,square meters,Urban,Ontustik Kazakhstan,,22.6
-2013,square meters,Urban,Ontustik Kazakhstan,,25.1
-2014,square meters,Urban,Ontustik Kazakhstan,,25.5
-2015,square meters,Urban,Ontustik Kazakhstan,,21.7
-2016,square meters,Urban,Ontustik Kazakhstan,,22.7
-2017,square meters,Urban,Ontustik Kazakhstan,,23.2
-2010,square meters,Urban,Pavlodar,,22.0
-2011,square meters,Urban,Pavlodar,,22.4
-2012,square meters,Urban,Pavlodar,,22.5
-2013,square meters,Urban,Pavlodar,,23.5
-2014,square meters,Urban,Pavlodar,,23.7
-2015,square meters,Urban,Pavlodar,,22.6
-2016,square meters,Urban,Pavlodar,,22.4
-2017,square meters,Urban,Pavlodar,,22.4
-2018,square meters,Urban,Pavlodar,,22.5
-2010,square meters,Urban,Soltustik Kazakhstan,,20.9
-2011,square meters,Urban,Soltustik Kazakhstan,,21.2
-2012,square meters,Urban,Soltustik Kazakhstan,,21.7
-2013,square meters,Urban,Soltustik Kazakhstan,,22.3
-2014,square meters,Urban,Soltustik Kazakhstan,,22.3
-2015,square meters,Urban,Soltustik Kazakhstan,,21.9
-2016,square meters,Urban,Soltustik Kazakhstan,,22.0
-2017,square meters,Urban,Soltustik Kazakhstan,,21.7
-2018,square meters,Urban,Soltustik Kazakhstan,,21.7
-2018,square meters,Urban,Turkistan,,21.5
-2010,square meters,Urban,Shygys Kazakhstan,,20.7
-2011,square meters,Urban,Shygys Kazakhstan,,20.7
-2012,square meters,Urban,Shygys Kazakhstan,,20.9
-2013,square meters,Urban,Shygys Kazakhstan,,21.4
-2014,square meters,Urban,Shygys Kazakhstan,,21.5
-2015,square meters,Urban,Shygys Kazakhstan,,21.5
-2016,square meters,Urban,Shygys Kazakhstan,,22.0
-2017,square meters,Urban,Shygys Kazakhstan,,22.2
-2018,square meters,Urban,Shygys Kazakhstan,,22.3
-2010,square meters,Urban,Nur-Sultan city,,22.5
-2011,square meters,Urban,Nur-Sultan city,,24.4
-2012,square meters,Urban,Nur-Sultan city,,25.4
-2013,square meters,Urban,Nur-Sultan city,,27.7
-2014,square meters,Urban,Nur-Sultan city,,28.5
-2015,square meters,Urban,Nur-Sultan city,,29.0
-2016,square meters,Urban,Nur-Sultan city,,29.6
-2017,square meters,Urban,Nur-Sultan city,,29.8
-2018,square meters,Urban,Nur-Sultan city,,30.3
-2010,square meters,Urban,Almaty city,,20.3
-2011,square meters,Urban,Almaty city,,20.7
-2012,square meters,Urban,Almaty city,,24.4
-2013,square meters,Urban,Almaty city,,27.6
-2014,square meters,Urban,Almaty city,,26.7
-2015,square meters,Urban,Almaty city,,27.0
-2016,square meters,Urban,Almaty city,,27.6
-2017,square meters,Urban,Almaty city,,27.1
-2018,square meters,Urban,Almaty city,,27.3
-2018,square meters,Urban,Shymkent city,,24.7
-2010,square meters,Rural,Akmola,,18.3
-2011,square meters,Rural,Akmola,,18.5
-2012,square meters,Rural,Akmola,,18.8
-2013,square meters,Rural,Akmola,,20.6
-2014,square meters,Rural,Akmola,,20.7
-2015,square meters,Rural,Akmola,,20.5
-2016,square meters,Rural,Akmola,,20.5
-2017,square meters,Rural,Akmola,,20.6
-2018,square meters,Rural,Akmola,,20.8
-2010,square meters,Rural,Aktobe,,14.8
-2011,square meters,Rural,Aktobe,,15.3
-2012,square meters,Rural,Aktobe,,15.2
-2013,square meters,Rural,Aktobe,,16.2
-2014,square meters,Rural,Aktobe,,16.6
-2015,square meters,Rural,Aktobe,,17.1
-2016,square meters,Rural,Aktobe,,17.5
-2017,square meters,Rural,Aktobe,,16.5
-2018,square meters,Rural,Aktobe,,16.7
-2010,square meters,Rural,Almaty,,15.0
-2011,square meters,Rural,Almaty,,15.1
-2012,square meters,Rural,Almaty,,15.3
-2013,square meters,Rural,Almaty,,16.2
-2014,square meters,Rural,Almaty,,16.7
-2015,square meters,Rural,Almaty,,17.2
-2016,square meters,Rural,Almaty,,17.6
-2017,square meters,Rural,Almaty,,18.0
-2018,square meters,Rural,Almaty,,18.1
-2010,square meters,Rural,Atyrau,,15.1
-2011,square meters,Rural,Atyrau,,15.5
-2012,square meters,Rural,Atyrau,,16.7
-2013,square meters,Rural,Atyrau,,17.3
-2014,square meters,Rural,Atyrau,,17.5
-2015,square meters,Rural,Atyrau,,17.8
-2016,square meters,Rural,Atyrau,,18.0
-2017,square meters,Rural,Atyrau,,19.0
-2018,square meters,Rural,Atyrau,,19.4
-2010,square meters,Rural,Batys Kazakhstan,,14.7
-2011,square meters,Rural,Batys Kazakhstan,,15.0
-2012,square meters,Rural,Batys Kazakhstan,,15.4
-2013,square meters,Rural,Batys Kazakhstan,,15.5
-2014,square meters,Rural,Batys Kazakhstan,,15.7
-2015,square meters,Rural,Batys Kazakhstan,,16.1
-2016,square meters,Rural,Batys Kazakhstan,,16.4
-2017,square meters,Rural,Batys Kazakhstan,,16.6
-2018,square meters,Rural,Batys Kazakhstan,,16.8
-2010,square meters,Rural,Zhambyl,,14.4
-2011,square meters,Rural,Zhambyl,,14.3
-2012,square meters,Rural,Zhambyl,,14.0
-2013,square meters,Rural,Zhambyl,,13.6
-2014,square meters,Rural,Zhambyl,,14.0
-2015,square meters,Rural,Zhambyl,,14.3
-2016,square meters,Rural,Zhambyl,,14.5
-2017,square meters,Rural,Zhambyl,,14.7
-2018,square meters,Rural,Zhambyl,,14.9
-2010,square meters,Rural,Karagandy,,18.8
-2011,square meters,Rural,Karagandy,,19.2
-2012,square meters,Rural,Karagandy,,19.5
-2013,square meters,Rural,Karagandy,,19.7
-2014,square meters,Rural,Karagandy,,20.1
-2015,square meters,Rural,Karagandy,,20.0
-2016,square meters,Rural,Karagandy,,20.2
-2017,square meters,Rural,Karagandy,,20.4
-2018,square meters,Rural,Karagandy,,20.5
-2010,square meters,Rural,Kostanay,,19.2
-2011,square meters,Rural,Kostanay,,19.5
-2012,square meters,Rural,Kostanay,,20.1
-2013,square meters,Rural,Kostanay,,20.6
-2014,square meters,Rural,Kostanay,,21.0
-2015,square meters,Rural,Kostanay,,21.1
-2016,square meters,Rural,Kostanay,,21.2
-2017,square meters,Rural,Kostanay,,20.9
-2018,square meters,Rural,Kostanay,,20.8
-2010,square meters,Rural,Kyzylorda,,16.7
-2011,square meters,Rural,Kyzylorda,,17.0
-2012,square meters,Rural,Kyzylorda,,18.0
-2013,square meters,Rural,Kyzylorda,,18.0
-2014,square meters,Rural,Kyzylorda,,18.0
-2015,square meters,Rural,Kyzylorda,,18.1
-2016,square meters,Rural,Kyzylorda,,18.4
-2017,square meters,Rural,Kyzylorda,,18.4
-2018,square meters,Rural,Kyzylorda,,18.7
-2010,square meters,Rural,Mangistau,,14.0
-2011,square meters,Rural,Mangistau,,15.6
-2012,square meters,Rural,Mangistau,,16.9
-2013,square meters,Rural,Mangistau,,20.3
-2014,square meters,Rural,Mangistau,,21.3
-2015,square meters,Rural,Mangistau,,22.2
-2016,square meters,Rural,Mangistau,,22.7
-2017,square meters,Rural,Mangistau,,23.3
-2018,square meters,Rural,Mangistau,,23.9
-2010,square meters,Rural,Ontustik Kazakhstan,,16.6
-2011,square meters,Rural,Ontustik Kazakhstan,,16.3
-2012,square meters,Rural,Ontustik Kazakhstan,,16.7
-2013,square meters,Rural,Ontustik Kazakhstan,,17.1
-2014,square meters,Rural,Ontustik Kazakhstan,,16.9
-2015,square meters,Rural,Ontustik Kazakhstan,,16.7
-2016,square meters,Rural,Ontustik Kazakhstan,,16.7
-2017,square meters,Rural,Ontustik Kazakhstan,,17.0
-2010,square meters,Rural,Pavlodar,,18.9
-2011,square meters,Rural,Pavlodar,,19.6
-2012,square meters,Rural,Pavlodar,,19.7
-2013,square meters,Rural,Pavlodar,,20.7
-2014,square meters,Rural,Pavlodar,,20.9
-2015,square meters,Rural,Pavlodar,,20.4
-2016,square meters,Rural,Pavlodar,,20.7
-2017,square meters,Rural,Pavlodar,,20.9
-2018,square meters,Rural,Pavlodar,,21.0
-2010,square meters,Rural,Soltustik Kazakhstan,,19.1
-2011,square meters,Rural,Soltustik Kazakhstan,,19.1
-2012,square meters,Rural,Soltustik Kazakhstan,,19.1
-2013,square meters,Rural,Soltustik Kazakhstan,,19.6
-2014,square meters,Rural,Soltustik Kazakhstan,,19.9
-2015,square meters,Rural,Soltustik Kazakhstan,,20.0
-2016,square meters,Rural,Soltustik Kazakhstan,,20.2
-2017,square meters,Rural,Soltustik Kazakhstan,,20.5
-2018,square meters,Rural,Soltustik Kazakhstan,,20.7
-2018,square meters,Rural,Turkistan,,17.1
-2010,square meters,Rural,Shygys Kazakhstan,,16.9
-2011,square meters,Rural,Shygys Kazakhstan,,16.7
-2012,square meters,Rural,Shygys Kazakhstan,,16.5
-2013,square meters,Rural,Shygys Kazakhstan,,16.9
-2014,square meters,Rural,Shygys Kazakhstan,,17.0
-2015,square meters,Rural,Shygys Kazakhstan,,17.0
-2016,square meters,Rural,Shygys Kazakhstan,,17.1
-2017,square meters,Rural,Shygys Kazakhstan,,17.3
-2018,square meters,Rural,Shygys Kazakhstan,,17.4
-2010,Percent,,,,48.0
-2011,Percent,,,,54.0
-2012,Percent,,,,65.0
-2013,Percent,,,,79.0
-2014,Percent,,,,91.0
-2015,Percent,,,,98.0
-2016,Percent,,,,100.0
-2017,Percent,,,,100.0
-2018,Percent,,,,100.0
+Year,Units,Area,Regions,Value
+2010,square meters,,,18.4
+2010,square meters,Urban,,20.2
+2010,square meters,Rural,,16.5
+2010,square meters,,Akmola,19.5
+2010,square meters,,Aktobe,17.3
+2010,square meters,,Almaty,15.7
+2010,square meters,,Atyrau,16.5
+2010,square meters,,Batys Kazakhstan,17.0
+2010,square meters,,Zhambyl,15.7
+2010,square meters,,Karagandy,21.3
+2010,square meters,,Kostanay,19.8
+2010,square meters,,Kyzylorda,17.2
+2010,square meters,,Mangistau,16.0
+2010,square meters,,Ontustik Kazakhstan,17.7
+2010,square meters,,Pavlodar,20.9
+2010,square meters,,Soltustik Kazakhstan,19.8
+2010,square meters,,Shygys Kazakhstan,19.0
+2010,square meters,,Nur-Sultan city,22.5
+2010,square meters,,Almaty city,20.3
+2010,square meters,Urban,Akmola,21.1
+2010,square meters,Urban,Aktobe,18.9
+2010,square meters,Urban,Almaty,18.0
+2010,square meters,Urban,Atyrau,17.8
+2010,square meters,Urban,Batys Kazakhstan,19.7
+2010,square meters,Urban,Zhambyl,17.5
+2010,square meters,Urban,Karagandy,22.1
+2010,square meters,Urban,Kostanay,20.4
+2010,square meters,Urban,Kyzylorda,18.0
+2010,square meters,Urban,Mangistau,17.1
+2010,square meters,Urban,Ontustik Kazakhstan,19.6
+2010,square meters,Urban,Pavlodar,22.0
+2010,square meters,Urban,Soltustik Kazakhstan,20.9
+2010,square meters,Urban,Shygys Kazakhstan,20.7
+2010,square meters,Urban,Nur-Sultan city,22.5
+2010,square meters,Urban,Almaty city,20.3
+2010,square meters,Rural,Akmola,18.3
+2010,square meters,Rural,Aktobe,14.8
+2010,square meters,Rural,Almaty,15.0
+2010,square meters,Rural,Atyrau,15.1
+2010,square meters,Rural,Batys Kazakhstan,14.7
+2010,square meters,Rural,Zhambyl,14.4
+2010,square meters,Rural,Karagandy,18.8
+2010,square meters,Rural,Kostanay,19.2
+2010,square meters,Rural,Kyzylorda,16.7
+2010,square meters,Rural,Mangistau,14.0
+2010,square meters,Rural,Ontustik Kazakhstan,16.6
+2010,square meters,Rural,Pavlodar,18.9
+2010,square meters,Rural,Soltustik Kazakhstan,19.1
+2010,square meters,Rural,Shygys Kazakhstan,16.9
+2011,square meters,,,18.7
+2011,square meters,Urban,,20.6
+2011,square meters,Rural,,16.6
+2011,square meters,,Akmola,19.6
+2011,square meters,,Aktobe,18.2
+2011,square meters,,Almaty,15.9
+2011,square meters,,Atyrau,16.2
+2011,square meters,,Batys Kazakhstan,17.4
+2011,square meters,,Zhambyl,16.0
+2011,square meters,,Karagandy,21.3
+2011,square meters,,Kostanay,20.3
+2011,square meters,,Kyzylorda,17.9
+2011,square meters,,Mangistau,16.5
+2011,square meters,,Ontustik Kazakhstan,17.6
+2011,square meters,,Pavlodar,21.4
+2011,square meters,,Soltustik Kazakhstan,19.9
+2011,square meters,,Shygys Kazakhstan,19.0
+2011,square meters,,Nur-Sultan city,24.4
+2011,square meters,,Almaty city,20.7
+2011,square meters,Urban,Akmola,21.1
+2011,square meters,Urban,Aktobe,20.2
+2011,square meters,Urban,Almaty,18.5
+2011,square meters,Urban,Atyrau,16.8
+2011,square meters,Urban,Batys Kazakhstan,20.1
+2011,square meters,Urban,Zhambyl,18.3
+2011,square meters,Urban,Karagandy,22.0
+2011,square meters,Urban,Kostanay,21.1
+2011,square meters,Urban,Kyzylorda,19.3
+2011,square meters,Urban,Mangistau,17.2
+2011,square meters,Urban,Ontustik Kazakhstan,19.7
+2011,square meters,Urban,Pavlodar,22.4
+2011,square meters,Urban,Soltustik Kazakhstan,21.2
+2011,square meters,Urban,Shygys Kazakhstan,20.7
+2011,square meters,Urban,Nur-Sultan city,24.4
+2011,square meters,Urban,Almaty city,20.7
+2011,square meters,Rural,Akmola,18.5
+2011,square meters,Rural,Aktobe,15.3
+2011,square meters,Rural,Almaty,15.1
+2011,square meters,Rural,Atyrau,15.5
+2011,square meters,Rural,Batys Kazakhstan,15.0
+2011,square meters,Rural,Zhambyl,14.3
+2011,square meters,Rural,Karagandy,19.2
+2011,square meters,Rural,Kostanay,19.5
+2011,square meters,Rural,Kyzylorda,17.0
+2011,square meters,Rural,Mangistau,15.6
+2011,square meters,Rural,Ontustik Kazakhstan,16.3
+2011,square meters,Rural,Pavlodar,19.6
+2011,square meters,Rural,Soltustik Kazakhstan,19.1
+2011,square meters,Rural,Shygys Kazakhstan,16.7
+2012,square meters,,,19.6
+2012,square meters,Urban,,22.1
+2012,square meters,Rural,,16.8
+2012,square meters,,Akmola,20.2
+2012,square meters,,Aktobe,18.7
+2012,square meters,,Almaty,16.1
+2012,square meters,,Atyrau,19.5
+2012,square meters,,Batys Kazakhstan,18.4
+2012,square meters,,Zhambyl,15.7
+2012,square meters,,Karagandy,21.9
+2012,square meters,,Kostanay,20.9
+2012,square meters,,Kyzylorda,19.1
+2012,square meters,,Mangistau,17.5
+2012,square meters,,Ontustik Kazakhstan,19.1
+2012,square meters,,Pavlodar,21.6
+2012,square meters,,Soltustik Kazakhstan,20.2
+2012,square meters,,Shygys Kazakhstan,19.0
+2012,square meters,,Nur-Sultan city,25.4
+2012,square meters,,Almaty city,24.4
+2012,square meters,Urban,Akmola,22.0
+2012,square meters,Urban,Aktobe,21.2
+2012,square meters,Urban,Almaty,18.8
+2012,square meters,Urban,Atyrau,22.1
+2012,square meters,Urban,Batys Kazakhstan,21.9
+2012,square meters,Urban,Zhambyl,18.0
+2012,square meters,Urban,Karagandy,22.6
+2012,square meters,Urban,Kostanay,21.7
+2012,square meters,Urban,Kyzylorda,21.0
+2012,square meters,Urban,Mangistau,18.0
+2012,square meters,Urban,Ontustik Kazakhstan,22.6
+2012,square meters,Urban,Pavlodar,22.5
+2012,square meters,Urban,Soltustik Kazakhstan,21.7
+2012,square meters,Urban,Shygys Kazakhstan,20.9
+2012,square meters,Urban,Nur-Sultan city,25.4
+2012,square meters,Urban,Almaty city,24.4
+2012,square meters,Rural,Akmola,18.8
+2012,square meters,Rural,Aktobe,15.2
+2012,square meters,Rural,Almaty,15.3
+2012,square meters,Rural,Atyrau,16.7
+2012,square meters,Rural,Batys Kazakhstan,15.4
+2012,square meters,Rural,Zhambyl,14.0
+2012,square meters,Rural,Karagandy,19.5
+2012,square meters,Rural,Kostanay,20.1
+2012,square meters,Rural,Kyzylorda,18.0
+2012,square meters,Rural,Mangistau,16.9
+2012,square meters,Rural,Ontustik Kazakhstan,16.7
+2012,square meters,Rural,Pavlodar,19.7
+2012,square meters,Rural,Soltustik Kazakhstan,19.1
+2012,square meters,Rural,Shygys Kazakhstan,16.5
+2013,square meters,,,20.9
+2013,square meters,Urban,,23.7
+2013,square meters,Rural,,17.4
+2013,square meters,,Akmola,21.4
+2013,square meters,,Aktobe,20.1
+2013,square meters,,Almaty,17.1
+2013,square meters,,Atyrau,19.9
+2013,square meters,,Batys Kazakhstan,19.1
+2013,square meters,,Zhambyl,15.6
+2013,square meters,,Karagandy,22.4
+2013,square meters,,Kostanay,21.5
+2013,square meters,,Kyzylorda,19.5
+2013,square meters,,Mangistau,20.1
+2013,square meters,,Ontustik Kazakhstan,20.7
+2013,square meters,,Pavlodar,22.6
+2013,square meters,,Soltustik Kazakhstan,20.7
+2013,square meters,,Shygys Kazakhstan,19.4
+2013,square meters,,Nur-Sultan city,27.7
+2013,square meters,,Almaty city,27.6
+2013,square meters,Urban,Akmola,22.4
+2013,square meters,Urban,Aktobe,22.9
+2013,square meters,Urban,Almaty,19.8
+2013,square meters,Urban,Atyrau,22.3
+2013,square meters,Urban,Batys Kazakhstan,23.1
+2013,square meters,Urban,Zhambyl,18.5
+2013,square meters,Urban,Karagandy,23.2
+2013,square meters,Urban,Kostanay,22.3
+2013,square meters,Urban,Kyzylorda,21.7
+2013,square meters,Urban,Mangistau,19.9
+2013,square meters,Urban,Ontustik Kazakhstan,25.1
+2013,square meters,Urban,Pavlodar,23.5
+2013,square meters,Urban,Soltustik Kazakhstan,22.3
+2013,square meters,Urban,Shygys Kazakhstan,21.4
+2013,square meters,Urban,Nur-Sultan city,27.7
+2013,square meters,Urban,Almaty city,27.6
+2013,square meters,Rural,Akmola,20.6
+2013,square meters,Rural,Aktobe,16.2
+2013,square meters,Rural,Almaty,16.2
+2013,square meters,Rural,Atyrau,17.3
+2013,square meters,Rural,Batys Kazakhstan,15.5
+2013,square meters,Rural,Zhambyl,13.6
+2013,square meters,Rural,Karagandy,19.7
+2013,square meters,Rural,Kostanay,20.6
+2013,square meters,Rural,Kyzylorda,18.0
+2013,square meters,Rural,Mangistau,20.3
+2013,square meters,Rural,Ontustik Kazakhstan,17.1
+2013,square meters,Rural,Pavlodar,20.7
+2013,square meters,Rural,Soltustik Kazakhstan,19.6
+2013,square meters,Rural,Shygys Kazakhstan,16.9
+2014,square meters,,,21.0
+2014,square meters,Urban,,23.8
+2014,square meters,Rural,,17.6
+2014,square meters,,Akmola,21.6
+2014,square meters,,Aktobe,20.8
+2014,square meters,,Almaty,17.6
+2014,square meters,,Atyrau,20.0
+2014,square meters,,Batys Kazakhstan,19.5
+2014,square meters,,Zhambyl,15.9
+2014,square meters,,Karagandy,22.6
+2014,square meters,,Kostanay,21.9
+2014,square meters,,Kyzylorda,19.1
+2014,square meters,,Mangistau,20.9
+2014,square meters,,Ontustik Kazakhstan,20.3
+2014,square meters,,Pavlodar,22.8
+2014,square meters,,Soltustik Kazakhstan,20.9
+2014,square meters,,Shygys Kazakhstan,19.5
+2014,square meters,,Nur-Sultan city,28.5
+2014,square meters,,Almaty city,26.7
+2014,square meters,Urban,Akmola,22.7
+2014,square meters,Urban,Aktobe,23.7
+2014,square meters,Urban,Almaty,20.6
+2014,square meters,Urban,Atyrau,22.4
+2014,square meters,Urban,Batys Kazakhstan,23.6
+2014,square meters,Urban,Zhambyl,18.6
+2014,square meters,Urban,Karagandy,23.4
+2014,square meters,Urban,Kostanay,22.7
+2014,square meters,Urban,Kyzylorda,20.4
+2014,square meters,Urban,Mangistau,20.4
+2014,square meters,Urban,Ontustik Kazakhstan,25.5
+2014,square meters,Urban,Pavlodar,23.7
+2014,square meters,Urban,Soltustik Kazakhstan,22.3
+2014,square meters,Urban,Shygys Kazakhstan,21.5
+2014,square meters,Urban,Nur-Sultan city,28.5
+2014,square meters,Urban,Almaty city,26.7
+2014,square meters,Rural,Akmola,20.7
+2014,square meters,Rural,Aktobe,16.6
+2014,square meters,Rural,Almaty,16.7
+2014,square meters,Rural,Atyrau,17.5
+2014,square meters,Rural,Batys Kazakhstan,15.7
+2014,square meters,Rural,Zhambyl,14.0
+2014,square meters,Rural,Karagandy,20.1
+2014,square meters,Rural,Kostanay,21.0
+2014,square meters,Rural,Kyzylorda,18.0
+2014,square meters,Rural,Mangistau,21.3
+2014,square meters,Rural,Ontustik Kazakhstan,16.9
+2014,square meters,Rural,Pavlodar,20.9
+2014,square meters,Rural,Soltustik Kazakhstan,19.9
+2014,square meters,Rural,Shygys Kazakhstan,17.0
+2015,square meters,,,21.0
+2015,square meters,Urban,,23.5
+2015,square meters,Rural,,17.8
+2015,square meters,,Akmola,21.6
+2015,square meters,,Aktobe,21.3
+2015,square meters,,Almaty,18.1
+2015,square meters,,Atyrau,20.1
+2015,square meters,,Batys Kazakhstan,19.8
+2015,square meters,,Zhambyl,16.1
+2015,square meters,,Karagandy,22.7
+2015,square meters,,Kostanay,21.8
+2015,square meters,,Kyzylorda,19.3
+2015,square meters,,Mangistau,21.8
+2015,square meters,,Ontustik Kazakhstan,18.9
+2015,square meters,,Pavlodar,21.9
+2015,square meters,,Soltustik Kazakhstan,20.8
+2015,square meters,,Shygys Kazakhstan,19.7
+2015,square meters,,Nur-Sultan city,29.0
+2015,square meters,,Almaty city,27.0
+2015,square meters,Urban,Akmola,22.9
+2015,square meters,Urban,Aktobe,24.3
+2015,square meters,Urban,Almaty,21.1
+2015,square meters,Urban,Atyrau,22.3
+2015,square meters,Urban,Batys Kazakhstan,23.7
+2015,square meters,Urban,Zhambyl,18.8
+2015,square meters,Urban,Karagandy,23.5
+2015,square meters,Urban,Kostanay,22.4
+2015,square meters,Urban,Kyzylorda,20.8
+2015,square meters,Urban,Mangistau,21.4
+2015,square meters,Urban,Ontustik Kazakhstan,21.7
+2015,square meters,Urban,Pavlodar,22.6
+2015,square meters,Urban,Soltustik Kazakhstan,21.9
+2015,square meters,Urban,Shygys Kazakhstan,21.5
+2015,square meters,Urban,Nur-Sultan city,29.0
+2015,square meters,Urban,Almaty city,27.0
+2015,square meters,Rural,Akmola,20.5
+2015,square meters,Rural,Aktobe,17.1
+2015,square meters,Rural,Almaty,17.2
+2015,square meters,Rural,Atyrau,17.8
+2015,square meters,Rural,Batys Kazakhstan,16.1
+2015,square meters,Rural,Zhambyl,14.3
+2015,square meters,Rural,Karagandy,20.0
+2015,square meters,Rural,Kostanay,21.1
+2015,square meters,Rural,Kyzylorda,18.1
+2015,square meters,Rural,Mangistau,22.2
+2015,square meters,Rural,Ontustik Kazakhstan,16.7
+2015,square meters,Rural,Pavlodar,20.4
+2015,square meters,Rural,Soltustik Kazakhstan,20.0
+2015,square meters,Rural,Shygys Kazakhstan,17.0
+2016,square meters,,,21.4
+2016,square meters,Urban,,24.0
+2016,square meters,Rural,,18.0
+2016,square meters,,Akmola,21.8
+2016,square meters,,Aktobe,21.7
+2016,square meters,,Almaty,18.5
+2016,square meters,,Atyrau,20.6
+2016,square meters,,Batys Kazakhstan,20.2
+2016,square meters,,Zhambyl,16.3
+2016,square meters,,Karagandy,22.9
+2016,square meters,,Kostanay,21.8
+2016,square meters,,Kyzylorda,19.6
+2016,square meters,,Mangistau,22.4
+2016,square meters,,Ontustik Kazakhstan,19.4
+2016,square meters,,Pavlodar,21.9
+2016,square meters,,Soltustik Kazakhstan,21.0
+2016,square meters,,Shygys Kazakhstan,20.0
+2016,square meters,,Nur-Sultan city,29.6
+2016,square meters,,Almaty city,27.6
+2016,square meters,Urban,Akmola,23.5
+2016,square meters,Urban,Aktobe,24.6
+2016,square meters,Urban,Almaty,21.5
+2016,square meters,Urban,Atyrau,23.2
+2016,square meters,Urban,Batys Kazakhstan,24.2
+2016,square meters,Urban,Zhambyl,19.0
+2016,square meters,Urban,Karagandy,23.6
+2016,square meters,Urban,Kostanay,22.3
+2016,square meters,Urban,Kyzylorda,21.1
+2016,square meters,Urban,Mangistau,22.1
+2016,square meters,Urban,Ontustik Kazakhstan,22.7
+2016,square meters,Urban,Pavlodar,22.4
+2016,square meters,Urban,Soltustik Kazakhstan,22.0
+2016,square meters,Urban,Shygys Kazakhstan,22.0
+2016,square meters,Urban,Nur-Sultan city,29.6
+2016,square meters,Urban,Almaty city,27.6
+2016,square meters,Rural,Akmola,20.5
+2016,square meters,Rural,Aktobe,17.5
+2016,square meters,Rural,Almaty,17.6
+2016,square meters,Rural,Atyrau,18.0
+2016,square meters,Rural,Batys Kazakhstan,16.4
+2016,square meters,Rural,Zhambyl,14.5
+2016,square meters,Rural,Karagandy,20.2
+2016,square meters,Rural,Kostanay,21.2
+2016,square meters,Rural,Kyzylorda,18.4
+2016,square meters,Rural,Mangistau,22.7
+2016,square meters,Rural,Ontustik Kazakhstan,16.7
+2016,square meters,Rural,Pavlodar,20.7
+2016,square meters,Rural,Soltustik Kazakhstan,20.2
+2016,square meters,Rural,Shygys Kazakhstan,17.1
+2017,square meters,,,21.6
+2017,square meters,Urban,,24.1
+2017,square meters,Rural,,18.2
+2017,square meters,,Akmola,22.0
+2017,square meters,,Aktobe,22.0
+2017,square meters,,Almaty,18.9
+2017,square meters,,Atyrau,21.4
+2017,square meters,,Batys Kazakhstan,20.6
+2017,square meters,,Zhambyl,16.6
+2017,square meters,,Karagandy,23.0
+2017,square meters,,Kostanay,21.7
+2017,square meters,,Kyzylorda,19.9
+2017,square meters,,Mangistau,23.3
+2017,square meters,,Ontustik Kazakhstan,19.7
+2017,square meters,,Pavlodar,22.0
+2017,square meters,,Soltustik Kazakhstan,21.0
+2017,square meters,,Shygys Kazakhstan,20.2
+2017,square meters,,Nur-Sultan city,29.8
+2017,square meters,,Almaty city,27.1
+2017,square meters,Urban,Akmola,23.8
+2017,square meters,Urban,Aktobe,24.6
+2017,square meters,Urban,Almaty,21.8
+2017,square meters,Urban,Atyrau,23.7
+2017,square meters,Urban,Batys Kazakhstan,24.8
+2017,square meters,Urban,Zhambyl,19.4
+2017,square meters,Urban,Karagandy,23.8
+2017,square meters,Urban,Kostanay,22.3
+2017,square meters,Urban,Kyzylorda,21.7
+2017,square meters,Urban,Mangistau,23.2
+2017,square meters,Urban,Ontustik Kazakhstan,23.2
+2017,square meters,Urban,Pavlodar,22.4
+2017,square meters,Urban,Soltustik Kazakhstan,21.7
+2017,square meters,Urban,Shygys Kazakhstan,22.2
+2017,square meters,Urban,Nur-Sultan city,29.8
+2017,square meters,Urban,Almaty city,27.1
+2017,square meters,Rural,Akmola,20.6
+2017,square meters,Rural,Aktobe,16.5
+2017,square meters,Rural,Almaty,18.0
+2017,square meters,Rural,Atyrau,19.0
+2017,square meters,Rural,Batys Kazakhstan,16.6
+2017,square meters,Rural,Zhambyl,14.7
+2017,square meters,Rural,Karagandy,20.4
+2017,square meters,Rural,Kostanay,20.9
+2017,square meters,Rural,Kyzylorda,18.4
+2017,square meters,Rural,Mangistau,23.3
+2017,square meters,Rural,Ontustik Kazakhstan,17.0
+2017,square meters,Rural,Pavlodar,20.9
+2017,square meters,Rural,Soltustik Kazakhstan,20.5
+2017,square meters,Rural,Shygys Kazakhstan,17.3
+2018,square meters,,,21.9
+2018,square meters,Urban,,24.2
+2018,square meters,Rural,,18.6
+2018,square meters,,Akmola,22.4
+2018,square meters,,Aktobe,21.6
+2018,square meters,,Almaty,19.1
+2018,square meters,,Atyrau,22.2
+2018,square meters,,Batys Kazakhstan,21.0
+2018,square meters,,Zhambyl,16.9
+2018,square meters,,Karagandy,23.2
+2018,square meters,,Kostanay,21.8
+2018,square meters,,Kyzylorda,20.0
+2018,square meters,,Mangistau,24.4
+2018,square meters,,Pavlodar,22.1
+2018,square meters,,Soltustik Kazakhstan,21.4
+2018,square meters,,Turkistan,18.2
+2018,square meters,,Shygys Kazakhstan,20.5
+2018,square meters,,Nur-Sultan city,30.0
+2018,square meters,,Almaty city,27.5
+2018,square meters,,Shymkent city,23.5
+2018,square meters,Urban,Akmola,24.1
+2018,square meters,Urban,Aktobe,23.3
+2018,square meters,Urban,Almaty,21.6
+2018,square meters,Urban,Atyrau,24.4
+2018,square meters,Urban,Batys Kazakhstan,25.3
+2018,square meters,Urban,Zhambyl,19.8
+2018,square meters,Urban,Karagandy,23.9
+2018,square meters,Urban,Kostanay,22.5
+2018,square meters,Urban,Kyzylorda,21.8
+2018,square meters,Urban,Mangistau,24.5
+2018,square meters,Urban,Pavlodar,22.5
+2018,square meters,Urban,Soltustik Kazakhstan,21.8
+2018,square meters,Urban,Turkistan,21.5
+2018,square meters,Urban,Shygys Kazakhstan,22.5
+2018,square meters,Urban,Nur-Sultan city,30.0
+2018,square meters,Urban,Almaty city,27.5
+2018,square meters,Urban,Shymkent city,23.5
+2018,square meters,Rural,Akmola,21.0
+2018,square meters,Rural,Aktobe,17.4
+2018,square meters,Rural,Almaty,18.3
+2018,square meters,Rural,Atyrau,19.6
+2018,square meters,Rural,Batys Kazakhstan,17.0
+2018,square meters,Rural,Zhambyl,15.0
+2018,square meters,Rural,Karagandy,20.5
+2018,square meters,Rural,Kostanay,21.0
+2018,square meters,Rural,Kyzylorda,18.5
+2018,square meters,Rural,Mangistau,24.3
+2018,square meters,Rural,Pavlodar,21.2
+2018,square meters,Rural,Soltustik Kazakhstan,21.0
+2018,square meters,Rural,Turkistan,17.3
+2018,square meters,Rural,Shygys Kazakhstan,17.6
+2019,square meters,,,22.2
+2019,square meters,Urban,,24.7
+2019,square meters,Rural,,18.9
+2019,square meters,,Akmola,22.7
+2019,square meters,,Aktobe,21.9
+2019,square meters,,Almaty,19.6
+2019,square meters,,Atyrau,22.7
+2019,square meters,,Batys Kazakhstan,21.4
+2019,square meters,,Zhambyl,17.2
+2019,square meters,,Karagandy,23.3
+2019,square meters,,Kostanay,22.0
+2019,square meters,,Kyzylorda,20.5
+2019,square meters,,Mangistau,25.5
+2019,square meters,,Pavlodar,22.3
+2019,square meters,,Soltustik Kazakhstan,21.7
+2019,square meters,,Turkistan,18.4
+2019,square meters,,Shygys Kazakhstan,20.7
+2019,square meters,,Nur-Sultan city,30.5
+2019,square meters,,Almaty city,28.0
+2019,square meters,,Shymkent city,24.1
+2019,square meters,Urban,Akmola,24.3
+2019,square meters,Urban,Aktobe,23.7
+2019,square meters,Urban,Almaty,22.1
+2019,square meters,Urban,Atyrau,24.8
+2019,square meters,Urban,Batys Kazakhstan,25.8
+2019,square meters,Urban,Zhambyl,20.2
+2019,square meters,Urban,Karagandy,24.0
+2019,square meters,Urban,Kostanay,22.7
+2019,square meters,Urban,Kyzylorda,22.5
+2019,square meters,Urban,Mangistau,25.3
+2019,square meters,Urban,Pavlodar,22.6
+2019,square meters,Urban,Soltustik Kazakhstan,22.1
+2019,square meters,Urban,Turkistan,21.7
+2019,square meters,Urban,Shygys Kazakhstan,22.7
+2019,square meters,Urban,Nur-Sultan city,30.5
+2019,square meters,Urban,Almaty city,28.0
+2019,square meters,Urban,Shymkent city,24.1
+2019,square meters,Rural,Akmola,21.4
+2019,square meters,Rural,Aktobe,17.6
+2019,square meters,Rural,Almaty,18.8
+2019,square meters,Rural,Atyrau,20.1
+2019,square meters,Rural,Batys Kazakhstan,17.2
+2019,square meters,Rural,Zhambyl,15.2
+2019,square meters,Rural,Karagandy,20.6
+2019,square meters,Rural,Kostanay,21.1
+2019,square meters,Rural,Kyzylorda,18.8
+2019,square meters,Rural,Mangistau,25.6
+2019,square meters,Rural,Pavlodar,21.3
+2019,square meters,Rural,Soltustik Kazakhstan,21.3
+2019,square meters,Rural,Turkistan,17.5
+2019,square meters,Rural,Shygys Kazakhstan,17.8

@@ -1,37 +1,41 @@
 Year,Units,Protected species,Value
-2010,units,The Bactrian deer (latin: Cervus elaphus bactrianus),418.0
-2011,units,The Bactrian deer (latin: Cervus elaphus bactrianus),421.0
-2012,units,The Bactrian deer (latin: Cervus elaphus bactrianus),451.0
-2013,units,The Bactrian deer (latin: Cervus elaphus bactrianus),465.0
-2014,units,The Bactrian deer (latin: Cervus elaphus bactrianus),481.0
-2015,units,The Bactrian deer (latin: Cervus elaphus bactrianus),503.0
-2016,units,The Bactrian deer (latin: Cervus elaphus bactrianus),716.0
-2017,units,The Bactrian deer (latin: Cervus elaphus bactrianus),825.0
-2018,units,The Bactrian deer (latin: Cervus elaphus bactrianus),856.0
-2010,units,Goitered gazelle (latin: Gazella subgutturosa),16154.0
-2011,units,Goitered gazelle (latin: Gazella subgutturosa),1210.0
-2012,units,Goitered gazelle (latin: Gazella subgutturosa),1263.0
-2013,units,Goitered gazelle (latin: Gazella subgutturosa),12888.0
-2014,units,Goitered gazelle (latin: Gazella subgutturosa),12994.0
-2015,units,Goitered gazelle (latin: Gazella subgutturosa),13197.0
-2016,units,Goitered gazelle (latin: Gazella subgutturosa),13218.0
-2017,units,Goitered gazelle (latin: Gazella subgutturosa),13727.0
-2018,units,Goitered gazelle (latin: Gazella subgutturosa),14055.0
-2010,units,Onager (latin Equus hemionus),2477.0
-2011,units,Onager (latin Equus hemionus),2500.0
-2012,units,Onager (latin Equus hemionus),2920.0
-2013,units,Onager (latin Equus hemionus),3222.0
-2014,units,Onager (latin Equus hemionus),3420.0
-2015,units,Onager (latin Equus hemionus),3595.0
-2016,units,Onager (latin Equus hemionus),3807.0
-2017,units,Onager (latin Equus hemionus),3984.0
-2018,units,Onager (latin Equus hemionus),4103.0
-2010,units,Argali (latin: Ovis ammon),13246.0
-2011,units,Argali (latin: Ovis ammon),13597.0
-2012,units,Argali (latin: Ovis ammon),13872.0
-2013,units,Argali (latin: Ovis ammon),14525.0
-2014,units,Argali (latin: Ovis ammon),14737.0
-2015,units,Argali (latin: Ovis ammon),15710.0
-2016,units,Argali (latin: Ovis ammon),15979.0
-2017,units,Argali (latin: Ovis ammon),16802.0
-2018,units,Argali (latin: Ovis ammon),16980.0
+2010,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),418
+2010,Percent,Goitered gazelle (latin: Gazella subgutturosa),16154
+2010,Percent,Onager (latin Equus hemionus),2477
+2010,Percent,Argali (latin: Ovis ammon),13246
+2011,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),421
+2011,Percent,Goitered gazelle (latin: Gazella subgutturosa),1210
+2011,Percent,Onager (latin Equus hemionus),2500
+2011,Percent,Argali (latin: Ovis ammon),13597
+2012,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),451
+2012,Percent,Goitered gazelle (latin: Gazella subgutturosa),1263
+2012,Percent,Onager (latin Equus hemionus),2920
+2012,Percent,Argali (latin: Ovis ammon),13872
+2013,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),465
+2013,Percent,Goitered gazelle (latin: Gazella subgutturosa),12888
+2013,Percent,Onager (latin Equus hemionus),3222
+2013,Percent,Argali (latin: Ovis ammon),14525
+2014,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),481
+2014,Percent,Goitered gazelle (latin: Gazella subgutturosa),12994
+2014,Percent,Onager (latin Equus hemionus),3420
+2014,Percent,Argali (latin: Ovis ammon),14737
+2015,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),503
+2015,Percent,Goitered gazelle (latin: Gazella subgutturosa),13197
+2015,Percent,Onager (latin Equus hemionus),3595
+2015,Percent,Argali (latin: Ovis ammon),15710
+2016,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),716
+2016,Percent,Goitered gazelle (latin: Gazella subgutturosa),13218
+2016,Percent,Onager (latin Equus hemionus),3807
+2016,Percent,Argali (latin: Ovis ammon),15979
+2017,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),825
+2017,Percent,Goitered gazelle (latin: Gazella subgutturosa),13727
+2017,Percent,Onager (latin Equus hemionus),3984
+2017,Percent,Argali (latin: Ovis ammon),16802
+2018,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),856
+2018,Percent,Goitered gazelle (latin: Gazella subgutturosa),14055
+2018,Percent,Onager (latin Equus hemionus),4103
+2018,Percent,Argali (latin: Ovis ammon),16980
+2019,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),878
+2019,Percent,Goitered gazelle (latin: Gazella subgutturosa),14391
+2019,Percent,Onager (latin Equus hemionus),4197
+2019,Percent,Argali (latin: Ovis ammon),17954

@@ -1,132 +1,146 @@
-Year,Units,Regions,GeoCode,Value
-2010,Percent,Akmola,KZ03,44.0
-2011,Percent,Akmola,KZ03,49.0
-2012,Percent,Akmola,KZ03,54.0
-2013,Percent,Akmola,KZ03,60.0
-2014,Percent,Akmola,KZ03,65.0
-2015,Percent,Akmola,KZ03,66.0
-2016,Percent,Akmola,KZ03,66.6
-2017,Percent,Akmola,KZ03,67.1
-2018,Percent,Akmola,KZ03,70.3
-2013,Percent,Aktobe,KZ04,48.9
-2014,Percent,Aktobe,KZ04,44.5
-2015,Percent,Aktobe,KZ04,46.3
-2016,Percent,Aktobe,KZ04,48.0
-2017,Percent,Aktobe,KZ04,49.5
-2018,Percent,Aktobe,KZ04,53.0
-2010,Percent,Almaty,KZ01,58.0
-2011,Percent,Almaty,KZ01,60.2
-2012,Percent,Almaty,KZ01,64.0
-2013,Percent,Almaty,KZ01,69.6
-2014,Percent,Almaty,KZ01,74.6
-2015,Percent,Almaty,KZ01,77.6
-2016,Percent,Almaty,KZ01,77.8
-2017,Percent,Almaty,KZ01,78.0
-2018,Percent,Almaty,KZ01,78.1
-2010,Percent,Atyrau,KZ06,24.0
-2011,Percent,Atyrau,KZ06,30.0
-2012,Percent,Atyrau,KZ06,32.0
-2013,Percent,Atyrau,KZ06,37.0
-2014,Percent,Atyrau,KZ06,42.0
-2015,Percent,Atyrau,KZ06,47.0
-2016,Percent,Atyrau,KZ06,49.0
-2017,Percent,Atyrau,KZ06,51.0
-2018,Percent,Atyrau,KZ06,54.0
-2013,Percent,Batys Kazakhstan,KZ07,23.0
-2014,Percent,Batys Kazakhstan,KZ07,24.0
-2015,Percent,Batys Kazakhstan,KZ07,26.0
-2016,Percent,Batys Kazakhstan,KZ07,27.6
-2017,Percent,Batys Kazakhstan,KZ07,28.0
-2018,Percent,Batys Kazakhstan,KZ07,28.7
-2014,Percent,Zhambyl,KZ17,70.0
-2015,Percent,Zhambyl,KZ17,74.0
-2016,Percent,Zhambyl,KZ17,75.5
-2017,Percent,Zhambyl,KZ17,77.0
-2018,Percent,Zhambyl,KZ17,80.1
-2010,Percent,Karagandy,KZ12,73.0
-2011,Percent,Karagandy,KZ12,73.0
-2012,Percent,Karagandy,KZ12,73.0
-2013,Percent,Karagandy,KZ12,73.5
-2014,Percent,Karagandy,KZ12,74.0
-2015,Percent,Karagandy,KZ12,74.5
-2016,Percent,Karagandy,KZ12,75.0
-2017,Percent,Karagandy,KZ12,75.5
-2018,Percent,Karagandy,KZ12,76.0
-2010,Percent,Kostanay,KZ13,50.0
-2011,Percent,Kostanay,KZ13,52.0
-2012,Percent,Kostanay,KZ13,54.0
-2013,Percent,Kostanay,KZ13,58.0
-2014,Percent,Kostanay,KZ13,59.0
-2015,Percent,Kostanay,KZ13,62.0
-2016,Percent,Kostanay,KZ13,62.0
-2017,Percent,Kostanay,KZ13,64.0
-2018,Percent,Kostanay,KZ13,66.0
-2010,Percent,Kyzylorda,KZ14,54.0
-2011,Percent,Kyzylorda,KZ14,57.0
-2012,Percent,Kyzylorda,KZ14,60.0
-2013,Percent,Kyzylorda,KZ14,54.0
-2014,Percent,Kyzylorda,KZ14,57.0
-2015,Percent,Kyzylorda,KZ14,62.0
-2016,Percent,Kyzylorda,KZ14,62.6
-2017,Percent,Kyzylorda,KZ14,63.0
-2018,Percent,Kyzylorda,KZ14,63.5
-2010,Percent,Mangistau,KZ09,59.0
-2011,Percent,Mangistau,KZ09,59.0
-2012,Percent,Mangistau,KZ09,64.0
-2013,Percent,Mangistau,KZ09,67.0
-2014,Percent,Mangistau,KZ09,77.0
-2015,Percent,Mangistau,KZ09,84.0
-2016,Percent,Mangistau,KZ09,92.0
-2017,Percent,Mangistau,KZ09,92.0
-2018,Percent,Mangistau,KZ09,92.0
-2011,Percent,Pavlodar,KZ11,67.0
-2012,Percent,Pavlodar,KZ11,69.0
-2013,Percent,Pavlodar,KZ11,71.0
-2014,Percent,Pavlodar,KZ11,74.0
-2015,Percent,Pavlodar,KZ11,76.0
-2016,Percent,Pavlodar,KZ11,77.0
-2017,Percent,Pavlodar,KZ11,78.1
-2018,Percent,Pavlodar,KZ11,80.0
-2010,Percent,Soltustik Kazakhstan,KZ16,40.0
-2011,Percent,Soltustik Kazakhstan,KZ16,42.0
-2012,Percent,Soltustik Kazakhstan,KZ16,46.0
-2013,Percent,Soltustik Kazakhstan,KZ16,50.0
-2014,Percent,Soltustik Kazakhstan,KZ16,51.0
-2015,Percent,Soltustik Kazakhstan,KZ16,53.0
-2016,Percent,Soltustik Kazakhstan,KZ16,55.0
-2017,Percent,Soltustik Kazakhstan,KZ16,58.0
-2018,Percent,Soltustik Kazakhstan,KZ16,61.0
-2010,Percent,Turkistan,KZ10,49.0
-2011,Percent,Turkistan,KZ10,50.0
-2012,Percent,Turkistan,KZ10,67.5
-2013,Percent,Turkistan,KZ10,70.0
-2014,Percent,Turkistan,KZ10,74.5
-2015,Percent,Turkistan,KZ10,77.0
-2016,Percent,Turkistan,KZ10,64.0
-2017,Percent,Turkistan,KZ10,64.4
-2018,Percent,Turkistan,KZ10,71.2
-2011,Percent,Shygys Kazakhstan,KZ15,66.0
-2012,Percent,Shygys Kazakhstan,KZ15,68.0
-2013,Percent,Shygys Kazakhstan,KZ15,74.0
-2014,Percent,Shygys Kazakhstan,KZ15,75.0
-2015,Percent,Shygys Kazakhstan,KZ15,76.0
-2016,Percent,Shygys Kazakhstan,KZ15,76.5
-2017,Percent,Shygys Kazakhstan,KZ15,77.0
-2018,Percent,Shygys Kazakhstan,KZ15,78.1
-2015,Percent,Nur-Sultan city,KZ05,71.1
-2016,Percent,Nur-Sultan city,KZ05,74.5
-2017,Percent,Nur-Sultan city,KZ05,79.3
-2018,Percent,Nur-Sultan city,KZ05,76.0
-2011,Percent,Almaty city,KZ02,28.0
-2012,Percent,Almaty city,KZ02,34.0
-2013,Percent,Almaty city,KZ02,37.0
-2014,Percent,Almaty city,KZ02,43.0
-2015,Percent,Almaty city,KZ02,65.0
-2016,Percent,Almaty city,KZ02,60.0
-2017,Percent,Almaty city,KZ02,65.0
-2018,Percent,Almaty city,KZ02,70.0
-2014,Percent,Shymkent city,KZ18,30.7
-2015,Percent,Shymkent city,KZ18,40.4
-2016,Percent,Shymkent city,KZ18,41.4
-2017,Percent,Shymkent city,KZ18,46.5
-2018,Percent,Shymkent city,KZ18,53.7
+Year,Units,Regions,Value
+2010,Percent,Akmola,44.0
+2010,Percent,Almaty,58.0
+2010,Percent,Atyrau,24.0
+2010,Percent,Karagandy,73.0
+2010,Percent,Kostanay,50.0
+2010,Percent,Kyzylorda,54.0
+2010,Percent,Mangistau,59.0
+2010,Percent,Soltustik Kazakhstan,40.0
+2010,Percent,Turkistan,49.0
+2011,Percent,Akmola,49.0
+2011,Percent,Almaty,60.2
+2011,Percent,Atyrau,30.0
+2011,Percent,Karagandy,73.0
+2011,Percent,Kostanay,52.0
+2011,Percent,Kyzylorda,57.0
+2011,Percent,Mangistau,59.0
+2011,Percent,Pavlodar,67.0
+2011,Percent,Soltustik Kazakhstan,42.0
+2011,Percent,Turkistan,50.0
+2011,Percent,Shygys Kazakhstan,66.0
+2011,Percent,Almaty city,28.0
+2012,Percent,Akmola,54.0
+2012,Percent,Almaty,64.0
+2012,Percent,Atyrau,32.0
+2012,Percent,Karagandy,73.0
+2012,Percent,Kostanay,54.0
+2012,Percent,Kyzylorda,60.0
+2012,Percent,Mangistau,64.0
+2012,Percent,Pavlodar,69.0
+2012,Percent,Soltustik Kazakhstan,46.0
+2012,Percent,Turkistan,67.5
+2012,Percent,Shygys Kazakhstan,68.0
+2012,Percent,Almaty city,34.0
+2013,Percent,Akmola,60.0
+2013,Percent,Aktobe,48.9
+2013,Percent,Almaty,69.6
+2013,Percent,Atyrau,37.0
+2013,Percent,Batys Kazakhstan,23.0
+2013,Percent,Karagandy,73.5
+2013,Percent,Kostanay,58.0
+2013,Percent,Kyzylorda,54.0
+2013,Percent,Mangistau,67.0
+2013,Percent,Pavlodar,71.0
+2013,Percent,Soltustik Kazakhstan,50.0
+2013,Percent,Turkistan,70.0
+2013,Percent,Shygys Kazakhstan,74.0
+2013,Percent,Almaty city,37.0
+2014,Percent,Akmola,65.0
+2014,Percent,Aktobe,44.5
+2014,Percent,Almaty,74.6
+2014,Percent,Atyrau,42.0
+2014,Percent,Batys Kazakhstan,24.0
+2014,Percent,Zhambyl,70.0
+2014,Percent,Karagandy,74.0
+2014,Percent,Kostanay,59.0
+2014,Percent,Kyzylorda,57.0
+2014,Percent,Mangistau,77.0
+2014,Percent,Pavlodar,74.0
+2014,Percent,Soltustik Kazakhstan,51.0
+2014,Percent,Turkistan,74.5
+2014,Percent,Shygys Kazakhstan,75.0
+2014,Percent,Almaty city,43.0
+2014,Percent,Shymkent city,30.7
+2015,Percent,Akmola,66.0
+2015,Percent,Aktobe,46.3
+2015,Percent,Almaty,77.6
+2015,Percent,Atyrau,47.0
+2015,Percent,Batys Kazakhstan,26.0
+2015,Percent,Zhambyl,74.0
+2015,Percent,Karagandy,74.5
+2015,Percent,Kostanay,62.0
+2015,Percent,Kyzylorda,62.0
+2015,Percent,Mangistau,84.0
+2015,Percent,Pavlodar,76.0
+2015,Percent,Soltustik Kazakhstan,53.0
+2015,Percent,Turkistan,77.0
+2015,Percent,Shygys Kazakhstan,76.0
+2015,Percent,Nur-Sultan city,71.1
+2015,Percent,Almaty city,65.0
+2015,Percent,Shymkent city,40.4
+2016,Percent,Akmola,66.6
+2016,Percent,Aktobe,48.0
+2016,Percent,Almaty,77.8
+2016,Percent,Atyrau,49.0
+2016,Percent,Batys Kazakhstan,27.6
+2016,Percent,Zhambyl,75.5
+2016,Percent,Karagandy,75.0
+2016,Percent,Kostanay,62.0
+2016,Percent,Kyzylorda,62.6
+2016,Percent,Mangistau,92.0
+2016,Percent,Pavlodar,77.0
+2016,Percent,Soltustik Kazakhstan,55.0
+2016,Percent,Turkistan,64.0
+2016,Percent,Shygys Kazakhstan,76.5
+2016,Percent,Nur-Sultan city,74.5
+2016,Percent,Almaty city,60.0
+2016,Percent,Shymkent city,41.4
+2017,Percent,Akmola,67.1
+2017,Percent,Aktobe,49.5
+2017,Percent,Almaty,78.0
+2017,Percent,Atyrau,51.0
+2017,Percent,Batys Kazakhstan,28.0
+2017,Percent,Zhambyl,77.0
+2017,Percent,Karagandy,75.5
+2017,Percent,Kostanay,64.0
+2017,Percent,Kyzylorda,63.0
+2017,Percent,Mangistau,92.0
+2017,Percent,Pavlodar,78.1
+2017,Percent,Soltustik Kazakhstan,58.0
+2017,Percent,Turkistan,64.4
+2017,Percent,Shygys Kazakhstan,77.0
+2017,Percent,Nur-Sultan city,79.3
+2017,Percent,Almaty city,65.0
+2017,Percent,Shymkent city,46.5
+2018,Percent,Akmola,70.3
+2018,Percent,Aktobe,53.0
+2018,Percent,Almaty,78.1
+2018,Percent,Atyrau,54.0
+2018,Percent,Batys Kazakhstan,28.7
+2018,Percent,Zhambyl,80.1
+2018,Percent,Karagandy,76.0
+2018,Percent,Kostanay,66.0
+2018,Percent,Kyzylorda,63.5
+2018,Percent,Mangistau,92.0
+2018,Percent,Pavlodar,80.0
+2018,Percent,Soltustik Kazakhstan,61.0
+2018,Percent,Turkistan,71.2
+2018,Percent,Shygys Kazakhstan,78.1
+2018,Percent,Nur-Sultan city,76.0
+2018,Percent,Almaty city,70.0
+2018,Percent,Shymkent city,53.7
+2019,Percent,Akmola,70.3
+2019,Percent,Aktobe,53.0
+2019,Percent,Almaty,78.1
+2019,Percent,Atyrau,54.0
+2019,Percent,Batys Kazakhstan,28.7
+2019,Percent,Zhambyl,80.1
+2019,Percent,Karagandy,76.0
+2019,Percent,Kostanay,66.0
+2019,Percent,Kyzylorda,63.5
+2019,Percent,Mangistau,92.0
+2019,Percent,Pavlodar,80.0
+2019,Percent,Soltustik Kazakhstan,61.0
+2019,Percent,Turkistan,71.2
+2019,Percent,Shygys Kazakhstan,78.1

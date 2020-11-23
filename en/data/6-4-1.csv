@@ -1,33 +1,28 @@
-Year,Units,Type of economic activity,Value
-2010,м³/тыс.тенге,"agriculture, forestry and fishery",11.892999999999999
-2011,м³/тыс.тенге,"agriculture, forestry and fishery",6.652
-2012,м³/тыс.тенге,"agriculture, forestry and fishery",6.872999999999999
-2013,м³/тыс.тенге,"agriculture, forestry and fishery",6.029
-2014,м³/тыс.тенге,"agriculture, forestry and fishery",7.071000000000001
-2015,м³/тыс.тенге,"agriculture, forestry and fishery",6.792999999999999
-2016,м³/тыс.тенге,"agriculture, forestry and fishery",5.656000000000001
-2017,м³/тыс.тенге,"agriculture, forestry and fishery",5.711
-2010,м³/тыс.тенге,manufacturing,1.965
-2011,м³/тыс.тенге,manufacturing,1.652
-2012,м³/тыс.тенге,manufacturing,1.525
-2013,м³/тыс.тенге,manufacturing,1.431
-2014,м³/тыс.тенге,manufacturing,1.3659999999999999
-2015,м³/тыс.тенге,manufacturing,1.253
-2016,м³/тыс.тенге,manufacturing,0.28300000000000003
-2017,м³/тыс.тенге,manufacturing,0.259
-2010,м³/тыс.тенге,energy companies,1.92
-2011,м³/тыс.тенге,energy companies,1.556
-2012,м³/тыс.тенге,energy companies,1.436
-2013,м³/тыс.тенге,energy companies,1.284
-2014,м³/тыс.тенге,energy companies,1.169
-2015,м³/тыс.тенге,energy companies,0.9
-2016,м³/тыс.тенге,energy companies,3.0789999999999997
-2017,м³/тыс.тенге,energy companies,2.589
-2010,м³/тыс.тенге,other types of activity,0.20600000000000002
-2011,м³/тыс.тенге,other types of activity,0.191
-2012,м³/тыс.тенге,other types of activity,0.142
-2013,м³/тыс.тенге,other types of activity,0.152
-2014,м³/тыс.тенге,other types of activity,0.055999999999999994
-2015,м³/тыс.тенге,other types of activity,0.037000000000000005
-2016,м³/тыс.тенге,other types of activity,0.087
-2017,м³/тыс.тенге,other types of activity,0.06
+Year,Units,Виды экономической деятельности,Value
+2010,м³/тыс.тенге,"agriculture, forestry and fishery",11.893354325312052
+2010,м³/тыс.тенге,Industry,0.7808139575873115
+2010,м³/тыс.тенге,other types of activity,0.3334457196031435
+2011,м³/тыс.тенге,"agriculture, forestry and fishery",6.652053393001441
+2011,м³/тыс.тенге,Industry,0.6795683291945654
+2011,м³/тыс.тенге,other types of activity,0.2707771431452279
+2012,м³/тыс.тенге,"agriculture, forestry and fishery",6.872758703238776
+2012,м³/тыс.тенге,Industry,0.6405381676466579
+2012,м³/тыс.тенге,other types of activity,0.2171920164481904
+2013,м³/тыс.тенге,"agriculture, forestry and fishery",6.028746647997742
+2013,м³/тыс.тенге,Industry,0.6230725133633632
+2013,м³/тыс.тенге,other types of activity,0.20707782239569406
+2014,м³/тыс.тенге,"agriculture, forestry and fishery",7.071311560345701
+2014,м³/тыс.тенге,Industry,0.5857763211684839
+2014,м³/тыс.тенге,other types of activity,0.07675039802247936
+2015,м³/тыс.тенге,"agriculture, forestry and fishery",6.7927865197302095
+2015,м³/тыс.тенге,Industry,0.5790315397997776
+2015,м³/тыс.тенге,other types of activity,0.05831624630847133
+2016,м³/тыс.тенге,"agriculture, forestry and fishery",5.656054679431978
+2016,м³/тыс.тенге,Industry,0.34055004491778434
+2016,м³/тыс.тенге,other types of activity,0.09843829003847336
+2017,м³/тыс.тенге,"agriculture, forestry and fishery",5.3829267178567175
+2017,м³/тыс.тенге,Industry,0.2762144857464662
+2017,м³/тыс.тенге,other types of activity,0.06706571867839829
+2018,м³/тыс.тенге,"agriculture, forestry and fishery",4.779394407159139
+2018,м³/тыс.тенге,Industry,0.2762713044825538
+2018,м³/тыс.тенге,other types of activity,0.08233295881357856

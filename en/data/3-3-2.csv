@@ -1,28 +1,31 @@
 Year,Units,Area,Value
 2010,per 100000 individuals,,95.3
+2010,per 100000 individuals,Urban,107.3
+2010,per 100000 individuals,Rural,81.1
 2011,per 100000 individuals,,86.6
+2011,per 100000 individuals,Urban,97.1
+2011,per 100000 individuals,Rural,74.0
 2012,per 100000 individuals,,81.7
+2012,per 100000 individuals,Urban,91.0
+2012,per 100000 individuals,Rural,70.4
 2013,per 100000 individuals,,73.4
+2013,per 100000 individuals,Urban,85.9
+2013,per 100000 individuals,Rural,61.2
 2014,per 100000 individuals,,66.4
+2014,per 100000 individuals,Urban,78.6
+2014,per 100000 individuals,Rural,50.6
 2015,per 100000 individuals,,58.5
+2015,per 100000 individuals,Urban,63.2
+2015,per 100000 individuals,Rural,52.1
 2016,per 100000 individuals,,52.7
+2016,per 100000 individuals,Urban,55.6
+2016,per 100000 individuals,Rural,48.9
 2017,per 100000 individuals,,52.2
+2017,per 100000 individuals,Urban,54.4
+2017,per 100000 individuals,Rural,49.2
 2018,per 100000 individuals,,48.2
-2010,per 100000 individuals,Population of urban areas,107.3
-2011,per 100000 individuals,Population of urban areas,97.1
-2012,per 100000 individuals,Population of urban areas,91.0
-2013,per 100000 individuals,Population of urban areas,85.9
-2014,per 100000 individuals,Population of urban areas,78.6
-2015,per 100000 individuals,Population of urban areas,63.2
-2016,per 100000 individuals,Population of urban areas,55.6
-2017,per 100000 individuals,Population of urban areas,54.4
-2018,per 100000 individuals,Population of urban areas,50.2
-2010,per 100000 individuals,Population of rural areas,81.1
-2011,per 100000 individuals,Population of rural areas,74.0
-2012,per 100000 individuals,Population of rural areas,70.4
-2013,per 100000 individuals,Population of rural areas,61.2
-2014,per 100000 individuals,Population of rural areas,50.6
-2015,per 100000 individuals,Population of rural areas,52.1
-2016,per 100000 individuals,Population of rural areas,48.9
-2017,per 100000 individuals,Population of rural areas,49.2
-2018,per 100000 individuals,Population of rural areas,45.3
+2018,per 100000 individuals,Urban,50.22440672301683
+2018,per 100000 individuals,Rural,45.31521836735146
+2019,per 100000 individuals,,45.6
+2019,per 100000 individuals,Urban,47.7
+2019,per 100000 individuals,Rural,42.6

@@ -1,155 +1,173 @@
-Year,Units,Regions,GeoCode,Value
-2010,thousand of tenge,,,428.8
-2011,thousand of tenge,,,641.6
-2012,thousand of tenge,,,612.2
-2013,thousand of tenge,,,781.9
-2014,thousand of tenge,,,1070.2
-2015,thousand of tenge,,,1242.3
-2016,thousand of tenge,,,1401.9
-2017,thousand of tenge,,,1636.2
-2018,thousand of tenge,,,1913.9
-2010,thousand of tenge,Akmola,KZ03,499.9
-2011,thousand of tenge,Akmola,KZ03,1146.2
-2012,thousand of tenge,Akmola,KZ03,682.4
-2013,thousand of tenge,Akmola,KZ03,1018.0
-2014,thousand of tenge,Akmola,KZ03,1075.3
-2015,thousand of tenge,Akmola,KZ03,1216.0
-2016,thousand of tenge,Akmola,KZ03,1365.9
-2017,thousand of tenge,Akmola,KZ03,1558.5
-2018,thousand of tenge,Akmola,KZ03,1797.5
-2010,thousand of tenge,Aktobe,KZ04,478.3
-2011,thousand of tenge,Aktobe,KZ04,847.3
-2012,thousand of tenge,Aktobe,KZ04,1035.1
-2013,thousand of tenge,Aktobe,KZ04,1465.2
-2014,thousand of tenge,Aktobe,KZ04,1910.7
-2015,thousand of tenge,Aktobe,KZ04,1732.3
-2016,thousand of tenge,Aktobe,KZ04,1964.8
-2017,thousand of tenge,Aktobe,KZ04,2528.3
-2018,thousand of tenge,Aktobe,KZ04,3830.8
-2010,thousand of tenge,Almaty,KZ01,387.2
-2011,thousand of tenge,Almaty,KZ01,431.0
-2012,thousand of tenge,Almaty,KZ01,444.3
-2013,thousand of tenge,Almaty,KZ01,612.3
-2014,thousand of tenge,Almaty,KZ01,893.4
-2015,thousand of tenge,Almaty,KZ01,1088.2
-2016,thousand of tenge,Almaty,KZ01,1135.9
-2017,thousand of tenge,Almaty,KZ01,1365.9
-2018,thousand of tenge,Almaty,KZ01,1728.5
-2010,thousand of tenge,Atyrau,KZ06,866.7
-2011,thousand of tenge,Atyrau,KZ06,1172.5
-2012,thousand of tenge,Atyrau,KZ06,2271.6
-2013,thousand of tenge,Atyrau,KZ06,4017.8
-2014,thousand of tenge,Atyrau,KZ06,4021.6
-2015,thousand of tenge,Atyrau,KZ06,5158.1
-2016,thousand of tenge,Atyrau,KZ06,5338.7
-2017,thousand of tenge,Atyrau,KZ06,6124.9
-2018,thousand of tenge,Atyrau,KZ06,6686.4
-2010,thousand of tenge,Batys Kazakhstan,KZ07,345.9
-2011,thousand of tenge,Batys Kazakhstan,KZ07,487.3
-2012,thousand of tenge,Batys Kazakhstan,KZ07,528.9
-2013,thousand of tenge,Batys Kazakhstan,KZ07,633.0
-2014,thousand of tenge,Batys Kazakhstan,KZ07,768.5
-2015,thousand of tenge,Batys Kazakhstan,KZ07,831.9
-2016,thousand of tenge,Batys Kazakhstan,KZ07,993.5
-2017,thousand of tenge,Batys Kazakhstan,KZ07,1042.3
-2018,thousand of tenge,Batys Kazakhstan,KZ07,1104.1
-2010,thousand of tenge,Zhambyl,KZ17,233.6
-2011,thousand of tenge,Zhambyl,KZ17,314.5
-2012,thousand of tenge,Zhambyl,KZ17,348.1
-2013,thousand of tenge,Zhambyl,KZ17,421.3
-2014,thousand of tenge,Zhambyl,KZ17,799.6
-2015,thousand of tenge,Zhambyl,KZ17,824.5
-2016,thousand of tenge,Zhambyl,KZ17,925.6
-2017,thousand of tenge,Zhambyl,KZ17,902.7
-2018,thousand of tenge,Zhambyl,KZ17,959.1
-2010,thousand of tenge,Karagandy,KZ12,463.5
-2011,thousand of tenge,Karagandy,KZ12,594.5
-2012,thousand of tenge,Karagandy,KZ12,827.7
-2013,thousand of tenge,Karagandy,KZ12,1147.9
-2014,thousand of tenge,Karagandy,KZ12,1569.7
-2015,thousand of tenge,Karagandy,KZ12,1949.0
-2016,thousand of tenge,Karagandy,KZ12,2176.8
-2017,thousand of tenge,Karagandy,KZ12,2938.1
-2018,thousand of tenge,Karagandy,KZ12,3181.1
-2010,thousand of tenge,Kostanay,KZ13,712.3
-2011,thousand of tenge,Kostanay,KZ13,1214.0
-2012,thousand of tenge,Kostanay,KZ13,615.7
-2013,thousand of tenge,Kostanay,KZ13,784.5
-2014,thousand of tenge,Kostanay,KZ13,886.7
-2015,thousand of tenge,Kostanay,KZ13,979.5
-2016,thousand of tenge,Kostanay,KZ13,1080.3
-2017,thousand of tenge,Kostanay,KZ13,1356.7
-2018,thousand of tenge,Kostanay,KZ13,1673.9
-2010,thousand of tenge,Kyzylorda,KZ14,656.3
-2011,thousand of tenge,Kyzylorda,KZ14,646.7
-2012,thousand of tenge,Kyzylorda,KZ14,1007.7
-2013,thousand of tenge,Kyzylorda,KZ14,1047.8
-2014,thousand of tenge,Kyzylorda,KZ14,1106.9
-2015,thousand of tenge,Kyzylorda,KZ14,1394.6
-2016,thousand of tenge,Kyzylorda,KZ14,1174.7
-2017,thousand of tenge,Kyzylorda,KZ14,1579.7
-2018,thousand of tenge,Kyzylorda,KZ14,2274.9
-2010,thousand of tenge,Mangistau,KZ09,691.7
-2011,thousand of tenge,Mangistau,KZ09,1184.2
-2012,thousand of tenge,Mangistau,KZ09,3586.9
-2013,thousand of tenge,Mangistau,KZ09,2633.0
-2014,thousand of tenge,Mangistau,KZ09,2917.5
-2015,thousand of tenge,Mangistau,KZ09,3033.3
-2016,thousand of tenge,Mangistau,KZ09,3547.7
-2017,thousand of tenge,Mangistau,KZ09,6297.6
-2018,thousand of tenge,Mangistau,KZ09,9826.9
-2010,thousand of tenge,Ontustik Kazakhstan,KZ10,241.1
-2011,thousand of tenge,Ontustik Kazakhstan,KZ10,306.5
-2012,thousand of tenge,Ontustik Kazakhstan,KZ10,379.2
-2013,thousand of tenge,Ontustik Kazakhstan,KZ10,481.6
-2014,thousand of tenge,Ontustik Kazakhstan,KZ10,932.7
-2015,thousand of tenge,Ontustik Kazakhstan,KZ10,2608.5
-2016,thousand of tenge,Ontustik Kazakhstan,KZ10,1429.5
-2017,thousand of tenge,Ontustik Kazakhstan,KZ10,1460.4
-2010,thousand of tenge,Pavlodar,KZ11,473.6
-2011,thousand of tenge,Pavlodar,KZ11,605.0
-2012,thousand of tenge,Pavlodar,KZ11,594.6
-2013,thousand of tenge,Pavlodar,KZ11,840.7
-2014,thousand of tenge,Pavlodar,KZ11,753.0
-2015,thousand of tenge,Pavlodar,KZ11,884.5
-2016,thousand of tenge,Pavlodar,KZ11,1153.4
-2017,thousand of tenge,Pavlodar,KZ11,1403.5
-2018,thousand of tenge,Pavlodar,KZ11,1595.2
-2010,thousand of tenge,Soltustik Kazakhstan,KZ16,630.8
-2011,thousand of tenge,Soltustik Kazakhstan,KZ16,1337.1
-2012,thousand of tenge,Soltustik Kazakhstan,KZ16,1200.6
-2013,thousand of tenge,Soltustik Kazakhstan,KZ16,1254.4
-2014,thousand of tenge,Soltustik Kazakhstan,KZ16,1567.0
-2015,thousand of tenge,Soltustik Kazakhstan,KZ16,1709.7
-2016,thousand of tenge,Soltustik Kazakhstan,KZ16,1939.5
-2017,thousand of tenge,Soltustik Kazakhstan,KZ16,2459.0
-2018,thousand of tenge,Soltustik Kazakhstan,KZ16,2669.4
-2018,thousand of tenge,Turkistan,KZ10,1690.5
-2010,thousand of tenge,Shygys Kazakhstan,KZ15,462.6
-2011,thousand of tenge,Shygys Kazakhstan,KZ15,562.7
-2012,thousand of tenge,Shygys Kazakhstan,KZ15,903.5
-2013,thousand of tenge,Shygys Kazakhstan,KZ15,1078.9
-2014,thousand of tenge,Shygys Kazakhstan,KZ15,1317.7
-2015,thousand of tenge,Shygys Kazakhstan,KZ15,1733.9
-2016,thousand of tenge,Shygys Kazakhstan,KZ15,2032.7
-2017,thousand of tenge,Shygys Kazakhstan,KZ15,2408.0
-2018,thousand of tenge,Shygys Kazakhstan,KZ15,2747.2
-2010,thousand of tenge,Nur-Sultan city,KZ05,453.7
-2011,thousand of tenge,Nur-Sultan city,KZ05,1145.3
-2012,thousand of tenge,Nur-Sultan city,KZ05,1044.9
-2013,thousand of tenge,Nur-Sultan city,KZ05,762.8
-2014,thousand of tenge,Nur-Sultan city,KZ05,648.8
-2015,thousand of tenge,Nur-Sultan city,KZ05,1533.5
-2016,thousand of tenge,Nur-Sultan city,KZ05,1002.9
-2017,thousand of tenge,Nur-Sultan city,KZ05,3116.5
-2018,thousand of tenge,Nur-Sultan city,KZ05,2721.3
-2010,thousand of tenge,Almaty city,KZ02,250.6
-2011,thousand of tenge,Almaty city,KZ02,363.7
-2012,thousand of tenge,Almaty city,KZ02,147.7
-2013,thousand of tenge,Almaty city,KZ02,194.3
-2014,thousand of tenge,Almaty city,KZ02,2416.8
-2015,thousand of tenge,Almaty city,KZ02,2051.0
-2016,thousand of tenge,Almaty city,KZ02,2231.0
-2017,thousand of tenge,Almaty city,KZ02,2136.9
-2018,thousand of tenge,Almaty city,KZ02,2355.5
-2018,thousand of tenge,Shymkent city,KZ18,1554.4
+Year,Units,Regions,Value
+2010,thousand of tenge,,428.8
+2010,thousand of tenge,Akmola,499.9
+2010,thousand of tenge,Aktobe,478.3
+2010,thousand of tenge,Almaty,387.2
+2010,thousand of tenge,Atyrau,866.7
+2010,thousand of tenge,Batys Kazakhstan,345.9
+2010,thousand of tenge,Zhambyl,233.6
+2010,thousand of tenge,Karagandy,463.5
+2010,thousand of tenge,Kostanay,712.3
+2010,thousand of tenge,Kyzylorda,656.3
+2010,thousand of tenge,Mangistau,691.7
+2010,thousand of tenge,Ontustik Kazakhstan,241.1
+2010,thousand of tenge,Pavlodar,473.6
+2010,thousand of tenge,Soltustik Kazakhstan,630.8
+2010,thousand of tenge,Shygys Kazakhstan,462.6
+2010,thousand of tenge,Nur-Sultan city,453.7
+2010,thousand of tenge,Almaty city,250.6
+2011,thousand of tenge,,641.6
+2011,thousand of tenge,Akmola,1146.2
+2011,thousand of tenge,Aktobe,847.3
+2011,thousand of tenge,Almaty,431.0
+2011,thousand of tenge,Atyrau,1172.5
+2011,thousand of tenge,Batys Kazakhstan,487.3
+2011,thousand of tenge,Zhambyl,314.5
+2011,thousand of tenge,Karagandy,594.5
+2011,thousand of tenge,Kostanay,1214.0
+2011,thousand of tenge,Kyzylorda,646.7
+2011,thousand of tenge,Mangistau,1184.2
+2011,thousand of tenge,Ontustik Kazakhstan,306.5
+2011,thousand of tenge,Pavlodar,605.0
+2011,thousand of tenge,Soltustik Kazakhstan,1337.1
+2011,thousand of tenge,Shygys Kazakhstan,562.7
+2011,thousand of tenge,Nur-Sultan city,1145.3
+2011,thousand of tenge,Almaty city,363.7
+2012,thousand of tenge,,612.2
+2012,thousand of tenge,Akmola,682.4
+2012,thousand of tenge,Aktobe,1035.1
+2012,thousand of tenge,Almaty,444.3
+2012,thousand of tenge,Atyrau,2271.6
+2012,thousand of tenge,Batys Kazakhstan,528.9
+2012,thousand of tenge,Zhambyl,348.1
+2012,thousand of tenge,Karagandy,827.7
+2012,thousand of tenge,Kostanay,615.7
+2012,thousand of tenge,Kyzylorda,1007.7
+2012,thousand of tenge,Mangistau,3586.9
+2012,thousand of tenge,Ontustik Kazakhstan,379.2
+2012,thousand of tenge,Pavlodar,594.6
+2012,thousand of tenge,Soltustik Kazakhstan,1200.6
+2012,thousand of tenge,Shygys Kazakhstan,903.5
+2012,thousand of tenge,Nur-Sultan city,1044.9
+2012,thousand of tenge,Almaty city,147.7
+2013,thousand of tenge,,781.9
+2013,thousand of tenge,Akmola,1018.0
+2013,thousand of tenge,Aktobe,1465.2
+2013,thousand of tenge,Almaty,612.3
+2013,thousand of tenge,Atyrau,4017.8
+2013,thousand of tenge,Batys Kazakhstan,633.0
+2013,thousand of tenge,Zhambyl,421.3
+2013,thousand of tenge,Karagandy,1147.9
+2013,thousand of tenge,Kostanay,784.5
+2013,thousand of tenge,Kyzylorda,1047.8
+2013,thousand of tenge,Mangistau,2633.0
+2013,thousand of tenge,Ontustik Kazakhstan,481.6
+2013,thousand of tenge,Pavlodar,840.7
+2013,thousand of tenge,Soltustik Kazakhstan,1254.4
+2013,thousand of tenge,Shygys Kazakhstan,1078.9
+2013,thousand of tenge,Nur-Sultan city,762.8
+2013,thousand of tenge,Almaty city,194.3
+2014,thousand of tenge,,1070.2
+2014,thousand of tenge,Akmola,1075.3
+2014,thousand of tenge,Aktobe,1910.7
+2014,thousand of tenge,Almaty,893.4
+2014,thousand of tenge,Atyrau,4021.6
+2014,thousand of tenge,Batys Kazakhstan,768.5
+2014,thousand of tenge,Zhambyl,799.6
+2014,thousand of tenge,Karagandy,1569.7
+2014,thousand of tenge,Kostanay,886.7
+2014,thousand of tenge,Kyzylorda,1106.9
+2014,thousand of tenge,Mangistau,2917.5
+2014,thousand of tenge,Ontustik Kazakhstan,932.7
+2014,thousand of tenge,Pavlodar,753.0
+2014,thousand of tenge,Soltustik Kazakhstan,1567.0
+2014,thousand of tenge,Shygys Kazakhstan,1317.7
+2014,thousand of tenge,Nur-Sultan city,648.8
+2014,thousand of tenge,Almaty city,2416.8
+2015,thousand of tenge,,1242.3
+2015,thousand of tenge,Akmola,1216.0
+2015,thousand of tenge,Aktobe,1732.3
+2015,thousand of tenge,Almaty,1088.2
+2015,thousand of tenge,Atyrau,5158.1
+2015,thousand of tenge,Batys Kazakhstan,831.9
+2015,thousand of tenge,Zhambyl,824.5
+2015,thousand of tenge,Karagandy,1949.0
+2015,thousand of tenge,Kostanay,979.5
+2015,thousand of tenge,Kyzylorda,1394.6
+2015,thousand of tenge,Mangistau,3033.3
+2015,thousand of tenge,Ontustik Kazakhstan,2608.5
+2015,thousand of tenge,Pavlodar,884.5
+2015,thousand of tenge,Soltustik Kazakhstan,1709.7
+2015,thousand of tenge,Shygys Kazakhstan,1733.9
+2015,thousand of tenge,Nur-Sultan city,1533.5
+2015,thousand of tenge,Almaty city,2051.0
+2016,thousand of tenge,,1401.9
+2016,thousand of tenge,Akmola,1365.9
+2016,thousand of tenge,Aktobe,1964.8
+2016,thousand of tenge,Almaty,1135.9
+2016,thousand of tenge,Atyrau,5338.7
+2016,thousand of tenge,Batys Kazakhstan,993.5
+2016,thousand of tenge,Zhambyl,925.6
+2016,thousand of tenge,Karagandy,2176.8
+2016,thousand of tenge,Kostanay,1080.3
+2016,thousand of tenge,Kyzylorda,1174.7
+2016,thousand of tenge,Mangistau,3547.7
+2016,thousand of tenge,Ontustik Kazakhstan,1429.5
+2016,thousand of tenge,Pavlodar,1153.4
+2016,thousand of tenge,Soltustik Kazakhstan,1939.5
+2016,thousand of tenge,Shygys Kazakhstan,2032.7
+2016,thousand of tenge,Nur-Sultan city,1002.9
+2016,thousand of tenge,Almaty city,2231.0
+2017,thousand of tenge,,1735.9
+2017,thousand of tenge,Akmola,1657.0
+2017,thousand of tenge,Aktobe,2680.5
+2017,thousand of tenge,Almaty,1449.9
+2017,thousand of tenge,Atyrau,6407.0
+2017,thousand of tenge,Batys Kazakhstan,1106.0
+2017,thousand of tenge,Zhambyl,957.4
+2017,thousand of tenge,Karagandy,3118.7
+2017,thousand of tenge,Kostanay,1446.5
+2017,thousand of tenge,Kyzylorda,1649.7
+2017,thousand of tenge,Mangistau,6516.1
+2017,thousand of tenge,Ontustik Kazakhstan,1551.7
+2017,thousand of tenge,Pavlodar,1487.7
+2017,thousand of tenge,Soltustik Kazakhstan,2615.7
+2017,thousand of tenge,Shygys Kazakhstan,2550.6
+2017,thousand of tenge,Nur-Sultan city,3141.7
+2017,thousand of tenge,Almaty city,2276.6
+2018,thousand of tenge,,2076.6
+2018,thousand of tenge,Akmola,1921.8
+2018,thousand of tenge,Aktobe,4239.8
+2018,thousand of tenge,Almaty,2069.4
+2018,thousand of tenge,Atyrau,7037.0
+2018,thousand of tenge,Batys Kazakhstan,1105.7
+2018,thousand of tenge,Zhambyl,1024.7
+2018,thousand of tenge,Karagandy,3347.5
+2018,thousand of tenge,Kostanay,1780.1
+2018,thousand of tenge,Kyzylorda,2291.8
+2018,thousand of tenge,Mangistau,11807.3
+2018,thousand of tenge,Pavlodar,1757.4
+2018,thousand of tenge,Soltustik Kazakhstan,2781.3
+2018,thousand of tenge,Turkistan,1725.6
+2018,thousand of tenge,Shygys Kazakhstan,3077.7
+2018,thousand of tenge,Nur-Sultan city,2134.8
+2018,thousand of tenge,Almaty city,2245.8
+2018,thousand of tenge,Shymkent city,2034.2
+2019,thousand of tenge,,2433.6
+2019,thousand of tenge,Akmola,2345.4
+2019,thousand of tenge,Aktobe,4751.0
+2019,thousand of tenge,Almaty,2361.0
+2019,thousand of tenge,Atyrau,8015.6
+2019,thousand of tenge,Batys Kazakhstan,1933.4
+2019,thousand of tenge,Zhambyl,1201.1
+2019,thousand of tenge,Karagandy,3342.6
+2019,thousand of tenge,Kostanay,1928.9
+2019,thousand of tenge,Kyzylorda,2803.2
+2019,thousand of tenge,Mangistau,12144.9
+2019,thousand of tenge,Pavlodar,2044.4
+2019,thousand of tenge,Soltustik Kazakhstan,3575.4
+2019,thousand of tenge,Turkistan,1981.0
+2019,thousand of tenge,Shygys Kazakhstan,3327.2
+2019,thousand of tenge,Nur-Sultan city,1167.9
+2019,thousand of tenge,Almaty city,2217.5
+2019,thousand of tenge,Shymkent city,2709.3
