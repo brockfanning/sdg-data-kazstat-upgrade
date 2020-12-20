@@ -71,8 +71,6 @@ docs_intro: This is a summary of the resources available on this data service.
 docs_indicator_url: http://brock.tips/sdg-site-kazstat-upgrade/[id]/
 docs_translate_disaggregations: true
 
-create_sdmx_mapping_tool: false
-
 indicator_options:
   non_disaggregation_columns:
     - Value
