@@ -1,4 +1,4 @@
-Year,Units,Area,Sex,Regions,Value
+Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2010,Percent,,,,23.4
 2011,Percent,,,,25.0
 2012,Percent,,,,27.8
@@ -461,870 +461,870 @@ Year,Units,Area,Sex,Regions,Value
 2017,Percent,,Female,Almaty city,23.6
 2018,Percent,,Female,Almaty city,23.9
 2018,Percent,,Female,Shymkent city,32.2
-2010,Percent,городская местность,,,28.3
-2011,Percent,городская местность,,,29.1
-2012,Percent,городская местность,,,30.6
-2013,Percent,городская местность,,,29.3
-2014,Percent,городская местность,,,32.7
-2015,Percent,городская местность,,,32.7
-2016,Percent,городская местность,,,35.6
-2017,Percent,городская местность,,,37.5
-2018,Percent,городская местность,,,38.4
-2010,Percent,городская местность,,Akmola,32.4
-2011,Percent,городская местность,,Akmola,36.9
-2012,Percent,городская местность,,Akmola,45.0
-2013,Percent,городская местность,,Akmola,43.3
-2014,Percent,городская местность,,Akmola,40.4
-2015,Percent,городская местность,,Akmola,44.0
-2016,Percent,городская местность,,Akmola,46.7
-2017,Percent,городская местность,,Akmola,44.6
-2018,Percent,городская местность,,Akmola,41.1
-2010,Percent,городская местность,,Aktobe,35.8
-2011,Percent,городская местность,,Aktobe,35.7
-2012,Percent,городская местность,,Aktobe,38.7
-2013,Percent,городская местность,,Aktobe,33.0
-2014,Percent,городская местность,,Aktobe,56.1
-2015,Percent,городская местность,,Aktobe,47.3
-2016,Percent,городская местность,,Aktobe,51.7
-2017,Percent,городская местность,,Aktobe,47.5
-2018,Percent,городская местность,,Aktobe,53.7
-2010,Percent,городская местность,,Almaty,15.0
-2011,Percent,городская местность,,Almaty,23.2
-2012,Percent,городская местность,,Almaty,27.2
-2013,Percent,городская местность,,Almaty,22.9
-2014,Percent,городская местность,,Almaty,29.9
-2015,Percent,городская местность,,Almaty,28.2
-2016,Percent,городская местность,,Almaty,27.8
-2017,Percent,городская местность,,Almaty,35.2
-2018,Percent,городская местность,,Almaty,38.8
-2010,Percent,городская местность,,Atyrau,38.0
-2011,Percent,городская местность,,Atyrau,37.8
-2012,Percent,городская местность,,Atyrau,27.3
-2013,Percent,городская местность,,Atyrau,29.5
-2014,Percent,городская местность,,Atyrau,30.5
-2015,Percent,городская местность,,Atyrau,49.4
-2016,Percent,городская местность,,Atyrau,34.9
-2017,Percent,городская местность,,Atyrau,42.3
-2018,Percent,городская местность,,Atyrau,35.7
-2010,Percent,городская местность,,Batys Kazakhstan,33.8
-2011,Percent,городская местность,,Batys Kazakhstan,35.1
-2012,Percent,городская местность,,Batys Kazakhstan,44.7
-2013,Percent,городская местность,,Batys Kazakhstan,42.8
-2014,Percent,городская местность,,Batys Kazakhstan,35.7
-2015,Percent,городская местность,,Batys Kazakhstan,40.1
-2016,Percent,городская местность,,Batys Kazakhstan,41.5
-2017,Percent,городская местность,,Batys Kazakhstan,38.8
-2018,Percent,городская местность,,Batys Kazakhstan,44.3
-2010,Percent,городская местность,,Zhambyl,33.9
-2011,Percent,городская местность,,Zhambyl,35.4
-2012,Percent,городская местность,,Zhambyl,25.4
-2013,Percent,городская местность,,Zhambyl,42.2
-2014,Percent,городская местность,,Zhambyl,23.8
-2015,Percent,городская местность,,Zhambyl,29.1
-2016,Percent,городская местность,,Zhambyl,41.1
-2017,Percent,городская местность,,Zhambyl,31.0
-2018,Percent,городская местность,,Zhambyl,33.5
-2010,Percent,городская местность,,Karagandy,30.7
-2011,Percent,городская местность,,Karagandy,30.0
-2012,Percent,городская местность,,Karagandy,30.4
-2013,Percent,городская местность,,Karagandy,26.7
-2014,Percent,городская местность,,Karagandy,35.6
-2015,Percent,городская местность,,Karagandy,31.8
-2016,Percent,городская местность,,Karagandy,38.4
-2017,Percent,городская местность,,Karagandy,42.4
-2018,Percent,городская местность,,Karagandy,44.3
-2010,Percent,городская местность,,Kostanay,27.7
-2011,Percent,городская местность,,Kostanay,35.5
-2012,Percent,городская местность,,Kostanay,41.8
-2013,Percent,городская местность,,Kostanay,40.5
-2014,Percent,городская местность,,Kostanay,41.4
-2015,Percent,городская местность,,Kostanay,48.9
-2016,Percent,городская местность,,Kostanay,45.4
-2017,Percent,городская местность,,Kostanay,47.0
-2018,Percent,городская местность,,Kostanay,54.8
-2010,Percent,городская местность,,Kyzylorda,20.1
-2011,Percent,городская местность,,Kyzylorda,23.9
-2012,Percent,городская местность,,Kyzylorda,29.4
-2013,Percent,городская местность,,Kyzylorda,31.8
-2014,Percent,городская местность,,Kyzylorda,44.0
-2015,Percent,городская местность,,Kyzylorda,33.7
-2016,Percent,городская местность,,Kyzylorda,38.3
-2017,Percent,городская местность,,Kyzylorda,43.8
-2018,Percent,городская местность,,Kyzylorda,45.3
-2010,Percent,городская местность,,Mangistau,46.3
-2011,Percent,городская местность,,Mangistau,37.9
-2012,Percent,городская местность,,Mangistau,38.7
-2013,Percent,городская местность,,Mangistau,45.8
-2014,Percent,городская местность,,Mangistau,39.3
-2015,Percent,городская местность,,Mangistau,59.5
-2016,Percent,городская местность,,Mangistau,55.5
-2017,Percent,городская местность,,Mangistau,67.1
-2018,Percent,городская местность,,Mangistau,60.9
-2010,Percent,городская местность,,Ontustik Kazakhstan,18.8
-2011,Percent,городская местность,,Ontustik Kazakhstan,19.1
-2012,Percent,городская местность,,Ontustik Kazakhstan,26.6
-2013,Percent,городская местность,,Ontustik Kazakhstan,24.0
-2014,Percent,городская местность,,Ontustik Kazakhstan,28.9
-2015,Percent,городская местность,,Ontustik Kazakhstan,32.5
-2016,Percent,городская местность,,Ontustik Kazakhstan,25.4
-2017,Percent,городская местность,,Ontustik Kazakhstan,28.6
-2010,Percent,городская местность,,Pavlodar,41.2
-2011,Percent,городская местность,,Pavlodar,43.5
-2012,Percent,городская местность,,Pavlodar,42.9
-2013,Percent,городская местность,,Pavlodar,48.6
-2014,Percent,городская местность,,Pavlodar,45.8
-2015,Percent,городская местность,,Pavlodar,52.8
-2016,Percent,городская местность,,Pavlodar,46.9
-2017,Percent,городская местность,,Pavlodar,50.4
-2018,Percent,городская местность,,Pavlodar,59.7
-2010,Percent,городская местность,,Soltustik Kazakhstan,29.8
-2011,Percent,городская местность,,Soltustik Kazakhstan,39.7
-2012,Percent,городская местность,,Soltustik Kazakhstan,41.0
-2013,Percent,городская местность,,Soltustik Kazakhstan,40.0
-2014,Percent,городская местность,,Soltustik Kazakhstan,42.1
-2015,Percent,городская местность,,Soltustik Kazakhstan,38.9
-2016,Percent,городская местность,,Soltustik Kazakhstan,31.2
-2017,Percent,городская местность,,Soltustik Kazakhstan,45.6
-2018,Percent,городская местность,,Soltustik Kazakhstan,54.3
-2018,Percent,городская местность,,Turkistan,42.9
-2010,Percent,городская местность,,Shygys Kazakhstan,32.9
-2011,Percent,городская местность,,Shygys Kazakhstan,32.3
-2012,Percent,городская местность,,Shygys Kazakhstan,36.9
-2013,Percent,городская местность,,Shygys Kazakhstan,35.3
-2014,Percent,городская местность,,Shygys Kazakhstan,37.1
-2015,Percent,городская местность,,Shygys Kazakhstan,37.1
-2016,Percent,городская местность,,Shygys Kazakhstan,38.2
-2017,Percent,городская местность,,Shygys Kazakhstan,49.2
-2018,Percent,городская местность,,Shygys Kazakhstan,53.2
-2010,Percent,городская местность,,Nur-Sultan city,31.6
-2011,Percent,городская местность,,Nur-Sultan city,23.3
-2012,Percent,городская местность,,Nur-Sultan city,24.2
-2013,Percent,городская местность,,Nur-Sultan city,18.0
-2014,Percent,городская местность,,Nur-Sultan city,33.4
-2015,Percent,городская местность,,Nur-Sultan city,34.1
-2016,Percent,городская местность,,Nur-Sultan city,34.6
-2017,Percent,городская местность,,Nur-Sultan city,32.7
-2018,Percent,городская местность,,Nur-Sultan city,21.2
-2010,Percent,городская местность,,Almaty city,18.7
-2011,Percent,городская местность,,Almaty city,20.2
-2012,Percent,городская местность,,Almaty city,18.7
-2013,Percent,городская местность,,Almaty city,17.5
-2014,Percent,городская местность,,Almaty city,15.6
-2015,Percent,городская местность,,Almaty city,12.7
-2016,Percent,городская местность,,Almaty city,25.3
-2017,Percent,городская местность,,Almaty city,24.2
-2018,Percent,городская местность,,Almaty city,24.7
-2018,Percent,городская местность,,Shymkent city,26.9
-2010,Percent,городская местность,Male,,30.7
-2011,Percent,городская местность,Male,,32.0
-2012,Percent,городская местность,Male,,32.4
-2013,Percent,городская местность,Male,,31.2
-2014,Percent,городская местность,Male,,34.8
-2015,Percent,городская местность,Male,,36.2
-2016,Percent,городская местность,Male,,38.2
-2017,Percent,городская местность,Male,,40.8
-2018,Percent,городская местность,Male,,41.1
-2010,Percent,городская местность,Male,Akmola,33.2
-2011,Percent,городская местность,Male,Akmola,38.5
-2012,Percent,городская местность,Male,Akmola,46.7
-2013,Percent,городская местность,Male,Akmola,47.0
-2014,Percent,городская местность,Male,Akmola,41.8
-2015,Percent,городская местность,Male,Akmola,50.7
-2016,Percent,городская местность,Male,Akmola,46.9
-2017,Percent,городская местность,Male,Akmola,43.9
-2018,Percent,городская местность,Male,Akmola,42.6
-2010,Percent,городская местность,Male,Aktobe,33.3
-2011,Percent,городская местность,Male,Aktobe,45.7
-2012,Percent,городская местность,Male,Aktobe,38.9
-2013,Percent,городская местность,Male,Aktobe,41.6
-2014,Percent,городская местность,Male,Aktobe,66.2
-2015,Percent,городская местность,Male,Aktobe,51.1
-2016,Percent,городская местность,Male,Aktobe,58.7
-2017,Percent,городская местность,Male,Aktobe,55.1
-2018,Percent,городская местность,Male,Aktobe,58.7
-2010,Percent,городская местность,Male,Almaty,15.1
-2011,Percent,городская местность,Male,Almaty,25.7
-2012,Percent,городская местность,Male,Almaty,23.2
-2013,Percent,городская местность,Male,Almaty,21.5
-2014,Percent,городская местность,Male,Almaty,31.6
-2015,Percent,городская местность,Male,Almaty,30.3
-2016,Percent,городская местность,Male,Almaty,29.3
-2017,Percent,городская местность,Male,Almaty,34.6
-2018,Percent,городская местность,Male,Almaty,42.8
-2010,Percent,городская местность,Male,Atyrau,40.3
-2011,Percent,городская местность,Male,Atyrau,41.2
-2012,Percent,городская местность,Male,Atyrau,32.8
-2013,Percent,городская местность,Male,Atyrau,31.4
-2014,Percent,городская местность,Male,Atyrau,32.8
-2015,Percent,городская местность,Male,Atyrau,53.4
-2016,Percent,городская местность,Male,Atyrau,34.9
-2017,Percent,городская местность,Male,Atyrau,45.5
-2018,Percent,городская местность,Male,Atyrau,37.6
-2010,Percent,городская местность,Male,Batys Kazakhstan,37.5
-2011,Percent,городская местность,Male,Batys Kazakhstan,38.3
-2012,Percent,городская местность,Male,Batys Kazakhstan,56.9
-2013,Percent,городская местность,Male,Batys Kazakhstan,43.0
-2014,Percent,городская местность,Male,Batys Kazakhstan,40.5
-2015,Percent,городская местность,Male,Batys Kazakhstan,42.3
-2016,Percent,городская местность,Male,Batys Kazakhstan,47.5
-2017,Percent,городская местность,Male,Batys Kazakhstan,44.8
-2018,Percent,городская местность,Male,Batys Kazakhstan,50.2
-2010,Percent,городская местность,Male,Zhambyl,44.9
-2011,Percent,городская местность,Male,Zhambyl,44.2
-2012,Percent,городская местность,Male,Zhambyl,29.2
-2013,Percent,городская местность,Male,Zhambyl,51.7
-2014,Percent,городская местность,Male,Zhambyl,25.2
-2015,Percent,городская местность,Male,Zhambyl,33.7
-2016,Percent,городская местность,Male,Zhambyl,45.1
-2017,Percent,городская местность,Male,Zhambyl,33.7
-2018,Percent,городская местность,Male,Zhambyl,37.7
-2010,Percent,городская местность,Male,Karagandy,32.5
-2011,Percent,городская местность,Male,Karagandy,31.2
-2012,Percent,городская местность,Male,Karagandy,30.2
-2013,Percent,городская местность,Male,Karagandy,28.1
-2014,Percent,городская местность,Male,Karagandy,36.4
-2015,Percent,городская местность,Male,Karagandy,36.1
-2016,Percent,городская местность,Male,Karagandy,41.2
-2017,Percent,городская местность,Male,Karagandy,45.6
-2018,Percent,городская местность,Male,Karagandy,48.3
-2010,Percent,городская местность,Male,Kostanay,32.4
-2011,Percent,городская местность,Male,Kostanay,40.7
-2012,Percent,городская местность,Male,Kostanay,42.5
-2013,Percent,городская местность,Male,Kostanay,38.2
-2014,Percent,городская местность,Male,Kostanay,41.9
-2015,Percent,городская местность,Male,Kostanay,51.0
-2016,Percent,городская местность,Male,Kostanay,51.6
-2017,Percent,городская местность,Male,Kostanay,52.1
-2018,Percent,городская местность,Male,Kostanay,59.1
-2010,Percent,городская местность,Male,Kyzylorda,21.9
-2011,Percent,городская местность,Male,Kyzylorda,22.0
-2012,Percent,городская местность,Male,Kyzylorda,25.6
-2013,Percent,городская местность,Male,Kyzylorda,30.7
-2014,Percent,городская местность,Male,Kyzylorda,44.3
-2015,Percent,городская местность,Male,Kyzylorda,34.4
-2016,Percent,городская местность,Male,Kyzylorda,41.1
-2017,Percent,городская местность,Male,Kyzylorda,47.6
-2018,Percent,городская местность,Male,Kyzylorda,47.2
-2010,Percent,городская местность,Male,Mangistau,50.1
-2011,Percent,городская местность,Male,Mangistau,43.9
-2012,Percent,городская местность,Male,Mangistau,45.8
-2013,Percent,городская местность,Male,Mangistau,32.6
-2014,Percent,городская местность,Male,Mangistau,41.8
-2015,Percent,городская местность,Male,Mangistau,65.5
-2016,Percent,городская местность,Male,Mangistau,63.3
-2017,Percent,городская местность,Male,Mangistau,72.2
-2018,Percent,городская местность,Male,Mangistau,64.0
-2010,Percent,городская местность,Male,Ontustik Kazakhstan,20.3
-2011,Percent,городская местность,Male,Ontustik Kazakhstan,19.6
-2012,Percent,городская местность,Male,Ontustik Kazakhstan,28.7
-2013,Percent,городская местность,Male,Ontustik Kazakhstan,24.8
-2014,Percent,городская местность,Male,Ontustik Kazakhstan,27.1
-2015,Percent,городская местность,Male,Ontustik Kazakhstan,34.8
-2016,Percent,городская местность,Male,Ontustik Kazakhstan,20.9
-2017,Percent,городская местность,Male,Ontustik Kazakhstan,31.1
-2010,Percent,городская местность,Male,Pavlodar,40.6
-2011,Percent,городская местность,Male,Pavlodar,45.6
-2012,Percent,городская местность,Male,Pavlodar,44.3
-2013,Percent,городская местность,Male,Pavlodar,50.0
-2014,Percent,городская местность,Male,Pavlodar,49.7
-2015,Percent,городская местность,Male,Pavlodar,60.3
-2016,Percent,городская местность,Male,Pavlodar,48.9
-2017,Percent,городская местность,Male,Pavlodar,56.4
-2018,Percent,городская местность,Male,Pavlodar,62.9
-2010,Percent,городская местность,Male,Soltustik Kazakhstan,28.0
-2011,Percent,городская местность,Male,Soltustik Kazakhstan,43.2
-2012,Percent,городская местность,Male,Soltustik Kazakhstan,50.8
-2013,Percent,городская местность,Male,Soltustik Kazakhstan,44.0
-2014,Percent,городская местность,Male,Soltustik Kazakhstan,45.4
-2015,Percent,городская местность,Male,Soltustik Kazakhstan,44.1
-2016,Percent,городская местность,Male,Soltustik Kazakhstan,32.6
-2017,Percent,городская местность,Male,Soltustik Kazakhstan,47.3
-2018,Percent,городская местность,Male,Soltustik Kazakhstan,54.3
-2018,Percent,городская местность,Male,Turkistan,41.9
-2010,Percent,городская местность,Male,Shygys Kazakhstan,35.7
-2011,Percent,городская местность,Male,Shygys Kazakhstan,33.4
-2012,Percent,городская местность,Male,Shygys Kazakhstan,41.3
-2013,Percent,городская местность,Male,Shygys Kazakhstan,42.0
-2014,Percent,городская местность,Male,Shygys Kazakhstan,42.5
-2015,Percent,городская местность,Male,Shygys Kazakhstan,43.6
-2016,Percent,городская местность,Male,Shygys Kazakhstan,39.0
-2017,Percent,городская местность,Male,Shygys Kazakhstan,55.6
-2018,Percent,городская местность,Male,Shygys Kazakhstan,58.4
-2010,Percent,городская местность,Male,Nur-Sultan city,36.2
-2011,Percent,городская местность,Male,Nur-Sultan city,23.6
-2012,Percent,городская местность,Male,Nur-Sultan city,26.9
-2013,Percent,городская местность,Male,Nur-Sultan city,19.4
-2014,Percent,городская местность,Male,Nur-Sultan city,32.5
-2015,Percent,городская местность,Male,Nur-Sultan city,36.2
-2016,Percent,городская местность,Male,Nur-Sultan city,38.1
-2017,Percent,городская местность,Male,Nur-Sultan city,37.0
-2018,Percent,городская местность,Male,Nur-Sultan city,23.9
-2010,Percent,городская местность,Male,Almaty city,21.1
-2011,Percent,городская местность,Male,Almaty city,25.0
-2012,Percent,городская местность,Male,Almaty city,17.5
-2013,Percent,городская местность,Male,Almaty city,19.4
-2014,Percent,городская местность,Male,Almaty city,16.2
-2015,Percent,городская местность,Male,Almaty city,13.3
-2016,Percent,городская местность,Male,Almaty city,28.5
-2017,Percent,городская местность,Male,Almaty city,24.9
-2018,Percent,городская местность,Male,Almaty city,25.6
-2018,Percent,городская местность,Male,Shymkent city,20.7
-2010,Percent,городская местность,Female,,25.7
-2011,Percent,городская местность,Female,,26.1
-2012,Percent,городская местность,Female,,28.7
-2013,Percent,городская местность,Female,,27.2
-2014,Percent,городская местность,Female,,30.5
-2015,Percent,городская местность,Female,,29.1
-2016,Percent,городская местность,Female,,32.8
-2017,Percent,городская местность,Female,,33.8
-2018,Percent,городская местность,Female,,35.6
-2010,Percent,городская местность,Female,Akmola,31.6
-2011,Percent,городская местность,Female,Akmola,35.2
-2012,Percent,городская местность,Female,Akmola,43.0
-2013,Percent,городская местность,Female,Akmola,38.9
-2014,Percent,городская местность,Female,Akmola,39.1
-2015,Percent,городская местность,Female,Akmola,37.5
-2016,Percent,городская местность,Female,Akmola,46.5
-2017,Percent,городская местность,Female,Akmola,45.4
-2018,Percent,городская местность,Female,Akmola,39.7
-2010,Percent,городская местность,Female,Aktobe,37.7
-2011,Percent,городская местность,Female,Aktobe,27.1
-2012,Percent,городская местность,Female,Aktobe,38.6
-2013,Percent,городская местность,Female,Aktobe,24.4
-2014,Percent,городская местность,Female,Aktobe,44.5
-2015,Percent,городская местность,Female,Aktobe,43.1
-2016,Percent,городская местность,Female,Aktobe,43.4
-2017,Percent,городская местность,Female,Aktobe,39.0
-2018,Percent,городская местность,Female,Aktobe,48.5
-2010,Percent,городская местность,Female,Almaty,14.9
-2011,Percent,городская местность,Female,Almaty,20.7
-2012,Percent,городская местность,Female,Almaty,32.5
-2013,Percent,городская местность,Female,Almaty,24.6
-2014,Percent,городская местность,Female,Almaty,28.1
-2015,Percent,городская местность,Female,Almaty,25.8
-2016,Percent,городская местность,Female,Almaty,26.0
-2017,Percent,городская местность,Female,Almaty,35.7
-2018,Percent,городская местность,Female,Almaty,34.4
-2010,Percent,городская местность,Female,Atyrau,35.1
-2011,Percent,городская местность,Female,Atyrau,34.4
-2012,Percent,городская местность,Female,Atyrau,21.7
-2013,Percent,городская местность,Female,Atyrau,27.6
-2014,Percent,городская местность,Female,Atyrau,28.0
-2015,Percent,городская местность,Female,Atyrau,44.8
-2016,Percent,городская местность,Female,Atyrau,34.9
-2017,Percent,городская местность,Female,Atyrau,38.6
-2018,Percent,городская местность,Female,Atyrau,33.9
-2010,Percent,городская местность,Female,Batys Kazakhstan,28.5
-2011,Percent,городская местность,Female,Batys Kazakhstan,31.8
-2012,Percent,городская местность,Female,Batys Kazakhstan,30.5
-2013,Percent,городская местность,Female,Batys Kazakhstan,42.5
-2014,Percent,городская местность,Female,Batys Kazakhstan,30.5
-2015,Percent,городская местность,Female,Batys Kazakhstan,37.7
-2016,Percent,городская местность,Female,Batys Kazakhstan,34.9
-2017,Percent,городская местность,Female,Batys Kazakhstan,33.0
-2018,Percent,городская местность,Female,Batys Kazakhstan,37.2
-2010,Percent,городская местность,Female,Zhambyl,22.8
-2011,Percent,городская местность,Female,Zhambyl,26.3
-2012,Percent,городская местность,Female,Zhambyl,21.2
-2013,Percent,городская местность,Female,Zhambyl,32.9
-2014,Percent,городская местность,Female,Zhambyl,22.3
-2015,Percent,городская местность,Female,Zhambyl,23.4
-2016,Percent,городская местность,Female,Zhambyl,35.7
-2017,Percent,городская местность,Female,Zhambyl,27.3
-2018,Percent,городская местность,Female,Zhambyl,28.4
-2010,Percent,городская местность,Female,Karagandy,28.8
-2011,Percent,городская местность,Female,Karagandy,28.8
-2012,Percent,городская местность,Female,Karagandy,30.7
-2013,Percent,городская местность,Female,Karagandy,25.2
-2014,Percent,городская местность,Female,Karagandy,34.6
-2015,Percent,городская местность,Female,Karagandy,26.7
-2016,Percent,городская местность,Female,Karagandy,34.8
-2017,Percent,городская местность,Female,Karagandy,37.9
-2018,Percent,городская местность,Female,Karagandy,39.0
-2010,Percent,городская местность,Female,Kostanay,22.8
-2011,Percent,городская местность,Female,Kostanay,30.2
-2012,Percent,городская местность,Female,Kostanay,41.1
-2013,Percent,городская местность,Female,Kostanay,42.6
-2014,Percent,городская местность,Female,Kostanay,41.0
-2015,Percent,городская местность,Female,Kostanay,46.5
-2016,Percent,городская местность,Female,Kostanay,39.2
-2017,Percent,городская местность,Female,Kostanay,42.0
-2018,Percent,городская местность,Female,Kostanay,50.8
-2010,Percent,городская местность,Female,Kyzylorda,18.3
-2011,Percent,городская местность,Female,Kyzylorda,26.1
-2012,Percent,городская местность,Female,Kyzylorda,34.0
-2013,Percent,городская местность,Female,Kyzylorda,33.2
-2014,Percent,городская местность,Female,Kyzylorda,43.6
-2015,Percent,городская местность,Female,Kyzylorda,32.7
-2016,Percent,городская местность,Female,Kyzylorda,35.5
-2017,Percent,городская местность,Female,Kyzylorda,39.7
-2018,Percent,городская местность,Female,Kyzylorda,42.9
-2010,Percent,городская местность,Female,Mangistau,41.0
-2011,Percent,городская местность,Female,Mangistau,30.6
-2012,Percent,городская местность,Female,Mangistau,29.9
-2013,Percent,городская местность,Female,Mangistau,59.0
-2014,Percent,городская местность,Female,Mangistau,36.4
-2015,Percent,городская местность,Female,Mangistau,52.9
-2016,Percent,городская местность,Female,Mangistau,44.6
-2017,Percent,городская местность,Female,Mangistau,59.9
-2018,Percent,городская местность,Female,Mangistau,57.1
-2010,Percent,городская местность,Female,Ontustik Kazakhstan,16.9
-2011,Percent,городская местность,Female,Ontustik Kazakhstan,18.6
-2012,Percent,городская местность,Female,Ontustik Kazakhstan,24.2
-2013,Percent,городская местность,Female,Ontustik Kazakhstan,23.0
-2014,Percent,городская местность,Female,Ontustik Kazakhstan,30.8
-2015,Percent,городская местность,Female,Ontustik Kazakhstan,30.2
-2016,Percent,городская местность,Female,Ontustik Kazakhstan,31.1
-2017,Percent,городская местность,Female,Ontustik Kazakhstan,25.0
-2010,Percent,городская местность,Female,Pavlodar,41.8
-2011,Percent,городская местность,Female,Pavlodar,41.0
-2012,Percent,городская местность,Female,Pavlodar,41.2
-2013,Percent,городская местность,Female,Pavlodar,46.9
-2014,Percent,городская местность,Female,Pavlodar,41.6
-2015,Percent,городская местность,Female,Pavlodar,44.4
-2016,Percent,городская местность,Female,Pavlodar,44.7
-2017,Percent,городская местность,Female,Pavlodar,43.9
-2018,Percent,городская местность,Female,Pavlodar,56.7
-2010,Percent,городская местность,Female,Soltustik Kazakhstan,32.0
-2011,Percent,городская местность,Female,Soltustik Kazakhstan,36.1
-2012,Percent,городская местность,Female,Soltustik Kazakhstan,32.4
-2013,Percent,городская местность,Female,Soltustik Kazakhstan,36.3
-2014,Percent,городская местность,Female,Soltustik Kazakhstan,37.8
-2015,Percent,городская местность,Female,Soltustik Kazakhstan,33.0
-2016,Percent,городская местность,Female,Soltustik Kazakhstan,29.6
-2017,Percent,городская местность,Female,Soltustik Kazakhstan,43.5
-2018,Percent,городская местность,Female,Soltustik Kazakhstan,54.2
-2018,Percent,городская местность,Female,Turkistan,44.2
-2010,Percent,городская местность,Female,Shygys Kazakhstan,30.3
-2011,Percent,городская местность,Female,Shygys Kazakhstan,31.2
-2012,Percent,городская местность,Female,Shygys Kazakhstan,32.0
-2013,Percent,городская местность,Female,Shygys Kazakhstan,27.9
-2014,Percent,городская местность,Female,Shygys Kazakhstan,30.9
-2015,Percent,городская местность,Female,Shygys Kazakhstan,30.7
-2016,Percent,городская местность,Female,Shygys Kazakhstan,37.5
-2017,Percent,городская местность,Female,Shygys Kazakhstan,42.4
-2018,Percent,городская местность,Female,Shygys Kazakhstan,47.7
-2010,Percent,городская местность,Female,Nur-Sultan city,26.9
-2011,Percent,городская местность,Female,Nur-Sultan city,23.1
-2012,Percent,городская местность,Female,Nur-Sultan city,21.2
-2013,Percent,городская местность,Female,Nur-Sultan city,16.7
-2014,Percent,городская местность,Female,Nur-Sultan city,34.3
-2015,Percent,городская местность,Female,Nur-Sultan city,31.9
-2016,Percent,городская местность,Female,Nur-Sultan city,31.0
-2017,Percent,городская местность,Female,Nur-Sultan city,28.0
-2018,Percent,городская местность,Female,Nur-Sultan city,18.5
-2010,Percent,городская местность,Female,Almaty city,16.2
-2011,Percent,городская местность,Female,Almaty city,15.4
-2012,Percent,городская местность,Female,Almaty city,19.8
-2013,Percent,городская местность,Female,Almaty city,15.7
-2014,Percent,городская местность,Female,Almaty city,14.9
-2015,Percent,городская местность,Female,Almaty city,12.2
-2016,Percent,городская местность,Female,Almaty city,22.2
-2017,Percent,городская местность,Female,Almaty city,23.6
-2018,Percent,городская местность,Female,Almaty city,23.9
-2018,Percent,городская местность,Female,Shymkent city,32.2
-2010,Percent,сельская местность,,,18.9
-2011,Percent,сельская местность,,,20.8
-2012,Percent,сельская местность,,,24.5
-2013,Percent,сельская местность,,,25.3
-2014,Percent,сельская местность,,,32.0
-2015,Percent,сельская местность,,,32.3
-2016,Percent,сельская местность,,,33.3
-2017,Percent,сельская местность,,,35.4
-2018,Percent,сельская местность,,,42.1
-2010,Percent,сельская местность,,Akmola,24.2
-2011,Percent,сельская местность,,Akmola,25.2
-2012,Percent,сельская местность,,Akmola,24.3
-2013,Percent,сельская местность,,Akmola,24.4
-2014,Percent,сельская местность,,Akmola,32.1
-2015,Percent,сельская местность,,Akmola,39.9
-2016,Percent,сельская местность,,Akmola,38.8
-2017,Percent,сельская местность,,Akmola,39.2
-2018,Percent,сельская местность,,Akmola,43.7
-2010,Percent,сельская местность,,Aktobe,26.4
-2011,Percent,сельская местность,,Aktobe,32.3
-2012,Percent,сельская местность,,Aktobe,42.6
-2013,Percent,сельская местность,,Aktobe,44.3
-2014,Percent,сельская местность,,Aktobe,48.8
-2015,Percent,сельская местность,,Aktobe,45.2
-2016,Percent,сельская местность,,Aktobe,48.0
-2017,Percent,сельская местность,,Aktobe,50.8
-2018,Percent,сельская местность,,Aktobe,49.4
-2010,Percent,сельская местность,,Almaty,16.7
-2011,Percent,сельская местность,,Almaty,18.9
-2012,Percent,сельская местность,,Almaty,26.5
-2013,Percent,сельская местность,,Almaty,18.9
-2014,Percent,сельская местность,,Almaty,29.0
-2015,Percent,сельская местность,,Almaty,25.2
-2016,Percent,сельская местность,,Almaty,25.9
-2017,Percent,сельская местность,,Almaty,25.6
-2018,Percent,сельская местность,,Almaty,37.7
-2010,Percent,сельская местность,,Atyrau,30.0
-2011,Percent,сельская местность,,Atyrau,33.9
-2012,Percent,сельская местность,,Atyrau,26.2
-2013,Percent,сельская местность,,Atyrau,26.7
-2014,Percent,сельская местность,,Atyrau,30.1
-2015,Percent,сельская местность,,Atyrau,31.1
-2016,Percent,сельская местность,,Atyrau,29.7
-2017,Percent,сельская местность,,Atyrau,38.2
-2018,Percent,сельская местность,,Atyrau,32.3
-2010,Percent,сельская местность,,Batys Kazakhstan,19.8
-2011,Percent,сельская местность,,Batys Kazakhstan,24.5
-2012,Percent,сельская местность,,Batys Kazakhstan,39.5
-2013,Percent,сельская местность,,Batys Kazakhstan,50.0
-2014,Percent,сельская местность,,Batys Kazakhstan,34.2
-2015,Percent,сельская местность,,Batys Kazakhstan,35.9
-2016,Percent,сельская местность,,Batys Kazakhstan,38.4
-2017,Percent,сельская местность,,Batys Kazakhstan,50.3
-2018,Percent,сельская местность,,Batys Kazakhstan,55.1
-2010,Percent,сельская местность,,Zhambyl,10.3
-2011,Percent,сельская местность,,Zhambyl,15.2
-2012,Percent,сельская местность,,Zhambyl,23.5
-2013,Percent,сельская местность,,Zhambyl,35.4
-2014,Percent,сельская местность,,Zhambyl,23.4
-2015,Percent,сельская местность,,Zhambyl,23.6
-2016,Percent,сельская местность,,Zhambyl,26.8
-2017,Percent,сельская местность,,Zhambyl,21.7
-2018,Percent,сельская местность,,Zhambyl,29.7
-2010,Percent,сельская местность,,Karagandy,20.8
-2011,Percent,сельская местность,,Karagandy,24.3
-2012,Percent,сельская местность,,Karagandy,26.5
-2013,Percent,сельская местность,,Karagandy,25.0
-2014,Percent,сельская местность,,Karagandy,41.5
-2015,Percent,сельская местность,,Karagandy,42.3
-2016,Percent,сельская местность,,Karagandy,41.5
-2017,Percent,сельская местность,,Karagandy,41.6
-2018,Percent,сельская местность,,Karagandy,48.2
-2010,Percent,сельская местность,,Kostanay,26.9
-2011,Percent,сельская местность,,Kostanay,31.8
-2012,Percent,сельская местность,,Kostanay,34.0
-2013,Percent,сельская местность,,Kostanay,35.8
-2014,Percent,сельская местность,,Kostanay,35.9
-2015,Percent,сельская местность,,Kostanay,42.4
-2016,Percent,сельская местность,,Kostanay,41.2
-2017,Percent,сельская местность,,Kostanay,42.1
-2018,Percent,сельская местность,,Kostanay,45.9
-2010,Percent,сельская местность,,Kyzylorda,20.5
-2011,Percent,сельская местность,,Kyzylorda,23.0
-2012,Percent,сельская местность,,Kyzylorda,28.1
-2013,Percent,сельская местность,,Kyzylorda,23.5
-2014,Percent,сельская местность,,Kyzylorda,37.5
-2015,Percent,сельская местность,,Kyzylorda,42.9
-2016,Percent,сельская местность,,Kyzylorda,38.9
-2017,Percent,сельская местность,,Kyzylorda,42.8
-2018,Percent,сельская местность,,Kyzylorda,42.9
-2010,Percent,сельская местность,,Mangistau,37.6
-2011,Percent,сельская местность,,Mangistau,34.3
-2012,Percent,сельская местность,,Mangistau,32.0
-2013,Percent,сельская местность,,Mangistau,39.7
-2014,Percent,сельская местность,,Mangistau,51.6
-2015,Percent,сельская местность,,Mangistau,62.6
-2016,Percent,сельская местность,,Mangistau,64.3
-2017,Percent,сельская местность,,Mangistau,73.1
-2018,Percent,сельская местность,,Mangistau,71.0
-2010,Percent,сельская местность,,Ontustik Kazakhstan,8.8
-2011,Percent,сельская местность,,Ontustik Kazakhstan,9.4
-2012,Percent,сельская местность,,Ontustik Kazakhstan,11.7
-2013,Percent,сельская местность,,Ontustik Kazakhstan,9.9
-2014,Percent,сельская местность,,Ontustik Kazakhstan,26.8
-2015,Percent,сельская местность,,Ontustik Kazakhstan,23.5
-2016,Percent,сельская местность,,Ontustik Kazakhstan,25.7
-2017,Percent,сельская местность,,Ontustik Kazakhstan,29.6
-2010,Percent,сельская местность,,Pavlodar,36.1
-2011,Percent,сельская местность,,Pavlodar,24.8
-2012,Percent,сельская местность,,Pavlodar,30.5
-2013,Percent,сельская местность,,Pavlodar,40.9
-2014,Percent,сельская местность,,Pavlodar,35.3
-2015,Percent,сельская местность,,Pavlodar,40.0
-2016,Percent,сельская местность,,Pavlodar,39.8
-2017,Percent,сельская местность,,Pavlodar,49.0
-2018,Percent,сельская местность,,Pavlodar,55.9
-2010,Percent,сельская местность,,Soltustik Kazakhstan,26.1
-2011,Percent,сельская местность,,Soltustik Kazakhstan,24.7
-2012,Percent,сельская местность,,Soltustik Kazakhstan,23.3
-2013,Percent,сельская местность,,Soltustik Kazakhstan,21.1
-2014,Percent,сельская местность,,Soltustik Kazakhstan,39.7
-2015,Percent,сельская местность,,Soltustik Kazakhstan,36.6
-2016,Percent,сельская местность,,Soltustik Kazakhstan,39.7
-2017,Percent,сельская местность,,Soltustik Kazakhstan,38.8
-2018,Percent,сельская местность,,Soltustik Kazakhstan,46.2
-2018,Percent,сельская местность,,Turkistan,36.4
-2010,Percent,сельская местность,,Shygys Kazakhstan,18.9
-2011,Percent,сельская местность,,Shygys Kazakhstan,22.7
-2012,Percent,сельская местность,,Shygys Kazakhstan,24.8
-2013,Percent,сельская местность,,Shygys Kazakhstan,30.8
-2014,Percent,сельская местность,,Shygys Kazakhstan,37.3
-2015,Percent,сельская местность,,Shygys Kazakhstan,41.8
-2016,Percent,сельская местность,,Shygys Kazakhstan,42.9
-2017,Percent,сельская местность,,Shygys Kazakhstan,41.3
-2018,Percent,сельская местность,,Shygys Kazakhstan,46.7
-2010,Percent,сельская местность,Male,,17.6
-2011,Percent,сельская местность,Male,,20.3
-2012,Percent,сельская местность,Male,,23.5
-2013,Percent,сельская местность,Male,,25.4
-2014,Percent,сельская местность,Male,,32.3
-2015,Percent,сельская местность,Male,,32.6
-2016,Percent,сельская местность,Male,,33.2
-2017,Percent,сельская местность,Male,,35.5
-2018,Percent,сельская местность,Male,,43.1
-2010,Percent,сельская местность,Male,Akmola,22.9
-2011,Percent,сельская местность,Male,Akmola,23.8
-2012,Percent,сельская местность,Male,Akmola,22.4
-2013,Percent,сельская местность,Male,Akmola,25.1
-2014,Percent,сельская местность,Male,Akmola,33.3
-2015,Percent,сельская местность,Male,Akmola,40.7
-2016,Percent,сельская местность,Male,Akmola,39.7
-2017,Percent,сельская местность,Male,Akmola,40.2
-2018,Percent,сельская местность,Male,Akmola,46.1
-2010,Percent,сельская местность,Male,Aktobe,24.4
-2011,Percent,сельская местность,Male,Aktobe,29.8
-2012,Percent,сельская местность,Male,Aktobe,39.1
-2013,Percent,сельская местность,Male,Aktobe,42.1
-2014,Percent,сельская местность,Male,Aktobe,53.3
-2015,Percent,сельская местность,Male,Aktobe,47.3
-2016,Percent,сельская местность,Male,Aktobe,50.4
-2017,Percent,сельская местность,Male,Aktobe,53.5
-2018,Percent,сельская местность,Male,Aktobe,54.8
-2010,Percent,сельская местность,Male,Almaty,17.4
-2011,Percent,сельская местность,Male,Almaty,20.0
-2012,Percent,сельская местность,Male,Almaty,25.6
-2013,Percent,сельская местность,Male,Almaty,19.7
-2014,Percent,сельская местность,Male,Almaty,28.4
-2015,Percent,сельская местность,Male,Almaty,24.8
-2016,Percent,сельская местность,Male,Almaty,24.5
-2017,Percent,сельская местность,Male,Almaty,24.5
-2018,Percent,сельская местность,Male,Almaty,37.2
-2010,Percent,сельская местность,Male,Atyrau,25.9
-2011,Percent,сельская местность,Male,Atyrau,34.3
-2012,Percent,сельская местность,Male,Atyrau,27.0
-2013,Percent,сельская местность,Male,Atyrau,28.0
-2014,Percent,сельская местность,Male,Atyrau,31.6
-2015,Percent,сельская местность,Male,Atyrau,32.7
-2016,Percent,сельская местность,Male,Atyrau,33.6
-2017,Percent,сельская местность,Male,Atyrau,42.1
-2018,Percent,сельская местность,Male,Atyrau,32.8
-2010,Percent,сельская местность,Male,Batys Kazakhstan,14.1
-2011,Percent,сельская местность,Male,Batys Kazakhstan,20.0
-2012,Percent,сельская местность,Male,Batys Kazakhstan,37.0
-2013,Percent,сельская местность,Male,Batys Kazakhstan,52.7
-2014,Percent,сельская местность,Male,Batys Kazakhstan,33.4
-2015,Percent,сельская местность,Male,Batys Kazakhstan,36.7
-2016,Percent,сельская местность,Male,Batys Kazakhstan,39.2
-2017,Percent,сельская местность,Male,Batys Kazakhstan,48.7
-2018,Percent,сельская местность,Male,Batys Kazakhstan,54.8
-2010,Percent,сельская местность,Male,Zhambyl,8.4
-2011,Percent,сельская местность,Male,Zhambyl,14.9
-2012,Percent,сельская местность,Male,Zhambyl,20.8
-2013,Percent,сельская местность,Male,Zhambyl,32.6
-2014,Percent,сельская местность,Male,Zhambyl,21.7
-2015,Percent,сельская местность,Male,Zhambyl,23.0
-2016,Percent,сельская местность,Male,Zhambyl,24.9
-2017,Percent,сельская местность,Male,Zhambyl,21.6
-2018,Percent,сельская местность,Male,Zhambyl,31.5
-2010,Percent,сельская местность,Male,Karagandy,21.0
-2011,Percent,сельская местность,Male,Karagandy,24.3
-2012,Percent,сельская местность,Male,Karagandy,25.6
-2013,Percent,сельская местность,Male,Karagandy,27.6
-2014,Percent,сельская местность,Male,Karagandy,41.7
-2015,Percent,сельская местность,Male,Karagandy,41.4
-2016,Percent,сельская местность,Male,Karagandy,41.6
-2017,Percent,сельская местность,Male,Karagandy,41.0
-2018,Percent,сельская местность,Male,Karagandy,48.4
-2010,Percent,сельская местность,Male,Kostanay,26.4
-2011,Percent,сельская местность,Male,Kostanay,32.4
-2012,Percent,сельская местность,Male,Kostanay,34.5
-2013,Percent,сельская местность,Male,Kostanay,39.8
-2014,Percent,сельская местность,Male,Kostanay,37.1
-2015,Percent,сельская местность,Male,Kostanay,44.6
-2016,Percent,сельская местность,Male,Kostanay,42.3
-2017,Percent,сельская местность,Male,Kostanay,44.3
-2018,Percent,сельская местность,Male,Kostanay,48.0
-2010,Percent,сельская местность,Male,Kyzylorda,15.6
-2011,Percent,сельская местность,Male,Kyzylorda,17.9
-2012,Percent,сельская местность,Male,Kyzylorda,27.7
-2013,Percent,сельская местность,Male,Kyzylorda,22.0
-2014,Percent,сельская местность,Male,Kyzylorda,37.6
-2015,Percent,сельская местность,Male,Kyzylorda,44.1
-2016,Percent,сельская местность,Male,Kyzylorda,39.0
-2017,Percent,сельская местность,Male,Kyzylorda,43.2
-2018,Percent,сельская местность,Male,Kyzylorda,42.1
-2010,Percent,сельская местность,Male,Mangistau,34.7
-2011,Percent,сельская местность,Male,Mangistau,37.0
-2012,Percent,сельская местность,Male,Mangistau,41.0
-2013,Percent,сельская местность,Male,Mangistau,36.3
-2014,Percent,сельская местность,Male,Mangistau,56.5
-2015,Percent,сельская местность,Male,Mangistau,66.1
-2016,Percent,сельская местность,Male,Mangistau,66.2
-2017,Percent,сельская местность,Male,Mangistau,75.6
-2018,Percent,сельская местность,Male,Mangistau,72.4
-2010,Percent,сельская местность,Male,Ontustik Kazakhstan,9.6
-2011,Percent,сельская местность,Male,Ontustik Kazakhstan,9.6
-2012,Percent,сельская местность,Male,Ontustik Kazakhstan,9.2
-2013,Percent,сельская местность,Male,Ontustik Kazakhstan,9.9
-2014,Percent,сельская местность,Male,Ontustik Kazakhstan,27.1
-2015,Percent,сельская местность,Male,Ontustik Kazakhstan,21.6
-2016,Percent,сельская местность,Male,Ontustik Kazakhstan,24.2
-2017,Percent,сельская местность,Male,Ontustik Kazakhstan,27.9
-2010,Percent,сельская местность,Male,Pavlodar,33.1
-2011,Percent,сельская местность,Male,Pavlodar,25.5
-2012,Percent,сельская местность,Male,Pavlodar,31.9
-2013,Percent,сельская местность,Male,Pavlodar,42.5
-2014,Percent,сельская местность,Male,Pavlodar,33.0
-2015,Percent,сельская местность,Male,Pavlodar,40.3
-2016,Percent,сельская местность,Male,Pavlodar,38.9
-2017,Percent,сельская местность,Male,Pavlodar,48.5
-2018,Percent,сельская местность,Male,Pavlodar,58.8
-2010,Percent,сельская местность,Male,Soltustik Kazakhstan,24.3
-2011,Percent,сельская местность,Male,Soltustik Kazakhstan,24.9
-2012,Percent,сельская местность,Male,Soltustik Kazakhstan,29.1
-2013,Percent,сельская местность,Male,Soltustik Kazakhstan,21.0
-2014,Percent,сельская местность,Male,Soltustik Kazakhstan,41.1
-2015,Percent,сельская местность,Male,Soltustik Kazakhstan,37.5
-2016,Percent,сельская местность,Male,Soltustik Kazakhstan,41.4
-2017,Percent,сельская местность,Male,Soltustik Kazakhstan,37.8
-2018,Percent,сельская местность,Male,Soltustik Kazakhstan,46.8
-2018,Percent,сельская местность,Male,Turkistan,39.0
-2010,Percent,сельская местность,Male,Shygys Kazakhstan,15.6
-2011,Percent,сельская местность,Male,Shygys Kazakhstan,20.5
-2012,Percent,сельская местность,Male,Shygys Kazakhstan,21.5
-2013,Percent,сельская местность,Male,Shygys Kazakhstan,33.5
-2014,Percent,сельская местность,Male,Shygys Kazakhstan,35.8
-2015,Percent,сельская местность,Male,Shygys Kazakhstan,44.4
-2016,Percent,сельская местность,Male,Shygys Kazakhstan,43.7
-2017,Percent,сельская местность,Male,Shygys Kazakhstan,42.6
-2018,Percent,сельская местность,Male,Shygys Kazakhstan,45.5
-2010,Percent,сельская местность,Female,,20.5
-2011,Percent,сельская местность,Female,,21.4
-2012,Percent,сельская местность,Female,,25.8
-2013,Percent,сельская местность,Female,,25.1
-2014,Percent,сельская местность,Female,,31.6
-2015,Percent,сельская местность,Female,,31.9
-2016,Percent,сельская местность,Female,,33.4
-2017,Percent,сельская местность,Female,,35.2
-2018,Percent,сельская местность,Female,,40.8
-2010,Percent,сельская местность,Female,Akmola,25.9
-2011,Percent,сельская местность,Female,Akmola,27.0
-2012,Percent,сельская местность,Female,Akmola,26.7
-2013,Percent,сельская местность,Female,Akmola,23.3
-2014,Percent,сельская местность,Female,Akmola,30.5
-2015,Percent,сельская местность,Female,Akmola,38.8
-2016,Percent,сельская местность,Female,Akmola,37.6
-2017,Percent,сельская местность,Female,Akmola,38.1
-2018,Percent,сельская местность,Female,Akmola,40.8
-2010,Percent,сельская местность,Female,Aktobe,28.5
-2011,Percent,сельская местность,Female,Aktobe,34.8
-2012,Percent,сельская местность,Female,Aktobe,46.5
-2013,Percent,сельская местность,Female,Aktobe,46.3
-2014,Percent,сельская местность,Female,Aktobe,43.3
-2015,Percent,сельская местность,Female,Aktobe,42.6
-2016,Percent,сельская местность,Female,Aktobe,44.8
-2017,Percent,сельская местность,Female,Aktobe,47.2
-2018,Percent,сельская местность,Female,Aktobe,41.1
-2010,Percent,сельская местность,Female,Almaty,15.7
-2011,Percent,сельская местность,Female,Almaty,17.6
-2012,Percent,сельская местность,Female,Almaty,27.6
-2013,Percent,сельская местность,Female,Almaty,18.0
-2014,Percent,сельская местность,Female,Almaty,29.8
-2015,Percent,сельская местность,Female,Almaty,25.6
-2016,Percent,сельская местность,Female,Almaty,27.6
-2017,Percent,сельская местность,Female,Almaty,26.8
-2018,Percent,сельская местность,Female,Almaty,38.3
-2010,Percent,сельская местность,Female,Atyrau,34.7
-2011,Percent,сельская местность,Female,Atyrau,33.3
-2012,Percent,сельская местность,Female,Atyrau,25.2
-2013,Percent,сельская местность,Female,Atyrau,25.3
-2014,Percent,сельская местность,Female,Atyrau,28.4
-2015,Percent,сельская местность,Female,Atyrau,29.0
-2016,Percent,сельская местность,Female,Atyrau,24.9
-2017,Percent,сельская местность,Female,Atyrau,32.5
-2018,Percent,сельская местность,Female,Atyrau,31.4
-2010,Percent,сельская местность,Female,Batys Kazakhstan,26.3
-2011,Percent,сельская местность,Female,Batys Kazakhstan,30.2
-2012,Percent,сельская местность,Female,Batys Kazakhstan,42.6
-2013,Percent,сельская местность,Female,Batys Kazakhstan,46.9
-2014,Percent,сельская местность,Female,Batys Kazakhstan,35.3
-2015,Percent,сельская местность,Female,Batys Kazakhstan,34.7
-2016,Percent,сельская местность,Female,Batys Kazakhstan,37.6
-2017,Percent,сельская местность,Female,Batys Kazakhstan,52.3
-2018,Percent,сельская местность,Female,Batys Kazakhstan,55.5
-2010,Percent,сельская местность,Female,Zhambyl,12.5
-2011,Percent,сельская местность,Female,Zhambyl,15.6
-2012,Percent,сельская местность,Female,Zhambyl,26.5
-2013,Percent,сельская местность,Female,Zhambyl,38.5
-2014,Percent,сельская местность,Female,Zhambyl,25.6
-2015,Percent,сельская местность,Female,Zhambyl,24.5
-2016,Percent,сельская местность,Female,Zhambyl,29.5
-2017,Percent,сельская местность,Female,Zhambyl,21.8
-2018,Percent,сельская местность,Female,Zhambyl,27.5
-2010,Percent,сельская местность,Female,Karagandy,20.4
-2011,Percent,сельская местность,Female,Karagandy,24.2
-2012,Percent,сельская местность,Female,Karagandy,27.8
-2013,Percent,сельская местность,Female,Karagandy,21.6
-2014,Percent,сельская местность,Female,Karagandy,41.1
-2015,Percent,сельская местность,Female,Karagandy,44.0
-2016,Percent,сельская местность,Female,Karagandy,41.3
-2017,Percent,сельская местность,Female,Karagandy,42.4
-2018,Percent,сельская местность,Female,Karagandy,48.0
-2010,Percent,сельская местность,Female,Kostanay,27.4
-2011,Percent,сельская местность,Female,Kostanay,31.2
-2012,Percent,сельская местность,Female,Kostanay,33.4
-2013,Percent,сельская местность,Female,Kostanay,31.5
-2014,Percent,сельская местность,Female,Kostanay,34.5
-2015,Percent,сельская местность,Female,Kostanay,39.6
-2016,Percent,сельская местность,Female,Kostanay,39.9
-2017,Percent,сельская местность,Female,Kostanay,39.6
-2018,Percent,сельская местность,Female,Kostanay,43.5
-2010,Percent,сельская местность,Female,Kyzylorda,26.8
-2011,Percent,сельская местность,Female,Kyzylorda,29.4
-2012,Percent,сельская местность,Female,Kyzylorda,28.7
-2013,Percent,сельская местность,Female,Kyzylorda,25.5
-2014,Percent,сельская местность,Female,Kyzylorda,37.5
-2015,Percent,сельская местность,Female,Kyzylorda,41.3
-2016,Percent,сельская местность,Female,Kyzylorda,38.7
-2017,Percent,сельская местность,Female,Kyzylorda,42.3
-2018,Percent,сельская местность,Female,Kyzylorda,44.0
-2010,Percent,сельская местность,Female,Mangistau,41.3
-2011,Percent,сельская местность,Female,Mangistau,30.3
-2012,Percent,сельская местность,Female,Mangistau,19.7
-2013,Percent,сельская местность,Female,Mangistau,44.8
-2014,Percent,сельская местность,Female,Mangistau,43.2
-2015,Percent,сельская местность,Female,Mangistau,57.5
-2016,Percent,сельская местность,Female,Mangistau,61.2
-2017,Percent,сельская местность,Female,Mangistau,69.6
-2018,Percent,сельская местность,Female,Mangistau,69.3
-2010,Percent,сельская местность,Female,Ontustik Kazakhstan,7.9
-2011,Percent,сельская местность,Female,Ontustik Kazakhstan,9.1
-2012,Percent,сельская местность,Female,Ontustik Kazakhstan,14.7
-2013,Percent,сельская местность,Female,Ontustik Kazakhstan,10.0
-2014,Percent,сельская местность,Female,Ontustik Kazakhstan,26.5
-2015,Percent,сельская местность,Female,Ontustik Kazakhstan,26.2
-2016,Percent,сельская местность,Female,Ontustik Kazakhstan,28.0
-2017,Percent,сельская местность,Female,Ontustik Kazakhstan,32.0
-2010,Percent,сельская местность,Female,Pavlodar,39.7
-2011,Percent,сельская местность,Female,Pavlodar,24.0
-2012,Percent,сельская местность,Female,Pavlodar,28.4
-2013,Percent,сельская местность,Female,Pavlodar,37.9
-2014,Percent,сельская местность,Female,Pavlodar,37.9
-2015,Percent,сельская местность,Female,Pavlodar,39.7
-2016,Percent,сельская местность,Female,Pavlodar,41.1
-2017,Percent,сельская местность,Female,Pavlodar,49.8
-2018,Percent,сельская местность,Female,Pavlodar,52.8
-2010,Percent,сельская местность,Female,Soltustik Kazakhstan,28.4
-2011,Percent,сельская местность,Female,Soltustik Kazakhstan,24.5
-2012,Percent,сельская местность,Female,Soltustik Kazakhstan,16.7
-2013,Percent,сельская местность,Female,Soltustik Kazakhstan,21.3
-2014,Percent,сельская местность,Female,Soltustik Kazakhstan,37.7
-2015,Percent,сельская местность,Female,Soltustik Kazakhstan,35.3
-2016,Percent,сельская местность,Female,Soltustik Kazakhstan,37.4
-2017,Percent,сельская местность,Female,Soltustik Kazakhstan,40.0
-2018,Percent,сельская местность,Female,Soltustik Kazakhstan,45.3
-2018,Percent,сельская местность,Female,Turkistan,33.0
-2010,Percent,сельская местность,Female,Shygys Kazakhstan,23.4
-2011,Percent,сельская местность,Female,Shygys Kazakhstan,26.0
-2012,Percent,сельская местность,Female,Shygys Kazakhstan,29.3
-2013,Percent,сельская местность,Female,Shygys Kazakhstan,27.5
-2014,Percent,сельская местность,Female,Shygys Kazakhstan,39.3
-2015,Percent,сельская местность,Female,Shygys Kazakhstan,37.7
-2016,Percent,сельская местность,Female,Shygys Kazakhstan,41.8
-2017,Percent,сельская местность,Female,Shygys Kazakhstan,39.4
-2018,Percent,сельская местность,Female,Shygys Kazakhstan,48.3
+2010,Percent,Population of urban areas,,,28.3
+2011,Percent,Population of urban areas,,,29.1
+2012,Percent,Population of urban areas,,,30.6
+2013,Percent,Population of urban areas,,,29.3
+2014,Percent,Population of urban areas,,,32.7
+2015,Percent,Population of urban areas,,,32.7
+2016,Percent,Population of urban areas,,,35.6
+2017,Percent,Population of urban areas,,,37.5
+2018,Percent,Population of urban areas,,,38.4
+2010,Percent,Population of urban areas,,Akmola,32.4
+2011,Percent,Population of urban areas,,Akmola,36.9
+2012,Percent,Population of urban areas,,Akmola,45.0
+2013,Percent,Population of urban areas,,Akmola,43.3
+2014,Percent,Population of urban areas,,Akmola,40.4
+2015,Percent,Population of urban areas,,Akmola,44.0
+2016,Percent,Population of urban areas,,Akmola,46.7
+2017,Percent,Population of urban areas,,Akmola,44.6
+2018,Percent,Population of urban areas,,Akmola,41.1
+2010,Percent,Population of urban areas,,Aktobe,35.8
+2011,Percent,Population of urban areas,,Aktobe,35.7
+2012,Percent,Population of urban areas,,Aktobe,38.7
+2013,Percent,Population of urban areas,,Aktobe,33.0
+2014,Percent,Population of urban areas,,Aktobe,56.1
+2015,Percent,Population of urban areas,,Aktobe,47.3
+2016,Percent,Population of urban areas,,Aktobe,51.7
+2017,Percent,Population of urban areas,,Aktobe,47.5
+2018,Percent,Population of urban areas,,Aktobe,53.7
+2010,Percent,Population of urban areas,,Almaty,15.0
+2011,Percent,Population of urban areas,,Almaty,23.2
+2012,Percent,Population of urban areas,,Almaty,27.2
+2013,Percent,Population of urban areas,,Almaty,22.9
+2014,Percent,Population of urban areas,,Almaty,29.9
+2015,Percent,Population of urban areas,,Almaty,28.2
+2016,Percent,Population of urban areas,,Almaty,27.8
+2017,Percent,Population of urban areas,,Almaty,35.2
+2018,Percent,Population of urban areas,,Almaty,38.8
+2010,Percent,Population of urban areas,,Atyrau,38.0
+2011,Percent,Population of urban areas,,Atyrau,37.8
+2012,Percent,Population of urban areas,,Atyrau,27.3
+2013,Percent,Population of urban areas,,Atyrau,29.5
+2014,Percent,Population of urban areas,,Atyrau,30.5
+2015,Percent,Population of urban areas,,Atyrau,49.4
+2016,Percent,Population of urban areas,,Atyrau,34.9
+2017,Percent,Population of urban areas,,Atyrau,42.3
+2018,Percent,Population of urban areas,,Atyrau,35.7
+2010,Percent,Population of urban areas,,Batys Kazakhstan,33.8
+2011,Percent,Population of urban areas,,Batys Kazakhstan,35.1
+2012,Percent,Population of urban areas,,Batys Kazakhstan,44.7
+2013,Percent,Population of urban areas,,Batys Kazakhstan,42.8
+2014,Percent,Population of urban areas,,Batys Kazakhstan,35.7
+2015,Percent,Population of urban areas,,Batys Kazakhstan,40.1
+2016,Percent,Population of urban areas,,Batys Kazakhstan,41.5
+2017,Percent,Population of urban areas,,Batys Kazakhstan,38.8
+2018,Percent,Population of urban areas,,Batys Kazakhstan,44.3
+2010,Percent,Population of urban areas,,Zhambyl,33.9
+2011,Percent,Population of urban areas,,Zhambyl,35.4
+2012,Percent,Population of urban areas,,Zhambyl,25.4
+2013,Percent,Population of urban areas,,Zhambyl,42.2
+2014,Percent,Population of urban areas,,Zhambyl,23.8
+2015,Percent,Population of urban areas,,Zhambyl,29.1
+2016,Percent,Population of urban areas,,Zhambyl,41.1
+2017,Percent,Population of urban areas,,Zhambyl,31.0
+2018,Percent,Population of urban areas,,Zhambyl,33.5
+2010,Percent,Population of urban areas,,Karagandy,30.7
+2011,Percent,Population of urban areas,,Karagandy,30.0
+2012,Percent,Population of urban areas,,Karagandy,30.4
+2013,Percent,Population of urban areas,,Karagandy,26.7
+2014,Percent,Population of urban areas,,Karagandy,35.6
+2015,Percent,Population of urban areas,,Karagandy,31.8
+2016,Percent,Population of urban areas,,Karagandy,38.4
+2017,Percent,Population of urban areas,,Karagandy,42.4
+2018,Percent,Population of urban areas,,Karagandy,44.3
+2010,Percent,Population of urban areas,,Kostanay,27.7
+2011,Percent,Population of urban areas,,Kostanay,35.5
+2012,Percent,Population of urban areas,,Kostanay,41.8
+2013,Percent,Population of urban areas,,Kostanay,40.5
+2014,Percent,Population of urban areas,,Kostanay,41.4
+2015,Percent,Population of urban areas,,Kostanay,48.9
+2016,Percent,Population of urban areas,,Kostanay,45.4
+2017,Percent,Population of urban areas,,Kostanay,47.0
+2018,Percent,Population of urban areas,,Kostanay,54.8
+2010,Percent,Population of urban areas,,Kyzylorda,20.1
+2011,Percent,Population of urban areas,,Kyzylorda,23.9
+2012,Percent,Population of urban areas,,Kyzylorda,29.4
+2013,Percent,Population of urban areas,,Kyzylorda,31.8
+2014,Percent,Population of urban areas,,Kyzylorda,44.0
+2015,Percent,Population of urban areas,,Kyzylorda,33.7
+2016,Percent,Population of urban areas,,Kyzylorda,38.3
+2017,Percent,Population of urban areas,,Kyzylorda,43.8
+2018,Percent,Population of urban areas,,Kyzylorda,45.3
+2010,Percent,Population of urban areas,,Mangistau,46.3
+2011,Percent,Population of urban areas,,Mangistau,37.9
+2012,Percent,Population of urban areas,,Mangistau,38.7
+2013,Percent,Population of urban areas,,Mangistau,45.8
+2014,Percent,Population of urban areas,,Mangistau,39.3
+2015,Percent,Population of urban areas,,Mangistau,59.5
+2016,Percent,Population of urban areas,,Mangistau,55.5
+2017,Percent,Population of urban areas,,Mangistau,67.1
+2018,Percent,Population of urban areas,,Mangistau,60.9
+2010,Percent,Population of urban areas,,Ontustik Kazakhstan,18.8
+2011,Percent,Population of urban areas,,Ontustik Kazakhstan,19.1
+2012,Percent,Population of urban areas,,Ontustik Kazakhstan,26.6
+2013,Percent,Population of urban areas,,Ontustik Kazakhstan,24.0
+2014,Percent,Population of urban areas,,Ontustik Kazakhstan,28.9
+2015,Percent,Population of urban areas,,Ontustik Kazakhstan,32.5
+2016,Percent,Population of urban areas,,Ontustik Kazakhstan,25.4
+2017,Percent,Population of urban areas,,Ontustik Kazakhstan,28.6
+2010,Percent,Population of urban areas,,Pavlodar,41.2
+2011,Percent,Population of urban areas,,Pavlodar,43.5
+2012,Percent,Population of urban areas,,Pavlodar,42.9
+2013,Percent,Population of urban areas,,Pavlodar,48.6
+2014,Percent,Population of urban areas,,Pavlodar,45.8
+2015,Percent,Population of urban areas,,Pavlodar,52.8
+2016,Percent,Population of urban areas,,Pavlodar,46.9
+2017,Percent,Population of urban areas,,Pavlodar,50.4
+2018,Percent,Population of urban areas,,Pavlodar,59.7
+2010,Percent,Population of urban areas,,Soltustik Kazakhstan,29.8
+2011,Percent,Population of urban areas,,Soltustik Kazakhstan,39.7
+2012,Percent,Population of urban areas,,Soltustik Kazakhstan,41.0
+2013,Percent,Population of urban areas,,Soltustik Kazakhstan,40.0
+2014,Percent,Population of urban areas,,Soltustik Kazakhstan,42.1
+2015,Percent,Population of urban areas,,Soltustik Kazakhstan,38.9
+2016,Percent,Population of urban areas,,Soltustik Kazakhstan,31.2
+2017,Percent,Population of urban areas,,Soltustik Kazakhstan,45.6
+2018,Percent,Population of urban areas,,Soltustik Kazakhstan,54.3
+2018,Percent,Population of urban areas,,Turkistan,42.9
+2010,Percent,Population of urban areas,,Shygys Kazakhstan,32.9
+2011,Percent,Population of urban areas,,Shygys Kazakhstan,32.3
+2012,Percent,Population of urban areas,,Shygys Kazakhstan,36.9
+2013,Percent,Population of urban areas,,Shygys Kazakhstan,35.3
+2014,Percent,Population of urban areas,,Shygys Kazakhstan,37.1
+2015,Percent,Population of urban areas,,Shygys Kazakhstan,37.1
+2016,Percent,Population of urban areas,,Shygys Kazakhstan,38.2
+2017,Percent,Population of urban areas,,Shygys Kazakhstan,49.2
+2018,Percent,Population of urban areas,,Shygys Kazakhstan,53.2
+2010,Percent,Population of urban areas,,Nur-Sultan city,31.6
+2011,Percent,Population of urban areas,,Nur-Sultan city,23.3
+2012,Percent,Population of urban areas,,Nur-Sultan city,24.2
+2013,Percent,Population of urban areas,,Nur-Sultan city,18.0
+2014,Percent,Population of urban areas,,Nur-Sultan city,33.4
+2015,Percent,Population of urban areas,,Nur-Sultan city,34.1
+2016,Percent,Population of urban areas,,Nur-Sultan city,34.6
+2017,Percent,Population of urban areas,,Nur-Sultan city,32.7
+2018,Percent,Population of urban areas,,Nur-Sultan city,21.2
+2010,Percent,Population of urban areas,,Almaty city,18.7
+2011,Percent,Population of urban areas,,Almaty city,20.2
+2012,Percent,Population of urban areas,,Almaty city,18.7
+2013,Percent,Population of urban areas,,Almaty city,17.5
+2014,Percent,Population of urban areas,,Almaty city,15.6
+2015,Percent,Population of urban areas,,Almaty city,12.7
+2016,Percent,Population of urban areas,,Almaty city,25.3
+2017,Percent,Population of urban areas,,Almaty city,24.2
+2018,Percent,Population of urban areas,,Almaty city,24.7
+2018,Percent,Population of urban areas,,Shymkent city,26.9
+2010,Percent,Population of urban areas,Male,,30.7
+2011,Percent,Population of urban areas,Male,,32.0
+2012,Percent,Population of urban areas,Male,,32.4
+2013,Percent,Population of urban areas,Male,,31.2
+2014,Percent,Population of urban areas,Male,,34.8
+2015,Percent,Population of urban areas,Male,,36.2
+2016,Percent,Population of urban areas,Male,,38.2
+2017,Percent,Population of urban areas,Male,,40.8
+2018,Percent,Population of urban areas,Male,,41.1
+2010,Percent,Population of urban areas,Male,Akmola,33.2
+2011,Percent,Population of urban areas,Male,Akmola,38.5
+2012,Percent,Population of urban areas,Male,Akmola,46.7
+2013,Percent,Population of urban areas,Male,Akmola,47.0
+2014,Percent,Population of urban areas,Male,Akmola,41.8
+2015,Percent,Population of urban areas,Male,Akmola,50.7
+2016,Percent,Population of urban areas,Male,Akmola,46.9
+2017,Percent,Population of urban areas,Male,Akmola,43.9
+2018,Percent,Population of urban areas,Male,Akmola,42.6
+2010,Percent,Population of urban areas,Male,Aktobe,33.3
+2011,Percent,Population of urban areas,Male,Aktobe,45.7
+2012,Percent,Population of urban areas,Male,Aktobe,38.9
+2013,Percent,Population of urban areas,Male,Aktobe,41.6
+2014,Percent,Population of urban areas,Male,Aktobe,66.2
+2015,Percent,Population of urban areas,Male,Aktobe,51.1
+2016,Percent,Population of urban areas,Male,Aktobe,58.7
+2017,Percent,Population of urban areas,Male,Aktobe,55.1
+2018,Percent,Population of urban areas,Male,Aktobe,58.7
+2010,Percent,Population of urban areas,Male,Almaty,15.1
+2011,Percent,Population of urban areas,Male,Almaty,25.7
+2012,Percent,Population of urban areas,Male,Almaty,23.2
+2013,Percent,Population of urban areas,Male,Almaty,21.5
+2014,Percent,Population of urban areas,Male,Almaty,31.6
+2015,Percent,Population of urban areas,Male,Almaty,30.3
+2016,Percent,Population of urban areas,Male,Almaty,29.3
+2017,Percent,Population of urban areas,Male,Almaty,34.6
+2018,Percent,Population of urban areas,Male,Almaty,42.8
+2010,Percent,Population of urban areas,Male,Atyrau,40.3
+2011,Percent,Population of urban areas,Male,Atyrau,41.2
+2012,Percent,Population of urban areas,Male,Atyrau,32.8
+2013,Percent,Population of urban areas,Male,Atyrau,31.4
+2014,Percent,Population of urban areas,Male,Atyrau,32.8
+2015,Percent,Population of urban areas,Male,Atyrau,53.4
+2016,Percent,Population of urban areas,Male,Atyrau,34.9
+2017,Percent,Population of urban areas,Male,Atyrau,45.5
+2018,Percent,Population of urban areas,Male,Atyrau,37.6
+2010,Percent,Population of urban areas,Male,Batys Kazakhstan,37.5
+2011,Percent,Population of urban areas,Male,Batys Kazakhstan,38.3
+2012,Percent,Population of urban areas,Male,Batys Kazakhstan,56.9
+2013,Percent,Population of urban areas,Male,Batys Kazakhstan,43.0
+2014,Percent,Population of urban areas,Male,Batys Kazakhstan,40.5
+2015,Percent,Population of urban areas,Male,Batys Kazakhstan,42.3
+2016,Percent,Population of urban areas,Male,Batys Kazakhstan,47.5
+2017,Percent,Population of urban areas,Male,Batys Kazakhstan,44.8
+2018,Percent,Population of urban areas,Male,Batys Kazakhstan,50.2
+2010,Percent,Population of urban areas,Male,Zhambyl,44.9
+2011,Percent,Population of urban areas,Male,Zhambyl,44.2
+2012,Percent,Population of urban areas,Male,Zhambyl,29.2
+2013,Percent,Population of urban areas,Male,Zhambyl,51.7
+2014,Percent,Population of urban areas,Male,Zhambyl,25.2
+2015,Percent,Population of urban areas,Male,Zhambyl,33.7
+2016,Percent,Population of urban areas,Male,Zhambyl,45.1
+2017,Percent,Population of urban areas,Male,Zhambyl,33.7
+2018,Percent,Population of urban areas,Male,Zhambyl,37.7
+2010,Percent,Population of urban areas,Male,Karagandy,32.5
+2011,Percent,Population of urban areas,Male,Karagandy,31.2
+2012,Percent,Population of urban areas,Male,Karagandy,30.2
+2013,Percent,Population of urban areas,Male,Karagandy,28.1
+2014,Percent,Population of urban areas,Male,Karagandy,36.4
+2015,Percent,Population of urban areas,Male,Karagandy,36.1
+2016,Percent,Population of urban areas,Male,Karagandy,41.2
+2017,Percent,Population of urban areas,Male,Karagandy,45.6
+2018,Percent,Population of urban areas,Male,Karagandy,48.3
+2010,Percent,Population of urban areas,Male,Kostanay,32.4
+2011,Percent,Population of urban areas,Male,Kostanay,40.7
+2012,Percent,Population of urban areas,Male,Kostanay,42.5
+2013,Percent,Population of urban areas,Male,Kostanay,38.2
+2014,Percent,Population of urban areas,Male,Kostanay,41.9
+2015,Percent,Population of urban areas,Male,Kostanay,51.0
+2016,Percent,Population of urban areas,Male,Kostanay,51.6
+2017,Percent,Population of urban areas,Male,Kostanay,52.1
+2018,Percent,Population of urban areas,Male,Kostanay,59.1
+2010,Percent,Population of urban areas,Male,Kyzylorda,21.9
+2011,Percent,Population of urban areas,Male,Kyzylorda,22.0
+2012,Percent,Population of urban areas,Male,Kyzylorda,25.6
+2013,Percent,Population of urban areas,Male,Kyzylorda,30.7
+2014,Percent,Population of urban areas,Male,Kyzylorda,44.3
+2015,Percent,Population of urban areas,Male,Kyzylorda,34.4
+2016,Percent,Population of urban areas,Male,Kyzylorda,41.1
+2017,Percent,Population of urban areas,Male,Kyzylorda,47.6
+2018,Percent,Population of urban areas,Male,Kyzylorda,47.2
+2010,Percent,Population of urban areas,Male,Mangistau,50.1
+2011,Percent,Population of urban areas,Male,Mangistau,43.9
+2012,Percent,Population of urban areas,Male,Mangistau,45.8
+2013,Percent,Population of urban areas,Male,Mangistau,32.6
+2014,Percent,Population of urban areas,Male,Mangistau,41.8
+2015,Percent,Population of urban areas,Male,Mangistau,65.5
+2016,Percent,Population of urban areas,Male,Mangistau,63.3
+2017,Percent,Population of urban areas,Male,Mangistau,72.2
+2018,Percent,Population of urban areas,Male,Mangistau,64.0
+2010,Percent,Population of urban areas,Male,Ontustik Kazakhstan,20.3
+2011,Percent,Population of urban areas,Male,Ontustik Kazakhstan,19.6
+2012,Percent,Population of urban areas,Male,Ontustik Kazakhstan,28.7
+2013,Percent,Population of urban areas,Male,Ontustik Kazakhstan,24.8
+2014,Percent,Population of urban areas,Male,Ontustik Kazakhstan,27.1
+2015,Percent,Population of urban areas,Male,Ontustik Kazakhstan,34.8
+2016,Percent,Population of urban areas,Male,Ontustik Kazakhstan,20.9
+2017,Percent,Population of urban areas,Male,Ontustik Kazakhstan,31.1
+2010,Percent,Population of urban areas,Male,Pavlodar,40.6
+2011,Percent,Population of urban areas,Male,Pavlodar,45.6
+2012,Percent,Population of urban areas,Male,Pavlodar,44.3
+2013,Percent,Population of urban areas,Male,Pavlodar,50.0
+2014,Percent,Population of urban areas,Male,Pavlodar,49.7
+2015,Percent,Population of urban areas,Male,Pavlodar,60.3
+2016,Percent,Population of urban areas,Male,Pavlodar,48.9
+2017,Percent,Population of urban areas,Male,Pavlodar,56.4
+2018,Percent,Population of urban areas,Male,Pavlodar,62.9
+2010,Percent,Population of urban areas,Male,Soltustik Kazakhstan,28.0
+2011,Percent,Population of urban areas,Male,Soltustik Kazakhstan,43.2
+2012,Percent,Population of urban areas,Male,Soltustik Kazakhstan,50.8
+2013,Percent,Population of urban areas,Male,Soltustik Kazakhstan,44.0
+2014,Percent,Population of urban areas,Male,Soltustik Kazakhstan,45.4
+2015,Percent,Population of urban areas,Male,Soltustik Kazakhstan,44.1
+2016,Percent,Population of urban areas,Male,Soltustik Kazakhstan,32.6
+2017,Percent,Population of urban areas,Male,Soltustik Kazakhstan,47.3
+2018,Percent,Population of urban areas,Male,Soltustik Kazakhstan,54.3
+2018,Percent,Population of urban areas,Male,Turkistan,41.9
+2010,Percent,Population of urban areas,Male,Shygys Kazakhstan,35.7
+2011,Percent,Population of urban areas,Male,Shygys Kazakhstan,33.4
+2012,Percent,Population of urban areas,Male,Shygys Kazakhstan,41.3
+2013,Percent,Population of urban areas,Male,Shygys Kazakhstan,42.0
+2014,Percent,Population of urban areas,Male,Shygys Kazakhstan,42.5
+2015,Percent,Population of urban areas,Male,Shygys Kazakhstan,43.6
+2016,Percent,Population of urban areas,Male,Shygys Kazakhstan,39.0
+2017,Percent,Population of urban areas,Male,Shygys Kazakhstan,55.6
+2018,Percent,Population of urban areas,Male,Shygys Kazakhstan,58.4
+2010,Percent,Population of urban areas,Male,Nur-Sultan city,36.2
+2011,Percent,Population of urban areas,Male,Nur-Sultan city,23.6
+2012,Percent,Population of urban areas,Male,Nur-Sultan city,26.9
+2013,Percent,Population of urban areas,Male,Nur-Sultan city,19.4
+2014,Percent,Population of urban areas,Male,Nur-Sultan city,32.5
+2015,Percent,Population of urban areas,Male,Nur-Sultan city,36.2
+2016,Percent,Population of urban areas,Male,Nur-Sultan city,38.1
+2017,Percent,Population of urban areas,Male,Nur-Sultan city,37.0
+2018,Percent,Population of urban areas,Male,Nur-Sultan city,23.9
+2010,Percent,Population of urban areas,Male,Almaty city,21.1
+2011,Percent,Population of urban areas,Male,Almaty city,25.0
+2012,Percent,Population of urban areas,Male,Almaty city,17.5
+2013,Percent,Population of urban areas,Male,Almaty city,19.4
+2014,Percent,Population of urban areas,Male,Almaty city,16.2
+2015,Percent,Population of urban areas,Male,Almaty city,13.3
+2016,Percent,Population of urban areas,Male,Almaty city,28.5
+2017,Percent,Population of urban areas,Male,Almaty city,24.9
+2018,Percent,Population of urban areas,Male,Almaty city,25.6
+2018,Percent,Population of urban areas,Male,Shymkent city,20.7
+2010,Percent,Population of urban areas,Female,,25.7
+2011,Percent,Population of urban areas,Female,,26.1
+2012,Percent,Population of urban areas,Female,,28.7
+2013,Percent,Population of urban areas,Female,,27.2
+2014,Percent,Population of urban areas,Female,,30.5
+2015,Percent,Population of urban areas,Female,,29.1
+2016,Percent,Population of urban areas,Female,,32.8
+2017,Percent,Population of urban areas,Female,,33.8
+2018,Percent,Population of urban areas,Female,,35.6
+2010,Percent,Population of urban areas,Female,Akmola,31.6
+2011,Percent,Population of urban areas,Female,Akmola,35.2
+2012,Percent,Population of urban areas,Female,Akmola,43.0
+2013,Percent,Population of urban areas,Female,Akmola,38.9
+2014,Percent,Population of urban areas,Female,Akmola,39.1
+2015,Percent,Population of urban areas,Female,Akmola,37.5
+2016,Percent,Population of urban areas,Female,Akmola,46.5
+2017,Percent,Population of urban areas,Female,Akmola,45.4
+2018,Percent,Population of urban areas,Female,Akmola,39.7
+2010,Percent,Population of urban areas,Female,Aktobe,37.7
+2011,Percent,Population of urban areas,Female,Aktobe,27.1
+2012,Percent,Population of urban areas,Female,Aktobe,38.6
+2013,Percent,Population of urban areas,Female,Aktobe,24.4
+2014,Percent,Population of urban areas,Female,Aktobe,44.5
+2015,Percent,Population of urban areas,Female,Aktobe,43.1
+2016,Percent,Population of urban areas,Female,Aktobe,43.4
+2017,Percent,Population of urban areas,Female,Aktobe,39.0
+2018,Percent,Population of urban areas,Female,Aktobe,48.5
+2010,Percent,Population of urban areas,Female,Almaty,14.9
+2011,Percent,Population of urban areas,Female,Almaty,20.7
+2012,Percent,Population of urban areas,Female,Almaty,32.5
+2013,Percent,Population of urban areas,Female,Almaty,24.6
+2014,Percent,Population of urban areas,Female,Almaty,28.1
+2015,Percent,Population of urban areas,Female,Almaty,25.8
+2016,Percent,Population of urban areas,Female,Almaty,26.0
+2017,Percent,Population of urban areas,Female,Almaty,35.7
+2018,Percent,Population of urban areas,Female,Almaty,34.4
+2010,Percent,Population of urban areas,Female,Atyrau,35.1
+2011,Percent,Population of urban areas,Female,Atyrau,34.4
+2012,Percent,Population of urban areas,Female,Atyrau,21.7
+2013,Percent,Population of urban areas,Female,Atyrau,27.6
+2014,Percent,Population of urban areas,Female,Atyrau,28.0
+2015,Percent,Population of urban areas,Female,Atyrau,44.8
+2016,Percent,Population of urban areas,Female,Atyrau,34.9
+2017,Percent,Population of urban areas,Female,Atyrau,38.6
+2018,Percent,Population of urban areas,Female,Atyrau,33.9
+2010,Percent,Population of urban areas,Female,Batys Kazakhstan,28.5
+2011,Percent,Population of urban areas,Female,Batys Kazakhstan,31.8
+2012,Percent,Population of urban areas,Female,Batys Kazakhstan,30.5
+2013,Percent,Population of urban areas,Female,Batys Kazakhstan,42.5
+2014,Percent,Population of urban areas,Female,Batys Kazakhstan,30.5
+2015,Percent,Population of urban areas,Female,Batys Kazakhstan,37.7
+2016,Percent,Population of urban areas,Female,Batys Kazakhstan,34.9
+2017,Percent,Population of urban areas,Female,Batys Kazakhstan,33.0
+2018,Percent,Population of urban areas,Female,Batys Kazakhstan,37.2
+2010,Percent,Population of urban areas,Female,Zhambyl,22.8
+2011,Percent,Population of urban areas,Female,Zhambyl,26.3
+2012,Percent,Population of urban areas,Female,Zhambyl,21.2
+2013,Percent,Population of urban areas,Female,Zhambyl,32.9
+2014,Percent,Population of urban areas,Female,Zhambyl,22.3
+2015,Percent,Population of urban areas,Female,Zhambyl,23.4
+2016,Percent,Population of urban areas,Female,Zhambyl,35.7
+2017,Percent,Population of urban areas,Female,Zhambyl,27.3
+2018,Percent,Population of urban areas,Female,Zhambyl,28.4
+2010,Percent,Population of urban areas,Female,Karagandy,28.8
+2011,Percent,Population of urban areas,Female,Karagandy,28.8
+2012,Percent,Population of urban areas,Female,Karagandy,30.7
+2013,Percent,Population of urban areas,Female,Karagandy,25.2
+2014,Percent,Population of urban areas,Female,Karagandy,34.6
+2015,Percent,Population of urban areas,Female,Karagandy,26.7
+2016,Percent,Population of urban areas,Female,Karagandy,34.8
+2017,Percent,Population of urban areas,Female,Karagandy,37.9
+2018,Percent,Population of urban areas,Female,Karagandy,39.0
+2010,Percent,Population of urban areas,Female,Kostanay,22.8
+2011,Percent,Population of urban areas,Female,Kostanay,30.2
+2012,Percent,Population of urban areas,Female,Kostanay,41.1
+2013,Percent,Population of urban areas,Female,Kostanay,42.6
+2014,Percent,Population of urban areas,Female,Kostanay,41.0
+2015,Percent,Population of urban areas,Female,Kostanay,46.5
+2016,Percent,Population of urban areas,Female,Kostanay,39.2
+2017,Percent,Population of urban areas,Female,Kostanay,42.0
+2018,Percent,Population of urban areas,Female,Kostanay,50.8
+2010,Percent,Population of urban areas,Female,Kyzylorda,18.3
+2011,Percent,Population of urban areas,Female,Kyzylorda,26.1
+2012,Percent,Population of urban areas,Female,Kyzylorda,34.0
+2013,Percent,Population of urban areas,Female,Kyzylorda,33.2
+2014,Percent,Population of urban areas,Female,Kyzylorda,43.6
+2015,Percent,Population of urban areas,Female,Kyzylorda,32.7
+2016,Percent,Population of urban areas,Female,Kyzylorda,35.5
+2017,Percent,Population of urban areas,Female,Kyzylorda,39.7
+2018,Percent,Population of urban areas,Female,Kyzylorda,42.9
+2010,Percent,Population of urban areas,Female,Mangistau,41.0
+2011,Percent,Population of urban areas,Female,Mangistau,30.6
+2012,Percent,Population of urban areas,Female,Mangistau,29.9
+2013,Percent,Population of urban areas,Female,Mangistau,59.0
+2014,Percent,Population of urban areas,Female,Mangistau,36.4
+2015,Percent,Population of urban areas,Female,Mangistau,52.9
+2016,Percent,Population of urban areas,Female,Mangistau,44.6
+2017,Percent,Population of urban areas,Female,Mangistau,59.9
+2018,Percent,Population of urban areas,Female,Mangistau,57.1
+2010,Percent,Population of urban areas,Female,Ontustik Kazakhstan,16.9
+2011,Percent,Population of urban areas,Female,Ontustik Kazakhstan,18.6
+2012,Percent,Population of urban areas,Female,Ontustik Kazakhstan,24.2
+2013,Percent,Population of urban areas,Female,Ontustik Kazakhstan,23.0
+2014,Percent,Population of urban areas,Female,Ontustik Kazakhstan,30.8
+2015,Percent,Population of urban areas,Female,Ontustik Kazakhstan,30.2
+2016,Percent,Population of urban areas,Female,Ontustik Kazakhstan,31.1
+2017,Percent,Population of urban areas,Female,Ontustik Kazakhstan,25.0
+2010,Percent,Population of urban areas,Female,Pavlodar,41.8
+2011,Percent,Population of urban areas,Female,Pavlodar,41.0
+2012,Percent,Population of urban areas,Female,Pavlodar,41.2
+2013,Percent,Population of urban areas,Female,Pavlodar,46.9
+2014,Percent,Population of urban areas,Female,Pavlodar,41.6
+2015,Percent,Population of urban areas,Female,Pavlodar,44.4
+2016,Percent,Population of urban areas,Female,Pavlodar,44.7
+2017,Percent,Population of urban areas,Female,Pavlodar,43.9
+2018,Percent,Population of urban areas,Female,Pavlodar,56.7
+2010,Percent,Population of urban areas,Female,Soltustik Kazakhstan,32.0
+2011,Percent,Population of urban areas,Female,Soltustik Kazakhstan,36.1
+2012,Percent,Population of urban areas,Female,Soltustik Kazakhstan,32.4
+2013,Percent,Population of urban areas,Female,Soltustik Kazakhstan,36.3
+2014,Percent,Population of urban areas,Female,Soltustik Kazakhstan,37.8
+2015,Percent,Population of urban areas,Female,Soltustik Kazakhstan,33.0
+2016,Percent,Population of urban areas,Female,Soltustik Kazakhstan,29.6
+2017,Percent,Population of urban areas,Female,Soltustik Kazakhstan,43.5
+2018,Percent,Population of urban areas,Female,Soltustik Kazakhstan,54.2
+2018,Percent,Population of urban areas,Female,Turkistan,44.2
+2010,Percent,Population of urban areas,Female,Shygys Kazakhstan,30.3
+2011,Percent,Population of urban areas,Female,Shygys Kazakhstan,31.2
+2012,Percent,Population of urban areas,Female,Shygys Kazakhstan,32.0
+2013,Percent,Population of urban areas,Female,Shygys Kazakhstan,27.9
+2014,Percent,Population of urban areas,Female,Shygys Kazakhstan,30.9
+2015,Percent,Population of urban areas,Female,Shygys Kazakhstan,30.7
+2016,Percent,Population of urban areas,Female,Shygys Kazakhstan,37.5
+2017,Percent,Population of urban areas,Female,Shygys Kazakhstan,42.4
+2018,Percent,Population of urban areas,Female,Shygys Kazakhstan,47.7
+2010,Percent,Population of urban areas,Female,Nur-Sultan city,26.9
+2011,Percent,Population of urban areas,Female,Nur-Sultan city,23.1
+2012,Percent,Population of urban areas,Female,Nur-Sultan city,21.2
+2013,Percent,Population of urban areas,Female,Nur-Sultan city,16.7
+2014,Percent,Population of urban areas,Female,Nur-Sultan city,34.3
+2015,Percent,Population of urban areas,Female,Nur-Sultan city,31.9
+2016,Percent,Population of urban areas,Female,Nur-Sultan city,31.0
+2017,Percent,Population of urban areas,Female,Nur-Sultan city,28.0
+2018,Percent,Population of urban areas,Female,Nur-Sultan city,18.5
+2010,Percent,Population of urban areas,Female,Almaty city,16.2
+2011,Percent,Population of urban areas,Female,Almaty city,15.4
+2012,Percent,Population of urban areas,Female,Almaty city,19.8
+2013,Percent,Population of urban areas,Female,Almaty city,15.7
+2014,Percent,Population of urban areas,Female,Almaty city,14.9
+2015,Percent,Population of urban areas,Female,Almaty city,12.2
+2016,Percent,Population of urban areas,Female,Almaty city,22.2
+2017,Percent,Population of urban areas,Female,Almaty city,23.6
+2018,Percent,Population of urban areas,Female,Almaty city,23.9
+2018,Percent,Population of urban areas,Female,Shymkent city,32.2
+2010,Percent,Population of rural areas,,,18.9
+2011,Percent,Population of rural areas,,,20.8
+2012,Percent,Population of rural areas,,,24.5
+2013,Percent,Population of rural areas,,,25.3
+2014,Percent,Population of rural areas,,,32.0
+2015,Percent,Population of rural areas,,,32.3
+2016,Percent,Population of rural areas,,,33.3
+2017,Percent,Population of rural areas,,,35.4
+2018,Percent,Population of rural areas,,,42.1
+2010,Percent,Population of rural areas,,Akmola,24.2
+2011,Percent,Population of rural areas,,Akmola,25.2
+2012,Percent,Population of rural areas,,Akmola,24.3
+2013,Percent,Population of rural areas,,Akmola,24.4
+2014,Percent,Population of rural areas,,Akmola,32.1
+2015,Percent,Population of rural areas,,Akmola,39.9
+2016,Percent,Population of rural areas,,Akmola,38.8
+2017,Percent,Population of rural areas,,Akmola,39.2
+2018,Percent,Population of rural areas,,Akmola,43.7
+2010,Percent,Population of rural areas,,Aktobe,26.4
+2011,Percent,Population of rural areas,,Aktobe,32.3
+2012,Percent,Population of rural areas,,Aktobe,42.6
+2013,Percent,Population of rural areas,,Aktobe,44.3
+2014,Percent,Population of rural areas,,Aktobe,48.8
+2015,Percent,Population of rural areas,,Aktobe,45.2
+2016,Percent,Population of rural areas,,Aktobe,48.0
+2017,Percent,Population of rural areas,,Aktobe,50.8
+2018,Percent,Population of rural areas,,Aktobe,49.4
+2010,Percent,Population of rural areas,,Almaty,16.7
+2011,Percent,Population of rural areas,,Almaty,18.9
+2012,Percent,Population of rural areas,,Almaty,26.5
+2013,Percent,Population of rural areas,,Almaty,18.9
+2014,Percent,Population of rural areas,,Almaty,29.0
+2015,Percent,Population of rural areas,,Almaty,25.2
+2016,Percent,Population of rural areas,,Almaty,25.9
+2017,Percent,Population of rural areas,,Almaty,25.6
+2018,Percent,Population of rural areas,,Almaty,37.7
+2010,Percent,Population of rural areas,,Atyrau,30.0
+2011,Percent,Population of rural areas,,Atyrau,33.9
+2012,Percent,Population of rural areas,,Atyrau,26.2
+2013,Percent,Population of rural areas,,Atyrau,26.7
+2014,Percent,Population of rural areas,,Atyrau,30.1
+2015,Percent,Population of rural areas,,Atyrau,31.1
+2016,Percent,Population of rural areas,,Atyrau,29.7
+2017,Percent,Population of rural areas,,Atyrau,38.2
+2018,Percent,Population of rural areas,,Atyrau,32.3
+2010,Percent,Population of rural areas,,Batys Kazakhstan,19.8
+2011,Percent,Population of rural areas,,Batys Kazakhstan,24.5
+2012,Percent,Population of rural areas,,Batys Kazakhstan,39.5
+2013,Percent,Population of rural areas,,Batys Kazakhstan,50.0
+2014,Percent,Population of rural areas,,Batys Kazakhstan,34.2
+2015,Percent,Population of rural areas,,Batys Kazakhstan,35.9
+2016,Percent,Population of rural areas,,Batys Kazakhstan,38.4
+2017,Percent,Population of rural areas,,Batys Kazakhstan,50.3
+2018,Percent,Population of rural areas,,Batys Kazakhstan,55.1
+2010,Percent,Population of rural areas,,Zhambyl,10.3
+2011,Percent,Population of rural areas,,Zhambyl,15.2
+2012,Percent,Population of rural areas,,Zhambyl,23.5
+2013,Percent,Population of rural areas,,Zhambyl,35.4
+2014,Percent,Population of rural areas,,Zhambyl,23.4
+2015,Percent,Population of rural areas,,Zhambyl,23.6
+2016,Percent,Population of rural areas,,Zhambyl,26.8
+2017,Percent,Population of rural areas,,Zhambyl,21.7
+2018,Percent,Population of rural areas,,Zhambyl,29.7
+2010,Percent,Population of rural areas,,Karagandy,20.8
+2011,Percent,Population of rural areas,,Karagandy,24.3
+2012,Percent,Population of rural areas,,Karagandy,26.5
+2013,Percent,Population of rural areas,,Karagandy,25.0
+2014,Percent,Population of rural areas,,Karagandy,41.5
+2015,Percent,Population of rural areas,,Karagandy,42.3
+2016,Percent,Population of rural areas,,Karagandy,41.5
+2017,Percent,Population of rural areas,,Karagandy,41.6
+2018,Percent,Population of rural areas,,Karagandy,48.2
+2010,Percent,Population of rural areas,,Kostanay,26.9
+2011,Percent,Population of rural areas,,Kostanay,31.8
+2012,Percent,Population of rural areas,,Kostanay,34.0
+2013,Percent,Population of rural areas,,Kostanay,35.8
+2014,Percent,Population of rural areas,,Kostanay,35.9
+2015,Percent,Population of rural areas,,Kostanay,42.4
+2016,Percent,Population of rural areas,,Kostanay,41.2
+2017,Percent,Population of rural areas,,Kostanay,42.1
+2018,Percent,Population of rural areas,,Kostanay,45.9
+2010,Percent,Population of rural areas,,Kyzylorda,20.5
+2011,Percent,Population of rural areas,,Kyzylorda,23.0
+2012,Percent,Population of rural areas,,Kyzylorda,28.1
+2013,Percent,Population of rural areas,,Kyzylorda,23.5
+2014,Percent,Population of rural areas,,Kyzylorda,37.5
+2015,Percent,Population of rural areas,,Kyzylorda,42.9
+2016,Percent,Population of rural areas,,Kyzylorda,38.9
+2017,Percent,Population of rural areas,,Kyzylorda,42.8
+2018,Percent,Population of rural areas,,Kyzylorda,42.9
+2010,Percent,Population of rural areas,,Mangistau,37.6
+2011,Percent,Population of rural areas,,Mangistau,34.3
+2012,Percent,Population of rural areas,,Mangistau,32.0
+2013,Percent,Population of rural areas,,Mangistau,39.7
+2014,Percent,Population of rural areas,,Mangistau,51.6
+2015,Percent,Population of rural areas,,Mangistau,62.6
+2016,Percent,Population of rural areas,,Mangistau,64.3
+2017,Percent,Population of rural areas,,Mangistau,73.1
+2018,Percent,Population of rural areas,,Mangistau,71.0
+2010,Percent,Population of rural areas,,Ontustik Kazakhstan,8.8
+2011,Percent,Population of rural areas,,Ontustik Kazakhstan,9.4
+2012,Percent,Population of rural areas,,Ontustik Kazakhstan,11.7
+2013,Percent,Population of rural areas,,Ontustik Kazakhstan,9.9
+2014,Percent,Population of rural areas,,Ontustik Kazakhstan,26.8
+2015,Percent,Population of rural areas,,Ontustik Kazakhstan,23.5
+2016,Percent,Population of rural areas,,Ontustik Kazakhstan,25.7
+2017,Percent,Population of rural areas,,Ontustik Kazakhstan,29.6
+2010,Percent,Population of rural areas,,Pavlodar,36.1
+2011,Percent,Population of rural areas,,Pavlodar,24.8
+2012,Percent,Population of rural areas,,Pavlodar,30.5
+2013,Percent,Population of rural areas,,Pavlodar,40.9
+2014,Percent,Population of rural areas,,Pavlodar,35.3
+2015,Percent,Population of rural areas,,Pavlodar,40.0
+2016,Percent,Population of rural areas,,Pavlodar,39.8
+2017,Percent,Population of rural areas,,Pavlodar,49.0
+2018,Percent,Population of rural areas,,Pavlodar,55.9
+2010,Percent,Population of rural areas,,Soltustik Kazakhstan,26.1
+2011,Percent,Population of rural areas,,Soltustik Kazakhstan,24.7
+2012,Percent,Population of rural areas,,Soltustik Kazakhstan,23.3
+2013,Percent,Population of rural areas,,Soltustik Kazakhstan,21.1
+2014,Percent,Population of rural areas,,Soltustik Kazakhstan,39.7
+2015,Percent,Population of rural areas,,Soltustik Kazakhstan,36.6
+2016,Percent,Population of rural areas,,Soltustik Kazakhstan,39.7
+2017,Percent,Population of rural areas,,Soltustik Kazakhstan,38.8
+2018,Percent,Population of rural areas,,Soltustik Kazakhstan,46.2
+2018,Percent,Population of rural areas,,Turkistan,36.4
+2010,Percent,Population of rural areas,,Shygys Kazakhstan,18.9
+2011,Percent,Population of rural areas,,Shygys Kazakhstan,22.7
+2012,Percent,Population of rural areas,,Shygys Kazakhstan,24.8
+2013,Percent,Population of rural areas,,Shygys Kazakhstan,30.8
+2014,Percent,Population of rural areas,,Shygys Kazakhstan,37.3
+2015,Percent,Population of rural areas,,Shygys Kazakhstan,41.8
+2016,Percent,Population of rural areas,,Shygys Kazakhstan,42.9
+2017,Percent,Population of rural areas,,Shygys Kazakhstan,41.3
+2018,Percent,Population of rural areas,,Shygys Kazakhstan,46.7
+2010,Percent,Population of rural areas,Male,,17.6
+2011,Percent,Population of rural areas,Male,,20.3
+2012,Percent,Population of rural areas,Male,,23.5
+2013,Percent,Population of rural areas,Male,,25.4
+2014,Percent,Population of rural areas,Male,,32.3
+2015,Percent,Population of rural areas,Male,,32.6
+2016,Percent,Population of rural areas,Male,,33.2
+2017,Percent,Population of rural areas,Male,,35.5
+2018,Percent,Population of rural areas,Male,,43.1
+2010,Percent,Population of rural areas,Male,Akmola,22.9
+2011,Percent,Population of rural areas,Male,Akmola,23.8
+2012,Percent,Population of rural areas,Male,Akmola,22.4
+2013,Percent,Population of rural areas,Male,Akmola,25.1
+2014,Percent,Population of rural areas,Male,Akmola,33.3
+2015,Percent,Population of rural areas,Male,Akmola,40.7
+2016,Percent,Population of rural areas,Male,Akmola,39.7
+2017,Percent,Population of rural areas,Male,Akmola,40.2
+2018,Percent,Population of rural areas,Male,Akmola,46.1
+2010,Percent,Population of rural areas,Male,Aktobe,24.4
+2011,Percent,Population of rural areas,Male,Aktobe,29.8
+2012,Percent,Population of rural areas,Male,Aktobe,39.1
+2013,Percent,Population of rural areas,Male,Aktobe,42.1
+2014,Percent,Population of rural areas,Male,Aktobe,53.3
+2015,Percent,Population of rural areas,Male,Aktobe,47.3
+2016,Percent,Population of rural areas,Male,Aktobe,50.4
+2017,Percent,Population of rural areas,Male,Aktobe,53.5
+2018,Percent,Population of rural areas,Male,Aktobe,54.8
+2010,Percent,Population of rural areas,Male,Almaty,17.4
+2011,Percent,Population of rural areas,Male,Almaty,20.0
+2012,Percent,Population of rural areas,Male,Almaty,25.6
+2013,Percent,Population of rural areas,Male,Almaty,19.7
+2014,Percent,Population of rural areas,Male,Almaty,28.4
+2015,Percent,Population of rural areas,Male,Almaty,24.8
+2016,Percent,Population of rural areas,Male,Almaty,24.5
+2017,Percent,Population of rural areas,Male,Almaty,24.5
+2018,Percent,Population of rural areas,Male,Almaty,37.2
+2010,Percent,Population of rural areas,Male,Atyrau,25.9
+2011,Percent,Population of rural areas,Male,Atyrau,34.3
+2012,Percent,Population of rural areas,Male,Atyrau,27.0
+2013,Percent,Population of rural areas,Male,Atyrau,28.0
+2014,Percent,Population of rural areas,Male,Atyrau,31.6
+2015,Percent,Population of rural areas,Male,Atyrau,32.7
+2016,Percent,Population of rural areas,Male,Atyrau,33.6
+2017,Percent,Population of rural areas,Male,Atyrau,42.1
+2018,Percent,Population of rural areas,Male,Atyrau,32.8
+2010,Percent,Population of rural areas,Male,Batys Kazakhstan,14.1
+2011,Percent,Population of rural areas,Male,Batys Kazakhstan,20.0
+2012,Percent,Population of rural areas,Male,Batys Kazakhstan,37.0
+2013,Percent,Population of rural areas,Male,Batys Kazakhstan,52.7
+2014,Percent,Population of rural areas,Male,Batys Kazakhstan,33.4
+2015,Percent,Population of rural areas,Male,Batys Kazakhstan,36.7
+2016,Percent,Population of rural areas,Male,Batys Kazakhstan,39.2
+2017,Percent,Population of rural areas,Male,Batys Kazakhstan,48.7
+2018,Percent,Population of rural areas,Male,Batys Kazakhstan,54.8
+2010,Percent,Population of rural areas,Male,Zhambyl,8.4
+2011,Percent,Population of rural areas,Male,Zhambyl,14.9
+2012,Percent,Population of rural areas,Male,Zhambyl,20.8
+2013,Percent,Population of rural areas,Male,Zhambyl,32.6
+2014,Percent,Population of rural areas,Male,Zhambyl,21.7
+2015,Percent,Population of rural areas,Male,Zhambyl,23.0
+2016,Percent,Population of rural areas,Male,Zhambyl,24.9
+2017,Percent,Population of rural areas,Male,Zhambyl,21.6
+2018,Percent,Population of rural areas,Male,Zhambyl,31.5
+2010,Percent,Population of rural areas,Male,Karagandy,21.0
+2011,Percent,Population of rural areas,Male,Karagandy,24.3
+2012,Percent,Population of rural areas,Male,Karagandy,25.6
+2013,Percent,Population of rural areas,Male,Karagandy,27.6
+2014,Percent,Population of rural areas,Male,Karagandy,41.7
+2015,Percent,Population of rural areas,Male,Karagandy,41.4
+2016,Percent,Population of rural areas,Male,Karagandy,41.6
+2017,Percent,Population of rural areas,Male,Karagandy,41.0
+2018,Percent,Population of rural areas,Male,Karagandy,48.4
+2010,Percent,Population of rural areas,Male,Kostanay,26.4
+2011,Percent,Population of rural areas,Male,Kostanay,32.4
+2012,Percent,Population of rural areas,Male,Kostanay,34.5
+2013,Percent,Population of rural areas,Male,Kostanay,39.8
+2014,Percent,Population of rural areas,Male,Kostanay,37.1
+2015,Percent,Population of rural areas,Male,Kostanay,44.6
+2016,Percent,Population of rural areas,Male,Kostanay,42.3
+2017,Percent,Population of rural areas,Male,Kostanay,44.3
+2018,Percent,Population of rural areas,Male,Kostanay,48.0
+2010,Percent,Population of rural areas,Male,Kyzylorda,15.6
+2011,Percent,Population of rural areas,Male,Kyzylorda,17.9
+2012,Percent,Population of rural areas,Male,Kyzylorda,27.7
+2013,Percent,Population of rural areas,Male,Kyzylorda,22.0
+2014,Percent,Population of rural areas,Male,Kyzylorda,37.6
+2015,Percent,Population of rural areas,Male,Kyzylorda,44.1
+2016,Percent,Population of rural areas,Male,Kyzylorda,39.0
+2017,Percent,Population of rural areas,Male,Kyzylorda,43.2
+2018,Percent,Population of rural areas,Male,Kyzylorda,42.1
+2010,Percent,Population of rural areas,Male,Mangistau,34.7
+2011,Percent,Population of rural areas,Male,Mangistau,37.0
+2012,Percent,Population of rural areas,Male,Mangistau,41.0
+2013,Percent,Population of rural areas,Male,Mangistau,36.3
+2014,Percent,Population of rural areas,Male,Mangistau,56.5
+2015,Percent,Population of rural areas,Male,Mangistau,66.1
+2016,Percent,Population of rural areas,Male,Mangistau,66.2
+2017,Percent,Population of rural areas,Male,Mangistau,75.6
+2018,Percent,Population of rural areas,Male,Mangistau,72.4
+2010,Percent,Population of rural areas,Male,Ontustik Kazakhstan,9.6
+2011,Percent,Population of rural areas,Male,Ontustik Kazakhstan,9.6
+2012,Percent,Population of rural areas,Male,Ontustik Kazakhstan,9.2
+2013,Percent,Population of rural areas,Male,Ontustik Kazakhstan,9.9
+2014,Percent,Population of rural areas,Male,Ontustik Kazakhstan,27.1
+2015,Percent,Population of rural areas,Male,Ontustik Kazakhstan,21.6
+2016,Percent,Population of rural areas,Male,Ontustik Kazakhstan,24.2
+2017,Percent,Population of rural areas,Male,Ontustik Kazakhstan,27.9
+2010,Percent,Population of rural areas,Male,Pavlodar,33.1
+2011,Percent,Population of rural areas,Male,Pavlodar,25.5
+2012,Percent,Population of rural areas,Male,Pavlodar,31.9
+2013,Percent,Population of rural areas,Male,Pavlodar,42.5
+2014,Percent,Population of rural areas,Male,Pavlodar,33.0
+2015,Percent,Population of rural areas,Male,Pavlodar,40.3
+2016,Percent,Population of rural areas,Male,Pavlodar,38.9
+2017,Percent,Population of rural areas,Male,Pavlodar,48.5
+2018,Percent,Population of rural areas,Male,Pavlodar,58.8
+2010,Percent,Population of rural areas,Male,Soltustik Kazakhstan,24.3
+2011,Percent,Population of rural areas,Male,Soltustik Kazakhstan,24.9
+2012,Percent,Population of rural areas,Male,Soltustik Kazakhstan,29.1
+2013,Percent,Population of rural areas,Male,Soltustik Kazakhstan,21.0
+2014,Percent,Population of rural areas,Male,Soltustik Kazakhstan,41.1
+2015,Percent,Population of rural areas,Male,Soltustik Kazakhstan,37.5
+2016,Percent,Population of rural areas,Male,Soltustik Kazakhstan,41.4
+2017,Percent,Population of rural areas,Male,Soltustik Kazakhstan,37.8
+2018,Percent,Population of rural areas,Male,Soltustik Kazakhstan,46.8
+2018,Percent,Population of rural areas,Male,Turkistan,39.0
+2010,Percent,Population of rural areas,Male,Shygys Kazakhstan,15.6
+2011,Percent,Population of rural areas,Male,Shygys Kazakhstan,20.5
+2012,Percent,Population of rural areas,Male,Shygys Kazakhstan,21.5
+2013,Percent,Population of rural areas,Male,Shygys Kazakhstan,33.5
+2014,Percent,Population of rural areas,Male,Shygys Kazakhstan,35.8
+2015,Percent,Population of rural areas,Male,Shygys Kazakhstan,44.4
+2016,Percent,Population of rural areas,Male,Shygys Kazakhstan,43.7
+2017,Percent,Population of rural areas,Male,Shygys Kazakhstan,42.6
+2018,Percent,Population of rural areas,Male,Shygys Kazakhstan,45.5
+2010,Percent,Population of rural areas,Female,,20.5
+2011,Percent,Population of rural areas,Female,,21.4
+2012,Percent,Population of rural areas,Female,,25.8
+2013,Percent,Population of rural areas,Female,,25.1
+2014,Percent,Population of rural areas,Female,,31.6
+2015,Percent,Population of rural areas,Female,,31.9
+2016,Percent,Population of rural areas,Female,,33.4
+2017,Percent,Population of rural areas,Female,,35.2
+2018,Percent,Population of rural areas,Female,,40.8
+2010,Percent,Population of rural areas,Female,Akmola,25.9
+2011,Percent,Population of rural areas,Female,Akmola,27.0
+2012,Percent,Population of rural areas,Female,Akmola,26.7
+2013,Percent,Population of rural areas,Female,Akmola,23.3
+2014,Percent,Population of rural areas,Female,Akmola,30.5
+2015,Percent,Population of rural areas,Female,Akmola,38.8
+2016,Percent,Population of rural areas,Female,Akmola,37.6
+2017,Percent,Population of rural areas,Female,Akmola,38.1
+2018,Percent,Population of rural areas,Female,Akmola,40.8
+2010,Percent,Population of rural areas,Female,Aktobe,28.5
+2011,Percent,Population of rural areas,Female,Aktobe,34.8
+2012,Percent,Population of rural areas,Female,Aktobe,46.5
+2013,Percent,Population of rural areas,Female,Aktobe,46.3
+2014,Percent,Population of rural areas,Female,Aktobe,43.3
+2015,Percent,Population of rural areas,Female,Aktobe,42.6
+2016,Percent,Population of rural areas,Female,Aktobe,44.8
+2017,Percent,Population of rural areas,Female,Aktobe,47.2
+2018,Percent,Population of rural areas,Female,Aktobe,41.1
+2010,Percent,Population of rural areas,Female,Almaty,15.7
+2011,Percent,Population of rural areas,Female,Almaty,17.6
+2012,Percent,Population of rural areas,Female,Almaty,27.6
+2013,Percent,Population of rural areas,Female,Almaty,18.0
+2014,Percent,Population of rural areas,Female,Almaty,29.8
+2015,Percent,Population of rural areas,Female,Almaty,25.6
+2016,Percent,Population of rural areas,Female,Almaty,27.6
+2017,Percent,Population of rural areas,Female,Almaty,26.8
+2018,Percent,Population of rural areas,Female,Almaty,38.3
+2010,Percent,Population of rural areas,Female,Atyrau,34.7
+2011,Percent,Population of rural areas,Female,Atyrau,33.3
+2012,Percent,Population of rural areas,Female,Atyrau,25.2
+2013,Percent,Population of rural areas,Female,Atyrau,25.3
+2014,Percent,Population of rural areas,Female,Atyrau,28.4
+2015,Percent,Population of rural areas,Female,Atyrau,29.0
+2016,Percent,Population of rural areas,Female,Atyrau,24.9
+2017,Percent,Population of rural areas,Female,Atyrau,32.5
+2018,Percent,Population of rural areas,Female,Atyrau,31.4
+2010,Percent,Population of rural areas,Female,Batys Kazakhstan,26.3
+2011,Percent,Population of rural areas,Female,Batys Kazakhstan,30.2
+2012,Percent,Population of rural areas,Female,Batys Kazakhstan,42.6
+2013,Percent,Population of rural areas,Female,Batys Kazakhstan,46.9
+2014,Percent,Population of rural areas,Female,Batys Kazakhstan,35.3
+2015,Percent,Population of rural areas,Female,Batys Kazakhstan,34.7
+2016,Percent,Population of rural areas,Female,Batys Kazakhstan,37.6
+2017,Percent,Population of rural areas,Female,Batys Kazakhstan,52.3
+2018,Percent,Population of rural areas,Female,Batys Kazakhstan,55.5
+2010,Percent,Population of rural areas,Female,Zhambyl,12.5
+2011,Percent,Population of rural areas,Female,Zhambyl,15.6
+2012,Percent,Population of rural areas,Female,Zhambyl,26.5
+2013,Percent,Population of rural areas,Female,Zhambyl,38.5
+2014,Percent,Population of rural areas,Female,Zhambyl,25.6
+2015,Percent,Population of rural areas,Female,Zhambyl,24.5
+2016,Percent,Population of rural areas,Female,Zhambyl,29.5
+2017,Percent,Population of rural areas,Female,Zhambyl,21.8
+2018,Percent,Population of rural areas,Female,Zhambyl,27.5
+2010,Percent,Population of rural areas,Female,Karagandy,20.4
+2011,Percent,Population of rural areas,Female,Karagandy,24.2
+2012,Percent,Population of rural areas,Female,Karagandy,27.8
+2013,Percent,Population of rural areas,Female,Karagandy,21.6
+2014,Percent,Population of rural areas,Female,Karagandy,41.1
+2015,Percent,Population of rural areas,Female,Karagandy,44.0
+2016,Percent,Population of rural areas,Female,Karagandy,41.3
+2017,Percent,Population of rural areas,Female,Karagandy,42.4
+2018,Percent,Population of rural areas,Female,Karagandy,48.0
+2010,Percent,Population of rural areas,Female,Kostanay,27.4
+2011,Percent,Population of rural areas,Female,Kostanay,31.2
+2012,Percent,Population of rural areas,Female,Kostanay,33.4
+2013,Percent,Population of rural areas,Female,Kostanay,31.5
+2014,Percent,Population of rural areas,Female,Kostanay,34.5
+2015,Percent,Population of rural areas,Female,Kostanay,39.6
+2016,Percent,Population of rural areas,Female,Kostanay,39.9
+2017,Percent,Population of rural areas,Female,Kostanay,39.6
+2018,Percent,Population of rural areas,Female,Kostanay,43.5
+2010,Percent,Population of rural areas,Female,Kyzylorda,26.8
+2011,Percent,Population of rural areas,Female,Kyzylorda,29.4
+2012,Percent,Population of rural areas,Female,Kyzylorda,28.7
+2013,Percent,Population of rural areas,Female,Kyzylorda,25.5
+2014,Percent,Population of rural areas,Female,Kyzylorda,37.5
+2015,Percent,Population of rural areas,Female,Kyzylorda,41.3
+2016,Percent,Population of rural areas,Female,Kyzylorda,38.7
+2017,Percent,Population of rural areas,Female,Kyzylorda,42.3
+2018,Percent,Population of rural areas,Female,Kyzylorda,44.0
+2010,Percent,Population of rural areas,Female,Mangistau,41.3
+2011,Percent,Population of rural areas,Female,Mangistau,30.3
+2012,Percent,Population of rural areas,Female,Mangistau,19.7
+2013,Percent,Population of rural areas,Female,Mangistau,44.8
+2014,Percent,Population of rural areas,Female,Mangistau,43.2
+2015,Percent,Population of rural areas,Female,Mangistau,57.5
+2016,Percent,Population of rural areas,Female,Mangistau,61.2
+2017,Percent,Population of rural areas,Female,Mangistau,69.6
+2018,Percent,Population of rural areas,Female,Mangistau,69.3
+2010,Percent,Population of rural areas,Female,Ontustik Kazakhstan,7.9
+2011,Percent,Population of rural areas,Female,Ontustik Kazakhstan,9.1
+2012,Percent,Population of rural areas,Female,Ontustik Kazakhstan,14.7
+2013,Percent,Population of rural areas,Female,Ontustik Kazakhstan,10.0
+2014,Percent,Population of rural areas,Female,Ontustik Kazakhstan,26.5
+2015,Percent,Population of rural areas,Female,Ontustik Kazakhstan,26.2
+2016,Percent,Population of rural areas,Female,Ontustik Kazakhstan,28.0
+2017,Percent,Population of rural areas,Female,Ontustik Kazakhstan,32.0
+2010,Percent,Population of rural areas,Female,Pavlodar,39.7
+2011,Percent,Population of rural areas,Female,Pavlodar,24.0
+2012,Percent,Population of rural areas,Female,Pavlodar,28.4
+2013,Percent,Population of rural areas,Female,Pavlodar,37.9
+2014,Percent,Population of rural areas,Female,Pavlodar,37.9
+2015,Percent,Population of rural areas,Female,Pavlodar,39.7
+2016,Percent,Population of rural areas,Female,Pavlodar,41.1
+2017,Percent,Population of rural areas,Female,Pavlodar,49.8
+2018,Percent,Population of rural areas,Female,Pavlodar,52.8
+2010,Percent,Population of rural areas,Female,Soltustik Kazakhstan,28.4
+2011,Percent,Population of rural areas,Female,Soltustik Kazakhstan,24.5
+2012,Percent,Population of rural areas,Female,Soltustik Kazakhstan,16.7
+2013,Percent,Population of rural areas,Female,Soltustik Kazakhstan,21.3
+2014,Percent,Population of rural areas,Female,Soltustik Kazakhstan,37.7
+2015,Percent,Population of rural areas,Female,Soltustik Kazakhstan,35.3
+2016,Percent,Population of rural areas,Female,Soltustik Kazakhstan,37.4
+2017,Percent,Population of rural areas,Female,Soltustik Kazakhstan,40.0
+2018,Percent,Population of rural areas,Female,Soltustik Kazakhstan,45.3
+2018,Percent,Population of rural areas,Female,Turkistan,33.0
+2010,Percent,Population of rural areas,Female,Shygys Kazakhstan,23.4
+2011,Percent,Population of rural areas,Female,Shygys Kazakhstan,26.0
+2012,Percent,Population of rural areas,Female,Shygys Kazakhstan,29.3
+2013,Percent,Population of rural areas,Female,Shygys Kazakhstan,27.5
+2014,Percent,Population of rural areas,Female,Shygys Kazakhstan,39.3
+2015,Percent,Population of rural areas,Female,Shygys Kazakhstan,37.7
+2016,Percent,Population of rural areas,Female,Shygys Kazakhstan,41.8
+2017,Percent,Population of rural areas,Female,Shygys Kazakhstan,39.4
+2018,Percent,Population of rural areas,Female,Shygys Kazakhstan,48.3

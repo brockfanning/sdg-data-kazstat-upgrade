@@ -1,7 +1,7 @@
-Year,Units,Area,Regions,Age,Education,Квинтиль индекса благосостояния,Value
+Year,UNIT_MEASURE,Area,Regions,Age,Mother's education,Wealth index quintile,Value
 2010,Percent,,,,,,51.0
-2010,Percent,Urban,,,,,53.9
-2010,Percent,Rural,,,,,47.7
+2010,Percent,Population of urban areas,,,,,53.9
+2010,Percent,Population of rural areas,,,,,47.7
 2010,Percent,,Akmola,,,,45.5
 2010,Percent,,Aktobe,,,,35.7
 2010,Percent,,Almaty,,,,43.1
@@ -16,7 +16,7 @@ Year,Units,Area,Regions,Age,Education,Квинтиль индекса благо
 2010,Percent,,Pavlodar,,,,58.3
 2010,Percent,,Soltustik Kazakhstan,,,,60.5
 2010,Percent,,Shygys Kazakhstan,,,,50.2
-2010,Percent,,г. Нур-Султан,,,,72.7
+2010,Percent,,Nur-Sultan city,,,,72.7
 2010,Percent,,Almaty city,,,,62.6
 2010,Percent,,,15-19,,,19.2
 2010,Percent,,,20-24,,,35.3
@@ -25,7 +25,7 @@ Year,Units,Area,Regions,Age,Education,Квинтиль индекса благо
 2010,Percent,,,35-39,,,61.0
 2010,Percent,,,40-44,,,57.0
 2010,Percent,,,45-49,,,39.1
-2010,Percent,,,,начальное/незаконченное среднее,,46.0
+2010,Percent,,,,Elementary education/ High education (incomplete),,46.0
 2010,Percent,,,,High Education (General),,49.1
 2010,Percent,,,,Community College and Vocational type of Education,,51.5
 2010,Percent,,,,Higher education,,52.9
@@ -35,8 +35,8 @@ Year,Units,Area,Regions,Age,Education,Квинтиль индекса благо
 2010,Percent,,,,,fourth,55.7
 2010,Percent,,,,,wealthy,56.8
 2015,Percent,,,,,,55.7
-2015,Percent,Urban,,,,,55.8
-2015,Percent,Rural,,,,,55.6
+2015,Percent,Population of urban areas,,,,,55.8
+2015,Percent,Population of rural areas,,,,,55.6
 2015,Percent,,Akmola,,,,53.9
 2015,Percent,,Aktobe,,,,52.0
 2015,Percent,,Almaty,,,,62.4
@@ -51,7 +51,7 @@ Year,Units,Area,Regions,Age,Education,Квинтиль индекса благо
 2015,Percent,,Pavlodar,,,,45.4
 2015,Percent,,Soltustik Kazakhstan,,,,625.0
 2015,Percent,,Shygys Kazakhstan,,,,57.8
-2015,Percent,,г. Нур-Султан,,,,48.8
+2015,Percent,,Nur-Sultan city,,,,48.8
 2015,Percent,,Almaty city,,,,63.0
 2015,Percent,,,15-19,,,28.6
 2015,Percent,,,20-24,,,44.3

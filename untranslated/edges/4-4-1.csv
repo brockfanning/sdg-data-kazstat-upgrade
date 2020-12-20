@@ -1,3 +1,3 @@
 From,To
-Виды навыков,Возраст
-Возраст,Регионы
+COMPOSITE_BREAKDOWN,AGE
+AGE,REF_AREA

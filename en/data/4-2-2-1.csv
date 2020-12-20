@@ -1,9 +1,9 @@
-Year,Units,Area,Sex,Regions,Age,Education,Квинтиль индекса благосостояния,Value
+Year,UNIT_MEASURE,Area,Sex,Regions,Age,Mother's education,Wealth index quintile,Value
 2010,Percent,,,,,,,81.6
-2010,Percent,Urban,,,,,,856.0
-2010,Percent,Rural,,,,,,780.0
-2010,Percent,,Boys,,,,,804.0
-2010,Percent,,Girls,,,,,827.0
+2010,Percent,Population of urban areas,,,,,,856.0
+2010,Percent,Population of rural areas,,,,,,780.0
+2010,Percent,,Male,,,,,804.0
+2010,Percent,,Female,,,,,827.0
 2010,Percent,,,Akmola,,,,90.5
 2010,Percent,,,Aktobe,,,,96.1
 2010,Percent,,,Almaty,,,,81.4
@@ -29,10 +29,10 @@ Year,Units,Area,Sex,Regions,Age,Education,Квинтиль индекса бла
 2010,Percent,,,,,,fourth,865.0
 2010,Percent,,,,,,wealthy,916.0
 2015,Percent,,,,,,,90.8
-2015,Percent,Urban,,,,,,90.6
-2015,Percent,Rural,,,,,,90.9
-2015,Percent,,Boys,,,,,91.1
-2015,Percent,,Girls,,,,,90.4
+2015,Percent,Population of urban areas,,,,,,90.6
+2015,Percent,Population of rural areas,,,,,,90.9
+2015,Percent,,Male,,,,,91.1
+2015,Percent,,Female,,,,,90.4
 2015,Percent,,,Akmola,,,,98.8
 2015,Percent,,,Aktobe,,,,100.0
 2015,Percent,,,Almaty,,,,82.4

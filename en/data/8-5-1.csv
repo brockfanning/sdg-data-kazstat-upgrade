@@ -1,4 +1,4 @@
-Year,Units,Type of economic activity,Regions,Sex,Age,Value
+Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,Value
 2014,Percent,,,,,837.0
 2015,Percent,,,,,880.0
 2016,Percent,,,,,950.0
@@ -200,7 +200,7 @@ Year,Units,Type of economic activity,Regions,Sex,Age,Value
 2018,Percent,"Профессиональная, научная и техническая деятельность",,,,1548.0
 2018,Percent,management and support activities,,,,886.0
 2018,Percent,government administration and defence,,,,720.0
-2018,Percent,Education,,,,599.0
+2018,Percent,Образование,,,,599.0
 2018,Percent,health care and social care,,,,644.0
 2018,Percent,"culture, entertainment and leisure",,,,610.0
 2018,Percent,provision of other types of services,,,,1549.0
@@ -217,7 +217,7 @@ Year,Units,Type of economic activity,Regions,Sex,Age,Value
 2018,Percent,"Профессиональная, научная и техническая деятельность",,Male,,1697.0
 2018,Percent,management and support activities,,Male,,893.0
 2018,Percent,government administration and defence,,Male,,775.0
-2018,Percent,Education,,Male,,640.0
+2018,Percent,Образование,,Male,,640.0
 2018,Percent,health care and social care,,Male,,717.0
 2018,Percent,"culture, entertainment and leisure",,Male,,717.0
 2018,Percent,provision of other types of services,,Male,,1624.0
@@ -234,7 +234,7 @@ Year,Units,Type of economic activity,Regions,Sex,Age,Value
 2018,Percent,"Профессиональная, научная и техническая деятельность",,Female,,1328.0
 2018,Percent,management and support activities,,Female,,863.0
 2018,Percent,government administration and defence,,Female,,622.0
-2018,Percent,Education,,Female,,585.0
+2018,Percent,Образование,,Female,,585.0
 2018,Percent,health care and social care,,Female,,619.0
 2018,Percent,"culture, entertainment and leisure",,Female,,522.0
 2018,Percent,provision of other types of services,,Female,,1452.0
@@ -445,7 +445,7 @@ Year,Units,Type of economic activity,Regions,Sex,Age,Value
 2019,Percent,"Профессиональная, научная и техническая деятельность",,,,1867.0
 2019,Percent,management and support activities,,,,1054.0
 2019,Percent,government administration and defence,,,,768.0
-2019,Percent,Education,,,,675.0
+2019,Percent,Образование,,,,675.0
 2019,Percent,health care and social care,,,,693.0
 2019,Percent,"culture, entertainment and leisure",,,,712.0
 2019,Percent,provision of other types of services,,,,1822.0
@@ -462,7 +462,7 @@ Year,Units,Type of economic activity,Regions,Sex,Age,Value
 2019,Percent,"Профессиональная, научная и техническая деятельность",,Male,,2108.0
 2019,Percent,management and support activities,,Male,,1048.0
 2019,Percent,government administration and defence,,Male,,814.0
-2019,Percent,Education,,Male,,687.0
+2019,Percent,Образование,,Male,,687.0
 2019,Percent,health care and social care,,Male,,784.0
 2019,Percent,"culture, entertainment and leisure",,Male,,865.0
 2019,Percent,provision of other types of services,,Male,,2135.0
@@ -479,7 +479,7 @@ Year,Units,Type of economic activity,Regions,Sex,Age,Value
 2019,Percent,"Профессиональная, научная и техническая деятельность",,Female,,1514.0
 2019,Percent,management and support activities,,Female,,1077.0
 2019,Percent,government administration and defence,,Female,,685.0
-2019,Percent,Education,,Female,,670.0
+2019,Percent,Образование,,Female,,670.0
 2019,Percent,health care and social care,,Female,,663.0
 2019,Percent,"culture, entertainment and leisure",,Female,,573.0
 2019,Percent,provision of other types of services,,Female,,1520.0

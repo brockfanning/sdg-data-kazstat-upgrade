@@ -1,3 +1,3 @@
 From,To
-Пол,Регионы
-Пол,Местность
+SEX,REF_AREA
+SEX,URBANISATION

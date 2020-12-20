@@ -1,4 +1,4 @@
-Year,Units,Schools which has access to,Area,Regions,Value
+Year,UNIT_MEASURE,SERIES,Area,Regions,Value
 2015,Percent,sources of drinking water,,,100.0
 2016,Percent,sources of drinking water,,,100.0
 2017,Percent,sources of drinking water,,,100.0
@@ -21,39 +21,39 @@ Year,Units,Schools which has access to,Area,Regions,Value
 2019,Percent,access to the internet for education purposes,,Nur-Sultan city,94.91525423728814
 2019,Percent,access to the internet for education purposes,,Almaty city,98.6206896551724
 2019,Percent,access to the internet for education purposes,,Shymkent city,91.90751445086704
-2019,Percent,access to the internet for education purposes,Urban,,96.68717463322292
-2019,Percent,access to the internet for education purposes,Urban,Akmola,100.0
-2019,Percent,access to the internet for education purposes,Urban,Aktobe,97.77777777777777
-2019,Percent,access to the internet for education purposes,Urban,Almaty,96.39639639639641
-2019,Percent,access to the internet for education purposes,Urban,Atyrau,96.05263157894736
-2019,Percent,access to the internet for education purposes,Urban,Batys Kazakhstan,93.24324324324324
-2019,Percent,access to the internet for education purposes,Urban,Zhambyl,99.05660377358492
-2019,Percent,access to the internet for education purposes,Urban,Karagandy,97.8813559322034
-2019,Percent,access to the internet for education purposes,Urban,Kostanay,97.979797979798
-2019,Percent,access to the internet for education purposes,Urban,Kyzylorda,93.67088607594937
-2019,Percent,access to the internet for education purposes,Urban,Mangistau,100.0
-2019,Percent,access to the internet for education purposes,Urban,Pavlodar,97.87234042553192
-2019,Percent,access to the internet for education purposes,Urban,Soltustik Kazakhstan,98.4375
-2019,Percent,access to the internet for education purposes,Urban,Turkistan,90.24390243902441
-2019,Percent,access to the internet for education purposes,Urban,Shygys Kazakhstan,98.34254143646407
-2019,Percent,access to the internet for education purposes,Urban,Nur-Sultan city,94.91525423728814
-2019,Percent,access to the internet for education purposes,Urban,Almaty city,98.6206896551724
-2019,Percent,access to the internet for education purposes,Urban,Shymkent city,91.90751445086704
-2019,Percent,access to the internet for education purposes,Rural,,93.01797540208136
-2019,Percent,access to the internet for education purposes,Rural,Akmola,100.0
-2019,Percent,access to the internet for education purposes,Rural,Aktobe,96.81978798586573
-2019,Percent,access to the internet for education purposes,Rural,Almaty,91.02941176470587
-2019,Percent,access to the internet for education purposes,Rural,Atyrau,92.36641221374045
-2019,Percent,access to the internet for education purposes,Rural,Batys Kazakhstan,85.44303797468355
-2019,Percent,access to the internet for education purposes,Rural,Zhambyl,100.0
-2019,Percent,access to the internet for education purposes,Rural,Karagandy,97.00996677740864
-2019,Percent,access to the internet for education purposes,Rural,Kostanay,89.92805755395683
-2019,Percent,access to the internet for education purposes,Rural,Kyzylorda,99.57446808510642
-2019,Percent,access to the internet for education purposes,Rural,Mangistau,100.0
-2019,Percent,access to the internet for education purposes,Rural,Pavlodar,100.0
-2019,Percent,access to the internet for education purposes,Rural,Soltustik Kazakhstan,89.57345971563981
-2019,Percent,access to the internet for education purposes,Rural,Turkistan,81.93224592220828
-2019,Percent,access to the internet for education purposes,Rural,Shygys Kazakhstan,99.3975903614458
+2019,Percent,access to the internet for education purposes,Population of urban areas,,96.68717463322292
+2019,Percent,access to the internet for education purposes,Population of urban areas,Akmola,100.0
+2019,Percent,access to the internet for education purposes,Population of urban areas,Aktobe,97.77777777777777
+2019,Percent,access to the internet for education purposes,Population of urban areas,Almaty,96.39639639639641
+2019,Percent,access to the internet for education purposes,Population of urban areas,Atyrau,96.05263157894736
+2019,Percent,access to the internet for education purposes,Population of urban areas,Batys Kazakhstan,93.24324324324324
+2019,Percent,access to the internet for education purposes,Population of urban areas,Zhambyl,99.05660377358492
+2019,Percent,access to the internet for education purposes,Population of urban areas,Karagandy,97.8813559322034
+2019,Percent,access to the internet for education purposes,Population of urban areas,Kostanay,97.979797979798
+2019,Percent,access to the internet for education purposes,Population of urban areas,Kyzylorda,93.67088607594937
+2019,Percent,access to the internet for education purposes,Population of urban areas,Mangistau,100.0
+2019,Percent,access to the internet for education purposes,Population of urban areas,Pavlodar,97.87234042553192
+2019,Percent,access to the internet for education purposes,Population of urban areas,Soltustik Kazakhstan,98.4375
+2019,Percent,access to the internet for education purposes,Population of urban areas,Turkistan,90.24390243902441
+2019,Percent,access to the internet for education purposes,Population of urban areas,Shygys Kazakhstan,98.34254143646407
+2019,Percent,access to the internet for education purposes,Population of urban areas,Nur-Sultan city,94.91525423728814
+2019,Percent,access to the internet for education purposes,Population of urban areas,Almaty city,98.6206896551724
+2019,Percent,access to the internet for education purposes,Population of urban areas,Shymkent city,91.90751445086704
+2019,Percent,access to the internet for education purposes,Population of rural areas,,93.01797540208136
+2019,Percent,access to the internet for education purposes,Population of rural areas,Akmola,100.0
+2019,Percent,access to the internet for education purposes,Population of rural areas,Aktobe,96.81978798586573
+2019,Percent,access to the internet for education purposes,Population of rural areas,Almaty,91.02941176470587
+2019,Percent,access to the internet for education purposes,Population of rural areas,Atyrau,92.36641221374045
+2019,Percent,access to the internet for education purposes,Population of rural areas,Batys Kazakhstan,85.44303797468355
+2019,Percent,access to the internet for education purposes,Population of rural areas,Zhambyl,100.0
+2019,Percent,access to the internet for education purposes,Population of rural areas,Karagandy,97.00996677740864
+2019,Percent,access to the internet for education purposes,Population of rural areas,Kostanay,89.92805755395683
+2019,Percent,access to the internet for education purposes,Population of rural areas,Kyzylorda,99.57446808510642
+2019,Percent,access to the internet for education purposes,Population of rural areas,Mangistau,100.0
+2019,Percent,access to the internet for education purposes,Population of rural areas,Pavlodar,100.0
+2019,Percent,access to the internet for education purposes,Population of rural areas,Soltustik Kazakhstan,89.57345971563981
+2019,Percent,access to the internet for education purposes,Population of rural areas,Turkistan,81.93224592220828
+2019,Percent,access to the internet for education purposes,Population of rural areas,Shygys Kazakhstan,99.3975903614458
 2019,Percent,sources of drinking water,,,100.0
 2019,Percent,separate restrooms which meet minimum standards,,Akmola,100.0
 2019,Percent,separate restrooms which meet minimum standards,,Aktobe,100.0
