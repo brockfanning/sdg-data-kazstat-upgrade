@@ -16,6 +16,8 @@ languages:
 # This tells sdg-build to import translations from Git repositories. Specific
 # tags or branches should be indicated after an "@" symbol.
 translations:
+  - class: TranslationInputSdmx
+    source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
     tag: master
@@ -67,5 +69,14 @@ docs_intro: This is a summary of the resources available on this data service.
   This data is used by <a href="http://brock.tips/sdg-site-kazstat-upgrade">the
   Kazakhstan SDG national reporting platform</a>.
 docs_indicator_url: http://brock.tips/sdg-site-kazstat-upgrade/[id]/
+docs_translate_disaggregations: true
 
-create_sdmx_mapping_tool: true
+create_sdmx_mapping_tool: false
+
+indicator_options:
+  non_disaggregation_columns:
+    - Value
+    - Year
+    - GeoCode
+    - SERIES
+    - UNIT_MEASURE

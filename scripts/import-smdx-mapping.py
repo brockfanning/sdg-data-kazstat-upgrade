@@ -83,7 +83,7 @@ def update_translations(change_map, group):
             if original in data_translations[language]:
                 new_translations[language][group][changed] = data_translations[language][original]
 
-sheets = pd.read_excel(os.path.join('scripts', 'sdmx-mapping2.xlsx'),
+sheets = pd.read_excel(os.path.join('scripts', 'sdmx-mapping2.xls'),
     sheet_name=None,
     index_col=None,
     header=None,
@@ -133,7 +133,6 @@ for sheet_name in sheets:
             disaggregations[disaggregation]['dimensions'][dimension] += 1
             try:
                 value_code = get_value_by_label(dimension, value_label)
-                #disaggregations[disaggregation]['rename'][original_value] = dimension + '.' + value_code
                 disaggregations[disaggregation]['rename'][original_value] = value_code
                 disaggregations[disaggregation]['translation'][original_value] = value_code
             except Exception as e:
@@ -171,6 +170,11 @@ for disaggregation in columns_renamed:
         translation_key = columns_renamed[disaggregation]
         columns_renamed_translation_keys[disaggregation] = translation_key
 
+def convert_disaggregation(disaggregation, map):
+    if disaggregation in map:
+        return map[disaggregation]
+    return disaggregation
+
 composite_breakdown_collisions = {}
 for filename in os.listdir('data'):
     df = pd.read_csv(os.path.join('data', filename), dtype='str')
@@ -196,7 +200,7 @@ for filename in os.listdir('data'):
                     else:
                         df = df_without_cells
             if disaggregations[column]['rename'] and column in df.columns:
-                df[column] = df[column].map(disaggregations[column]['rename'])
+                df[column] = df[column].apply(convert_disaggregation, map=disaggregations[column]['rename'])
                 if column in composite_breakdowns and composite_breakdowns[column]:
                     composite_breakdowns_used.append(column)
                 # Update translations too.
